@@ -1,0 +1,72 @@
+{
+  "id": 1276846397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.86667,-32.1,-54.86667,-32.1",
+    "geom:latitude":-32.1,
+    "geom:longitude":-54.86667,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Sauce Solo de Rio Negro",
+    "gn:cc2":"UY",
+    "gn:country_code":"UY",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3440115,
+    "gn:latitude":-32.1,
+    "gn:longitude":-54.86667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sauce Solo de R\u00edo Negro",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sauce Solo",
+        "R\u00edo Negro",
+        "Poblado R\u00edo Negro",
+        "Sauce Solo de R\u00edo Negro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3440115
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"66c2bc908c5d641923118ed279d6bd2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1276846397,
+            "region_id":85680311
+        }
+    ],
+    "wof:id":1276846397,
+    "wof:lastmodified":1537713205,
+    "wof:name":"Sauce Solo de Rio Negro",
+    "wof:parent_id":85680311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.86666999999999,
+    -32.1,
+    -54.86666999999999,
+    -32.1
+],
+  "geometry": {"coordinates":[-54.86666999999999,-32.1],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310013265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.53333,-32.51667,-54.53333,-32.51667",
+    "geom:latitude":-32.51667,
+    "geom:longitude":-54.53333,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"09",
+    "gn:asciiname":"Fraile Muerto",
+    "gn:cc2":"UY",
+    "gn:country_code":"UY",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3442582,
+    "gn:latitude":-32.51667,
+    "gn:longitude":-54.53333,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Fraile Muerto",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Frayle Muerto",
+        "Fraile Muerto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3442582,
+        "wk:page":"Fraile_Muerto"
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"6a47e1f018b6b35017202db1de4470bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1310013265,
+            "region_id":85680299
+        }
+    ],
+    "wof:id":1310013265,
+    "wof:lastmodified":1537713217,
+    "wof:name":"Fraile Muerto",
+    "wof:parent_id":85680299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.53333000000001,
+    -32.51667,
+    -54.53333000000001,
+    -32.51667
+],
+  "geometry": {"coordinates":[-54.53333000000001,-32.51667],"type":"Point"}
+}

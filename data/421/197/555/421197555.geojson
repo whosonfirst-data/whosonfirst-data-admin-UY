@@ -1,0 +1,116 @@
+{
+  "id": 421197555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.56667,-33.68333,-57.56667,-33.68333",
+    "geom:latitude":-33.68333,
+    "geom:longitude":-57.56667,
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Jos\u00e9 Enrique Rod\u00f3"
+    ],
+    "name:deu_x_preferred":[
+        "Jos\u00e9 Enrique Rod\u00f3"
+    ],
+    "name:dut_x_preferred":[
+        "Jos\u00e9 Enrique Rod\u00f3"
+    ],
+    "name:eng_x_preferred":[
+        "Jos\u00e9 Enrique Rod\u00f3"
+    ],
+    "name:fra_x_preferred":[
+        "Jos\u00e9 Enrique Rod\u00f3"
+    ],
+    "name:fre_x_preferred":[
+        "Jos\u00e9 Enrique Rod\u00f3"
+    ],
+    "name:ger_x_preferred":[
+        "Jos\u00e9 Enrique Rod\u00f3"
+    ],
+    "name:nob_x_preferred":[
+        "Jos\u00e9 Enrique Rod\u00f3"
+    ],
+    "name:nor_x_preferred":[
+        "Jos\u00e9 Enrique Rod\u00f3"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u0441\u0435-\u042d\u043d\u0440\u0438\u043a\u0435-\u0420\u043e\u0434\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Jos\u00e9 Enrique Rod\u00f3"
+    ],
+    "name:unk_x_variant":[
+        "Rodo"
+    ],
+    "qs:gn_country":"UY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3442231,
+    "qs:gn_pop":2143,
+    "qs:name":"Jos\u00e9 Enrique Rod\u00f3",
+    "qs:name_adm0":"Uruguay",
+    "qs:name_adm1":"Soriano",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":34,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":147829,
+    "qs:woe_adm0":23424979,
+    "qs:woe_id":468090,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":162,
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3442231,
+        "gp:id":468090,
+        "qs:id":147829,
+        "wd:id":"Q1020396",
+        "wk:page":"Jos\u00e9 Enrique Rod\u00f3, Uruguay"
+    },
+    "wof:country":"UY",
+    "wof:created":1459009917,
+    "wof:geomhash":"552ee6755af6479238e0df406e3523d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":421197555,
+            "region_id":85680293
+        }
+    ],
+    "wof:id":421197555,
+    "wof:lastmodified":1527716404,
+    "wof:name":"Jos\u00e9 Enrique Rod\u00f3",
+    "wof:parent_id":85680293,
+    "wof:placetype":"locality",
+    "wof:population":2143,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.56667,
+    -33.68333,
+    -57.56667,
+    -33.68333
+],
+  "geometry": {"coordinates":[-57.56667,-33.68333],"type":"Point"}
+}

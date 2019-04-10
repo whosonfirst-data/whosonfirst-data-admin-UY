@@ -1,0 +1,68 @@
+{
+  "id": 1326934335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.18958,-30.90736,-57.18958,-30.90736",
+    "geom:latitude":-30.90736,
+    "geom:longitude":-57.18958,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Patitas",
+    "gn:country_code":"UY",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10944874,
+    "gn:latitude":-30.90736,
+    "gn:longitude":-57.18958,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Patitas",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Patitas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10944874
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"594b1188a44fdbc4e14fb481d1ac9d31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1326934335,
+            "region_id":85680355
+        }
+    ],
+    "wof:id":1326934335,
+    "wof:lastmodified":1537713228,
+    "wof:name":"Patitas",
+    "wof:parent_id":85680355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.18958000000001,
+    -30.90736,
+    -57.18958000000001,
+    -30.90736
+],
+  "geometry": {"coordinates":[-57.18958000000001,-30.90736],"type":"Point"}
+}

@@ -1,0 +1,219 @@
+{
+  "id": 421173869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-53.41667,-32.56667,-53.41667,-32.56667",
+    "geom:latitude":-32.56667,
+    "geom:longitude":-53.41667,
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0631\u064a\u0648 \u0628\u0631\u0627\u0646\u0643\u0648"
+    ],
+    "name:arm_x_preferred":[
+        "\u054c\u056b\u0578 \u0532\u0580\u0561\u0576\u056f\u0578"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b0\u09bf\u0993 \u09ac\u09cd\u09b0\u09be\u09a8\u0995\u09cb"
+    ],
+    "name:cat_x_preferred":[
+        "R\u00edo Branco"
+    ],
+    "name:chi_x_preferred":[
+        "\u91cc\u5967\u5e03\u862d\u79d1"
+    ],
+    "name:dan_x_preferred":[
+        "R\u00edo Branco"
+    ],
+    "name:deu_x_preferred":[
+        "R\u00edo Branco"
+    ],
+    "name:dut_x_preferred":[
+        "R\u00edo Branco"
+    ],
+    "name:eng_x_preferred":[
+        "R\u00edo Branco"
+    ],
+    "name:est_x_preferred":[
+        "R\u00edo Branco"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u06cc\u0648 \u0628\u0631\u0627\u0646\u06a9\u0648\u060c \u0627\u0631\u0648\u06af\u0648\u0626\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "R\u00edo Branco"
+    ],
+    "name:fra_x_preferred":[
+        "R\u00edo Branco"
+    ],
+    "name:fre_x_preferred":[
+        "R\u00edo Branco"
+    ],
+    "name:ger_x_preferred":[
+        "R\u00edo Branco"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a1\u03af\u03bf \u039c\u03c0\u03c1\u03ac\u03bd\u03ba\u03bf"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab0\u0abf\u0aaf\u0acb \u0aac\u0acd\u0ab0\u0abe\u0aa8\u0acd\u0a95\u0acb"
+    ],
+    "name:hin_x_preferred":[
+        "\u0930\u093f\u092f\u094b \u092c\u094d\u0930\u0948\u0902\u0915\u094b"
+    ],
+    "name:hrv_x_preferred":[
+        "R\u00edo Branco"
+    ],
+    "name:hye_x_preferred":[
+        "\u054c\u056b\u0578 \u0532\u0580\u0561\u0576\u056f\u0578"
+    ],
+    "name:ind_x_preferred":[
+        "R\u00edo Branco"
+    ],
+    "name:ita_x_preferred":[
+        "R\u00edo Branco"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30aa\u30fb\u30d6\u30e9\u30f3\u30b3"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb0\u0cbf\u0caf\u0cca \u0cac\u0ccd\u0cb0\u0cbe\u0c82\u0c95\u0cca"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9ac\uc624\ube0c\ub791\ucf54"
+    ],
+    "name:lav_x_preferred":[
+        "Riobranko"
+    ],
+    "name:lit_x_preferred":[
+        "Rio Brankas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0930\u093f\u0913 \u092c\u094d\u0930\u0945\u0902\u0915\u094b"
+    ],
+    "name:may_x_preferred":[
+        "R\u00edo Branco"
+    ],
+    "name:nob_x_preferred":[
+        "R\u00edo Branco"
+    ],
+    "name:per_x_preferred":[
+        "\u0631\u06cc\u0648 \u0628\u0631\u0627\u0646\u06a9\u0648\u060c \u0627\u0631\u0648\u06af\u0648\u0626\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "R\u00edo Branco"
+    ],
+    "name:por_x_preferred":[
+        "Rio Branco"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0438\u043e-\u0411\u0440\u0430\u043d\u043a\u043e"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dbb\u0dd2\u0dba\u0ddd \u0db6\u0dca\u200d\u0dbb\u0db1\u0dca\u0d9a\u0ddd"
+    ],
+    "name:spa_x_preferred":[
+        "R\u00edo Branco"
+    ],
+    "name:swe_x_preferred":[
+        "R\u00edo Branco"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb0\u0bbf\u0baf\u0bcb \u0baa\u0bcd\u0bb0\u0bbe\u0ba9\u0bcd\u0b95\u0bcd\u0b95\u0bcb"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c30\u0c3f\u0c2f\u0c4b \u0c2c\u0c4d\u0c30\u0c3e\u0c02\u0c15\u0c4b"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e23\u0e34\u0e42\u0e2d\u0e1a\u0e23\u0e31\u0e07\u0e42\u0e01"
+    ],
+    "name:tur_x_preferred":[
+        "Rio Branco"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0456\u043e-\u0411\u0440\u0430\u043d\u043a\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Artigas"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u06cc\u0648 \u0628\u0631\u0627\u0646\u06a9\u0648\u060c \u06cc\u0648\u0631\u0627\u06af\u0648\u0626\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "Rio Branco"
+    ],
+    "name:zho_x_preferred":[
+        "\u91cc\u5967\u5e03\u862d\u79d1"
+    ],
+    "qs:gn_country":"UY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3440791,
+    "qs:gn_pop":13567,
+    "qs:name":"R\u00edo Branco",
+    "qs:name_adm0":"Uruguay",
+    "qs:name_adm1":"Cerro Largo",
+    "qs:photos":94,
+    "qs:photos_1k":19,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":94,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":301268,
+    "qs:woe_adm0":23424979,
+    "qs:woe_id":468072,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85633009,
+        85682015,
+        102059535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3440791,
+        "gp:id":468072,
+        "qs:id":301268,
+        "wd:id":"Q1006165",
+        "wk:page":"R\u00edo Branco, Uruguay"
+    },
+    "wof:country":"UY",
+    "wof:created":1459009009,
+    "wof:geomhash":"2a3c9b6589ba8e13b0baeb5b559cac25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102059535,
+            "locality_id":421173869,
+            "region_id":85682015
+        }
+    ],
+    "wof:id":421173869,
+    "wof:lastmodified":1553816364,
+    "wof:name":"R\u00edo Branco",
+    "wof:parent_id":102059535,
+    "wof:placetype":"locality",
+    "wof:population":13567,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -53.41667,
+    -32.56667,
+    -53.41667,
+    -32.56667
+],
+  "geometry": {"coordinates":[-53.41667,-32.56667],"type":"Point"}
+}

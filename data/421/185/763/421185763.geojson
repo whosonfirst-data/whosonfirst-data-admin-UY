@@ -1,0 +1,113 @@
+{
+  "id": 421185763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.71667,-31.8,-54.71667,-31.8",
+    "geom:latitude":-31.8,
+    "geom:longitude":-54.71667,
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Vichadero"
+    ],
+    "name:deu_x_preferred":[
+        "Vichadero"
+    ],
+    "name:fra_x_preferred":[
+        "Vichadero"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u056b\u0579\u0561\u0564\u0565\u0580\u0578"
+    ],
+    "name:ita_x_preferred":[
+        "Vichadero"
+    ],
+    "name:nor_x_preferred":[
+        "Vichadero"
+    ],
+    "name:por_x_preferred":[
+        "Vichadero"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u0447\u0430\u0434\u0435\u0440\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Vichadero"
+    ],
+    "name:unk_x_variant":[
+        "Poblado Vichadero"
+    ],
+    "name:zho_x_preferred":[
+        "\u7dad\u67e5\u5fb7\u7f85"
+    ],
+    "qs:gn_country":"UY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3439619,
+    "qs:gn_pop":4170,
+    "qs:name":"Vichadero",
+    "qs:name_adm0":"Uruguay",
+    "qs:name_adm1":"Rivera",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1044713,
+    "qs:woe_adm0":23424979,
+    "qs:woe_id":468117,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":189,
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3439619,
+        "gp:id":468117,
+        "qs:id":1044713,
+        "wd:id":"Q2093578",
+        "wk:page":"Vichadero"
+    },
+    "wof:country":"UY",
+    "wof:created":1459009453,
+    "wof:geomhash":"8fdfc8cf088093adbc923f7d847f14d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":421185763,
+            "region_id":85680307
+        }
+    ],
+    "wof:id":421185763,
+    "wof:lastmodified":1527726499,
+    "wof:name":"Vichadero",
+    "wof:parent_id":85680307,
+    "wof:placetype":"locality",
+    "wof:population":4170,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.71667,
+    -31.8,
+    -54.71667,
+    -31.8
+],
+  "geometry": {"coordinates":[-54.71667,-31.8],"type":"Point"}
+}

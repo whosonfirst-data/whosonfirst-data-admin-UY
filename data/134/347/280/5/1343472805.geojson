@@ -1,0 +1,71 @@
+{
+  "id": 1343472805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.0882,-30.12703,-57.0882,-30.12703",
+    "geom:latitude":-30.12703,
+    "geom:longitude":-57.0882,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Paso de Leon",
+    "gn:country_code":"UY",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3441276,
+    "gn:latitude":-30.12703,
+    "gn:longitude":-57.0882,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Paso de Le\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Paso de Le\u00f3n"
+    ],
+    "name:und_x_variant":[
+        "Paso del Le\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3441276
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"cc1278f3b2fbda357c0c608a32afa52d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1343472805,
+            "region_id":85680355
+        }
+    ],
+    "wof:id":1343472805,
+    "wof:lastmodified":1537713212,
+    "wof:name":"Paso de Leon",
+    "wof:parent_id":85680355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.0882,
+    -30.12703,
+    -57.0882,
+    -30.12703
+],
+  "geometry": {"coordinates":[-57.0882,-30.12703],"type":"Point"}
+}

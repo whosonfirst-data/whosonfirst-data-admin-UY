@@ -1,0 +1,112 @@
+{
+  "id": 1126090511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.20039,-34.87678,-56.20039,-34.87678",
+    "geom:latitude":-34.87678,
+    "geom:longitude":-56.20039,
+    "gn:gn_country":"UY",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":-34.87678,
+    "gn:longitude":-56.20039,
+    "iso:country":"UY",
+    "lbl:latitude":-34.87678,
+    "lbl:longitude":-56.20039,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Capurro"
+    ],
+    "name:deu_x_preferred":[
+        "Capurro - Bella Vista"
+    ],
+    "name:spa_x_preferred":[
+        "Capurro"
+    ],
+    "name:spa_x_variant":[
+        "Barrio de Capurro"
+    ],
+    "name:unk_x_variant":[
+        "Barrio de Capurro",
+        "Capurro"
+    ],
+    "qs_pg:aaroncc":"UY",
+    "qs_pg:gn_country":"UY",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3443376,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Capurro",
+    "qs_pg:name_adm0":"Uruguay",
+    "qs_pg:name_adm1":"Montevideo",
+    "qs_pg:photos":1091,
+    "qs_pg:photos_1k":221,
+    "qs_pg:photos_9k":5,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1091,
+    "qs_pg:photos_sr":11,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1082760,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424979,
+    "qs_pg:woe_id":380410,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424979,
+    "woe:name_adm0":"Uruguay",
+    "woe:name_adm1":"Montevideo",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85680339,
+        102191577,
+        85632511,
+        1092076303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3443376,
+        "gp:id":380410,
+        "qs:id":1082760,
+        "qs_pg:id":1082760,
+        "wd:id":"Q986346",
+        "wk:page":"Capurro"
+    },
+    "wof:country":"UY",
+    "wof:created":1497313647,
+    "wof:geomhash":"8e50989b7929da9d1bb479b30be62833",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092076303,
+            "locality_id":-1,
+            "neighbourhood_id":1126090511,
+            "region_id":85680339
+        }
+    ],
+    "wof:id":1126090511,
+    "wof:lastmodified":1534379804,
+    "wof:name":"Capurro",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85764913
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.20039,
+    -34.87678,
+    -56.20039,
+    -34.87678
+],
+  "geometry": {"coordinates":[-56.20039,-34.87678],"type":"Point"}
+}

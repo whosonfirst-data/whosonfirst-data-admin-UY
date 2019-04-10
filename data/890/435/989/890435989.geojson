@@ -1,0 +1,97 @@
+{
+  "id": 890435989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.83333,-31.08333,-57.83333,-31.08333",
+    "geom:latitude":-31.08333,
+    "geom:longitude":-57.83333,
+    "gn:country":"UY",
+    "gn:fcode":"PPL",
+    "gn:pop":2846,
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Constituci\u00f3n"
+    ],
+    "name:dut_x_preferred":[
+        "Constituci\u00f3n"
+    ],
+    "name:eng_x_preferred":[
+        "Constituci\u00f3n"
+    ],
+    "name:fre_x_preferred":[
+        "Constituci\u00f3n"
+    ],
+    "name:ger_x_preferred":[
+        "Constituci\u00f3n"
+    ],
+    "name:ita_x_preferred":[
+        "Constituci\u00f3n"
+    ],
+    "name:nob_x_preferred":[
+        "Constituci\u00f3n"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043d\u0441\u0442\u0438\u0442\u0443\u0441\u044c\u043e\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Villa Constituci\u00f3n"
+    ],
+    "name:unk_x_variant":[
+        "Pueblo Constituci\u00f3n"
+    ],
+    "qs:name":"Constituci\u00f3n",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":120,
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3442939,
+        "gp:id":468120,
+        "qs:id":1044752,
+        "wd:id":"Q1128223",
+        "wk:page":"Constituci\u00f3n"
+    },
+    "wof:country":"UY",
+    "wof:created":1469052089,
+    "wof:geomhash":"de29e7317ae37db08ba53306b4d110ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":890435989,
+            "region_id":85680289
+        }
+    ],
+    "wof:id":890435989,
+    "wof:lastmodified":1553816397,
+    "wof:name":"Constituci\u00f3n",
+    "wof:parent_id":85680289,
+    "wof:placetype":"locality",
+    "wof:population":2846,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.83333,
+    -31.08333,
+    -57.83333,
+    -31.08333
+],
+  "geometry": {"coordinates":[-57.83333,-31.08333],"type":"Point"}
+}

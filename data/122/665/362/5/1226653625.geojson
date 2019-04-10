@@ -1,0 +1,73 @@
+{
+  "id": 1226653625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-53.48333,-32.75,-53.48333,-32.75",
+    "geom:latitude":-32.75,
+    "geom:longitude":-53.48333,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"01",
+    "gn:asciiname":"Puerto Amaro",
+    "gn:cc2":"UY",
+    "gn:country_code":"UY",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3440948,
+    "gn:latitude":-32.75,
+    "gn:longitude":-53.48333,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Puerto Amaro",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amaro",
+        "Puerto Amaro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680299,
+        1092077095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3440948
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"3a702fc7221d8e76e4b4e3539e620495",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092077095,
+            "locality_id":1226653625,
+            "region_id":85680299
+        }
+    ],
+    "wof:id":1226653625,
+    "wof:lastmodified":1537713207,
+    "wof:name":"Puerto Amaro",
+    "wof:parent_id":1092077095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -53.48333,
+    -32.75,
+    -53.48333,
+    -32.75
+],
+  "geometry": {"coordinates":[-53.48333,-32.75],"type":"Point"}
+}

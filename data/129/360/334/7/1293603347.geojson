@@ -1,0 +1,68 @@
+{
+  "id": 1293603347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.76862,-30.63738,-56.76862,-30.63738",
+    "geom:latitude":-30.63738,
+    "geom:longitude":-56.76862,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Paguero",
+    "gn:country_code":"UY",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3441420,
+    "gn:latitude":-30.63738,
+    "gn:longitude":-56.76862,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Paguero",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Paguero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3441420
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"3b648a0f5f2719029f361946d626ac42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1293603347,
+            "region_id":85680355
+        }
+    ],
+    "wof:id":1293603347,
+    "wof:lastmodified":1537713213,
+    "wof:name":"Paguero",
+    "wof:parent_id":85680355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.76862,
+    -30.63738,
+    -56.76862,
+    -30.63738
+],
+  "geometry": {"coordinates":[-56.76862,-30.63738],"type":"Point"}
+}

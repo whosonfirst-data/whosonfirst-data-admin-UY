@@ -1,0 +1,71 @@
+{
+  "id": 1226649367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.87972,-34.72,-55.87972,-34.72",
+    "geom:latitude":-34.72,
+    "geom:longitude":-55.87972,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"19",
+    "gn:asciiname":"La Montanesa",
+    "gn:country_code":"UY",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10861474,
+    "gn:latitude":-34.72,
+    "gn:longitude":-55.87972,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"La Monta\u00f1esa",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Monta\u00f1esa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680321,
+        1092076195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10861474
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"fe5dbeed7342a03e7d948cdd3373cda5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092076195,
+            "locality_id":1226649367,
+            "region_id":85680321
+        }
+    ],
+    "wof:id":1226649367,
+    "wof:lastmodified":1537713224,
+    "wof:name":"La Montanesa",
+    "wof:parent_id":1092076195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.87971999999999,
+    -34.72,
+    -55.87971999999999,
+    -34.72
+],
+  "geometry": {"coordinates":[-55.87971999999999,-34.72],"type":"Point"}
+}

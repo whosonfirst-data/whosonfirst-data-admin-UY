@@ -1,0 +1,65 @@
+{
+  "id": 1209077715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.10903,-33.69874,-58.10903,-33.69874",
+    "geom:latitude":-33.69874,
+    "geom:longitude":-58.10903,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Canada Nieto",
+    "gn:country_code":"UY",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3443444,
+    "gn:latitude":-33.69874,
+    "gn:longitude":-58.10903,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Ca\u00f1ada Nieto",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ca\u00f1ada Nieto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3443444,
+        "wk:page":"Ca%C3%B1ada_Nieto"
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"81488b04eede6fe52bc41beb8d386251",
+    "wof:hierarchy":[
+        {
+            "country_id":85632511,
+            "locality_id":1209077715
+        }
+    ],
+    "wof:id":1209077715,
+    "wof:lastmodified":1537713220,
+    "wof:name":"Canada Nieto",
+    "wof:parent_id":85632511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.10903,
+    -33.69874,
+    -58.10903,
+    -33.69874
+],
+  "geometry": {"coordinates":[-58.10903,-33.69874],"type":"Point"}
+}

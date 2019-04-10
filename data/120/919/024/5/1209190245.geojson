@@ -1,0 +1,67 @@
+{
+  "id": 1209190245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.98333,-32.23333,-54.98333,-32.23333",
+    "geom:latitude":-32.23333,
+    "geom:longitude":-54.98333,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Cuchilla Caraguata",
+    "gn:cc2":"UY",
+    "gn:country_code":"UY",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3442833,
+    "gn:latitude":-32.23333,
+    "gn:longitude":-54.98333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Cuchilla Caraguat\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Poblado Cuchilla Caraguata",
+        "Caraguat\u00e1",
+        "Cuchilla Caraguat\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3442833
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"1046c621707328e0102759085c5410fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632511,
+            "locality_id":1209190245
+        }
+    ],
+    "wof:id":1209190245,
+    "wof:lastmodified":1537713218,
+    "wof:name":"Cuchilla Caraguata",
+    "wof:parent_id":85632511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.98333,
+    -32.23333,
+    -54.98333,
+    -32.23333
+],
+  "geometry": {"coordinates":[-54.98333,-32.23333],"type":"Point"}
+}

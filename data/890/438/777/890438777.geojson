@@ -1,0 +1,103 @@
+{
+  "id": 890438777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.76667,-34.35,-55.76667,-34.35",
+    "geom:latitude":-34.35,
+    "geom:longitude":-55.76667,
+    "gn:country":"UY",
+    "gn:fcode":"PPL",
+    "gn:pop":4949,
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Tala"
+    ],
+    "name:chi_x_preferred":[
+        "\u5854\u62c9"
+    ],
+    "name:dut_x_preferred":[
+        "Tala"
+    ],
+    "name:eng_x_preferred":[
+        "Tala"
+    ],
+    "name:fre_x_preferred":[
+        "Tala"
+    ],
+    "name:ger_x_preferred":[
+        "Tala"
+    ],
+    "name:ita_x_preferred":[
+        "Tala"
+    ],
+    "name:nob_x_preferred":[
+        "Tala"
+    ],
+    "name:per_x_preferred":[
+        "\u062a\u0627\u0644\u0627\u060c \u0627\u0631\u0648\u06af\u0648\u0626\u0647"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043b\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Tala"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0627\u0644\u0627\u060c \u06cc\u0648\u0631\u0627\u06af\u0648\u0626\u06d2"
+    ],
+    "qs:name":"Tala",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":229,
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3440021,
+        "gp:id":468098,
+        "qs:id":1044723,
+        "wd:id":"Q2096693",
+        "wk:page":"Tala"
+    },
+    "wof:country":"UY",
+    "wof:created":1469052208,
+    "wof:geomhash":"c86de931e1fdc5f959c7954fd5cca88d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":890438777,
+            "region_id":85680321
+        }
+    ],
+    "wof:id":890438777,
+    "wof:lastmodified":1553816398,
+    "wof:name":"Tala",
+    "wof:parent_id":85680321,
+    "wof:placetype":"locality",
+    "wof:population":4949,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.76667,
+    -34.35,
+    -55.76667,
+    -34.35
+],
+  "geometry": {"coordinates":[-55.76667,-34.35],"type":"Point"}
+}

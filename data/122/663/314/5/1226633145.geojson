@@ -1,0 +1,68 @@
+{
+  "id": 1226633145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.45562,-32.8578,-57.45562,-32.8578",
+    "geom:latitude":-32.8578,
+    "geom:longitude":-57.45562,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"El Ombu",
+    "gn:country_code":"UY",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10862571,
+    "gn:latitude":-32.8578,
+    "gn:longitude":-57.45562,
+    "gn:modification_date":"2018-02-23",
+    "gn:name":"El Omb\u00fa",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Omb\u00fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10862571
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"78b84f548f676772b8d8cd3bd034cea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1226633145,
+            "region_id":85680367
+        }
+    ],
+    "wof:id":1226633145,
+    "wof:lastmodified":1537713225,
+    "wof:name":"El Ombu",
+    "wof:parent_id":85680367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.45562,
+    -32.8578,
+    -57.45562,
+    -32.8578
+],
+  "geometry": {"coordinates":[-57.45562,-32.8578],"type":"Point"}
+}

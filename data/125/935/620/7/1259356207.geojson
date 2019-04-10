@@ -1,0 +1,68 @@
+{
+  "id": 1259356207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.87492,-31.3579,-57.87492,-31.3579",
+    "geom:latitude":-31.3579,
+    "geom:longitude":-57.87492,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Colonia Dieciocho de Julio",
+    "gn:country_code":"UY",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3443009,
+    "gn:latitude":-31.3579,
+    "gn:longitude":-57.87492,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Colonia Dieciocho de Julio",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Colonia Dieciocho de Julio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3443009
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"310cc22c9283a873e75052001a9661aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1259356207,
+            "region_id":85680289
+        }
+    ],
+    "wof:id":1259356207,
+    "wof:lastmodified":1537713219,
+    "wof:name":"Colonia Dieciocho de Julio",
+    "wof:parent_id":85680289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.87492,
+    -31.3579,
+    -57.87492,
+    -31.3579
+],
+  "geometry": {"coordinates":[-57.87492,-31.3579],"type":"Point"}
+}

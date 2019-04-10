@@ -1,0 +1,97 @@
+{
+  "id": 890437187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.41667,-33.26667,-54.41667,-33.26667",
+    "geom:latitude":-33.26667,
+    "geom:longitude":-54.41667,
+    "gn:country":"UY",
+    "gn:fcode":"PPL",
+    "gn:pop":1071,
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u054e\u056b\u056c\u0575\u0561 \u054d\u0561\u0580\u0561"
+    ],
+    "name:cat_x_preferred":[
+        "Villa Sara"
+    ],
+    "name:dut_x_preferred":[
+        "Villa Sara"
+    ],
+    "name:eng_x_preferred":[
+        "Villa Sara"
+    ],
+    "name:fre_x_preferred":[
+        "villa Sara"
+    ],
+    "name:ger_x_preferred":[
+        "Villa Sara"
+    ],
+    "name:hrv_x_preferred":[
+        "Villa Sara"
+    ],
+    "name:nob_x_preferred":[
+        "Villa Sara"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u044c\u044f-\u0421\u0430\u0440\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Villa Sara"
+    ],
+    "qs:name":"Villa Sara",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":113,
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3439590,
+        "gp:id":468078,
+        "qs:id":1044711,
+        "wd:id":"Q1022308",
+        "wk:page":"Villa Sara"
+    },
+    "wof:country":"UY",
+    "wof:created":1469052142,
+    "wof:geomhash":"8f694c598472d548f7b8d25acee537c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":890437187,
+            "region_id":85680317
+        }
+    ],
+    "wof:id":890437187,
+    "wof:lastmodified":1527729750,
+    "wof:name":"Villa Sara",
+    "wof:parent_id":85680317,
+    "wof:placetype":"locality",
+    "wof:population":1071,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.41667,
+    -33.26667,
+    -54.41667,
+    -33.26667
+],
+  "geometry": {"coordinates":[-54.41667,-33.26667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1277004703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.42548,-32.83308,-56.42548,-32.83308",
+    "geom:latitude":-32.83308,
+    "geom:longitude":-56.42548,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Rincon del Bonete",
+    "gn:country_code":"UY",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3440805,
+    "gn:latitude":-32.83308,
+    "gn:longitude":-56.42548,
+    "gn:modification_date":"2018-02-23",
+    "gn:name":"Rinc\u00f3n del Bonete",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680311,
+        1092075393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3440805
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"31753dc6d320dcfb6a12f10ea0550214",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092075393,
+            "locality_id":1277004703,
+            "region_id":85680311
+        }
+    ],
+    "wof:id":1277004703,
+    "wof:lastmodified":1536872900,
+    "wof:name":"Rincon del Bonete",
+    "wof:parent_id":1092075393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.42548000000001,
+    -32.83308,
+    -56.42548000000001,
+    -32.83308
+],
+  "geometry": {"coordinates":[-56.42548000000001,-32.83308],"type":"Point"}
+}

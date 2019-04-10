@@ -1,0 +1,70 @@
+{
+  "id": 1276308529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.03333,-32.18333,-55.03333,-32.18333",
+    "geom:latitude":-32.18333,
+    "geom:longitude":-55.03333,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Poblado Los Gomez",
+    "gn:cc2":"UY",
+    "gn:country_code":"UY",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3441034,
+    "gn:latitude":-32.18333,
+    "gn:longitude":-55.03333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Poblado Los G\u00f3mez",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Gomez",
+        "Poblado Los G\u00f3mez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3441034
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"3a1bc0dd0705a834808067ce6a0271b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1276308529,
+            "region_id":85680311
+        }
+    ],
+    "wof:id":1276308529,
+    "wof:lastmodified":1537713209,
+    "wof:name":"Poblado Los Gomez",
+    "wof:parent_id":85680311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.03333000000001,
+    -32.18333,
+    -55.03333000000001,
+    -32.18333
+],
+  "geometry": {"coordinates":[-55.03333000000001,-32.18333],"type":"Point"}
+}

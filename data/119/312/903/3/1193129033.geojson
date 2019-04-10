@@ -1,0 +1,65 @@
+{
+  "id": 1193129033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.88683,-34.0388,-55.88683,-34.0388",
+    "geom:latitude":-34.0388,
+    "geom:longitude":-55.88683,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"San Gabriel",
+    "gn:country_code":"UY",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3440674,
+    "gn:latitude":-34.0388,
+    "gn:longitude":-55.88683,
+    "gn:modification_date":"2018-02-23",
+    "gn:name":"San Gabriel",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3440674
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"6dc246cc1ea34085ea897848d655b990",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1193129033,
+            "region_id":85680325
+        }
+    ],
+    "wof:id":1193129033,
+    "wof:lastmodified":1536377801,
+    "wof:name":"San Gabriel",
+    "wof:parent_id":85680325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.88683,
+    -34.0388,
+    -55.88683,
+    -34.0388
+],
+  "geometry": {"coordinates":[-55.88683,-34.0388],"type":"Point"}
+}

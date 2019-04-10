@@ -1,0 +1,102 @@
+{
+  "id": 85764901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5469316.319583,
+    "geom:bbox":"-56.17733,-34.906896,-56.17733,-34.906896",
+    "geom:latitude":-34.906896,
+    "geom:longitude":-56.17733,
+    "gn:id":"",
+    "iso:country":"UY",
+    "lbl:latitude":-34.906896,
+    "lbl:longitude":-56.17733,
+    "mps:latitude":-34.905079,
+    "mps:longitude":-56.17566,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "name:spa_x_preferred":[
+        "Aguada"
+    ],
+    "name:unk_x_variant":[
+        "Aguada"
+    ],
+    "qs:gn_adm0_cc":"US",
+    "qs:gn_id":0,
+    "qs:gn_local":5038018,
+    "qs:local_max":9496,
+    "qs:local_sum":30959,
+    "qs:localhoods":17,
+    "qs:name":"Aguada",
+    "qs:name_adm0":"Uruguay",
+    "qs:name_adm1":"Montevideo",
+    "qs:name_local":"Montevideo",
+    "qs:photo_max":357,
+    "qs:photo_sum":3220,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":95,
+    "qs:woe_adm0":23424979,
+    "qs:woe_adm1":2347649,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":468052,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        1092076277,
+        85680339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":380342,
+        "qs:id":1075809
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"32329373489d007245e27f32677818ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092076277,
+            "locality_id":-1,
+            "neighbourhood_id":85764901,
+            "region_id":85680339
+        }
+    ],
+    "wof:id":85764901,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1531858971,
+    "wof:name":"Aguada",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.17733,
+    -34.906896,
+    -56.17733,
+    -34.906896
+],
+  "geometry": {"coordinates":[-56.17733,-34.906896],"type":"Point"}
+}

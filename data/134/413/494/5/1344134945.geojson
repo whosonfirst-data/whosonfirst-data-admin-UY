@@ -1,0 +1,71 @@
+{
+  "id": 1344134945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.56007,-32.47723,-57.56007,-32.47723",
+    "geom:latitude":-32.47723,
+    "geom:longitude":-57.56007,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Arroyo Negro",
+    "gn:country_code":"UY",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10865081,
+    "gn:latitude":-32.47723,
+    "gn:longitude":-57.56007,
+    "gn:modification_date":"2018-02-25",
+    "gn:name":"Arroyo Negro",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Arroyo Negro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680363,
+        1092076747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10865081
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"93cd834c6756a7a690c90c2fb4154e8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092076747,
+            "locality_id":1344134945,
+            "region_id":85680363
+        }
+    ],
+    "wof:id":1344134945,
+    "wof:lastmodified":1537713226,
+    "wof:name":"Arroyo Negro",
+    "wof:parent_id":1092076747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.56007,
+    -32.47723,
+    -57.56007,
+    -32.47723
+],
+  "geometry": {"coordinates":[-57.56007,-32.47723],"type":"Point"}
+}

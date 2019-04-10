@@ -1,0 +1,66 @@
+{
+  "id": 1259403925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.21441,-34.28211,-56.21441,-34.28211",
+    "geom:latitude":-34.28211,
+    "geom:longitude":-56.21441,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Mendoza",
+    "gn:country_code":"UY",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3441691,
+    "gn:latitude":-34.28211,
+    "gn:longitude":-56.21441,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Mendoza",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3441691,
+        "wk:page":"Mendoza%2C_Florida"
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"a3c8c65e9c5ab8eb9e31cca3faa0eb07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1259403925,
+            "region_id":85680325
+        }
+    ],
+    "wof:id":1259403925,
+    "wof:lastmodified":1537575739,
+    "wof:name":"Mendoza",
+    "wof:parent_id":85680325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.21441,
+    -34.28211,
+    -56.21441,
+    -34.28211
+],
+  "geometry": {"coordinates":[-56.21441,-34.28211],"type":"Point"}
+}

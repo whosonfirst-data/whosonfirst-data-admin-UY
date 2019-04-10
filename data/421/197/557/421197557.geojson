@@ -1,0 +1,125 @@
+{
+  "id": 421197557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.03667,-34.73361,-56.03667,-34.73361",
+    "geom:latitude":-34.73361,
+    "geom:longitude":-56.03667,
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Joaqu\u00edn Su\u00e1rez"
+    ],
+    "name:chi_x_preferred":[
+        "\u83ef\u91d1\u8607\u4e9e\u96f7\u65af"
+    ],
+    "name:deu_x_preferred":[
+        "Joaqu\u00edn Su\u00e1rez"
+    ],
+    "name:dut_x_preferred":[
+        "Joaqu\u00edn Su\u00e1rez"
+    ],
+    "name:eng_x_preferred":[
+        "Joaqu\u00edn Su\u00e1rez"
+    ],
+    "name:fra_x_preferred":[
+        "Joaqu\u00edn Su\u00e1rez"
+    ],
+    "name:fre_x_preferred":[
+        "Joaqu\u00edn Su\u00e1rez"
+    ],
+    "name:ger_x_preferred":[
+        "Joaqu\u00edn Su\u00e1rez"
+    ],
+    "name:ita_x_preferred":[
+        "Joaqu\u00edn Su\u00e1rez"
+    ],
+    "name:nob_x_preferred":[
+        "Joaqu\u00edn Su\u00e1rez"
+    ],
+    "name:nor_x_preferred":[
+        "Joaqu\u00edn Su\u00e1rez"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u0430\u043a\u0438\u043d-\u0421\u0443\u0430\u0440\u0435\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Joaqu\u00edn Su\u00e1rez"
+    ],
+    "name:unk_x_variant":[
+        "Su\u00e1rez"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ef\u91d1\u8607\u4e9e\u96f7\u65af"
+    ],
+    "qs:gn_country":"UY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3442236,
+    "qs:gn_pop":6257,
+    "qs:name":"Joaqu\u00edn Su\u00e1rez",
+    "qs:name_adm0":"Uruguay",
+    "qs:name_adm1":"Canelones",
+    "qs:photos":25,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":25,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":147830,
+    "qs:woe_adm0":23424979,
+    "qs:woe_id":469011,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":222,
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3442236,
+        "gp:id":469011,
+        "qs:id":147830,
+        "wd:id":"Q1005809",
+        "wk:page":"Joaqu\u00edn Su\u00e1rez (town)"
+    },
+    "wof:country":"UY",
+    "wof:created":1459009917,
+    "wof:geomhash":"f5096d9f79573c72e13376dd7ebb31cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":421197557,
+            "region_id":85680321
+        }
+    ],
+    "wof:id":421197557,
+    "wof:lastmodified":1527716399,
+    "wof:name":"Joaqu\u00edn Su\u00e1rez",
+    "wof:parent_id":85680321,
+    "wof:placetype":"locality",
+    "wof:population":6257,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.03667,
+    -34.73361,
+    -56.03667,
+    -34.73361
+],
+  "geometry": {"coordinates":[-56.03667,-34.73361],"type":"Point"}
+}

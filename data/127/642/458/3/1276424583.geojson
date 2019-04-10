@@ -1,0 +1,65 @@
+{
+  "id": 1276424583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.59275,-32.6243,-54.59275,-32.6243",
+    "geom:latitude":-32.6243,
+    "geom:longitude":-54.59275,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Cerro de las Cuentas",
+    "gn:country_code":"UY",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3443178,
+    "gn:latitude":-32.6243,
+    "gn:longitude":-54.59275,
+    "gn:modification_date":"2018-02-23",
+    "gn:name":"Cerro de las Cuentas",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3443178
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"569e47bf0bfa6db7e6812e092bbc2c24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1276424583,
+            "region_id":85680299
+        }
+    ],
+    "wof:id":1276424583,
+    "wof:lastmodified":1536656508,
+    "wof:name":"Cerro de las Cuentas",
+    "wof:parent_id":85680299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.59275,
+    -32.6243,
+    -54.59275,
+    -32.6243
+],
+  "geometry": {"coordinates":[-54.59275,-32.6243],"type":"Point"}
+}

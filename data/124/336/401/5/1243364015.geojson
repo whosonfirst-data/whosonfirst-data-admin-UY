@@ -1,0 +1,68 @@
+{
+  "id": 1243364015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.29673,-34.43565,-57.29673,-34.43565",
+    "geom:latitude":-34.43565,
+    "geom:longitude":-57.29673,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Blanca Arena",
+    "gn:country_code":"UY",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11171782,
+    "gn:latitude":-34.43565,
+    "gn:longitude":-57.29673,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Blanca Arena",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Blanca Arena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11171782
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"1f1fd2d39c6bf99b3e95f0c55842709b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1243364015,
+            "region_id":85680347
+        }
+    ],
+    "wof:id":1243364015,
+    "wof:lastmodified":1537713228,
+    "wof:name":"Blanca Arena",
+    "wof:parent_id":85680347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.29673,
+    -34.43565,
+    -57.29673,
+    -34.43565
+],
+  "geometry": {"coordinates":[-57.29673,-34.43565],"type":"Point"}
+}

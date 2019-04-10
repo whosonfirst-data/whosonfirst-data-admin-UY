@@ -1,0 +1,110 @@
+{
+  "id": 421185245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.53333,-30.96667,-57.53333,-30.96667",
+    "geom:latitude":-30.96667,
+    "geom:longitude":-57.53333,
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Termas del Arapey"
+    ],
+    "name:deu_x_preferred":[
+        "Termas del Arapey"
+    ],
+    "name:dut_x_preferred":[
+        "Termas del Arapey"
+    ],
+    "name:eng_x_preferred":[
+        "Termas del Arapey"
+    ],
+    "name:fra_x_preferred":[
+        "Termas del Arapey"
+    ],
+    "name:fre_x_preferred":[
+        "Termas del Arapey"
+    ],
+    "name:ger_x_preferred":[
+        "Termas del Arapey"
+    ],
+    "name:nob_x_preferred":[
+        "Termas del Arapey"
+    ],
+    "name:nor_x_preferred":[
+        "Termas del Arapey"
+    ],
+    "name:spa_x_preferred":[
+        "Termas del Arapey"
+    ],
+    "name:unk_x_variant":[
+        "Arapey"
+    ],
+    "qs:gn_country":"UY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3439889,
+    "qs:gn_pop":0,
+    "qs:name":"Termas del Arapey",
+    "qs:name_adm0":"Uruguay",
+    "qs:name_adm1":"Salto",
+    "qs:photos":30,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":30,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":887617,
+    "qs:woe_adm0":23424979,
+    "qs:woe_id":380851,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":279,
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3439889,
+        "gp:id":380851,
+        "qs:id":887617,
+        "wd:id":"Q1004925",
+        "wk:page":"Termas del Arapey"
+    },
+    "wof:country":"UY",
+    "wof:created":1459009436,
+    "wof:geomhash":"96b0ecec879fa7b5d2d8bf3bb4ce94dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":421185245,
+            "region_id":85680289
+        }
+    ],
+    "wof:id":421185245,
+    "wof:lastmodified":1527726502,
+    "wof:name":"Termas del Arapey",
+    "wof:parent_id":85680289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.53333,
+    -30.96667,
+    -57.53333,
+    -30.96667
+],
+  "geometry": {"coordinates":[-57.53333,-30.96667],"type":"Point"}
+}

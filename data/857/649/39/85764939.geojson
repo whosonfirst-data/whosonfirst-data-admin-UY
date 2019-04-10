@@ -1,0 +1,116 @@
+{
+  "id": 85764939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":11171917.372354,
+    "geom:bbox":"-56.2075,-34.856897,-56.2075,-34.856897",
+    "geom:latitude":-34.856897,
+    "geom:longitude":-56.2075,
+    "gn:latitude":-34.85706,
+    "gn:longitude":-56.21919,
+    "iso:country":"UY",
+    "lbl:latitude":-34.856897,
+    "lbl:longitude":-56.2075,
+    "mps:latitude":-34.852082,
+    "mps:longitude":-56.202506,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "name:por_x_preferred":[
+        "Paso del Molino"
+    ],
+    "name:spa_x_preferred":[
+        "Paso Molino"
+    ],
+    "name:spa_x_variant":[
+        "Paso del Molino"
+    ],
+    "name:unk_x_variant":[
+        "Paso del Molino",
+        "Paso Molino"
+    ],
+    "qs:gn_adm0_cc":"UY",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":5038018,
+    "qs:gn_namadm1":"10",
+    "qs:gn_name":"Paso Molino",
+    "qs:local_max":9496,
+    "qs:local_sum":30959,
+    "qs:localhoods":17,
+    "qs:name":"Paso Molino",
+    "qs:name_adm0":"Uruguay",
+    "qs:name_adm1":"Montevideo",
+    "qs:name_local":"Montevideo",
+    "qs:photo_max":321,
+    "qs:photo_sum":1221,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":36,
+    "qs:woe_adm0":23424979,
+    "qs:woe_adm1":2347649,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":468052,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":35,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        1092076303,
+        85680339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3441262,
+        "gp:id":380653,
+        "qs:id":1082762,
+        "wd:id":"Q10345885",
+        "wk:page":"Paso del Molino"
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"db4497d832c716d1d1442779312004de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092076303,
+            "locality_id":-1,
+            "neighbourhood_id":85764939,
+            "region_id":85680339
+        }
+    ],
+    "wof:id":85764939,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1531858978,
+    "wof:name":"Paso Molino",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.2075,
+    -34.856897,
+    -56.2075,
+    -34.856897
+],
+  "geometry": {"coordinates":[-56.2075,-34.856897],"type":"Point"}
+}

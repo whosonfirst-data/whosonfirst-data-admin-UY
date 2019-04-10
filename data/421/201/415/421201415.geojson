@@ -1,0 +1,215 @@
+{
+  "id": 421201415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.91667,-34.8,-54.91667,-34.8",
+    "geom:latitude":-34.8,
+    "geom:longitude":-54.91667,
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646 \u0643\u0627\u0631\u0644\u0648\u0633\u060c \u0623\u0648\u0631\u0648\u063a\u0648\u0627\u064a"
+    ],
+    "name:arm_x_preferred":[
+        "\u054d\u0561\u0576 \u053f\u0561\u0580\u056c\u0578\u057d"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09cd\u09af\u09be\u09a8 \u0995\u09be\u09b0\u09cd\u09b2\u09cb\u09b8"
+    ],
+    "name:cat_x_preferred":[
+        "San Carlos"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u5361\u6d1b\u65af"
+    ],
+    "name:dan_x_preferred":[
+        "San Carlos"
+    ],
+    "name:dut_x_preferred":[
+        "San Carlos"
+    ],
+    "name:eng_x_preferred":[
+        "San Carlos"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646 \u06a9\u0627\u0631\u0644\u0648\u0633\u060c \u0627\u0631\u0648\u06af\u0648\u0626\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "San Carlos"
+    ],
+    "name:fre_x_preferred":[
+        "San Carlos"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10d9\u10d0\u10e0\u10da\u10dd\u10e1\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "San Carlos"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03b1\u03bd \u039a\u03ac\u03c1\u03bb\u03bf\u03c2"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0abe\u0aa8 \u0a95\u0abe\u0ab0\u0acd\u0ab2\u0acb\u0ab8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0948\u0928 \u0915\u093e\u0930\u094d\u0932\u094b\u0938"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0576 \u053f\u0561\u0580\u056c\u0578\u057d"
+    ],
+    "name:ind_x_preferred":[
+        "San Carlos"
+    ],
+    "name:ita_x_preferred":[
+        "San Carlos"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30ab\u30eb\u30ed\u30b9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0ccd\u0caf\u0cbe\u0ca8\u0ccd \u0c95\u0cbe\u0cb0\u0ccd\u0cb2\u0ccb\u0cb8\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10d9\u10d0\u10e0\u10da\u10dd\u10e1\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0\uce74\ub97c\ub85c\uc2a4"
+    ],
+    "name:lav_x_preferred":[
+        "Sankarlosa"
+    ],
+    "name:lit_x_preferred":[
+        "San Karlosas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u0945\u0928 \u0915\u093e\u0930\u094d\u0932\u094b\u0938"
+    ],
+    "name:may_x_preferred":[
+        "San Carlos"
+    ],
+    "name:nob_x_preferred":[
+        "San Carlos"
+    ],
+    "name:oci_x_preferred":[
+        "San Carlos"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u0646 \u06a9\u0627\u0631\u0644\u0648\u0633\u060c \u0627\u0631\u0648\u06af\u0648\u0626\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "San Carlos"
+    ],
+    "name:por_x_preferred":[
+        "San Carlos"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u041a\u0430\u0440\u043b\u043e\u0441"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dd0\u0db1\u0dca \u0d9a\u0dcf\u0dbb\u0dca\u0dbd\u0ddc\u0dc3\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "San Carlos"
+    ],
+    "name:swe_x_preferred":[
+        "San Carlos"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbe\u0ba9\u0bcd \u0b95\u0bbe\u0bb0\u0bcd\u0bb2\u0bbe\u0bb8\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c36\u0c3e\u0c28\u0c4d \u0c15\u0c3e\u0c30\u0c4d\u0c32\u0c4b\u0c38\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e32\u0e19 \u0e04\u0e32\u0e23\u0e4c\u0e25\u0e2d\u0e2a"
+    ],
+    "name:tur_x_preferred":[
+        "San CArlos"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d-\u041a\u0430\u0440\u043b\u043e\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Villa de San Carlos"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646 \u06a9\u0627\u0631\u0644\u0648\u0633\u060c \u06cc\u0648\u0631\u0627\u06af\u0648\u0626\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "San Carlos"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5361\u6d1b\u65af"
+    ],
+    "qs:gn_country":"UY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3440696,
+    "qs:gn_pop":24938,
+    "qs:name":"San Carlos",
+    "qs:name_adm0":"Uruguay",
+    "qs:name_adm1":"Maldonado",
+    "qs:photos":358,
+    "qs:photos_1k":73,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":358,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":211199,
+    "qs:woe_adm0":23424979,
+    "qs:woe_id":468074,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":401,
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3440696,
+        "gp:id":468074,
+        "qs:id":211199,
+        "wd:id":"Q374670",
+        "wk:page":"San Carlos, Uruguay"
+    },
+    "wof:country":"UY",
+    "wof:created":1459010071,
+    "wof:geomhash":"acd6c65cfd6d2f0b4841d4b8c7ae77c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":421201415,
+            "region_id":85680335
+        }
+    ],
+    "wof:id":421201415,
+    "wof:lastmodified":1527716433,
+    "wof:name":"San Carlos",
+    "wof:parent_id":85680335,
+    "wof:placetype":"locality",
+    "wof:population":24938,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.91667,
+    -34.8,
+    -54.91667,
+    -34.8
+],
+  "geometry": {"coordinates":[-54.91667,-34.8],"type":"Point"}
+}

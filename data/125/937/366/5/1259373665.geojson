@@ -1,0 +1,65 @@
+{
+  "id": 1259373665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.93333,-33.13333,-54.93333,-33.13333",
+    "geom:latitude":-33.13333,
+    "geom:longitude":-54.93333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Diaz",
+    "gn:country_code":"UY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3442769,
+    "gn:latitude":-33.13333,
+    "gn:longitude":-54.93333,
+    "gn:modification_date":"1993-12-15",
+    "gn:name":"D\u00edaz",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3442769
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"449b5b9bbafbee98aad048a93de658bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1259373665,
+            "region_id":85680317
+        }
+    ],
+    "wof:id":1259373665,
+    "wof:lastmodified":1537015713,
+    "wof:name":"Diaz",
+    "wof:parent_id":85680317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.93333000000001,
+    -33.13333,
+    -54.93333000000001,
+    -33.13333
+],
+  "geometry": {"coordinates":[-54.93333000000001,-33.13333],"type":"Point"}
+}

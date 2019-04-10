@@ -1,0 +1,66 @@
+{
+  "id": 1226814703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.81667,-33.11667,-54.81667,-33.11667",
+    "geom:latitude":-33.11667,
+    "geom:longitude":-54.81667,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"01",
+    "gn:asciiname":"Los Camejos",
+    "gn:country_code":"UY",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3441956,
+    "gn:latitude":-33.11667,
+    "gn:longitude":-54.81667,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Los Camejos",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3441956
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"46ff3414326db330e208a286674728c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1226814703,
+            "region_id":85680317
+        }
+    ],
+    "wof:id":1226814703,
+    "wof:lastmodified":1536613966,
+    "wof:name":"Los Camejos",
+    "wof:parent_id":85680317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.81667,
+    -33.11667,
+    -54.81667,
+    -33.11667
+],
+  "geometry": {"coordinates":[-54.81667,-33.11667],"type":"Point"}
+}

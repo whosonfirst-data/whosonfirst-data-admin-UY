@@ -1,0 +1,70 @@
+{
+  "id": 1344257563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.15263,-34.0165,-58.15263,-34.0165",
+    "geom:latitude":-34.0165,
+    "geom:longitude":-58.15263,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Colonia Arrue",
+    "gn:country_code":"UY",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3443019,
+    "gn:latitude":-34.0165,
+    "gn:longitude":-58.15263,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Colonia Arru\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Colonia Arru\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680347,
+        1092075395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3443019
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"39ecbfa4e0a03600e66c19bb06f37a2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092075395,
+            "locality_id":1344257563,
+            "region_id":85680347
+        }
+    ],
+    "wof:id":1344257563,
+    "wof:lastmodified":1537713219,
+    "wof:name":"Colonia Arrue",
+    "wof:parent_id":1092075395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.15263,
+    -34.0165,
+    -58.15263,
+    -34.0165
+],
+  "geometry": {"coordinates":[-58.15263,-34.0165],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1310400177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.63193,-33.46675,-55.63193,-33.46675",
+    "geom:latitude":-33.46675,
+    "geom:longitude":-55.63193,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sauce del Yi",
+    "gn:country_code":"UY",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3440145,
+    "gn:latitude":-33.46675,
+    "gn:longitude":-55.63193,
+    "gn:modification_date":"2017-06-15",
+    "gn:name":"Sauce del Yi",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3440145
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"44ea0bddb580eaa5abf867b5c14fa5bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1310400177,
+            "region_id":85680325
+        }
+    ],
+    "wof:id":1310400177,
+    "wof:lastmodified":1537066059,
+    "wof:name":"Sauce del Yi",
+    "wof:parent_id":85680325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.63193,
+    -33.46675,
+    -55.63193,
+    -33.46675
+],
+  "geometry": {"coordinates":[-55.63193,-33.46675],"type":"Point"}
+}

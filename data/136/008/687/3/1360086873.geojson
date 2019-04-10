@@ -1,0 +1,78 @@
+{
+  "id": 1360086873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-53.51667,-32.48333,-53.51667,-32.48333",
+    "geom:latitude":-32.48333,
+    "geom:longitude":-53.51667,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"01",
+    "gn:asciiname":"Uruguay",
+    "gn:country_code":"UY",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3439706,
+    "gn:latitude":-32.48333,
+    "gn:longitude":-53.51667,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Uruguay",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680299,
+        1092077095,
+        85633009,
+        85682015,
+        102059535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3439706
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"076d2970cb16693a0e1607ea090b2054",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092077095,
+            "locality_id":1360086873,
+            "region_id":85680299
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102059535,
+            "locality_id":1360086873,
+            "region_id":85682015
+        }
+    ],
+    "wof:id":1360086873,
+    "wof:lastmodified":1536943605,
+    "wof:name":"Uruguay",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -53.51667,
+    -32.48333,
+    -53.51667,
+    -32.48333
+],
+  "geometry": {"coordinates":[-53.51667,-32.48333],"type":"Point"}
+}

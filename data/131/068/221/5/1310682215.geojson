@@ -1,0 +1,73 @@
+{
+  "id": 1310682215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.26289,-31.89896,-57.26289,-31.89896",
+    "geom:latitude":-31.89896,
+    "geom:longitude":-57.26289,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"El Eucalipto",
+    "gn:country_code":"UY",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3442702,
+    "gn:latitude":-31.89896,
+    "gn:longitude":-57.26289,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"El Eucalipto",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Eucalipto"
+    ],
+    "name:und_x_variant":[
+        "Eucaliptus",
+        "El Eucaliptus"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3442702,
+        "wk:page":"El_Eucaliptus"
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"af9aec90d0d617ad423cc51fb4b5cd87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1310682215,
+            "region_id":85680363
+        }
+    ],
+    "wof:id":1310682215,
+    "wof:lastmodified":1537713217,
+    "wof:name":"El Eucalipto",
+    "wof:parent_id":85680363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.26289000000001,
+    -31.89896,
+    -57.26289000000001,
+    -31.89896
+],
+  "geometry": {"coordinates":[-57.26289000000001,-31.89896],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293552591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.76667,-31.83333,-55.76667,-31.83333",
+    "geom:latitude":-31.83333,
+    "geom:longitude":-55.76667,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Poblado Rincon de Giloca",
+    "gn:cc2":"UY",
+    "gn:country_code":"UY",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3441026,
+    "gn:latitude":-31.83333,
+    "gn:longitude":-55.76667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Poblado Rinc\u00f3n de Giloca",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rinc\u00f3n de Giloca",
+        "Poblado Rinc\u00f3n de Giloca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3441026
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"7871788371a2103184abc3ecea06fb01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1293552591,
+            "region_id":85680311
+        }
+    ],
+    "wof:id":1293552591,
+    "wof:lastmodified":1537713209,
+    "wof:name":"Poblado Rincon de Giloca",
+    "wof:parent_id":85680311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.76667,
+    -31.83333,
+    -55.76667,
+    -31.83333
+],
+  "geometry": {"coordinates":[-55.76667,-31.83333],"type":"Point"}
+}

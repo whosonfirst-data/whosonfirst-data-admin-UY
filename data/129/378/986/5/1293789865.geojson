@@ -1,0 +1,68 @@
+{
+  "id": 1293789865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.37176,-34.12229,-57.37176,-34.12229",
+    "geom:latitude":-34.12229,
+    "geom:longitude":-57.37176,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Tres Esquinas",
+    "gn:country_code":"UY",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3439756,
+    "gn:latitude":-34.12229,
+    "gn:longitude":-57.37176,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Tres Esquinas",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tres Esquinas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3439756
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"c168d2e726145c822e0892130e2088fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1293789865,
+            "region_id":85680347
+        }
+    ],
+    "wof:id":1293789865,
+    "wof:lastmodified":1537713204,
+    "wof:name":"Tres Esquinas",
+    "wof:parent_id":85680347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.37176,
+    -34.12229,
+    -57.37176,
+    -34.12229
+],
+  "geometry": {"coordinates":[-57.37176,-34.12229],"type":"Point"}
+}

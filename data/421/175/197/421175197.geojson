@@ -1,0 +1,73 @@
+{
+  "id": 421175197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.633907,-34.771123,-55.633907,-34.771123",
+    "geom:latitude":-34.771123,
+    "geom:longitude":-55.633907,
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Bello Horizonte",
+    "qs:name_adm0":"Uruguay",
+    "qs:name_adm1":"Canelones",
+    "qs:photos":27,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":27,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":359351,
+    "qs:woe_adm0":23424979,
+    "qs:woe_id":26794408,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26794408,
+        "qs:id":359351
+    },
+    "wof:country":"UY",
+    "wof:created":1459009058,
+    "wof:geomhash":"967a321a1afa0b2e18c0771a0b5e4dc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":421175197,
+            "region_id":85680321
+        }
+    ],
+    "wof:id":421175197,
+    "wof:lastmodified":1513814357,
+    "wof:name":"Bello Horizonte",
+    "wof:parent_id":85680321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.633907,
+    -34.771123,
+    -55.633907,
+    -34.771123
+],
+  "geometry": {"coordinates":[-55.633907,-34.771123],"type":"Point"}
+}

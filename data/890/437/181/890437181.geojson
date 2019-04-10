@@ -1,0 +1,100 @@
+{
+  "id": 890437181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.78333,-33.91667,-57.78333,-33.91667",
+    "geom:latitude":-33.91667,
+    "geom:longitude":-57.78333,
+    "gn:country":"UY",
+    "gn:fcode":"PPL",
+    "gn:pop":3482,
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Omb\u00faes de Lavalle"
+    ],
+    "name:chi_x_preferred":[
+        "\u7fc1\u5e03\u57c3\u65af-\u5fb7\u62c9\u74e6\u8036"
+    ],
+    "name:dut_x_preferred":[
+        "Omb\u00faes de Lavalle"
+    ],
+    "name:eng_x_preferred":[
+        "Omb\u00faes de Lavalle"
+    ],
+    "name:fre_x_preferred":[
+        "Omb\u00faes de Lavalle"
+    ],
+    "name:ger_x_preferred":[
+        "Omb\u00faes de Lavalle"
+    ],
+    "name:ita_x_preferred":[
+        "Omb\u00faes de Lavalle"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043c\u0431\u0435\u0441-\u0434\u0435-\u041b\u0430\u0432\u0430\u043b\u044c\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Omb\u00faes de Lavalle"
+    ],
+    "name:unk_x_variant":[
+        "Colonia Omb\u00faes de Lavalle"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u0645\u0628\u0648\u06cc\u0633 \u062f\u06d2 \u0644\u0627\u0648\u0627\u0626\u06cc\u06d2"
+    ],
+    "qs:name":"Omb\u00faes de Lavalle",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":437,
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3441442,
+        "gp:id":468094,
+        "qs:id":1044738,
+        "wd:id":"Q1020402",
+        "wk:page":"Omb\u00faes de Lavalle"
+    },
+    "wof:country":"UY",
+    "wof:created":1469052141,
+    "wof:geomhash":"30277013308699273972a8d03ed6bf2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":890437181,
+            "region_id":85680347
+        }
+    ],
+    "wof:id":890437181,
+    "wof:lastmodified":1527729750,
+    "wof:name":"Omb\u00faes de Lavalle",
+    "wof:parent_id":85680347,
+    "wof:placetype":"locality",
+    "wof:population":3482,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.78333,
+    -33.91667,
+    -57.78333,
+    -33.91667
+],
+  "geometry": {"coordinates":[-57.78333,-33.91667],"type":"Point"}
+}

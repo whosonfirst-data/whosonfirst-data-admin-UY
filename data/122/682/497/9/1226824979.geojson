@@ -1,0 +1,65 @@
+{
+  "id": 1226824979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.83333,-31.53333,-55.83333,-31.53333",
+    "geom:latitude":-31.53333,
+    "geom:longitude":-55.83333,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Banado de Rocha",
+    "gn:country_code":"UY",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3443689,
+    "gn:latitude":-31.53333,
+    "gn:longitude":-55.83333,
+    "gn:modification_date":"1993-12-15",
+    "gn:name":"Ba\u00f1ado de Rocha",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3443689
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"7db4718486049f83e72e35eb8761d3de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1226824979,
+            "region_id":85680311
+        }
+    ],
+    "wof:id":1226824979,
+    "wof:lastmodified":1537095056,
+    "wof:name":"Banado de Rocha",
+    "wof:parent_id":85680311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.83333,
+    -31.53333,
+    -55.83333,
+    -31.53333
+],
+  "geometry": {"coordinates":[-55.83333,-31.53333],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209223393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.9629,-34.63456,-55.9629,-34.63456",
+    "geom:latitude":-34.63456,
+    "geom:longitude":-55.9629,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"26",
+    "gn:asciiname":"Cruz de los Caminos",
+    "gn:country_code":"UY",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3442851,
+    "gn:latitude":-34.63456,
+    "gn:longitude":-55.9629,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Cruz de los Caminos",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cruz de los Caminos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3442851
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"1ed41373a3721b91bae96f7440183198",
+    "wof:hierarchy":[
+        {
+            "country_id":85632511,
+            "locality_id":1209223393
+        }
+    ],
+    "wof:id":1209223393,
+    "wof:lastmodified":1537713218,
+    "wof:name":"Cruz de los Caminos",
+    "wof:parent_id":85632511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.9629,
+    -34.63456,
+    -55.9629,
+    -34.63456
+],
+  "geometry": {"coordinates":[-55.9629,-34.63456],"type":"Point"}
+}

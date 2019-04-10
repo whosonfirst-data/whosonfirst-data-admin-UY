@@ -1,0 +1,65 @@
+{
+  "id": 1343443079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.98333,-34.2,-56.98333,-34.2",
+    "geom:latitude":-34.2,
+    "geom:longitude":-56.98333,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Colonia America",
+    "gn:country_code":"UY",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3443021,
+    "gn:latitude":-34.2,
+    "gn:longitude":-56.98333,
+    "gn:modification_date":"1993-12-15",
+    "gn:name":"Colonia Am\u00e9rica",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3443021
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"3e93a64219eae0f36d31abd9ab066854",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1343443079,
+            "region_id":85680349
+        }
+    ],
+    "wof:id":1343443079,
+    "wof:lastmodified":1536771910,
+    "wof:name":"Colonia America",
+    "wof:parent_id":85680349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.98333,
+    -34.2,
+    -56.98333,
+    -34.2
+],
+  "geometry": {"coordinates":[-56.98333,-34.2],"type":"Point"}
+}

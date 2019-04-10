@@ -1,0 +1,66 @@
+{
+  "id": 1293104789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.69057,-34.33594,-57.69057,-34.33594",
+    "geom:latitude":-34.33594,
+    "geom:longitude":-57.69057,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"El Semillero",
+    "gn:country_code":"UY",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3442687,
+    "gn:latitude":-34.33594,
+    "gn:longitude":-57.69057,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"El Semillero",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3442687,
+        "wk:page":"El_Semillero"
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"5010a7d62da6f5d2b342b868769082c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1293104789,
+            "region_id":85680347
+        }
+    ],
+    "wof:id":1293104789,
+    "wof:lastmodified":1537575740,
+    "wof:name":"El Semillero",
+    "wof:parent_id":85680347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.69057,
+    -34.33594,
+    -57.69057,
+    -34.33594
+],
+  "geometry": {"coordinates":[-57.69057,-34.33594],"type":"Point"}
+}

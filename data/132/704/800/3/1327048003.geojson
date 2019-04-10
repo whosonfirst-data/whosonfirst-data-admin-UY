@@ -1,0 +1,71 @@
+{
+  "id": 1327048003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.34782,-30.60281,-57.34782,-30.60281",
+    "geom:latitude":-30.60281,
+    "geom:longitude":-57.34782,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"03",
+    "gn:asciiname":"La Garrapata",
+    "gn:country_code":"UY",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8058705,
+    "gn:latitude":-30.60281,
+    "gn:longitude":-57.34782,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"La Garrapata",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Garrapata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680355,
+        1092075303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8058705
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"b88e46e47edd855b8122d5ec5da1a257",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092075303,
+            "locality_id":1327048003,
+            "region_id":85680355
+        }
+    ],
+    "wof:id":1327048003,
+    "wof:lastmodified":1537713222,
+    "wof:name":"La Garrapata",
+    "wof:parent_id":1092075303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.34782,
+    -30.60281,
+    -57.34782,
+    -30.60281
+],
+  "geometry": {"coordinates":[-57.34782,-30.60281],"type":"Point"}
+}

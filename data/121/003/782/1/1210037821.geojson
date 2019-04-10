@@ -1,0 +1,66 @@
+{
+  "id": 1210037821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.91673,-34.24132,-55.91673,-34.24132",
+    "geom:latitude":-34.24132,
+    "geom:longitude":-55.91673,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Chamizo",
+    "gn:country_code":"UY",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3443133,
+    "gn:latitude":-34.24132,
+    "gn:longitude":-55.91673,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Chamizo",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3443133,
+        "wk:page":"Chamizo"
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"93e254720427876a674ce1393fc4668b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1210037821,
+            "region_id":85680325
+        }
+    ],
+    "wof:id":1210037821,
+    "wof:lastmodified":1537575741,
+    "wof:name":"Chamizo",
+    "wof:parent_id":85680325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.91673,
+    -34.24132,
+    -55.91673,
+    -34.24132
+],
+  "geometry": {"coordinates":[-55.91673,-34.24132],"type":"Point"}
+}

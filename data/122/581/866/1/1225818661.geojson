@@ -1,0 +1,73 @@
+{
+  "id": 1225818661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.78333,-31.4,-57.78333,-31.4",
+    "geom:latitude":-31.4,
+    "geom:longitude":-57.78333,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"05",
+    "gn:asciiname":"El Tropiezo",
+    "gn:cc2":"UY",
+    "gn:country_code":"UY",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3442684,
+    "gn:latitude":-31.4,
+    "gn:longitude":-57.78333,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"El Tropiezo",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tropiezo",
+        "El Tropiezo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680289,
+        1092077065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3442684
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"114a204f861cd791f0a6c85936c77795",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092077065,
+            "locality_id":1225818661,
+            "region_id":85680289
+        }
+    ],
+    "wof:id":1225818661,
+    "wof:lastmodified":1537713217,
+    "wof:name":"El Tropiezo",
+    "wof:parent_id":1092077065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.78333000000001,
+    -31.4,
+    -57.78333000000001,
+    -31.4
+],
+  "geometry": {"coordinates":[-57.78333000000001,-31.4],"type":"Point"}
+}

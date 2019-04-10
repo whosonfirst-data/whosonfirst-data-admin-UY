@@ -1,0 +1,66 @@
+{
+  "id": 1243417389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.96705,-32.23255,-54.96705,-32.23255",
+    "geom:latitude":-32.23255,
+    "geom:longitude":-54.96705,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Cruz de los Caminos",
+    "gn:country_code":"UY",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10174967,
+    "gn:latitude":-32.23255,
+    "gn:longitude":-54.96705,
+    "gn:modification_date":"2015-03-27",
+    "gn:name":"Cruz de los Caminos",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10174967,
+        "wk:page":"Cruz_de_los_Caminos,_Tacuaremb%C3%B3"
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"636be0a861af063af7e4022a095bed36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1243417389,
+            "region_id":85680311
+        }
+    ],
+    "wof:id":1243417389,
+    "wof:lastmodified":1537575743,
+    "wof:name":"Cruz de los Caminos",
+    "wof:parent_id":85680311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.96705,
+    -32.23255,
+    -54.96705,
+    -32.23255
+],
+  "geometry": {"coordinates":[-54.96705,-32.23255],"type":"Point"}
+}

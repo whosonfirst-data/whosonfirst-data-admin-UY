@@ -1,0 +1,104 @@
+{
+  "id": 421173263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.02972,-34.87722,-56.02972,-34.87722",
+    "geom:latitude":-34.87722,
+    "geom:longitude":-56.02972,
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Barra de Carrasco"
+    ],
+    "name:dut_x_preferred":[
+        "Barra de Carrasco"
+    ],
+    "name:eng_x_preferred":[
+        "Barra de Carrasco"
+    ],
+    "name:fre_x_preferred":[
+        "Barra de Carrasco"
+    ],
+    "name:ger_x_preferred":[
+        "Barra de Carrasco"
+    ],
+    "name:nob_x_preferred":[
+        "Barra de Carrasco"
+    ],
+    "name:nor_x_preferred":[
+        "Barra de Carrasco"
+    ],
+    "name:spa_x_preferred":[
+        "Barra de Carrasco"
+    ],
+    "qs:gn_country":"UY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3480822,
+    "qs:gn_pop":4824,
+    "qs:name":"Barra de Carrasco",
+    "qs:name_adm0":"Uruguay",
+    "qs:name_adm1":"Canelones",
+    "qs:photos":348,
+    "qs:photos_1k":71,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":348,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":498876,
+    "qs:woe_adm0":23424979,
+    "qs:woe_id":26794421,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":150,
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3480822,
+        "gp:id":26794421,
+        "qs:id":498876,
+        "wd:id":"Q808781",
+        "wk:page":"Barra de Carrasco"
+    },
+    "wof:country":"UY",
+    "wof:created":1459008976,
+    "wof:geomhash":"f01074029ab2f0b113ba6a1b17dc0851",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":421173263,
+            "region_id":85680321
+        }
+    ],
+    "wof:id":421173263,
+    "wof:lastmodified":1527716261,
+    "wof:name":"Barra de Carrasco",
+    "wof:parent_id":85680321,
+    "wof:placetype":"locality",
+    "wof:population":4824,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.02972,
+    -34.87722,
+    -56.02972,
+    -34.87722
+],
+  "geometry": {"coordinates":[-56.02972,-34.87722],"type":"Point"}
+}

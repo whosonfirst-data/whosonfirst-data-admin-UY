@@ -1,0 +1,68 @@
+{
+  "id": 1243138405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.17583,-31.81686,-56.17583,-31.81686",
+    "geom:latitude":-31.81686,
+    "geom:longitude":-56.17583,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Los Rosanos",
+    "gn:country_code":"UY",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3441939,
+    "gn:latitude":-31.81686,
+    "gn:longitude":-56.17583,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Los Rosanos",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Rosanos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3441939
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"0e5e30a7d4d56af3615ecfff12097d8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1243138405,
+            "region_id":85680311
+        }
+    ],
+    "wof:id":1243138405,
+    "wof:lastmodified":1537713214,
+    "wof:name":"Los Rosanos",
+    "wof:parent_id":85680311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.17583000000001,
+    -31.81686,
+    -56.17583000000001,
+    -31.81686
+],
+  "geometry": {"coordinates":[-56.17583000000001,-31.81686],"type":"Point"}
+}

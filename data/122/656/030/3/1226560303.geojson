@@ -1,0 +1,72 @@
+{
+  "id": 1226560303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.18333,-34.81667,-56.18333,-34.81667",
+    "geom:latitude":-34.81667,
+    "geom:longitude":-56.18333,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"05",
+    "gn:asciiname":"Penarol",
+    "gn:country_code":"UY",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3441205,
+    "gn:latitude":-34.81667,
+    "gn:longitude":-56.18333,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Pe\u00f1arol",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pe\u00f1arol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680339,
+        1092076411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3441205,
+        "wk:page":"Pe%C3%B1arol%2C_Montevideo"
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"fa66e9a128cdc030713b4e5d8980c144",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092076411,
+            "locality_id":1226560303,
+            "region_id":85680339
+        }
+    ],
+    "wof:id":1226560303,
+    "wof:lastmodified":1537713212,
+    "wof:name":"Penarol",
+    "wof:parent_id":1092076411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.18333000000001,
+    -34.81667,
+    -56.18333000000001,
+    -34.81667
+],
+  "geometry": {"coordinates":[-56.18333000000001,-34.81667],"type":"Point"}
+}

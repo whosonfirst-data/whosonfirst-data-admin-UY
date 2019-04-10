@@ -1,0 +1,71 @@
+{
+  "id": 1209288255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-53.71658,-33.60349,-53.71658,-33.60349",
+    "geom:latitude":-33.60349,
+    "geom:longitude":-53.71658,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"San Luis al Medio",
+    "gn:country_code":"UY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3440617,
+    "gn:latitude":-33.60349,
+    "gn:longitude":-53.71658,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"San Luis al Medio",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Luis al Medio"
+    ],
+    "name:und_x_variant":[
+        "Paso de San Luis",
+        "San Luis",
+        "Costa de San Luis",
+        "Olivera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3440617,
+        "wk:page":"San_Luis_al_Medio"
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"9470d33b913075ab46a9204cd1e7748c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632511,
+            "locality_id":1209288255
+        }
+    ],
+    "wof:id":1209288255,
+    "wof:lastmodified":1537713206,
+    "wof:name":"San Luis al Medio",
+    "wof:parent_id":85632511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -53.71658000000001,
+    -33.60349,
+    -53.71658000000001,
+    -33.60349
+],
+  "geometry": {"coordinates":[-53.71658000000001,-33.60349],"type":"Point"}
+}

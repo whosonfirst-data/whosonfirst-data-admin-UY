@@ -1,0 +1,74 @@
+{
+  "id": 1226560169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.11667,-34.85,-56.11667,-34.85",
+    "geom:latitude":-34.85,
+    "geom:longitude":-56.11667,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"07",
+    "gn:asciiname":"Ituzaingo",
+    "gn:cc2":"UY",
+    "gn:country_code":"UY",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3442248,
+    "gn:latitude":-34.85,
+    "gn:longitude":-56.11667,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Ituzaing\u00f3",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pueblo Ituzaing\u00f3",
+        "Ituzaing\u00f3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680339,
+        1092076429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3442248,
+        "wk:page":"Ituzaing%C3%B3%2C_Montevideo"
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"4834b12431469839b7e98160a2019fe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092076429,
+            "locality_id":1226560169,
+            "region_id":85680339
+        }
+    ],
+    "wof:id":1226560169,
+    "wof:lastmodified":1537713216,
+    "wof:name":"Ituzaingo",
+    "wof:parent_id":1092076429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.11666999999999,
+    -34.85,
+    -56.11666999999999,
+    -34.85
+],
+  "geometry": {"coordinates":[-56.11666999999999,-34.85],"type":"Point"}
+}

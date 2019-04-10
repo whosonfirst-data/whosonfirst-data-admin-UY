@@ -1,0 +1,68 @@
+{
+  "id": 1259863041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.17341,-34.59032,-54.17341,-34.59032",
+    "geom:latitude":-34.59032,
+    "geom:longitude":-54.17341,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"03",
+    "gn:asciiname":"Lomas",
+    "gn:country_code":"UY",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8469056,
+    "gn:latitude":-34.59032,
+    "gn:longitude":-54.17341,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Lomas",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680343,
+        1092076863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8469056
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"8ea01c6a345e130a268a041981171c5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092076863,
+            "locality_id":1259863041,
+            "region_id":85680343
+        }
+    ],
+    "wof:id":1259863041,
+    "wof:lastmodified":1536808318,
+    "wof:name":"Lomas",
+    "wof:parent_id":1092076863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.17341,
+    -34.59032,
+    -54.17341,
+    -34.59032
+],
+  "geometry": {"coordinates":[-54.17341,-34.59032],"type":"Point"}
+}

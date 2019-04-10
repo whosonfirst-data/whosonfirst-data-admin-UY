@@ -1,0 +1,104 @@
+{
+  "id": 421167917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.33333,-34.75,-55.33333,-34.75",
+    "geom:latitude":-34.75,
+    "geom:longitude":-55.33333,
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Las Flores"
+    ],
+    "name:deu_x_preferred":[
+        "Las Flores"
+    ],
+    "name:dut_x_preferred":[
+        "Las Flores"
+    ],
+    "name:eng_x_preferred":[
+        "Las Flores"
+    ],
+    "name:fra_x_preferred":[
+        "Las Flores"
+    ],
+    "name:fre_x_preferred":[
+        "Las Flores"
+    ],
+    "name:ger_x_preferred":[
+        "Las Flores"
+    ],
+    "name:spa_x_preferred":[
+        "Las Flores"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0633 \u0641\u0644\u0648\u0631\u06cc\u0633\u060c \u0645\u0627\u0644\u0688\u0648\u0646\u0627\u0688\u0648"
+    ],
+    "qs:gn_country":"UY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3442067,
+    "qs:gn_pop":0,
+    "qs:name":"Las Flores",
+    "qs:name_adm0":"Uruguay",
+    "qs:name_adm1":"Maldonado",
+    "qs:photos":45,
+    "qs:photos_1k":9,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":45,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":475496,
+    "qs:woe_adm0":23424979,
+    "qs:woe_id":468027,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":133,
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3442067,
+        "gp:id":468027,
+        "qs:id":475496,
+        "wd:id":"Q582146",
+        "wk:page":"Las Flores, Maldonado"
+    },
+    "wof:country":"UY",
+    "wof:created":1459008747,
+    "wof:geomhash":"b1288670e9733d281b047424f0c22bd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":421167917,
+            "region_id":85680335
+        }
+    ],
+    "wof:id":421167917,
+    "wof:lastmodified":1527716162,
+    "wof:name":"Las Flores",
+    "wof:parent_id":85680335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.33333,
+    -34.75,
+    -55.33333,
+    -34.75
+],
+  "geometry": {"coordinates":[-55.33333,-34.75],"type":"Point"}
+}

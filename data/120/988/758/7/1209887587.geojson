@@ -1,0 +1,66 @@
+{
+  "id": 1209887587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.28333,-33.61667,-58.28333,-33.61667",
+    "geom:latitude":-33.61667,
+    "geom:longitude":-58.28333,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"02",
+    "gn:asciiname":"Espinillo",
+    "gn:country_code":"UY",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3442661,
+    "gn:latitude":-33.61667,
+    "gn:longitude":-58.28333,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Espinillo",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3442661
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"fd4b52dbf36eba0a81390da216e2c7d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1209887587,
+            "region_id":85680293
+        }
+    ],
+    "wof:id":1209887587,
+    "wof:lastmodified":1536392224,
+    "wof:name":"Espinillo",
+    "wof:parent_id":85680293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.28333000000001,
+    -33.61667,
+    -58.28333000000001,
+    -33.61667
+],
+  "geometry": {"coordinates":[-58.28333000000001,-33.61667],"type":"Point"}
+}

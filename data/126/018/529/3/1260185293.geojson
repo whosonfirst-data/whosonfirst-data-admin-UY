@@ -1,0 +1,71 @@
+{
+  "id": 1260185293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.14835,-34.44227,-56.14835,-34.44227",
+    "geom:latitude":-34.44227,
+    "geom:longitude":-56.14835,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"20",
+    "gn:asciiname":"Paso de la Cadena",
+    "gn:country_code":"UY",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3441287,
+    "gn:latitude":-34.44227,
+    "gn:longitude":-56.14835,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Paso de la Cadena",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Paso de la Cadena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680321,
+        1092074701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3441287
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"83625dcf09c1d5178586598f901b49f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092074701,
+            "locality_id":1260185293,
+            "region_id":85680321
+        }
+    ],
+    "wof:id":1260185293,
+    "wof:lastmodified":1537713212,
+    "wof:name":"Paso de la Cadena",
+    "wof:parent_id":1092074701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.14835,
+    -34.44227,
+    -56.14835,
+    -34.44227
+],
+  "geometry": {"coordinates":[-56.14835,-34.44227],"type":"Point"}
+}

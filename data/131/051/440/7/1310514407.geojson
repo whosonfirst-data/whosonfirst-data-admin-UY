@@ -1,0 +1,71 @@
+{
+  "id": 1310514407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.9656,-34.68607,-55.9656,-34.68607",
+    "geom:latitude":-34.68607,
+    "geom:longitude":-55.9656,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"15",
+    "gn:asciiname":"Villa Jardin",
+    "gn:country_code":"UY",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10861487,
+    "gn:latitude":-34.68607,
+    "gn:longitude":-55.9656,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Villa Jard\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Villa Jard\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680321,
+        1092076481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10861487
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"0307ed54fabd3a4d2544cb5e31f76c1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092076481,
+            "locality_id":1310514407,
+            "region_id":85680321
+        }
+    ],
+    "wof:id":1310514407,
+    "wof:lastmodified":1537713224,
+    "wof:name":"Villa Jardin",
+    "wof:parent_id":1092076481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.9656,
+    -34.68607,
+    -55.9656,
+    -34.68607
+],
+  "geometry": {"coordinates":[-55.9656,-34.68607],"type":"Point"}
+}

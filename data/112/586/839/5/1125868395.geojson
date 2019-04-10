@@ -1,0 +1,97 @@
+{
+  "id": 1125868395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.33417,-34.80167,-56.33417,-34.80167",
+    "geom:latitude":-34.80167,
+    "geom:longitude":-56.33417,
+    "gn:gn_country":"UY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2000,
+    "gn:population":2000,
+    "iso:country":"UY",
+    "lbl:latitude":-34.80167,
+    "lbl:longitude":-56.33417,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Casab\u00f3"
+    ],
+    "name:eng_x_preferred":[
+        "Casab\u00f3"
+    ],
+    "name:fre_x_preferred":[
+        "Casab\u00f3"
+    ],
+    "name:ger_x_preferred":[
+        "Casab\u00f3"
+    ],
+    "name:sco_x_preferred":[
+        "Casab\u00f3"
+    ],
+    "name:spa_x_preferred":[
+        "Casab\u00f3"
+    ],
+    "qs_pg:aaroncc":"UY",
+    "qs_pg:gn_country":"UY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3480825,
+    "qs_pg:gn_pop":2000,
+    "qs_pg:name":"Pajas Blancas",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":95679,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680339,
+        1092076321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3480825,
+        "qs_pg:id":95679,
+        "wd:id":"Q984873"
+    },
+    "wof:country":"UY",
+    "wof:created":1497294162,
+    "wof:geomhash":"ce94600bd8eab1404164e57a96dca333",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092076321,
+            "locality_id":1125868395,
+            "region_id":85680339
+        }
+    ],
+    "wof:id":1125868395,
+    "wof:lastmodified":1514502040,
+    "wof:name":"Pajas Blancas",
+    "wof:parent_id":1092076321,
+    "wof:placetype":"locality",
+    "wof:population":2000,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.33417,
+    -34.80167,
+    -56.33417,
+    -34.80167
+],
+  "geometry": {"coordinates":[-56.33417,-34.80167],"type":"Point"}
+}

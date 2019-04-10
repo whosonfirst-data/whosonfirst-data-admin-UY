@@ -1,0 +1,72 @@
+{
+  "id": 1242563291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.75736,-33.7397,-54.75736,-33.7397",
+    "geom:latitude":-33.7397,
+    "geom:longitude":-54.75736,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Piraraja",
+    "gn:cc2":"UY",
+    "gn:country_code":"UY",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3441076,
+    "gn:latitude":-33.7397,
+    "gn:longitude":-54.75736,
+    "gn:modification_date":"2018-02-23",
+    "gn:name":"Piraraj\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Santa Mar\u00eda",
+        "Santa Mar\u00eda del Piraraj\u00e1",
+        "Piraraj\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3441076,
+        "wk:page":"Piraraj%C3%A1"
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"f062320a2068a53c8394c1b63b71d782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1242563291,
+            "region_id":85680329
+        }
+    ],
+    "wof:id":1242563291,
+    "wof:lastmodified":1537713211,
+    "wof:name":"Piraraja",
+    "wof:parent_id":85680329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.75736,
+    -33.7397,
+    -54.75736,
+    -33.7397
+],
+  "geometry": {"coordinates":[-54.75736,-33.7397],"type":"Point"}
+}

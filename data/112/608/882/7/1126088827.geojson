@@ -1,0 +1,112 @@
+{
+  "id": 1126088827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.21667,-34.85,-56.21667,-34.85",
+    "geom:latitude":-34.85,
+    "geom:longitude":-56.21667,
+    "gn:gn_country":"UY",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":-34.85,
+    "gn:longitude":-56.21667,
+    "iso:country":"UY",
+    "lbl:latitude":-34.85,
+    "lbl:longitude":-56.21667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Belvedere"
+    ],
+    "name:deu_x_preferred":[
+        "Belvedere"
+    ],
+    "name:pol_x_preferred":[
+        "Belvedere"
+    ],
+    "name:spa_x_preferred":[
+        "Belvedere",
+        "Belveder"
+    ],
+    "name:unk_x_variant":[
+        "Belveder"
+    ],
+    "qs_pg:aaroncc":"UY",
+    "qs_pg:gn_country":"UY",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3443622,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Belveder",
+    "qs_pg:name_adm0":"Uruguay",
+    "qs_pg:name_adm1":"Montevideo",
+    "qs_pg:photos":136,
+    "qs_pg:photos_1k":28,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":136,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":893986,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424979,
+    "qs_pg:woe_id":380381,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424979,
+    "woe:name_adm0":"Uruguay",
+    "woe:name_adm1":"Montevideo",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85680339,
+        102191577,
+        85632511,
+        1092076321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3443622,
+        "gp:id":380381,
+        "qs:id":893986,
+        "qs_pg:id":893986,
+        "wd:id":"Q1005240",
+        "wk:page":"Belvedere, Montevideo"
+    },
+    "wof:country":"UY",
+    "wof:created":1497313269,
+    "wof:geomhash":"fee7468fbbc4ff79cb1585abcbb083fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092076321,
+            "locality_id":-1,
+            "neighbourhood_id":1126088827,
+            "region_id":85680339
+        }
+    ],
+    "wof:id":1126088827,
+    "wof:lastmodified":1534379804,
+    "wof:name":"Belveder",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85764909
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.21667,
+    -34.85,
+    -56.21667,
+    -34.85
+],
+  "geometry": {"coordinates":[-56.21667,-34.85],"type":"Point"}
+}

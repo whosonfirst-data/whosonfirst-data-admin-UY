@@ -1,0 +1,230 @@
+{
+  "id": 421201403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.16667,-34.66667,-54.16667,-34.66667",
+    "geom:latitude":-34.66667,
+    "geom:longitude":-54.16667,
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":7.0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "La Paloma"
+    ],
+    "name:chi_x_preferred":[
+        "\u62c9\u5e15\u6d1b\u99ac"
+    ],
+    "name:deu_x_preferred":[
+        "La Paloma"
+    ],
+    "name:dut_x_preferred":[
+        "La Paloma"
+    ],
+    "name:eng_x_preferred":[
+        "La Paloma"
+    ],
+    "name:epo_x_preferred":[
+        "La Paloma"
+    ],
+    "name:fra_x_preferred":[
+        "La Paloma"
+    ],
+    "name:fre_x_preferred":[
+        "La Paloma"
+    ],
+    "name:ger_x_preferred":[
+        "La Paloma"
+    ],
+    "name:ita_x_preferred":[
+        "La Paloma"
+    ],
+    "name:nob_x_preferred":[
+        "La Paloma"
+    ],
+    "name:nor_x_preferred":[
+        "La Paloma"
+    ],
+    "name:por_x_preferred":[
+        "La Paloma"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430-\u041f\u0430\u043b\u043e\u043c\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "La Paloma"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430-\u041f\u0430\u043b\u043e\u043c\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Puerto de la Paloma"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u067e\u0627\u0644\u0648\u0645\u0627\u060c \u0631\u0648\u0686\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u5e15\u6d1b\u99ac"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Uruguay",
+    "ne:ADM0_A3":"URY",
+    "ne:ADM1NAME":"Rocha",
+    "ne:ADMIN1_COD":14,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3442105,
+    "ne:GEONAMESNO":"Geonames ascii name + lat.d + long.d matching.",
+    "ne:GN_ASCII":"La Paloma",
+    "ne:GN_POP":3230,
+    "ne:GTOPO30":1.0,
+    "ne:ISO_A2":"UY",
+    "ne:LABELRANK":8,
+    "ne:LATITUDE":-34.669991,
+    "ne:LONGITUDE":-54.169986,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"La Paloma",
+    "ne:MAX_AREAKM":3.0,
+    "ne:MAX_AREAMI":1.0,
+    "ne:MAX_BBXMAX":-54.15,
+    "ne:MAX_BBXMIN":-54.175,
+    "ne:MAX_BBYMAX":-34.65,
+    "ne:MAX_BBYMIN":-34.666667,
+    "ne:MAX_NATSCA":10.0,
+    "ne:MAX_PERKM":9.0,
+    "ne:MAX_PERMI":5.0,
+    "ne:MAX_POP10":2564,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-54.1625,
+    "ne:MEAN_BBYC":-34.660417,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":3.0,
+    "ne:MIN_AREAMI":1.0,
+    "ne:MIN_BBXMAX":-54.15,
+    "ne:MIN_BBXMIN":-54.175,
+    "ne:MIN_BBYMAX":-34.65,
+    "ne:MIN_BBYMIN":-34.666667,
+    "ne:MIN_PERKM":9.0,
+    "ne:MIN_PERMI":5.0,
+    "ne:NAME":"La Paloma",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"La Paloma",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":10,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":3230,
+    "ne:POP_MIN":2564,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":4,
+    "ne:RANK_MIN":4,
+    "ne:SCALERANK":8,
+    "ne:SOV0NAME":"Uruguay",
+    "ne:SOV_A3":"URY",
+    "ne:TIMEZONE":"America/Montevideo",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"UY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3442105,
+    "qs:gn_pop":3230,
+    "qs:name":"La Paloma",
+    "qs:name_adm0":"Uruguay",
+    "qs:name_adm1":"Rocha",
+    "qs:photos":1183,
+    "qs:photos_1k":240,
+    "qs:photos_9k":5,
+    "qs:photos_9r":7,
+    "qs:photos_all":1183,
+    "qs:photos_sr":11,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":211187,
+    "qs:woe_adm0":23424979,
+    "qs:woe_id":380901,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":252,
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3442105,
+        "gp:id":380901,
+        "qs:id":211187,
+        "wd:id":"Q893173",
+        "wk:page":"La Paloma, Rocha"
+    },
+    "wof:country":"UY",
+    "wof:created":1459010071,
+    "wof:geomhash":"b835692fe2baa550c9ac14cf4c4f8635",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":421201403,
+            "region_id":85680343
+        }
+    ],
+    "wof:id":421201403,
+    "wof:lastmodified":1527716441,
+    "wof:name":"La Paloma",
+    "wof:parent_id":85680343,
+    "wof:placetype":"locality",
+    "wof:population":3230,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.16667,
+    -34.66667,
+    -54.16667,
+    -34.66667
+],
+  "geometry": {"coordinates":[-54.16667,-34.66667],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293014399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.6156,-30.46747,-57.6156,-30.46747",
+    "geom:latitude":-30.46747,
+    "geom:longitude":-57.6156,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"02",
+    "gn:asciiname":"Colonia Vinar",
+    "gn:country_code":"UY",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8058822,
+    "gn:latitude":-30.46747,
+    "gn:longitude":-57.6156,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Colonia Vi\u00f1ar",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Colonia Vi\u00f1ar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680355,
+        1092075277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8058822
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"e0befb2427b78867a62d1629a8089620",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092075277,
+            "locality_id":1293014399,
+            "region_id":85680355
+        }
+    ],
+    "wof:id":1293014399,
+    "wof:lastmodified":1537713222,
+    "wof:name":"Colonia Vinar",
+    "wof:parent_id":1092075277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.6156,
+    -30.46747,
+    -57.6156,
+    -30.46747
+],
+  "geometry": {"coordinates":[-57.6156,-30.46747],"type":"Point"}
+}

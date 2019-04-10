@@ -1,0 +1,75 @@
+{
+  "id": 1327452673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.39673,-34.74657,-55.39673,-34.74657",
+    "geom:latitude":-34.74657,
+    "geom:longitude":-55.39673,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"08",
+    "gn:asciiname":"Gregorio Aznares",
+    "gn:country_code":"UY",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3442450,
+    "gn:latitude":-34.74657,
+    "gn:longitude":-55.39673,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Gregorio Azn\u00e1res",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Gregorio Azn\u00e1res"
+    ],
+    "name:und_x_variant":[
+        "Gregorio Azn\u00e1rez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680335,
+        1092074821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3442450,
+        "wk:page":"Gregorio_Azn%C3%A1rez"
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"b3fb2d58ff7f479decaf316407f763e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092074821,
+            "locality_id":1327452673,
+            "region_id":85680335
+        }
+    ],
+    "wof:id":1327452673,
+    "wof:lastmodified":1537713216,
+    "wof:name":"Gregorio Aznares",
+    "wof:parent_id":1092074821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.39673000000001,
+    -34.74657,
+    -55.39673000000001,
+    -34.74657
+],
+  "geometry": {"coordinates":[-55.39673000000001,-34.74657],"type":"Point"}
+}

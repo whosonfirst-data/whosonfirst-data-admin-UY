@@ -1,0 +1,71 @@
+{
+  "id": 1226138845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.85397,-34.91196,-54.85397,-34.91196",
+    "geom:latitude":-34.91196,
+    "geom:longitude":-54.85397,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"07",
+    "gn:asciiname":"La Barra",
+    "gn:country_code":"UY",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3442162,
+    "gn:latitude":-34.91196,
+    "gn:longitude":-54.85397,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"La Barra",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Barra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680335,
+        1092075463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3442162
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"b16eb55b39529c0d35034bea751702be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092075463,
+            "locality_id":1226138845,
+            "region_id":85680335
+        }
+    ],
+    "wof:id":1226138845,
+    "wof:lastmodified":1537713216,
+    "wof:name":"La Barra",
+    "wof:parent_id":1092075463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.85397,
+    -34.91196,
+    -54.85397,
+    -34.91196
+],
+  "geometry": {"coordinates":[-54.85397,-34.91196],"type":"Point"}
+}

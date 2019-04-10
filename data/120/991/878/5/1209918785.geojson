@@ -1,0 +1,66 @@
+{
+  "id": 1209918785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.98333,-33.11667,-55.98333,-33.11667",
+    "geom:latitude":-33.11667,
+    "geom:longitude":-55.98333,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"02",
+    "gn:asciiname":"Rolon",
+    "gn:country_code":"UY",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3440756,
+    "gn:latitude":-33.11667,
+    "gn:longitude":-55.98333,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Rol\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3440756
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"ea23dc2f8fff4d0cb79a39147b5cfc6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1209918785,
+            "region_id":85680303
+        }
+    ],
+    "wof:id":1209918785,
+    "wof:lastmodified":1536370816,
+    "wof:name":"Rolon",
+    "wof:parent_id":85680303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.98333,
+    -33.11667,
+    -55.98333,
+    -33.11667
+],
+  "geometry": {"coordinates":[-55.98333,-33.11667],"type":"Point"}
+}

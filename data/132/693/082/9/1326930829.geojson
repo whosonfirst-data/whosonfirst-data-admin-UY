@@ -1,0 +1,66 @@
+{
+  "id": 1326930829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.93073,-34.21871,-57.93073,-34.21871",
+    "geom:latitude":-34.21871,
+    "geom:longitude":-57.93073,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Los Cerros de San Juan",
+    "gn:country_code":"UY",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3441953,
+    "gn:latitude":-34.21871,
+    "gn:longitude":-57.93073,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Los Cerros de San Juan",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3441953,
+        "wk:page":"Los_Cerros_de_San_Juan"
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"b5089be1fe3f1a707ef6d8a30ef99a74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1326930829,
+            "region_id":85680347
+        }
+    ],
+    "wof:id":1326930829,
+    "wof:lastmodified":1537575740,
+    "wof:name":"Los Cerros de San Juan",
+    "wof:parent_id":85680347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.93073,
+    -34.21870999999999,
+    -57.93073,
+    -34.21870999999999
+],
+  "geometry": {"coordinates":[-57.93073,-34.21870999999999],"type":"Point"}
+}

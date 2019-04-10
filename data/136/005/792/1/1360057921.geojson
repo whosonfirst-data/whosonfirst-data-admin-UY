@@ -1,0 +1,68 @@
+{
+  "id": 1360057921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.80433,-34.32319,-56.80433,-34.32319",
+    "geom:latitude":-34.32319,
+    "geom:longitude":-56.80433,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Juan Soler",
+    "gn:country_code":"UY",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3442199,
+    "gn:latitude":-34.32319,
+    "gn:longitude":-56.80433,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Juan Soler",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Juan Soler"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3442199
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"5b9d38c49be94bfaf76858a7bbd1ec64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1360057921,
+            "region_id":85680349
+        }
+    ],
+    "wof:id":1360057921,
+    "wof:lastmodified":1537713216,
+    "wof:name":"Juan Soler",
+    "wof:parent_id":85680349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.80433000000001,
+    -34.32319,
+    -56.80433000000001,
+    -34.32319
+],
+  "geometry": {"coordinates":[-56.80433000000001,-34.32319],"type":"Point"}
+}

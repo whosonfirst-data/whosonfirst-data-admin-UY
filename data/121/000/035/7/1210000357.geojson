@@ -1,0 +1,70 @@
+{
+  "id": 1210000357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.1168,-34.881,-56.1168,-34.881",
+    "geom:latitude":-34.881,
+    "geom:longitude":-56.1168,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"06",
+    "gn:asciiname":"Malvin Norte",
+    "gn:country_code":"UY",
+    "gn:dem":42,
+    "gn:elevation":"42.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9072748,
+    "gn:latitude":-34.881,
+    "gn:longitude":-56.1168,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Malv\u00edn Norte",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680339,
+        1092077025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9072748,
+        "wk:page":"Malv%C3%ADn_Norte"
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"ec44422c846a99e09195fe11e80a7aec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092077025,
+            "locality_id":1210000357,
+            "region_id":85680339
+        }
+    ],
+    "wof:id":1210000357,
+    "wof:lastmodified":1537575743,
+    "wof:name":"Malvin Norte",
+    "wof:parent_id":1092077025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.1168,
+    -34.881,
+    -56.1168,
+    -34.881
+],
+  "geometry": {"coordinates":[-56.1168,-34.881],"type":"Point"}
+}

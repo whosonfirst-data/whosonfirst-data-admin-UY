@@ -1,0 +1,65 @@
+{
+  "id": 1259394245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.3483,-32.40207,-54.3483,-32.40207",
+    "geom:latitude":-32.40207,
+    "geom:longitude":-54.3483,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Banado de Medina",
+    "gn:country_code":"UY",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3443693,
+    "gn:latitude":-32.40207,
+    "gn:longitude":-54.3483,
+    "gn:modification_date":"2018-02-23",
+    "gn:name":"Ba\u00f1ado de Medina",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3443693
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"68f7a029711ddf0dd5f2de29d5684fd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1259394245,
+            "region_id":85680299
+        }
+    ],
+    "wof:id":1259394245,
+    "wof:lastmodified":1536986002,
+    "wof:name":"Banado de Medina",
+    "wof:parent_id":85680299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.3483,
+    -32.40207,
+    -54.3483,
+    -32.40207
+],
+  "geometry": {"coordinates":[-54.3483,-32.40207],"type":"Point"}
+}

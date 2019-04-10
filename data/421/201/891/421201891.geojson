@@ -1,0 +1,134 @@
+{
+  "id": 421201891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.43612,-30.42737,-57.43612,-30.42737",
+    "geom:latitude":-30.42737,
+    "geom:longitude":-57.43612,
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:arm_x_preferred":[
+        "\u0539\u0578\u0574\u0561\u057d \u0533\u0578\u0574\u0565\u0576\u057d\u0578\u0580\u0578"
+    ],
+    "name:cat_x_preferred":[
+        "Tom\u00e1s Gomensoro"
+    ],
+    "name:chi_x_preferred":[
+        "\u6258\u99ac\u65af\u6208\u9580\u7d22\u7f85"
+    ],
+    "name:deu_x_preferred":[
+        "Tom\u00e1s Gomensoro"
+    ],
+    "name:dut_x_preferred":[
+        "Tom\u00e1s Gomensoro"
+    ],
+    "name:eng_x_preferred":[
+        "Tom\u00e1s Gomensoro"
+    ],
+    "name:fra_x_preferred":[
+        "Tom\u00e1s Gomensoro"
+    ],
+    "name:fre_x_preferred":[
+        "Tom\u00e1s Gomensoro"
+    ],
+    "name:ger_x_preferred":[
+        "Tom\u00e1s Gomensoro"
+    ],
+    "name:hye_x_preferred":[
+        "\u0539\u0578\u0574\u0561\u057d \u0533\u0578\u0574\u0565\u0576\u057d\u0578\u0580\u0578"
+    ],
+    "name:ita_x_preferred":[
+        "Tom\u00e1s Gomensoro"
+    ],
+    "name:nob_x_preferred":[
+        "Tom\u00e1s Gomensoro"
+    ],
+    "name:nor_x_preferred":[
+        "Tom\u00e1s Gomensoro"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u043c\u0430\u0441-\u0413\u043e\u043c\u0435\u043d\u0441\u043e\u0440\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Tom\u00e1s Gomensoro"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u043e\u043c\u0430\u0441-\u0413\u043e\u043c\u0435\u043d\u0441\u043e\u0440\u043e"
+    ],
+    "name:wel_x_preferred":[
+        "Tom\u00e1s Gomensoro"
+    ],
+    "name:zho_x_preferred":[
+        "\u6258\u99ac\u65af\u6208\u9580\u7d22\u7f85"
+    ],
+    "qs:gn_country":"UY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3439831,
+    "qs:gn_pop":2872,
+    "qs:name":"Tom\u00e1s Gomensoro",
+    "qs:name_adm0":"Uruguay",
+    "qs:name_adm1":"Artigas",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":215130,
+    "qs:woe_adm0":23424979,
+    "qs:woe_id":468047,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":154,
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3439831,
+        "gp:id":468047,
+        "qs:id":215130,
+        "wd:id":"Q1313974",
+        "wk:page":"Tom\u00e1s Gomensoro"
+    },
+    "wof:country":"UY",
+    "wof:created":1459010091,
+    "wof:geomhash":"62edca084888cc9f3309d45fac9592b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":421201891,
+            "region_id":85680355
+        }
+    ],
+    "wof:id":421201891,
+    "wof:lastmodified":1527716440,
+    "wof:name":"Tom\u00e1s Gomensoro",
+    "wof:parent_id":85680355,
+    "wof:placetype":"locality",
+    "wof:population":2872,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.43612,
+    -30.42737,
+    -57.43612,
+    -30.42737
+],
+  "geometry": {"coordinates":[-57.43612,-30.42737],"type":"Point"}
+}

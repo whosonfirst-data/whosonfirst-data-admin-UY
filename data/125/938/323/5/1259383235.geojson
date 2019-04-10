@@ -1,0 +1,69 @@
+{
+  "id": 1259383235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.19264,-34.43732,-57.19264,-34.43732",
+    "geom:latitude":-34.43732,
+    "geom:longitude":-57.19264,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"09",
+    "gn:asciiname":"Santa Regina",
+    "gn:country_code":"UY",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10943549,
+    "gn:latitude":-34.43732,
+    "gn:longitude":-57.19264,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Santa Regina",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santa Regina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10943549
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"36aef19e450e85b629a5e132373ac98c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1259383235,
+            "region_id":85680347
+        }
+    ],
+    "wof:id":1259383235,
+    "wof:lastmodified":1537713226,
+    "wof:name":"Santa Regina",
+    "wof:parent_id":85680347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.19264,
+    -34.43732,
+    -57.19264,
+    -34.43732
+],
+  "geometry": {"coordinates":[-57.19264,-34.43732],"type":"Point"}
+}

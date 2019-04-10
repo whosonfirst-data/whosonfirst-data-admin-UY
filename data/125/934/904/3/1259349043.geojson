@@ -1,0 +1,66 @@
+{
+  "id": 1259349043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.97929,-31.80763,-55.97929,-31.80763",
+    "geom:latitude":-31.80763,
+    "geom:longitude":-55.97929,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Paso Bonilla",
+    "gn:country_code":"UY",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10174965,
+    "gn:latitude":-31.80763,
+    "gn:longitude":-55.97929,
+    "gn:modification_date":"2015-03-27",
+    "gn:name":"Paso Bonilla",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10174965,
+        "wk:page":"Paso_Bonilla"
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"7d888bd10bf2de0e5e3867f35b35dc5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1259349043,
+            "region_id":85680311
+        }
+    ],
+    "wof:id":1259349043,
+    "wof:lastmodified":1537575743,
+    "wof:name":"Paso Bonilla",
+    "wof:parent_id":85680311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.97929,
+    -31.80763,
+    -55.97929,
+    -31.80763
+],
+  "geometry": {"coordinates":[-55.97929,-31.80763],"type":"Point"}
+}

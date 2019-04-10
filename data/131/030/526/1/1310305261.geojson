@@ -1,0 +1,65 @@
+{
+  "id": 1310305261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.35,-34.06667,-57.35,-34.06667",
+    "geom:latitude":-34.06667,
+    "geom:longitude":-57.35,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Colla",
+    "gn:country_code":"UY",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3443036,
+    "gn:latitude":-34.06667,
+    "gn:longitude":-57.35,
+    "gn:modification_date":"1993-12-15",
+    "gn:name":"Colla",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3443036
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"b4d0254d1552cbc80b9089be1f543ebd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1310305261,
+            "region_id":85680347
+        }
+    ],
+    "wof:id":1310305261,
+    "wof:lastmodified":1536708565,
+    "wof:name":"Colla",
+    "wof:parent_id":85680347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.35,
+    -34.06667,
+    -57.35,
+    -34.06667
+],
+  "geometry": {"coordinates":[-57.35,-34.06667],"type":"Point"}
+}

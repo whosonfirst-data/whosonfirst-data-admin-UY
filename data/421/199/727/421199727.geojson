@@ -1,0 +1,223 @@
+{
+  "id": 421199727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.23333,-34.3,-57.23333,-34.3",
+    "geom:latitude":-34.3,
+    "geom:longitude":-57.23333,
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0646\u0648\u064a\u0641\u0627 \u0647\u0644\u0641\u064a\u0633\u064a\u0627"
+    ],
+    "name:arm_x_preferred":[
+        "\u0546\u0578\u0582\u0565\u057e\u0561 \u0537\u056c\u057e\u0565\u057d\u056b\u0561"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a8\u09cd\u09af\u09c1\u09ad \u09b9\u09c7\u09b2\u09cd\u09ad\u09bf\u09b8\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:cat_x_preferred":[
+        "Nueva Helvecia"
+    ],
+    "name:chi_x_preferred":[
+        "\u65b0\u57c3\u723e\u97cb\u897f\u4e9e"
+    ],
+    "name:dan_x_preferred":[
+        "Nueva Helvecia"
+    ],
+    "name:deu_x_preferred":[
+        "Nueva Helvecia"
+    ],
+    "name:dut_x_preferred":[
+        "Nueva Helvecia"
+    ],
+    "name:eng_x_preferred":[
+        "Nueva Helvecia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0626\u0648\u0627 \u0647\u0644\u0648\u06a9\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Nueva Helvecia"
+    ],
+    "name:fra_x_preferred":[
+        "Nueva Helvecia"
+    ],
+    "name:fre_x_preferred":[
+        "Nueva Helvecia"
+    ],
+    "name:ger_x_preferred":[
+        "Nueva Helvecia"
+    ],
+    "name:gre_x_preferred":[
+        "\u039d\u03bf\u03c5\u03ad\u03b2\u03b1 \u03a7\u03b5\u03bb\u03b2\u03ad\u03c4\u03c3\u03b9\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aa8\u0ac1\u0a8f\u0ab5\u0abe \u0ab9\u0ac7\u0ab2\u0acd\u0ab5\u0ac7\u0ab8\u0ac0\u0aaf\u0abe"
+    ],
+    "name:hin_x_preferred":[
+        "\u0928\u0942\u0935\u0947\u0932\u0947\u0938\u093f\u092f\u093e"
+    ],
+    "name:hrv_x_preferred":[
+        "Nueva Helvecia"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0578\u0582\u0565\u057e\u0561 \u0537\u056c\u057e\u0565\u057d\u056b\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "Nueva Helvecia"
+    ],
+    "name:ita_x_preferred":[
+        "Nueva Helvecia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cc\u30a8\u30f4\u30a1\u30fb\u30d8\u30eb\u30d9\u30b7\u30a2"
+    ],
+    "name:kan_x_preferred":[
+        "\u0ca8\u0cc1\u0cb5\u0cbe \u0cb9\u0cc6\u0cb2\u0ccd\u0cb5\u0cc6\u0cb8\u0cbf\u0caf"
+    ],
+    "name:kor_x_preferred":[
+        "\ub204\uc5d0\ubc14 \uc5d8\ubca0\uc2dc\uc544"
+    ],
+    "name:lav_x_preferred":[
+        "Nueva Elvesija"
+    ],
+    "name:lit_x_preferred":[
+        "Nueva Helvesija"
+    ],
+    "name:mar_x_preferred":[
+        "\u0928\u0942\u0935\u0947 \u0939\u0947\u0932\u094d\u0935\u093f\u0938\u093f\u092f\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Nueva Helvecia"
+    ],
+    "name:nah_x_preferred":[
+        "Nueva Helvecia"
+    ],
+    "name:nld_x_preferred":[
+        "Nueva Helvecia"
+    ],
+    "name:nob_x_preferred":[
+        "Nueva Helvecia"
+    ],
+    "name:nor_x_preferred":[
+        "Nueva Helvecia"
+    ],
+    "name:per_x_preferred":[
+        "\u0646\u0648\u0626\u0648\u0627 \u0647\u0644\u0648\u06a9\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Nueva Helvecia"
+    ],
+    "name:por_x_preferred":[
+        "Nueva Helvecia"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0443\u044d\u0432\u0430-\u042d\u043b\u044c\u0432\u0435\u0441\u0438\u044f"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db1\u0dd4\u0d91\u0dc0\u0dcf \u0dc4\u0dd9\u0dbd\u0dca\u0dc0\u0dd9\u0dc3\u0dd2\u0dba\u0dcf"
+    ],
+    "name:spa_x_preferred":[
+        "Nueva Helvecia"
+    ],
+    "name:swe_x_preferred":[
+        "Nueva Helvecia"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba8\u0bc1\u0b8e\u0bb5\u0bbe \u0bb9\u0bc6\u0bb2\u0bcd\u0bb5\u0bc6\u0bb8\u0bbf\u0b86"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c28\u0c4d\u0c2f\u0c42\u0c35\u0c3e \u0c39\u0c46\u0c32\u0c4d\u0c35\u0c46\u0c38\u0c3f\u0c2f\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e19\u0e31\u0e27\u0e27\u0e32 \u0e40\u0e2e\u0e25\u0e40\u0e27\u0e40\u0e0b\u0e35\u0e22"
+    ],
+    "name:tur_x_preferred":[
+        "Nuevva Helvecia"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0443\u0435\u0432\u0430-\u0415\u043b\u044c\u0432\u0435\u0441\u0456\u044f"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0648\u06cc\u0648\u0627 \u06c1\u06cc\u0644\u0648\u06cc\u0633\u06cc\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Nueva Helvecia"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u57c3\u723e\u97cb\u897f\u4e9e"
+    ],
+    "qs:gn_country":"UY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3441483,
+    "qs:gn_pop":10054,
+    "qs:name":"Nueva Helvecia",
+    "qs:name_adm0":"Uruguay",
+    "qs:name_adm1":"Colonia",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":7,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":195481,
+    "qs:woe_adm0":23424979,
+    "qs:woe_id":468719,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":-34.288889,
+    "wd:longitude":-57.233333,
+    "wd:wordcount":1148,
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3441483,
+        "gp:id":468719,
+        "qs:id":195481,
+        "wd:id":"Q999572",
+        "wk:page":"Nueva Helvecia"
+    },
+    "wof:country":"UY",
+    "wof:created":1459009999,
+    "wof:geomhash":"3f3ba81600eddb00eb3f0022876eb482",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":421199727,
+            "region_id":85680347
+        }
+    ],
+    "wof:id":421199727,
+    "wof:lastmodified":1527716420,
+    "wof:name":"Nueva Helvecia",
+    "wof:parent_id":85680347,
+    "wof:placetype":"locality",
+    "wof:population":10054,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.23333,
+    -34.3,
+    -57.23333,
+    -34.3
+],
+  "geometry": {"coordinates":[-57.23333,-34.3],"type":"Point"}
+}

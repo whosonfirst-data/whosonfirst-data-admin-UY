@@ -1,0 +1,71 @@
+{
+  "id": 1343770795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.33291,-34.68893,-56.33291,-34.68893",
+    "geom:latitude":-34.68893,
+    "geom:longitude":-56.33291,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"07",
+    "gn:asciiname":"Rincon del Colorado",
+    "gn:country_code":"UY",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10861506,
+    "gn:latitude":-34.68893,
+    "gn:longitude":-56.33291,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Rinc\u00f3n del Colorado",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Rinc\u00f3n del Colorado"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680321,
+        1092076505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10861506
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"78a9025a535918f30f7c6a055f8c935c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092076505,
+            "locality_id":1343770795,
+            "region_id":85680321
+        }
+    ],
+    "wof:id":1343770795,
+    "wof:lastmodified":1537713225,
+    "wof:name":"Rincon del Colorado",
+    "wof:parent_id":1092076505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.33291,
+    -34.68893,
+    -56.33291,
+    -34.68893
+],
+  "geometry": {"coordinates":[-56.33291,-34.68893],"type":"Point"}
+}

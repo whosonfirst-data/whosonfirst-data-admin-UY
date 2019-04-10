@@ -1,0 +1,227 @@
+{
+  "id": 421182653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.22361,-34.76167,-56.22361,-34.76167",
+    "geom:latitude":-34.76167,
+    "geom:longitude":-56.22361,
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0644\u0627 \u0628\u0627\u0632"
+    ],
+    "name:arm_x_preferred":[
+        "\u053c\u0561 \u054a\u0561\u057d"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09be \u09aa\u09be\u099c"
+    ],
+    "name:cat_x_preferred":[
+        "La Paz"
+    ],
+    "name:cbk_zam_x_preferred":[
+        "La Paz"
+    ],
+    "name:chi_x_preferred":[
+        "\u62c9\u5df4\u65af"
+    ],
+    "name:dan_x_preferred":[
+        "La Paz"
+    ],
+    "name:deu_x_preferred":[
+        "La Paz"
+    ],
+    "name:dut_x_preferred":[
+        "La Paz"
+    ],
+    "name:eng_x_preferred":[
+        "La Paz"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u067e\u0627\u0632\u060c \u0627\u0631\u0648\u06af\u0648\u0626\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "La Paz"
+    ],
+    "name:fra_x_preferred":[
+        "La Paz"
+    ],
+    "name:fre_x_preferred":[
+        "La Paz"
+    ],
+    "name:geo_x_preferred":[
+        "\u10da\u10d0-\u10de\u10d0\u10e1\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "La Paz"
+    ],
+    "name:gre_x_preferred":[
+        "\u039b\u03b1 \u03a0\u03b1\u03b6"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab2\u0abe \u0aaa\u0abe\u0a9d"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d4 \u05e4\u05d0\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u093e \u092a\u093e\u091c\u093c"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0561 \u054a\u0561\u057d"
+    ],
+    "name:ind_x_preferred":[
+        "La Paz"
+    ],
+    "name:ita_x_preferred":[
+        "La Paz"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30fb\u30d1\u30b9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb2\u0cbe \u0caa\u0cbe\u0c9c\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d0-\u10de\u10d0\u10e1\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\ud30c\uc2a4"
+    ],
+    "name:lav_x_preferred":[
+        "Laspasa"
+    ],
+    "name:lit_x_preferred":[
+        "La Pasas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0932\u093e \u092a\u093e\u091d"
+    ],
+    "name:may_x_preferred":[
+        "La Paz"
+    ],
+    "name:nld_x_preferred":[
+        "La Paz"
+    ],
+    "name:nob_x_preferred":[
+        "La Paz"
+    ],
+    "name:nor_x_preferred":[
+        "La Paz"
+    ],
+    "name:per_x_preferred":[
+        "\u0644\u0627 \u067e\u0627\u0632\u060c \u0627\u0631\u0648\u06af\u0648\u0626\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "La Paz"
+    ],
+    "name:por_x_preferred":[
+        "La Paz"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430-\u041f\u0430\u0441"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dbd\u0dcf \u0db4\u0dcf\u0dc3\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "La Paz"
+    ],
+    "name:swe_x_preferred":[
+        "La Paz"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb2\u0bbe  \u0baa\u0bbe\u0bb8\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c32\u0c3e \u0c2a\u0c3e\u0c1c\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e25\u0e32\u0e1b\u0e32\u0e0b"
+    ],
+    "name:tur_x_preferred":[
+        "La Paz"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430-\u041f\u0430\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u067e\u0627\u0632\u060c \u06cc\u0648\u0631\u0627\u06af\u0648\u0626\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "La Paz"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u5df4\u65af"
+    ],
+    "qs:gn_country":"UY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3442098,
+    "qs:gn_pop":19913,
+    "qs:name":"La Paz",
+    "qs:name_adm0":"Uruguay",
+    "qs:name_adm1":"Canelones",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1264270,
+    "qs:woe_adm0":23424979,
+    "qs:woe_id":380558,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":342,
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3442098,
+        "gp:id":380558,
+        "qs:id":1264270,
+        "wd:id":"Q997833",
+        "wk:page":"La Paz, Uruguay"
+    },
+    "wof:country":"UY",
+    "wof:created":1459009337,
+    "wof:geomhash":"03faf9c06268eb688f6f4ee9f8adbc8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":421182653,
+            "region_id":85680321
+        }
+    ],
+    "wof:id":421182653,
+    "wof:lastmodified":1527726460,
+    "wof:name":"La Paz",
+    "wof:parent_id":85680321,
+    "wof:placetype":"locality",
+    "wof:population":19913,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.22361,
+    -34.76167,
+    -56.22361,
+    -34.76167
+],
+  "geometry": {"coordinates":[-56.22361,-34.76167],"type":"Point"}
+}

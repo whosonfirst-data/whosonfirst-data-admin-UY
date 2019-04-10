@@ -1,0 +1,71 @@
+{
+  "id": 1327397073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.06667,-31.75,-56.06667,-31.75",
+    "geom:latitude":-31.75,
+    "geom:longitude":-56.06667,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Rincon de la Aldea",
+    "gn:cc2":"UY",
+    "gn:country_code":"UY",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3440806,
+    "gn:latitude":-31.75,
+    "gn:longitude":-56.06667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Rinc\u00f3n de la Aldea",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Poblado Rinc\u00f3n de la Aldea",
+        "Rinc\u00f3n Aldea",
+        "Rinc\u00f3n de la Aldea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3440806
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"f9a5f725830f7e316bb905e02cdb5995",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1327397073,
+            "region_id":85680311
+        }
+    ],
+    "wof:id":1327397073,
+    "wof:lastmodified":1537713206,
+    "wof:name":"Rincon de la Aldea",
+    "wof:parent_id":85680311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.06667,
+    -31.75,
+    -56.06667,
+    -31.75
+],
+  "geometry": {"coordinates":[-56.06667,-31.75],"type":"Point"}
+}

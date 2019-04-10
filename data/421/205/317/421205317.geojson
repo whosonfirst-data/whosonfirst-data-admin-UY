@@ -1,0 +1,128 @@
+{
+  "id": 421205317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.05,-32.98333,-58.05,-32.98333",
+    "geom:latitude":-32.98333,
+    "geom:longitude":-58.05,
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Nuevo Berl\u00edn"
+    ],
+    "name:chi_x_preferred":[
+        "\u65b0\u67cf\u6797"
+    ],
+    "name:deu_x_preferred":[
+        "Nuevo Berl\u00edn"
+    ],
+    "name:dut_x_preferred":[
+        "Nuevo Berl\u00edn"
+    ],
+    "name:eng_x_preferred":[
+        "Nuevo Berl\u00edn"
+    ],
+    "name:fra_x_preferred":[
+        "Nuevo Berl\u00edn"
+    ],
+    "name:fre_x_preferred":[
+        "Nuevo Berl\u00edn"
+    ],
+    "name:ger_x_preferred":[
+        "Nuevo Berl\u00edn"
+    ],
+    "name:ita_x_preferred":[
+        "Nuevo Berl\u00edn"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cc\u30a8\u30dc\u30fb\u30d9\u30eb\u30ea\u30f3"
+    ],
+    "name:nob_x_preferred":[
+        "Nuevo Berl\u00edn"
+    ],
+    "name:nor_x_preferred":[
+        "Nuevo Berl\u00edn"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0443\u044d\u0432\u043e-\u0411\u0435\u0440\u043b\u0438\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Nuevo Berl\u00edn"
+    ],
+    "name:tur_x_preferred":[
+        "Nuevo Berlin"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u67cf\u6797"
+    ],
+    "qs:gn_country":"UY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3441476,
+    "qs:gn_pop":2461,
+    "qs:name":"Nuevo Berl\u00edn",
+    "qs:name_adm0":"Uruguay",
+    "qs:name_adm1":"R\u00edo Negro",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":260660,
+    "qs:woe_adm0":23424979,
+    "qs:woe_id":468033,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":391,
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3441476,
+        "gp:id":468033,
+        "qs:id":260660,
+        "wd:id":"Q1714088",
+        "wk:page":"Nuevo Berl\u00edn"
+    },
+    "wof:country":"UY",
+    "wof:created":1459010221,
+    "wof:geomhash":"6c0201a071fd25676ecf2435a7f8da5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":421205317,
+            "region_id":85680367
+        }
+    ],
+    "wof:id":421205317,
+    "wof:lastmodified":1527716222,
+    "wof:name":"Nuevo Berl\u00edn",
+    "wof:parent_id":85680367,
+    "wof:placetype":"locality",
+    "wof:population":2461,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.05,
+    -32.98333,
+    -58.05,
+    -32.98333
+],
+  "geometry": {"coordinates":[-58.05,-32.98333],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1259966869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.37633,-32.56,-57.37633,-32.56",
+    "geom:latitude":-32.56,
+    "geom:longitude":-57.37633,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Villa Maria",
+    "gn:country_code":"UY",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10862737,
+    "gn:latitude":-32.56,
+    "gn:longitude":-57.37633,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Villa Mar\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Villa Mar\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10862737
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"1e583f9781ac9801474e060eea91a7f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1259966869,
+            "region_id":85680367
+        }
+    ],
+    "wof:id":1259966869,
+    "wof:lastmodified":1537713226,
+    "wof:name":"Villa Maria",
+    "wof:parent_id":85680367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.37633,
+    -32.56,
+    -57.37633,
+    -32.56
+],
+  "geometry": {"coordinates":[-57.37633,-32.56],"type":"Point"}
+}

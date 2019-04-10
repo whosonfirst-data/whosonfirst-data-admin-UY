@@ -1,0 +1,122 @@
+{
+  "id": 421168217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.88333,-31.95,-57.88333,-31.95",
+    "geom:latitude":-31.95,
+    "geom:longitude":-57.88333,
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Quebracho"
+    ],
+    "name:chi_x_preferred":[
+        "\u514b\u5e03\u62c9\u55ac"
+    ],
+    "name:deu_x_preferred":[
+        "Quebracho"
+    ],
+    "name:dut_x_preferred":[
+        "Quebracho"
+    ],
+    "name:eng_x_preferred":[
+        "Quebracho"
+    ],
+    "name:fra_x_preferred":[
+        "Quebracho"
+    ],
+    "name:fre_x_preferred":[
+        "Quebracho"
+    ],
+    "name:ger_x_preferred":[
+        "Quebracho"
+    ],
+    "name:ita_x_preferred":[
+        "Quebracho"
+    ],
+    "name:nob_x_preferred":[
+        "Quebracho"
+    ],
+    "name:nor_x_preferred":[
+        "Quebracho"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u0431\u0440\u0430\u0447\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Quebracho"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u5e03\u62c9\u55ac"
+    ],
+    "qs:gn_country":"UY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3440925,
+    "qs:gn_pop":2871,
+    "qs:name":"Quebracho",
+    "qs:name_adm0":"Uruguay",
+    "qs:name_adm1":"Paysand\u00fa",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":84,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1044734,
+    "qs:woe_adm0":23424979,
+    "qs:woe_id":468096,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":187,
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3440925,
+        "gp:id":468096,
+        "qs:id":1044734,
+        "wd:id":"Q2095080",
+        "wk:page":"Quebracho, Uruguay"
+    },
+    "wof:country":"UY",
+    "wof:created":1459008758,
+    "wof:geomhash":"da82985e06cbedbc1d1c1d8a41b28e93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":421168217,
+            "region_id":85680363
+        }
+    ],
+    "wof:id":421168217,
+    "wof:lastmodified":1527716092,
+    "wof:name":"Quebracho",
+    "wof:parent_id":85680363,
+    "wof:placetype":"locality",
+    "wof:population":2871,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.88333,
+    -31.95,
+    -57.88333,
+    -31.95
+],
+  "geometry": {"coordinates":[-57.88333,-31.95],"type":"Point"}
+}

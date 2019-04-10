@@ -1,0 +1,65 @@
+{
+  "id": 1260001685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.41254,-33.20338,-57.41254,-33.20338",
+    "geom:latitude":-33.20338,
+    "geom:longitude":-57.41254,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"El Tala",
+    "gn:country_code":"UY",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3442686,
+    "gn:latitude":-33.20338,
+    "gn:longitude":-57.41254,
+    "gn:modification_date":"2018-02-23",
+    "gn:name":"El Tala",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3442686
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"84e4d29c4bc2bd638bffb75e487f3dd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1260001685,
+            "region_id":85680293
+        }
+    ],
+    "wof:id":1260001685,
+    "wof:lastmodified":1536606031,
+    "wof:name":"El Tala",
+    "wof:parent_id":85680293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.41254,
+    -33.20338,
+    -57.41254,
+    -33.20338
+],
+  "geometry": {"coordinates":[-57.41254,-33.20338],"type":"Point"}
+}

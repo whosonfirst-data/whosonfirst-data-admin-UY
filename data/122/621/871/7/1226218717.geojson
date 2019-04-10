@@ -1,0 +1,68 @@
+{
+  "id": 1226218717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.55113,-33.79438,-57.55113,-33.79438",
+    "geom:latitude":-33.79438,
+    "geom:longitude":-57.55113,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Zanja Honda",
+    "gn:country_code":"UY",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3439513,
+    "gn:latitude":-33.79438,
+    "gn:longitude":-57.55113,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Zanja Honda",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Zanja Honda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3439513
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"e04b53f2ac6f7c4bf83074a7399c4853",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1226218717,
+            "region_id":85680293
+        }
+    ],
+    "wof:id":1226218717,
+    "wof:lastmodified":1537713203,
+    "wof:name":"Zanja Honda",
+    "wof:parent_id":85680293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.55113000000001,
+    -33.79438,
+    -57.55113000000001,
+    -33.79438
+],
+  "geometry": {"coordinates":[-57.55113000000001,-33.79438],"type":"Point"}
+}

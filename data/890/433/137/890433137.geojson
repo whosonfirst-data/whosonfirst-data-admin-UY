@@ -1,0 +1,97 @@
+{
+  "id": 890433137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.54167,-34.38278,-56.54167,-34.38278",
+    "geom:latitude":-34.38278,
+    "geom:longitude":-56.54167,
+    "gn:country":"UY",
+    "gn:fcode":"PPL",
+    "gn:pop":2588,
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Rodr\u00edguez"
+    ],
+    "name:dut_x_preferred":[
+        "Rodr\u00edguez"
+    ],
+    "name:eng_x_preferred":[
+        "Rodr\u00edguez"
+    ],
+    "name:fre_x_preferred":[
+        "Rodr\u00edguez"
+    ],
+    "name:ger_x_preferred":[
+        "Rodr\u00edguez"
+    ],
+    "name:nob_x_preferred":[
+        "Rodr\u00edguez"
+    ],
+    "name:oci_x_preferred":[
+        "Rodr\u00edguez"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0434\u0440\u0438\u0433\u0435\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Rodr\u00edguez"
+    ],
+    "name:unk_x_variant":[
+        "Concordia"
+    ],
+    "qs:name":"Rodr\u00edguez",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":231,
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3440762,
+        "gp:id":380941,
+        "qs:id":95577,
+        "wd:id":"Q32453",
+        "wk:page":"Rodriguez"
+    },
+    "wof:country":"UY",
+    "wof:created":1469051968,
+    "wof:geomhash":"63f487d79d5b35aecb9ce6eab00b3b71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":890433137,
+            "region_id":85680349
+        }
+    ],
+    "wof:id":890433137,
+    "wof:lastmodified":1527792955,
+    "wof:name":"Rodr\u00edguez",
+    "wof:parent_id":85680349,
+    "wof:placetype":"locality",
+    "wof:population":2588,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.54167,
+    -34.38278,
+    -56.54167,
+    -34.38278
+],
+  "geometry": {"coordinates":[-56.54167,-34.38278],"type":"Point"}
+}

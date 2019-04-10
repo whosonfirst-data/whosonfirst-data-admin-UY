@@ -1,0 +1,98 @@
+{
+  "id": 421203979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.65854,-34.76182,-55.65854,-34.76182",
+    "geom:latitude":-34.76182,
+    "geom:longitude":-55.65854,
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Costa Azul"
+    ],
+    "name:dut_x_preferred":[
+        "Costa Azul"
+    ],
+    "name:eng_x_preferred":[
+        "Costa Azul"
+    ],
+    "name:fre_x_preferred":[
+        "Costa Azul"
+    ],
+    "name:ger_x_preferred":[
+        "Costa Azul"
+    ],
+    "name:nob_x_preferred":[
+        "Costa Azul"
+    ],
+    "name:spa_x_preferred":[
+        "Costa Azul"
+    ],
+    "qs:gn_country":"UY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":7645482,
+    "qs:gn_pop":0,
+    "qs:name":"Costa Azul",
+    "qs:name_adm0":"Uruguay",
+    "qs:name_adm1":"Canelones",
+    "qs:photos":60,
+    "qs:photos_1k":12,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":60,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":236445,
+    "qs:woe_adm0":23424979,
+    "qs:woe_id":10644990,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":79,
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7645482,
+        "gp:id":10644990,
+        "qs:id":236445,
+        "wd:id":"Q984848",
+        "wk:page":"Costa Azul"
+    },
+    "wof:country":"UY",
+    "wof:created":1459010170,
+    "wof:geomhash":"d0af8000360d810fe1f32614d6d9a815",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":421203979,
+            "region_id":85680321
+        }
+    ],
+    "wof:id":421203979,
+    "wof:lastmodified":1527716194,
+    "wof:name":"Costa Azul",
+    "wof:parent_id":85680321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.65854,
+    -34.76182,
+    -55.65854,
+    -34.76182
+],
+  "geometry": {"coordinates":[-55.65854,-34.76182],"type":"Point"}
+}

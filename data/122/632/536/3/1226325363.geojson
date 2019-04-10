@@ -1,0 +1,74 @@
+{
+  "id": 1226325363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.21537,-30.9875,-56.21537,-30.9875",
+    "geom:latitude":-30.9875,
+    "geom:longitude":-56.21537,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Sarandi del Arapey",
+    "gn:country_code":"UY",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3440532,
+    "gn:latitude":-30.9875,
+    "gn:longitude":-56.21537,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Sarand\u00ed del Arapey",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Sarand\u00ed del Arapey"
+    ],
+    "name:und_x_variant":[
+        "Sarand\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680289,
+        1092075161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3440532
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"2f79be61e1025d6689b82a73740fa67f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092075161,
+            "locality_id":1226325363,
+            "region_id":85680289
+        }
+    ],
+    "wof:id":1226325363,
+    "wof:lastmodified":1537713205,
+    "wof:name":"Sarandi del Arapey",
+    "wof:parent_id":1092075161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.21536999999999,
+    -30.9875,
+    -56.21536999999999,
+    -30.9875
+],
+  "geometry": {"coordinates":[-56.21536999999999,-30.9875],"type":"Point"}
+}

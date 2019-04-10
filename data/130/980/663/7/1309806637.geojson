@@ -1,0 +1,71 @@
+{
+  "id": 1309806637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.51894,-34.74189,-55.51894,-34.74189",
+    "geom:latitude":-34.74189,
+    "geom:longitude":-55.51894,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"27",
+    "gn:asciiname":"Piedras de Afilar",
+    "gn:country_code":"UY",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3441111,
+    "gn:latitude":-34.74189,
+    "gn:longitude":-55.51894,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Piedras de Afilar",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Piedras de Afilar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680321,
+        1092075681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3441111
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"c2f71df5096be416a15956b129f0eda6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092075681,
+            "locality_id":1309806637,
+            "region_id":85680321
+        }
+    ],
+    "wof:id":1309806637,
+    "wof:lastmodified":1537713211,
+    "wof:name":"Piedras de Afilar",
+    "wof:parent_id":1092075681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.51894,
+    -34.74189000000001,
+    -55.51894,
+    -34.74189000000001
+],
+  "geometry": {"coordinates":[-55.51894,-34.74189000000001],"type":"Point"}
+}

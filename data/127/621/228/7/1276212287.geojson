@@ -1,0 +1,68 @@
+{
+  "id": 1276212287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.58557,-33.93474,-54.58557,-33.93474",
+    "geom:latitude":-33.93474,
+    "geom:longitude":-54.58557,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Rincon de Mariscala",
+    "gn:country_code":"UY",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10645471,
+    "gn:latitude":-33.93474,
+    "gn:longitude":-54.58557,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Rinc\u00f3n de Mariscala",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Rinc\u00f3n de Mariscala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10645471
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"577f7a0a801e010639515813ae30bda3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1276212287,
+            "region_id":85680329
+        }
+    ],
+    "wof:id":1276212287,
+    "wof:lastmodified":1537713224,
+    "wof:name":"Rincon de Mariscala",
+    "wof:parent_id":85680329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.58557,
+    -33.93474000000001,
+    -54.58557,
+    -33.93474000000001
+],
+  "geometry": {"coordinates":[-54.58557,-33.93474000000001],"type":"Point"}
+}

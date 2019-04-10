@@ -1,0 +1,65 @@
+{
+  "id": 1327100057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.75,-33.2,-54.75,-33.2",
+    "geom:latitude":-33.2,
+    "geom:longitude":-54.75,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Rincon de Gutierrez",
+    "gn:country_code":"UY",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3440807,
+    "gn:latitude":-33.2,
+    "gn:longitude":-54.75,
+    "gn:modification_date":"1993-12-15",
+    "gn:name":"Rinc\u00f3n de Guti\u00e9rrez",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3440807
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"4ecf43b9be34f7963377600cd29dcf73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1327100057,
+            "region_id":85680317
+        }
+    ],
+    "wof:id":1327100057,
+    "wof:lastmodified":1536662961,
+    "wof:name":"Rincon de Gutierrez",
+    "wof:parent_id":85680317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.75,
+    -33.2,
+    -54.75,
+    -33.2
+],
+  "geometry": {"coordinates":[-54.75,-33.2],"type":"Point"}
+}

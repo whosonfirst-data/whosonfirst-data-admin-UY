@@ -1,0 +1,95 @@
+{
+  "id": 421170961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.61172,-34.77041,-55.61172,-34.77041",
+    "geom:latitude":-34.77041,
+    "geom:longitude":-55.61172,
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "San Luis"
+    ],
+    "name:dut_x_preferred":[
+        "San Luis"
+    ],
+    "name:eng_x_preferred":[
+        "San Luis"
+    ],
+    "name:fre_x_preferred":[
+        "San Luis"
+    ],
+    "name:ger_x_preferred":[
+        "San Luis"
+    ],
+    "name:nob_x_preferred":[
+        "San Luis"
+    ],
+    "name:spa_x_preferred":[
+        "San Luis"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"San Luis",
+    "qs:name_adm0":"Uruguay",
+    "qs:name_adm1":"Canelones",
+    "qs:photos":76,
+    "qs:photos_1k":15,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":76,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1263008,
+    "qs:woe_adm0":23424979,
+    "qs:woe_id":10644994,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":10644994,
+        "qs:id":1263008,
+        "wd:id":"Q260096"
+    },
+    "wof:country":"UY",
+    "wof:created":1459008876,
+    "wof:geomhash":"c590a3751b1393250bd1913e568ec65b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":421170961,
+            "region_id":85680321
+        }
+    ],
+    "wof:id":421170961,
+    "wof:lastmodified":1553816362,
+    "wof:name":"San Luis",
+    "wof:parent_id":85680321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.61172,
+    -34.77041,
+    -55.61172,
+    -34.77041
+],
+  "geometry": {"coordinates":[-55.61172,-34.77041],"type":"Point"}
+}

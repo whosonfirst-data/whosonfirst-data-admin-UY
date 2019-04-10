@@ -1,0 +1,68 @@
+{
+  "id": 1327129725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.98519,-34.39185,-54.98519,-34.39185",
+    "geom:latitude":-34.39185,
+    "geom:longitude":-54.98519,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Marco de Los Reyes",
+    "gn:country_code":"UY",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10642770,
+    "gn:latitude":-34.39185,
+    "gn:longitude":-54.98519,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Marco de Los Reyes",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Marco de Los Reyes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10642770
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"0c1d90ffc0e2fadcc3badc79b5a976ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1327129725,
+            "region_id":85680329
+        }
+    ],
+    "wof:id":1327129725,
+    "wof:lastmodified":1537713224,
+    "wof:name":"Marco de Los Reyes",
+    "wof:parent_id":85680329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.98519,
+    -34.39185,
+    -54.98519,
+    -34.39185
+],
+  "geometry": {"coordinates":[-54.98519,-34.39185],"type":"Point"}
+}

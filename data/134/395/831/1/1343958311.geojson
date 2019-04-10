@@ -1,0 +1,71 @@
+{
+  "id": 1343958311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.33503,-34.27533,-57.33503,-34.27533",
+    "geom:latitude":-34.27533,
+    "geom:longitude":-57.33503,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Rosario y Colla",
+    "gn:country_code":"UY",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11171800,
+    "gn:latitude":-34.27533,
+    "gn:longitude":-57.33503,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Rosario y Colla",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Rosario y Colla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680347,
+        1092075943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11171800
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"98566def1b3a6137c84b1fa9379660e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092075943,
+            "locality_id":1343958311,
+            "region_id":85680347
+        }
+    ],
+    "wof:id":1343958311,
+    "wof:lastmodified":1537713228,
+    "wof:name":"Rosario y Colla",
+    "wof:parent_id":1092075943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.33503,
+    -34.27533,
+    -57.33503,
+    -34.27533
+],
+  "geometry": {"coordinates":[-57.33503,-34.27533],"type":"Point"}
+}

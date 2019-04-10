@@ -1,0 +1,104 @@
+{
+  "id": 1125868387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.69944,-34.58389,-56.69944,-34.58389",
+    "geom:latitude":-34.58389,
+    "geom:longitude":-56.69944,
+    "gn:gn_country":"UY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1312,
+    "gn:population":1312,
+    "iso:country":"UY",
+    "lbl:latitude":-34.58389,
+    "lbl:longitude":-56.69944,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u054a\u0578\u0582\u0576\u057f\u0561\u057d \u0564\u0565 \u054e\u0561\u056c\u0564\u0565\u057d"
+    ],
+    "name:cat_x_preferred":[
+        "Puntas de Valdez"
+    ],
+    "name:dut_x_preferred":[
+        "Puntas de Valdez"
+    ],
+    "name:eng_x_preferred":[
+        "Puntas de Valdez"
+    ],
+    "name:fre_x_preferred":[
+        "Puntas de Valdez"
+    ],
+    "name:ger_x_preferred":[
+        "Puntas de Vald\u00e9z"
+    ],
+    "name:nob_x_preferred":[
+        "Puntas de Valdez"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u043d\u0442\u0430\u0441-\u0434\u0435-\u0412\u0430\u043b\u044c\u0434\u0435\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Puntas de Vald\u00e9z"
+    ],
+    "qs_pg:aaroncc":"UY",
+    "qs_pg:gn_country":"UY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3480812,
+    "qs_pg:gn_pop":1312,
+    "qs_pg:name":"Puntas de Valdez",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":95678,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3480812,
+        "qs_pg:id":95678,
+        "wd:id":"Q423201"
+    },
+    "wof:country":"UY",
+    "wof:created":1497294161,
+    "wof:geomhash":"c656fbc8a8d673c452529581fce79193",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1125868387,
+            "region_id":85680349
+        }
+    ],
+    "wof:id":1125868387,
+    "wof:lastmodified":1514502046,
+    "wof:name":"Puntas de Valdez",
+    "wof:parent_id":85680349,
+    "wof:placetype":"locality",
+    "wof:population":1312,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.69944,
+    -34.58389,
+    -56.69944,
+    -34.58389
+],
+  "geometry": {"coordinates":[-56.69944,-34.58389],"type":"Point"}
+}

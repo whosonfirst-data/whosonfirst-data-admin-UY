@@ -1,0 +1,71 @@
+{
+  "id": 1327140393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.67321,-34.17276,-57.67321,-34.17276",
+    "geom:latitude":-34.17276,
+    "geom:longitude":-57.67321,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"05",
+    "gn:asciiname":"San Luis Sanchez",
+    "gn:country_code":"UY",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11171842,
+    "gn:latitude":-34.17276,
+    "gn:longitude":-57.67321,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"San Luis S\u00e1nchez",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Luis S\u00e1nchez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680347,
+        1092075901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11171842
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"fc39461d0507c33b76a19d3cebd29ecf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092075901,
+            "locality_id":1327140393,
+            "region_id":85680347
+        }
+    ],
+    "wof:id":1327140393,
+    "wof:lastmodified":1537713229,
+    "wof:name":"San Luis Sanchez",
+    "wof:parent_id":1092075901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.67321,
+    -34.17276,
+    -57.67321,
+    -34.17276
+],
+  "geometry": {"coordinates":[-57.67321,-34.17276],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1360258341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.77372,-30.80745,-57.77372,-30.80745",
+    "geom:latitude":-30.80745,
+    "geom:longitude":-57.77372,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"01",
+    "gn:asciiname":"Chacras de Belen",
+    "gn:country_code":"UY",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10944862,
+    "gn:latitude":-30.80745,
+    "gn:longitude":-57.77372,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Chacras de Bel\u00e9n",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chacras de Bel\u00e9n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680289,
+        1092075193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10944862
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"e404d5c37e3cb03d9ecea79308c8dc50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092075193,
+            "locality_id":1360258341,
+            "region_id":85680289
+        }
+    ],
+    "wof:id":1360258341,
+    "wof:lastmodified":1537713228,
+    "wof:name":"Chacras de Belen",
+    "wof:parent_id":1092075193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.77372,
+    -30.80745,
+    -57.77372,
+    -30.80745
+],
+  "geometry": {"coordinates":[-57.77372,-30.80745],"type":"Point"}
+}

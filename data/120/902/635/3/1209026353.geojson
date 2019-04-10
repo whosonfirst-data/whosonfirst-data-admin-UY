@@ -1,0 +1,64 @@
+{
+  "id": 1209026353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.36217,-34.2057,-55.36217,-34.2057",
+    "geom:latitude":-34.2057,
+    "geom:longitude":-55.36217,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"El Soldado",
+    "gn:country_code":"UY",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10643058,
+    "gn:latitude":-34.2057,
+    "gn:longitude":-55.36217,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"El Soldado",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Soldado"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10643058
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"32b98f0f0723a1c2c979fbce40ef105a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632511,
+            "locality_id":1209026353
+        }
+    ],
+    "wof:id":1209026353,
+    "wof:lastmodified":1537713224,
+    "wof:name":"El Soldado",
+    "wof:parent_id":85632511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.36216999999999,
+    -34.2057,
+    -55.36216999999999,
+    -34.2057
+],
+  "geometry": {"coordinates":[-55.36216999999999,-34.2057],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209598901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.12352,-34.59211,-54.12352,-34.59211",
+    "geom:latitude":-34.59211,
+    "geom:longitude":-54.12352,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"03",
+    "gn:asciiname":"La Pedrera",
+    "gn:country_code":"UY",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3442094,
+    "gn:latitude":-34.59211,
+    "gn:longitude":-54.12352,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"La Pedrera",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Punta Rubia",
+        "Balneario La Pedrera",
+        "Playa La Pedrera",
+        "La Pedrera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3442094
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"40442a548bcc73e06e34ab4078a90489",
+    "wof:hierarchy":[
+        {
+            "country_id":85632511,
+            "locality_id":1209598901
+        }
+    ],
+    "wof:id":1209598901,
+    "wof:lastmodified":1537713215,
+    "wof:name":"La Pedrera",
+    "wof:parent_id":85632511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.12351999999999,
+    -34.59211,
+    -54.12351999999999,
+    -34.59211
+],
+  "geometry": {"coordinates":[-54.12351999999999,-34.59211],"type":"Point"}
+}

@@ -1,0 +1,111 @@
+{
+  "id": 1126107791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.19444,-34.90528,-56.19444,-34.90528",
+    "geom:latitude":-34.90528,
+    "geom:longitude":-56.19444,
+    "gn:gn_country":"UY",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":-34.90528,
+    "gn:longitude":-56.19444,
+    "iso:country":"UY",
+    "lbl:latitude":-34.90528,
+    "lbl:longitude":-56.19444,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Centro"
+    ],
+    "name:deu_x_preferred":[
+        "Centro"
+    ],
+    "name:sco_x_preferred":[
+        "Centro"
+    ],
+    "name:spa_x_preferred":[
+        "Centro"
+    ],
+    "name:unk_x_variant":[
+        "Centro"
+    ],
+    "qs_pg:aaroncc":"UY",
+    "qs_pg:gn_country":"UY",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3443220,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Centro",
+    "qs_pg:name_adm0":"Uruguay",
+    "qs_pg:name_adm1":"Montevideo",
+    "qs_pg:photos":9196,
+    "qs_pg:photos_1k":1000,
+    "qs_pg:photos_9k":41,
+    "qs_pg:photos_9r":15,
+    "qs_pg:photos_all":9196,
+    "qs_pg:photos_sr":25,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":489661,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424979,
+    "qs_pg:woe_id":380421,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424979,
+    "woe:name_adm0":"Uruguay",
+    "woe:name_adm1":"Montevideo",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85680339,
+        102191577,
+        85632511,
+        1092076277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3443220,
+        "gp:id":380421,
+        "qs:id":489661,
+        "qs_pg:id":489661,
+        "wd:id":"Q984382",
+        "wk:page":"Centro, Montevideo"
+    },
+    "wof:country":"UY",
+    "wof:created":1497317505,
+    "wof:geomhash":"e0f53198b1fa728adb022ec113a1c327",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092076277,
+            "locality_id":-1,
+            "neighbourhood_id":1126107791,
+            "region_id":85680339
+        }
+    ],
+    "wof:id":1126107791,
+    "wof:lastmodified":1534379804,
+    "wof:name":"Centro",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85764919
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.19444,
+    -34.90528,
+    -56.19444,
+    -34.90528
+],
+  "geometry": {"coordinates":[-56.19444,-34.90528],"type":"Point"}
+}

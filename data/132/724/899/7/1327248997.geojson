@@ -1,0 +1,72 @@
+{
+  "id": 1327248997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.61312,-30.21396,-57.61312,-30.21396",
+    "geom:latitude":-30.21396,
+    "geom:longitude":-57.61312,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"02",
+    "gn:asciiname":"Franquia",
+    "gn:country_code":"UY",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8057938,
+    "gn:latitude":-30.21396,
+    "gn:longitude":-57.61312,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Franqu\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Franqu\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680355,
+        1092075277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8057938,
+        "wk:page":"Franquia"
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"77d20452359278491e18a3f0aad0e5ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092075277,
+            "locality_id":1327248997,
+            "region_id":85680355
+        }
+    ],
+    "wof:id":1327248997,
+    "wof:lastmodified":1537713222,
+    "wof:name":"Franquia",
+    "wof:parent_id":1092075277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.61312,
+    -30.21396,
+    -57.61312,
+    -30.21396
+],
+  "geometry": {"coordinates":[-57.61312,-30.21396],"type":"Point"}
+}

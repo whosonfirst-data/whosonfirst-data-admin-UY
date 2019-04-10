@@ -1,0 +1,68 @@
+{
+  "id": 1226314367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.74748,-33.85005,-57.74748,-33.85005",
+    "geom:latitude":-33.85005,
+    "geom:longitude":-57.74748,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Pueblo Castillos",
+    "gn:country_code":"UY",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10943739,
+    "gn:latitude":-33.85005,
+    "gn:longitude":-57.74748,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Pueblo Castillos",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pueblo Castillos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10943739
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"582be1fee59f2534c6d2e245e6f48a46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1226314367,
+            "region_id":85680293
+        }
+    ],
+    "wof:id":1226314367,
+    "wof:lastmodified":1537713227,
+    "wof:name":"Pueblo Castillos",
+    "wof:parent_id":85680293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.74748,
+    -33.85005,
+    -57.74748,
+    -33.85005
+],
+  "geometry": {"coordinates":[-57.74748,-33.85005],"type":"Point"}
+}

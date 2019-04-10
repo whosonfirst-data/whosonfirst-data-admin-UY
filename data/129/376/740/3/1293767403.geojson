@@ -1,0 +1,72 @@
+{
+  "id": 1293767403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.20833,-34.90833,-56.20833,-34.90833",
+    "geom:latitude":-34.90833,
+    "geom:longitude":-56.20833,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"02",
+    "gn:asciiname":"Ciudad Vieja",
+    "gn:country_code":"UY",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3473789,
+    "gn:latitude":-34.90833,
+    "gn:longitude":-56.20833,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Ciudad Vieja",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Cidade Velha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680339,
+        1092076277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3473789,
+        "wk:page":"Ciudad_Vieja%2C_Montevideo"
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"a314d0546f1b304dc2d50ddc29e465bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092076277,
+            "locality_id":1293767403,
+            "region_id":85680339
+        }
+    ],
+    "wof:id":1293767403,
+    "wof:lastmodified":1537713222,
+    "wof:name":"Ciudad Vieja",
+    "wof:parent_id":1092076277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.20833,
+    -34.90833,
+    -56.20833,
+    -34.90833
+],
+  "geometry": {"coordinates":[-56.20833,-34.90833],"type":"Point"}
+}

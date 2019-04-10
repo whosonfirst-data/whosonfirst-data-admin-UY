@@ -1,0 +1,68 @@
+{
+  "id": 1225938577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.64742,-33.99113,-55.64742,-33.99113",
+    "geom:latitude":-33.99113,
+    "geom:longitude":-55.64742,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Reboledo",
+    "gn:country_code":"UY",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3440855,
+    "gn:latitude":-33.99113,
+    "gn:longitude":-55.64742,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Reboledo",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Reboledo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3440855
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"cef96d8eacf60cba5df9a44426edc951",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1225938577,
+            "region_id":85680325
+        }
+    ],
+    "wof:id":1225938577,
+    "wof:lastmodified":1537713207,
+    "wof:name":"Reboledo",
+    "wof:parent_id":85680325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.64742,
+    -33.99113,
+    -55.64742,
+    -33.99113
+],
+  "geometry": {"coordinates":[-55.64742,-33.99113],"type":"Point"}
+}

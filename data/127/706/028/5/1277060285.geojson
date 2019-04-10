@@ -1,0 +1,72 @@
+{
+  "id": 1277060285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.25292,-34.89441,-56.25292,-34.89441",
+    "geom:latitude":-34.89441,
+    "geom:longitude":-56.25292,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"01",
+    "gn:asciiname":"Villa del Cerro",
+    "gn:country_code":"UY",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3439597,
+    "gn:latitude":-34.89441,
+    "gn:longitude":-56.25292,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Villa del Cerro",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Vilja del Seras"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680339,
+        1092076321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3439597,
+        "wk:page":"Villa_del_Cerro"
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"9445c11e800741ac22b3d576deadf083",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092076321,
+            "locality_id":1277060285,
+            "region_id":85680339
+        }
+    ],
+    "wof:id":1277060285,
+    "wof:lastmodified":1537713203,
+    "wof:name":"Villa del Cerro",
+    "wof:parent_id":1092076321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.25292,
+    -34.89441,
+    -56.25292,
+    -34.89441
+],
+  "geometry": {"coordinates":[-56.25292,-34.89441],"type":"Point"}
+}

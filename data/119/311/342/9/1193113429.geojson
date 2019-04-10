@@ -1,0 +1,65 @@
+{
+  "id": 1193113429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.0,-33.86667,-57.0,-33.86667",
+    "geom:latitude":-33.86667,
+    "geom:longitude":-57.0,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Machado",
+    "gn:country_code":"UY",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3441920,
+    "gn:latitude":-33.86667,
+    "gn:longitude":-57.0,
+    "gn:modification_date":"1993-12-15",
+    "gn:name":"Machado",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3441920
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"c696fe1daaf91e38d664f2f119c39229",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1193113429,
+            "region_id":85680359
+        }
+    ],
+    "wof:id":1193113429,
+    "wof:lastmodified":1536370785,
+    "wof:name":"Machado",
+    "wof:parent_id":85680359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.0,
+    -33.86667,
+    -57.0,
+    -33.86667
+],
+  "geometry": {"coordinates":[-57.0,-33.86667],"type":"Point"}
+}

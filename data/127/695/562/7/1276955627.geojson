@@ -1,0 +1,68 @@
+{
+  "id": 1276955627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.35826,-33.16441,-58.35826,-33.16441",
+    "geom:latitude":-33.16441,
+    "geom:longitude":-58.35826,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Las Canas",
+    "gn:country_code":"UY",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10943734,
+    "gn:latitude":-33.16441,
+    "gn:longitude":-58.35826,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Las Ca\u00f1as",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Ca\u00f1as"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10943734
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"fa9b8b2b44f0355c7c41c145a024e90d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1276955627,
+            "region_id":85680367
+        }
+    ],
+    "wof:id":1276955627,
+    "wof:lastmodified":1537713227,
+    "wof:name":"Las Canas",
+    "wof:parent_id":85680367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.35826,
+    -33.16441,
+    -58.35826,
+    -33.16441
+],
+  "geometry": {"coordinates":[-58.35826,-33.16441],"type":"Point"}
+}

@@ -1,0 +1,190 @@
+{
+  "id": 890444647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.41667,-34.43333,-57.41667,-34.43333",
+    "geom:latitude":-34.43333,
+    "geom:longitude":-57.41667,
+    "gn:country":"UY",
+    "gn:fcode":"PPL",
+    "gn:pop":13223,
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062e\u0648\u0627\u0646 \u0644\u0627\u0643\u0627\u0632\u064a"
+    ],
+    "name:arm_x_preferred":[
+        "\u053d\u0578\u0582\u0561\u0576 \u053c\u0561\u056f\u0561\u057d\u0565"
+    ],
+    "name:bel_x_preferred":[
+        "\u0425\u0443\u0430\u043d-\u041b\u0430\u043a\u0430\u0441\u044d"
+    ],
+    "name:ben_x_preferred":[
+        "\u099c\u09c1\u09af\u09bc\u09be\u09be\u09a8 \u09b2\u09be\u0995\u09c7\u0987\u099c"
+    ],
+    "name:cat_x_preferred":[
+        "Juan Lacaze"
+    ],
+    "name:chi_x_preferred":[
+        "\u80e1\u5b89\u62c9\u5361\u585e"
+    ],
+    "name:dan_x_preferred":[
+        "Juan Lacaze"
+    ],
+    "name:dut_x_preferred":[
+        "Juan Lacaze"
+    ],
+    "name:eng_x_preferred":[
+        "Juan Lacaze"
+    ],
+    "name:fin_x_preferred":[
+        "Juan Lacaze"
+    ],
+    "name:fre_x_preferred":[
+        "Juan Lacaze"
+    ],
+    "name:ger_x_preferred":[
+        "Juan Lacaze"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a7\u03bf\u03c5\u03ac\u03bd \u039b\u03b1\u03ba\u03ac\u03b6\u03b5"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a9c\u0ac1\u0a86\u0aa8 \u0ab2\u0ac7\u0a95\u0ac7\u0a9d"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05d5\u05d0\u05df \u05dc\u05e7\u05d0\u05e1\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0939\u0941\u0906\u0928 \u0932\u0915\u093e\u091c\u093c"
+    ],
+    "name:ind_x_preferred":[
+        "Juan Lacaze"
+    ],
+    "name:ita_x_preferred":[
+        "Juan Lacaze"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a2\u30f3\u30fb\u30e9\u30ab\u30bb"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c9c\u0cc1\u0cb5\u0cbe\u0ca8\u0ccd \u0cb2\u0c95\u0cc7\u0c9c\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ud6c4\uc548 \ub77c\uce74\uc81c"
+    ],
+    "name:lav_x_preferred":[
+        "Huanlakase"
+    ],
+    "name:lit_x_preferred":[
+        "Chuan Lakas\u0117"
+    ],
+    "name:mar_x_preferred":[
+        "\u091c\u0941\u0906\u0928 \u0932\u0945\u0915\u091d\u0940"
+    ],
+    "name:may_x_preferred":[
+        "Juan Lacaze"
+    ],
+    "name:nob_x_preferred":[
+        "Juan Lacaze"
+    ],
+    "name:per_x_preferred":[
+        "\u062e\u0648\u0627\u0646 \u0644\u0627\u06a9\u0627\u0632\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Juan Lacaze"
+    ],
+    "name:por_x_preferred":[
+        "Juan L. Lacaze"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0443\u0430\u043d-\u041b\u0430\u043a\u0430\u0441\u0435"
+    ],
+    "name:sin_x_preferred":[
+        "\u0da2\u0dd4\u0d86\u0db1\u0dca \u0dbd\u0d9a\u0dcf\u0dc3\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Juan Lacaze"
+    ],
+    "name:swe_x_preferred":[
+        "Juan Lacaze"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9c\u0bc2\u0ba9\u0bbe\u0ba9\u0bcd  \u0bb2\u0b95\u0bcd\u0b95\u0bbe\u0bb8\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1c\u0c41\u0c35\u0c3e\u0c28\u0c4d \u0c32\u0c3e\u0c15\u0c3e\u0c1c\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e08\u0e27\u0e19 \u0e25\u0e32\u0e40\u0e04\u0e0b"
+    ],
+    "name:tur_x_preferred":[
+        "Juan Lacaze"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0443\u0430\u043d-\u041b\u0430\u043a\u0430\u0441\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Pueblo Juan L. Lacaze"
+    ],
+    "name:urd_x_preferred":[
+        "\u062e\u0648\u0627\u0646 \u0644\u0627\u06a9\u0627\u0633\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "Juan Lacaze"
+    ],
+    "qs:name":"Juan L. Lacaze",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":294,
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3442206,
+        "gp:id":468797,
+        "qs:id":1044745,
+        "wd:id":"Q657514",
+        "wk:page":"Juan Lacaze"
+    },
+    "wof:country":"UY",
+    "wof:created":1469052476,
+    "wof:geomhash":"28136ef3ecc483eb31196603d54f2139",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":890444647,
+            "region_id":85680347
+        }
+    ],
+    "wof:id":890444647,
+    "wof:lastmodified":1527782135,
+    "wof:name":"Juan L. Lacaze",
+    "wof:parent_id":85680347,
+    "wof:placetype":"locality",
+    "wof:population":13223,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.41667,
+    -34.43333,
+    -57.41667,
+    -34.43333
+],
+  "geometry": {"coordinates":[-57.41667,-34.43333],"type":"Point"}
+}

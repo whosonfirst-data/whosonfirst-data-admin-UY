@@ -1,0 +1,72 @@
+{
+  "id": 1293195819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.05333,-34.78111,-56.05333,-34.78111",
+    "geom:latitude":-34.78111,
+    "geom:longitude":-56.05333,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"07",
+    "gn:asciiname":"Villa Garcia",
+    "gn:country_code":"UY",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3480819,
+    "gn:latitude":-34.78111,
+    "gn:longitude":-56.05333,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Villa Garc\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Villa Garc\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680339,
+        1092076429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3480819,
+        "wk:page":"Villa_Garc%C3%ADa"
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"a41666fe88c8b0e9d115623faac5f483",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092076429,
+            "locality_id":1293195819,
+            "region_id":85680339
+        }
+    ],
+    "wof:id":1293195819,
+    "wof:lastmodified":1537713222,
+    "wof:name":"Villa Garcia",
+    "wof:parent_id":1092076429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.05333,
+    -34.78111,
+    -56.05333,
+    -34.78111
+],
+  "geometry": {"coordinates":[-56.05333,-34.78111],"type":"Point"}
+}

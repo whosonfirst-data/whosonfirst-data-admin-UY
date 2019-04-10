@@ -1,0 +1,65 @@
+{
+  "id": 1209793853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.28333,-31.86667,-57.28333,-31.86667",
+    "geom:latitude":-31.86667,
+    "geom:longitude":-57.28333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Saca Chispas",
+    "gn:country_code":"UY",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3440732,
+    "gn:latitude":-31.86667,
+    "gn:longitude":-57.28333,
+    "gn:modification_date":"1993-12-15",
+    "gn:name":"Saca Chispas",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3440732
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"0cffc158c38b76a85750ee3ec045b963",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1209793853,
+            "region_id":85680363
+        }
+    ],
+    "wof:id":1209793853,
+    "wof:lastmodified":1536393787,
+    "wof:name":"Saca Chispas",
+    "wof:parent_id":85680363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.28333000000001,
+    -31.86667000000001,
+    -57.28333000000001,
+    -31.86667000000001
+],
+  "geometry": {"coordinates":[-57.28333000000001,-31.86667000000001],"type":"Point"}
+}

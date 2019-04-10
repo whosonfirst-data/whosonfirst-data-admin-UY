@@ -1,0 +1,70 @@
+{
+  "id": 1226507969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.15,-33.05,-54.15,-33.05",
+    "geom:latitude":-33.05,
+    "geom:longitude":-54.15,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Mendizabal",
+    "gn:cc2":"UY",
+    "gn:country_code":"UY",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3441692,
+    "gn:latitude":-33.05,
+    "gn:longitude":-54.15,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mendizabal",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Poblado Mendizabal",
+        "Mendizabal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3441692
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"eebd9fc935cd67958faf93ffd2c4117c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1226507969,
+            "region_id":85680317
+        }
+    ],
+    "wof:id":1226507969,
+    "wof:lastmodified":1537713214,
+    "wof:name":"Mendizabal",
+    "wof:parent_id":85680317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.15,
+    -33.05,
+    -54.15,
+    -33.05
+],
+  "geometry": {"coordinates":[-54.15,-33.05],"type":"Point"}
+}

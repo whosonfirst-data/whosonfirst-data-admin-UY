@@ -1,0 +1,71 @@
+{
+  "id": 1343557549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.03166,-34.8468,-55.03166,-34.8468",
+    "geom:latitude":-34.8468,
+    "geom:longitude":-55.03166,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"03",
+    "gn:asciiname":"Las Cumbres",
+    "gn:country_code":"UY",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10641708,
+    "gn:latitude":-34.8468,
+    "gn:longitude":-55.03166,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Las Cumbres",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Cumbres"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680335,
+        1092075757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10641708
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"6e0b505fabfd11128461dd61c78a8054",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092075757,
+            "locality_id":1343557549,
+            "region_id":85680335
+        }
+    ],
+    "wof:id":1343557549,
+    "wof:lastmodified":1537713223,
+    "wof:name":"Las Cumbres",
+    "wof:parent_id":1092075757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.03166,
+    -34.8468,
+    -55.03166,
+    -34.8468
+],
+  "geometry": {"coordinates":[-55.03166,-34.8468],"type":"Point"}
+}

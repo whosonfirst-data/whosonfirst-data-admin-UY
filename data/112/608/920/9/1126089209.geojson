@@ -1,0 +1,93 @@
+{
+  "id": 1126089209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.18333,-34.88333,-56.18333,-34.88333",
+    "geom:latitude":-34.88333,
+    "geom:longitude":-56.18333,
+    "gn:gn_country":"UY",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"UY",
+    "lbl:latitude":-34.88333,
+    "lbl:longitude":-56.18333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"UY",
+    "qs_pg:gn_country":"UY",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3440844,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Reducto",
+    "qs_pg:name_adm0":"Uruguay",
+    "qs_pg:name_adm1":"Montevideo",
+    "qs_pg:photos":518,
+    "qs_pg:photos_1k":105,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":518,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":898400,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424979,
+    "qs_pg:woe_id":464452,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424979,
+    "woe:name_adm0":"Uruguay",
+    "woe:name_adm1":"Montevideo",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85680339,
+        102191577,
+        85632511,
+        1092076303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3440844,
+        "gp:id":464452,
+        "qs_pg:id":898400
+    },
+    "wof:country":"UY",
+    "wof:created":1497313378,
+    "wof:geomhash":"a06bcc6f02e9aa31a706e84266258f8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092076303,
+            "locality_id":-1,
+            "neighbourhood_id":1126089209,
+            "region_id":85680339
+        }
+    ],
+    "wof:id":1126089209,
+    "wof:lastmodified":1534379803,
+    "wof:name":"Reducto",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[
+        85765535
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.18333,
+    -34.88333,
+    -56.18333,
+    -34.88333
+],
+  "geometry": {"coordinates":[-56.18333,-34.88333],"type":"Point"}
+}

@@ -1,0 +1,235 @@
+{
+  "id": 421186929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.39125,-33.2309695,-54.39125,-33.2309695",
+    "geom:latitude":-33.23097,
+    "geom:longitude":-54.39125,
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062a\u0631\u06cc\u0646\u062a\u0627 \u0627\u064a \u062a\u0631\u0633"
+    ],
+    "name:arm_x_preferred":[
+        "\u054f\u0580\u0565\u0575\u0576\u057f\u0561 \u056b \u054f\u0580\u0565\u057d"
+    ],
+    "name:ben_x_preferred":[
+        "\u099f\u09cd\u09b0\u09c7\u0987\u09a8\u09cd\u099f\u09be\u09af\u09bc\u09c7 \u099f\u09cd\u09b0\u09c7\u09b8"
+    ],
+    "name:bul_x_preferred":[
+        "\u0422\u0440\u0435\u0439\u043d\u0442\u0430 \u0438 \u0422\u0440\u0435\u0441"
+    ],
+    "name:cat_x_preferred":[
+        "Treinta y Tres"
+    ],
+    "name:cbk_zam_x_preferred":[
+        "Treinta y Tres"
+    ],
+    "name:chi_x_preferred":[
+        "\u4e09\u5341\u4e09\u4eba\u57ce"
+    ],
+    "name:dan_x_preferred":[
+        "Treinta y Tres"
+    ],
+    "name:deu_x_preferred":[
+        "Treinta y Tres"
+    ],
+    "name:dut_x_preferred":[
+        "Treinta y Tres"
+    ],
+    "name:eng_x_preferred":[
+        "Treinta y Tres"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0631\u06cc\u0646\u062a\u0627 \u0627\u06cc \u062a\u0631\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "Treinta y Tres"
+    ],
+    "name:fra_x_preferred":[
+        "Treinta y Tres"
+    ],
+    "name:fre_x_preferred":[
+        "Treinta y Tres"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e2\u10e0\u10d4\u10d8\u10dc\u10e2\u10d0-\u10d8-\u10e2\u10e0\u10d4\u10e1\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Treinta y Tres"
+    ],
+    "name:glg_x_preferred":[
+        "Treinta y Tres"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a4\u03c1\u03ad\u03b9\u03bd\u03c4\u03b1 \u03b9 \u03a4\u03c1\u03b5\u03c2"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a9f\u0acd\u0ab0\u0ac7\u0a87\u0aa8\u0acd\u0a9f\u0abe \u0aaf\u0ac7 \u0a9f\u0acd\u0ab0\u0ac7\u0ab8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0924\u0930\u0947\u0902\u091f\u093e\u0907\u091f\u093f\u0938"
+    ],
+    "name:hrv_x_preferred":[
+        "Treinta y Tres"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0580\u0565\u0575\u0576\u057f\u0561 \u056b \u054f\u0580\u0565\u057d"
+    ],
+    "name:ind_x_preferred":[
+        "Treinta y Tres"
+    ],
+    "name:ita_x_preferred":[
+        "Treinta y Tres"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30ec\u30a4\u30f3\u30bf\u30fb\u30a4\u30fb\u30c8\u30ec\u30b9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c9f\u0ccd\u0cb0\u0cc6\u0c82\u0c9f\u0cbe \u0cb5\u0cc8 \u0c9f\u0ccd\u0cb0\u0cc6\u0cb8\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10e0\u10d4\u10d8\u10dc\u10e2\u10d0-\u10d8-\u10e2\u10e0\u10d4\u10e1\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ud2b8\ub808\uc778\ud0c0\uc774\ud2b8\ub808\uc2a4"
+    ],
+    "name:lav_x_preferred":[
+        "Treinta i Tresa"
+    ],
+    "name:lit_x_preferred":[
+        "Treinta i Tresas"
+    ],
+    "name:mar_x_preferred":[
+        "\u091f\u094d\u0930\u0947\u0928\u093f\u091f\u093e \u092f\u0941 \u091f\u094d\u0930\u0947\u0938"
+    ],
+    "name:may_x_preferred":[
+        "Treinta y Tres"
+    ],
+    "name:nld_x_preferred":[
+        "Treinta y Tres"
+    ],
+    "name:nob_x_preferred":[
+        "Treinta y Tres"
+    ],
+    "name:nor_x_preferred":[
+        "Treinta y Tres"
+    ],
+    "name:per_x_preferred":[
+        "\u062a\u0631\u06cc\u0646\u062a\u0627 \u0648 \u062a\u0631\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Treinta y Tres"
+    ],
+    "name:por_x_preferred":[
+        "Treinta y Tres"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u0435\u0439\u043d\u0442\u0430-\u0438-\u0422\u0440\u0435\u0441"
+    ],
+    "name:sin_x_preferred":[
+        "\u0da7\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dd9\u0db1\u0dca\u0da7\u0dcf \u0dc0\u0dba\u0dd2 \u0da7\u0dca\u200d\u0dbb\u0dd9\u0dc3\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Treinta y Tres"
+    ],
+    "name:swe_x_preferred":[
+        "Treinta y Tres"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9f\u0bcd\u0bb0\u0bc6\u0baf\u0bcd\u0ba3\u0bcd\u0b9f \u0b92\u0baf\u0bcd \u0b9f\u0bcd\u0bb0\u0bc6\u0bb8\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1f\u0c4d\u0c30\u0c3f\u0c02\u0c1f\u0c3e \u0c2f \u0c1f\u0c4d\u0c30\u0c46\u0c38\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e15\u0e23\u0e07\u0e44\u0e15\u0e22\u0e4c \u0e40\u0e15\u0e23\u0e2a"
+    ],
+    "name:tur_x_preferred":[
+        "Treinta y Tres"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0440\u0435\u0439\u043d\u0442\u0430-\u0456-\u0422\u0440\u0435\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0631\u06cc\u0646\u062a\u0627 \u06cc \u062a\u0631\u06cc\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Treinta y Tres"
+    ],
+    "name:war_x_preferred":[
+        "Treinta y Tres"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e09\u5341\u4e09\u4eba\u57ce"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Treinta y Tres",
+    "qs:name_adm0":"Uruguay",
+    "qs:name_adm1":"Treinta y Tres",
+    "qs:photos":284,
+    "qs:photos_1k":58,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":284,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1077501,
+    "qs:woe_adm0":23424979,
+    "qs:woe_id":468078,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":400,
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":468078,
+        "qs:id":1077501,
+        "wd:id":"Q830390"
+    },
+    "wof:country":"UY",
+    "wof:created":1459009496,
+    "wof:geomhash":"162b5229ea1a0ab2bc6276365d15309a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":421186929,
+            "region_id":85680317
+        }
+    ],
+    "wof:id":421186929,
+    "wof:lastmodified":1534379803,
+    "wof:name":"Treinta y Tres",
+    "wof:parent_id":85680317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[
+        890444641
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.39125,
+    -33.2309695,
+    -54.39125,
+    -33.2309695
+],
+  "geometry": {"coordinates":[-54.39125,-33.2309695],"type":"Point"}
+}

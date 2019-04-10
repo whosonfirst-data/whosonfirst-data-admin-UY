@@ -1,0 +1,81 @@
+{
+  "id": 1125868263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.48333,-34.6,-55.48333,-34.6",
+    "geom:latitude":-34.6,
+    "geom:longitude":-55.48333,
+    "gn:gn_country":"UY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2704,
+    "gn:population":2704,
+    "iso:country":"UY",
+    "lbl:latitude":-34.6,
+    "lbl:longitude":-55.48333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Sol\u00eds"
+    ],
+    "qs_pg:aaroncc":"UY",
+    "qs_pg:gn_country":"UY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3440063,
+    "qs_pg:gn_pop":2704,
+    "qs_pg:name":"Sol\u00eds de Mataojo",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":95572,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680321,
+        1092075681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3440063,
+        "qs_pg:id":95572
+    },
+    "wof:country":"UY",
+    "wof:created":1497294157,
+    "wof:geomhash":"265d54f1a8629ea65a3da1aac678a6dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092075681,
+            "locality_id":1125868263,
+            "region_id":85680321
+        }
+    ],
+    "wof:id":1125868263,
+    "wof:lastmodified":1509397139,
+    "wof:name":"Sol\u00eds de Mataojo",
+    "wof:parent_id":1092075681,
+    "wof:placetype":"locality",
+    "wof:population":2704,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.48333,
+    -34.6,
+    -55.48333,
+    -34.6
+],
+  "geometry": {"coordinates":[-55.48333,-34.6],"type":"Point"}
+}

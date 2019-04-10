@@ -1,0 +1,68 @@
+{
+  "id": 1226740531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.28594,-34.47071,-55.28594,-34.47071",
+    "geom:latitude":-34.47071,
+    "geom:longitude":-55.28594,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Velazquez",
+    "gn:country_code":"UY",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10642403,
+    "gn:latitude":-34.47071,
+    "gn:longitude":-55.28594,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Vel\u00e1zquez",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Vel\u00e1zquez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10642403
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"fe4690d7f9d3236f5c9fe2c184a53f0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1226740531,
+            "region_id":85680329
+        }
+    ],
+    "wof:id":1226740531,
+    "wof:lastmodified":1537713224,
+    "wof:name":"Velazquez",
+    "wof:parent_id":85680329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.28594,
+    -34.47071,
+    -55.28594,
+    -34.47071
+],
+  "geometry": {"coordinates":[-55.28594,-34.47071],"type":"Point"}
+}

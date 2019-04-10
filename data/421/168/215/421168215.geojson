@@ -1,0 +1,149 @@
+{
+  "id": 421168215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.96667,-32.91667,-54.96667,-32.91667",
+    "geom:latitude":-32.91667,
+    "geom:longitude":-54.96667,
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Santa Clara de Olimar"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u514b\u62c9\u62c9\u5fb7\u5967\u5229\u99ac\u723e"
+    ],
+    "name:dan_x_preferred":[
+        "Santa Clara de Olimar"
+    ],
+    "name:deu_x_preferred":[
+        "Santa Clara de Olimar"
+    ],
+    "name:dut_x_preferred":[
+        "Santa Clara de Olimar"
+    ],
+    "name:eng_x_preferred":[
+        "Santa Clara de Olimar"
+    ],
+    "name:fao_x_preferred":[
+        "Santa Clara de Olimar"
+    ],
+    "name:fra_x_preferred":[
+        "Santa Clara de Olimar"
+    ],
+    "name:fre_x_preferred":[
+        "Santa Clara de Olimar"
+    ],
+    "name:ger_x_preferred":[
+        "Santa Clara de Olimar"
+    ],
+    "name:hrv_x_preferred":[
+        "Santa Clara de Olimar"
+    ],
+    "name:ita_x_preferred":[
+        "Santa Clara de Olimar"
+    ],
+    "name:kal_x_preferred":[
+        "Santa Clara de Olimar"
+    ],
+    "name:nno_x_preferred":[
+        "Santa Clara de Olimar"
+    ],
+    "name:nob_x_preferred":[
+        "Santa Clara de Olimar"
+    ],
+    "name:nor_x_preferred":[
+        "Santa Clara de Olimar"
+    ],
+    "name:por_x_preferred":[
+        "Santa Clara de Olimar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u041a\u043b\u0430\u0440\u0430-\u0434\u0435-\u041e\u043b\u0438\u043c\u0430\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Clara de Olimar"
+    ],
+    "name:swe_x_preferred":[
+        "Santa Clara de Olimar"
+    ],
+    "name:unk_x_variant":[
+        "Pueblo Olimar"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u514b\u62c9\u62c9\u5fb7\u5967\u5229\u99ac\u723e"
+    ],
+    "qs:gn_country":"UY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3440577,
+    "qs:gn_pop":2291,
+    "qs:name":"Santa Clara de Olimar",
+    "qs:name_adm0":"Uruguay",
+    "qs:name_adm1":"Treinta y Tres",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1044732,
+    "qs:woe_adm0":23424979,
+    "qs:woe_id":380822,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:elevation":320.0,
+    "wd:latitude":-32.916667,
+    "wd:longitude":-54.95,
+    "wd:wordcount":184,
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3440577,
+        "gp:id":380822,
+        "qs:id":1044732,
+        "wd:id":"Q1508561",
+        "wk:page":"Santa Clara de Olimar"
+    },
+    "wof:country":"UY",
+    "wof:created":1459008758,
+    "wof:geomhash":"5913a5e00d5b9cf81cf0efbad861dc6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":421168215,
+            "region_id":85680317
+        }
+    ],
+    "wof:id":421168215,
+    "wof:lastmodified":1527716097,
+    "wof:name":"Santa Clara de Olimar",
+    "wof:parent_id":85680317,
+    "wof:placetype":"locality",
+    "wof:population":2291,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.96667,
+    -32.91667,
+    -54.96667,
+    -32.91667
+],
+  "geometry": {"coordinates":[-54.96667,-32.91667],"type":"Point"}
+}

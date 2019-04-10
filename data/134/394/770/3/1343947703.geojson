@@ -1,0 +1,68 @@
+{
+  "id": 1343947703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.63733,-34.84428,-54.63733,-34.84428",
+    "geom:latitude":-34.84428,
+    "geom:longitude":-54.63733,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"02",
+    "gn:asciiname":"Jose Ignacio",
+    "gn:country_code":"UY",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3442229,
+    "gn:latitude":-34.84428,
+    "gn:longitude":-54.63733,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Jos\u00e9 Ignacio",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680335,
+        1092076987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3442229
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"12d5bff429f82eba20d6b4aacdbea665",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092076987,
+            "locality_id":1343947703,
+            "region_id":85680335
+        }
+    ],
+    "wof:id":1343947703,
+    "wof:lastmodified":1537036869,
+    "wof:name":"Jose Ignacio",
+    "wof:parent_id":1092076987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.63733000000001,
+    -34.84428,
+    -54.63733000000001,
+    -34.84428
+],
+  "geometry": {"coordinates":[-54.63733000000001,-34.84428],"type":"Point"}
+}

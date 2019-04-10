@@ -1,0 +1,68 @@
+{
+  "id": 1292911113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-53.39175,-32.60431,-53.39175,-32.60431",
+    "geom:latitude":-32.60431,
+    "geom:longitude":-53.39175,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"01",
+    "gn:asciiname":"La Cuchilla",
+    "gn:country_code":"UY",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3442146,
+    "gn:latitude":-32.60431,
+    "gn:longitude":-53.39175,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"La Cuchilla",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680299,
+        1092077095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3442146
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"f79032ac8a3ccd3db64889f100ca0b84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092077095,
+            "locality_id":1292911113,
+            "region_id":85680299
+        }
+    ],
+    "wof:id":1292911113,
+    "wof:lastmodified":1536621776,
+    "wof:name":"La Cuchilla",
+    "wof:parent_id":1092077095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -53.39175,
+    -32.60431,
+    -53.39175,
+    -32.60431
+],
+  "geometry": {"coordinates":[-53.39175,-32.60431],"type":"Point"}
+}

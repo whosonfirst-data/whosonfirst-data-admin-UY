@@ -1,0 +1,71 @@
+{
+  "id": 1310190761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.12167,-33.87517,-55.12167,-33.87517",
+    "geom:latitude":-33.87517,
+    "geom:longitude":-55.12167,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Polanco Norte",
+    "gn:country_code":"UY",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3441009,
+    "gn:latitude":-33.87517,
+    "gn:longitude":-55.12167,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Polanco Norte",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Polanco Norte"
+    ],
+    "name:und_x_variant":[
+        "Polanco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3441009
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"f19d2ed67d0b99e41c972e5914ef4050",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1310190761,
+            "region_id":85680329
+        }
+    ],
+    "wof:id":1310190761,
+    "wof:lastmodified":1537713208,
+    "wof:name":"Polanco Norte",
+    "wof:parent_id":85680329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.12167,
+    -33.87517,
+    -55.12167,
+    -33.87517
+],
+  "geometry": {"coordinates":[-55.12167,-33.87517],"type":"Point"}
+}

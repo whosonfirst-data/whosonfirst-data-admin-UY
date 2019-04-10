@@ -1,0 +1,109 @@
+{
+  "id": 421183675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.05,-32.28333,-58.05,-32.28333",
+    "geom:latitude":-32.28333,
+    "geom:longitude":-58.05,
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Nuevo Paysand\u00fa"
+    ],
+    "name:dut_x_preferred":[
+        "Nuevo Paysand\u00fa"
+    ],
+    "name:eng_x_preferred":[
+        "Nuevo Paysand\u00fa"
+    ],
+    "name:fra_x_preferred":[
+        "Nuevo Paysand\u00fa"
+    ],
+    "name:fre_x_preferred":[
+        "Nuevo Paysand\u00fa"
+    ],
+    "name:ger_x_preferred":[
+        "Nuevo Paysand\u00fa"
+    ],
+    "name:ita_x_preferred":[
+        "Nuevo Paysand\u00fa"
+    ],
+    "name:nob_x_preferred":[
+        "Nuevo Paysand\u00fa"
+    ],
+    "name:nor_x_preferred":[
+        "Nuevo Paysand\u00fa"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0443\u044d\u0432\u043e-\u041f\u0430\u0439\u0441\u0430\u043d\u0434\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Nuevo Paysand\u00fa"
+    ],
+    "qs:gn_country":"UY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3442989,
+    "qs:gn_pop":0,
+    "qs:name":"Colonia Nuevo Paysand\u00fa",
+    "qs:name_adm0":"Uruguay",
+    "qs:name_adm1":"Paysand\u00fa",
+    "qs:photos":40,
+    "qs:photos_1k":8,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":40,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":982702,
+    "qs:woe_adm0":23424979,
+    "qs:woe_id":380445,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":136,
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3442989,
+        "gp:id":380445,
+        "qs:id":982702,
+        "wd:id":"Q1020814"
+    },
+    "wof:country":"UY",
+    "wof:created":1459009378,
+    "wof:geomhash":"e2bca216b4b246312cc616a64ff273bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":421183675,
+            "region_id":85680363
+        }
+    ],
+    "wof:id":421183675,
+    "wof:lastmodified":1527716489,
+    "wof:name":"Colonia Nuevo Paysand\u00fa",
+    "wof:parent_id":85680363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.05,
+    -32.28333,
+    -58.05,
+    -32.28333
+],
+  "geometry": {"coordinates":[-58.05,-32.28333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226829239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.14717,-32.47548,-58.14717,-32.47548",
+    "geom:latitude":-32.47548,
+    "geom:longitude":-58.14717,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"03",
+    "gn:asciiname":"Santa Elisa",
+    "gn:country_code":"UY",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10862744,
+    "gn:latitude":-32.47548,
+    "gn:longitude":-58.14717,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Santa Elisa",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santa Elisa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680367,
+        1092074775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10862744
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"3ff40fdc59588c0f03074e34b1b2218c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092074775,
+            "locality_id":1226829239,
+            "region_id":85680367
+        }
+    ],
+    "wof:id":1226829239,
+    "wof:lastmodified":1537713226,
+    "wof:name":"Santa Elisa",
+    "wof:parent_id":1092074775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.14717,
+    -32.47548,
+    -58.14717,
+    -32.47548
+],
+  "geometry": {"coordinates":[-58.14717,-32.47548],"type":"Point"}
+}

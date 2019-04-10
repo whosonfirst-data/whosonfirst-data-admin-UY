@@ -1,0 +1,70 @@
+{
+  "id": 1243075191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-53.76667,-32.06667,-53.76667,-32.06667",
+    "geom:latitude":-32.06667,
+    "geom:longitude":-53.76667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Minuano",
+    "gn:country_code":"UY",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3441654,
+    "gn:latitude":-32.06667,
+    "gn:longitude":-53.76667,
+    "gn:modification_date":"1993-12-15",
+    "gn:name":"Minuano",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85682015,
+        102191577,
+        404564137,
+        85633009,
+        102059729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3441654,
+        "wk:page":"Minuano"
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"24be1774bf55106f7a926da76cd9d133",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102059729,
+            "localadmin_id":404564137,
+            "locality_id":1243075191,
+            "region_id":85682015
+        }
+    ],
+    "wof:id":1243075191,
+    "wof:lastmodified":1537575739,
+    "wof:name":"Minuano",
+    "wof:parent_id":404564137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -53.76667,
+    -32.06667,
+    -53.76667,
+    -32.06667
+],
+  "geometry": {"coordinates":[-53.76667,-32.06667],"type":"Point"}
+}

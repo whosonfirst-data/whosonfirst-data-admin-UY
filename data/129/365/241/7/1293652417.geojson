@@ -1,0 +1,68 @@
+{
+  "id": 1293652417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.05016,-31.6164,-56.05016,-31.6164",
+    "geom:latitude":-31.6164,
+    "geom:longitude":-56.05016,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Capon de la Yerba",
+    "gn:country_code":"UY",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10944664,
+    "gn:latitude":-31.6164,
+    "gn:longitude":-56.05016,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Cap\u00f3n de la Yerba",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cap\u00f3n de la Yerba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10944664
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"a77fe63d3d2b393948f79e1b36ac0e52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1293652417,
+            "region_id":85680311
+        }
+    ],
+    "wof:id":1293652417,
+    "wof:lastmodified":1537713228,
+    "wof:name":"Capon de la Yerba",
+    "wof:parent_id":85680311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.05016,
+    -31.6164,
+    -56.05016,
+    -31.6164
+],
+  "geometry": {"coordinates":[-56.05016,-31.6164],"type":"Point"}
+}

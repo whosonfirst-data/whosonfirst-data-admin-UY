@@ -1,0 +1,100 @@
+{
+  "id": 890435993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-53.78333,-33.26667,-53.78333,-33.26667",
+    "geom:latitude":-33.26667,
+    "geom:longitude":-53.78333,
+    "gn:country":"UY",
+    "gn:fcode":"PPL",
+    "gn:pop":1624,
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u054d\u0565\u0562\u0578\u056c\u056b\u0561\u057f\u056b"
+    ],
+    "name:cat_x_preferred":[
+        "Cebollat\u00ed"
+    ],
+    "name:dut_x_preferred":[
+        "Cebollat\u00ed"
+    ],
+    "name:eng_x_preferred":[
+        "Cebollat\u00ed"
+    ],
+    "name:fre_x_preferred":[
+        "Cebollat\u00ed"
+    ],
+    "name:ger_x_preferred":[
+        "Cebollat\u00ed"
+    ],
+    "name:ita_x_preferred":[
+        "Cebollat\u00ed"
+    ],
+    "name:nob_x_preferred":[
+        "Cebollat\u00ed"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0431\u043e\u043b\u044c\u044f\u0442\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Cebollat\u00ed"
+    ],
+    "name:unk_x_variant":[
+        "Pueblo Cebollat\u00ed"
+    ],
+    "qs:name":"Cebollat\u00ed",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":145,
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3443256,
+        "gp:id":468085,
+        "qs:id":1044757,
+        "wd:id":"Q1022303",
+        "wk:page":"Cebollat\u00ed"
+    },
+    "wof:country":"UY",
+    "wof:created":1469052089,
+    "wof:geomhash":"475d7157642fcb0f90fa6df69409028a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":890435993,
+            "region_id":85680343
+        }
+    ],
+    "wof:id":890435993,
+    "wof:lastmodified":1527793049,
+    "wof:name":"Cebollat\u00ed",
+    "wof:parent_id":85680343,
+    "wof:placetype":"locality",
+    "wof:population":1624,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -53.78333,
+    -33.26667,
+    -53.78333,
+    -33.26667
+],
+  "geometry": {"coordinates":[-53.78333,-33.26667],"type":"Point"}
+}

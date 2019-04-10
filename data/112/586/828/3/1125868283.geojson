@@ -1,0 +1,104 @@
+{
+  "id": 1125868283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.48333,-33.75,-57.48333,-33.75",
+    "geom:latitude":-33.75,
+    "geom:longitude":-57.48333,
+    "gn:gn_country":"UY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1067,
+    "gn:population":1067,
+    "iso:country":"UY",
+    "lbl:latitude":-33.75,
+    "lbl:longitude":-57.48333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u054d\u0561\u0576\u057f\u0561 \u053f\u0561\u057f\u0561\u056c\u056b\u0576\u0561"
+    ],
+    "name:cat_x_preferred":[
+        "Santa Catalina"
+    ],
+    "name:dut_x_preferred":[
+        "Santa Catalina"
+    ],
+    "name:eng_x_preferred":[
+        "Santa Catalina"
+    ],
+    "name:fre_x_preferred":[
+        "Santa Catalina"
+    ],
+    "name:ger_x_preferred":[
+        "Santa Catalina"
+    ],
+    "name:nob_x_preferred":[
+        "Santa Catalina"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u041a\u0430\u0442\u0430\u043b\u0438\u043d\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Catalina"
+    ],
+    "qs_pg:aaroncc":"UY",
+    "qs_pg:gn_country":"UY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3440580,
+    "qs_pg:gn_pop":1067,
+    "qs_pg:name":"Santa Catalina",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":95574,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3440580,
+        "qs_pg:id":95574,
+        "wd:id":"Q1022310"
+    },
+    "wof:country":"UY",
+    "wof:created":1497294157,
+    "wof:geomhash":"fa81cd77e6d8c21e248b154ef479afe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1125868283,
+            "region_id":85680293
+        }
+    ],
+    "wof:id":1125868283,
+    "wof:lastmodified":1514502061,
+    "wof:name":"Santa Catalina",
+    "wof:parent_id":85680293,
+    "wof:placetype":"locality",
+    "wof:population":1067,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.48333,
+    -33.75,
+    -57.48333,
+    -33.75
+],
+  "geometry": {"coordinates":[-57.48333,-33.75],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226355315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.99327,-34.66091,-55.99327,-34.66091",
+    "geom:latitude":-34.66091,
+    "geom:longitude":-55.99327,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"26",
+    "gn:asciiname":"Totoral del Sauce",
+    "gn:country_code":"UY",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3439803,
+    "gn:latitude":-34.66091,
+    "gn:longitude":-55.99327,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Totoral del Sauce",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Totoral del Sauce"
+    ],
+    "name:und_x_variant":[
+        "Totoral"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680321,
+        1092076481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3439803
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"b40f07e017824f3e23abe13197520626",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092076481,
+            "locality_id":1226355315,
+            "region_id":85680321
+        }
+    ],
+    "wof:id":1226355315,
+    "wof:lastmodified":1537713204,
+    "wof:name":"Totoral del Sauce",
+    "wof:parent_id":1092076481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.99327,
+    -34.66091,
+    -55.99327,
+    -34.66091
+],
+  "geometry": {"coordinates":[-55.99327,-34.66091],"type":"Point"}
+}

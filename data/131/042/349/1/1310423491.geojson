@@ -1,0 +1,75 @@
+{
+  "id": 1310423491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.61513,-30.38704,-57.61513,-30.38704",
+    "geom:latitude":-30.38704,
+    "geom:longitude":-57.61513,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"02",
+    "gn:asciiname":"Cainsa",
+    "gn:country_code":"UY",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8057962,
+    "gn:latitude":-30.38704,
+    "gn:longitude":-57.61513,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Cainsa",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cainsa Itacumb\u00fa"
+    ],
+    "name:spa_x_variant":[
+        "Cainsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680355,
+        1092075277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8057962,
+        "wk:page":"Cainsa"
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"fdaaca13f3f62a8ef0b41c301579ac8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092075277,
+            "locality_id":1310423491,
+            "region_id":85680355
+        }
+    ],
+    "wof:id":1310423491,
+    "wof:lastmodified":1537713222,
+    "wof:name":"Cainsa",
+    "wof:parent_id":1092075277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.61513000000001,
+    -30.38704,
+    -57.61513000000001,
+    -30.38704
+],
+  "geometry": {"coordinates":[-57.61513000000001,-30.38704],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1260161171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.94853,-32.73246,-56.94853,-32.73246",
+    "geom:latitude":-32.73246,
+    "geom:longitude":-56.94853,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"El Progreso",
+    "gn:country_code":"UY",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10862647,
+    "gn:latitude":-32.73246,
+    "gn:longitude":-56.94853,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"El Progreso",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Progreso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10862647
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"daa65466e2493a1bf836ac48a8260cf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1260161171,
+            "region_id":85680367
+        }
+    ],
+    "wof:id":1260161171,
+    "wof:lastmodified":1537713225,
+    "wof:name":"El Progreso",
+    "wof:parent_id":85680367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.94853000000001,
+    -32.73246,
+    -56.94853000000001,
+    -32.73246
+],
+  "geometry": {"coordinates":[-56.94853000000001,-32.73246],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1260258575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.98333,-31.83333,-55.98333,-31.83333",
+    "geom:latitude":-31.83333,
+    "geom:longitude":-55.98333,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Poblado Los Coitinhos",
+    "gn:cc2":"UY",
+    "gn:country_code":"UY",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3441036,
+    "gn:latitude":-31.83333,
+    "gn:longitude":-55.98333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Poblado Los Coitinhos",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Coitinhos",
+        "Poblado Los Coitinhos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3441036
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"81ea34b4a17b2df78e90bd82afe58a85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1260258575,
+            "region_id":85680311
+        }
+    ],
+    "wof:id":1260258575,
+    "wof:lastmodified":1537713209,
+    "wof:name":"Poblado Los Coitinhos",
+    "wof:parent_id":85680311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.98333,
+    -31.83333,
+    -55.98333,
+    -31.83333
+],
+  "geometry": {"coordinates":[-55.98333,-31.83333],"type":"Point"}
+}

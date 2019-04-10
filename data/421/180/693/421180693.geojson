@@ -1,0 +1,80 @@
+{
+  "id": 421180693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.85,-32.36667,-57.85,-32.36667",
+    "geom:latitude":-32.36667,
+    "geom:longitude":-57.85,
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Estaci\u00f3n Porvenir"
+    ],
+    "qs:gn_country":"UY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3440985,
+    "qs:gn_pop":1055,
+    "qs:name":"Porvenir",
+    "qs:name_adm0":"Uruguay",
+    "qs:name_adm1":"Paysand\u00fa",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1207211,
+    "qs:woe_adm0":23424979,
+    "qs:woe_id":380936,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3440985,
+        "gp:id":380936,
+        "qs:id":1207211
+    },
+    "wof:country":"UY",
+    "wof:created":1459009267,
+    "wof:geomhash":"cd1c4a9ba0db328b666adf93acd2017a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":421180693,
+            "region_id":85680363
+        }
+    ],
+    "wof:id":421180693,
+    "wof:lastmodified":1505340649,
+    "wof:name":"Porvenir",
+    "wof:parent_id":85680363,
+    "wof:placetype":"locality",
+    "wof:population":1055,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.85,
+    -32.36667,
+    -57.85,
+    -32.36667
+],
+  "geometry": {"coordinates":[-57.85,-32.36667],"type":"Point"}
+}

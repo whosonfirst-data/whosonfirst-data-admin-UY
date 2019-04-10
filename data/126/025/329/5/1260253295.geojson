@@ -1,0 +1,69 @@
+{
+  "id": 1260253295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.15307,-34.62925,-54.15307,-34.62925",
+    "geom:latitude":-34.62925,
+    "geom:longitude":-54.15307,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"03",
+    "gn:asciiname":"Costa Azul",
+    "gn:country_code":"UY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7645440,
+    "gn:latitude":-34.62925,
+    "gn:longitude":-54.15307,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Costa Azul",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680343,
+        1092076863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7645440,
+        "wk:page":"La_Aguada_y_Costa_Azul"
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"bfffe9e5e3875c60da6231e3afa1cd62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092076863,
+            "locality_id":1260253295,
+            "region_id":85680343
+        }
+    ],
+    "wof:id":1260253295,
+    "wof:lastmodified":1537575742,
+    "wof:name":"Costa Azul",
+    "wof:parent_id":1092076863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.15306999999999,
+    -34.62925,
+    -54.15306999999999,
+    -34.62925
+],
+  "geometry": {"coordinates":[-54.15306999999999,-34.62925],"type":"Point"}
+}

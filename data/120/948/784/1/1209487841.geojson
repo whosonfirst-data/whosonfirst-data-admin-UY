@@ -1,0 +1,65 @@
+{
+  "id": 1209487841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.76036,-34.55076,-56.76036,-34.55076",
+    "geom:latitude":-34.55076,
+    "geom:longitude":-56.76036,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"02",
+    "gn:asciiname":"Radial Ruta Tres",
+    "gn:country_code":"UY",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10943567,
+    "gn:latitude":-34.55076,
+    "gn:longitude":-56.76036,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Radial Ruta Tres",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Radial Ruta Tres"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10943567
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"a2cbef10af51ebaf22f64cf109138d1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632511,
+            "locality_id":1209487841
+        }
+    ],
+    "wof:id":1209487841,
+    "wof:lastmodified":1537713226,
+    "wof:name":"Radial Ruta Tres",
+    "wof:parent_id":85632511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.76036,
+    -34.55076,
+    -56.76036,
+    -34.55076
+],
+  "geometry": {"coordinates":[-56.76036,-34.55076],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226748041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.60247,-34.42368,-57.60247,-34.42368",
+    "geom:latitude":-34.42368,
+    "geom:longitude":-57.60247,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"El Ensueno",
+    "gn:country_code":"UY",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11171780,
+    "gn:latitude":-34.42368,
+    "gn:longitude":-57.60247,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"El Ensue\u00f1o",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Ensue\u00f1o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11171780
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"cae3d85ee06524bc4b8c201678e3b5fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1226748041,
+            "region_id":85680347
+        }
+    ],
+    "wof:id":1226748041,
+    "wof:lastmodified":1537713228,
+    "wof:name":"El Ensueno",
+    "wof:parent_id":85680347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.60247,
+    -34.42368,
+    -57.60247,
+    -34.42368
+],
+  "geometry": {"coordinates":[-57.60247,-34.42368],"type":"Point"}
+}

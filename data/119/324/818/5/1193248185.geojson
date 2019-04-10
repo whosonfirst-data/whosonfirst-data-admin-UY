@@ -1,0 +1,70 @@
+{
+  "id": 1193248185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.04829,-34.36934,-57.04829,-34.36934",
+    "geom:latitude":-34.36934,
+    "geom:longitude":-57.04829,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"03",
+    "gn:asciiname":"Scavino",
+    "gn:country_code":"UY",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3440099,
+    "gn:latitude":-34.36934,
+    "gn:longitude":-57.04829,
+    "gn:modification_date":"2018-02-23",
+    "gn:name":"Scavino",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pueblo Scavino",
+        "Scavino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3440099
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"d15ccd7502f4a04eb557786393115d4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1193248185,
+            "region_id":85680349
+        }
+    ],
+    "wof:id":1193248185,
+    "wof:lastmodified":1537713205,
+    "wof:name":"Scavino",
+    "wof:parent_id":85680349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.04829,
+    -34.36934,
+    -57.04829,
+    -34.36934
+],
+  "geometry": {"coordinates":[-57.04829,-34.36934],"type":"Point"}
+}

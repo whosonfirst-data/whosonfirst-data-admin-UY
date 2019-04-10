@@ -1,0 +1,68 @@
+{
+  "id": 1209496443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.61172,-32.09158,-57.61172,-32.09158",
+    "geom:latitude":-32.09158,
+    "geom:longitude":-57.61172,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Sauce del Queguay",
+    "gn:country_code":"UY",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3440138,
+    "gn:latitude":-32.09158,
+    "gn:longitude":-57.61172,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Sauce del Queguay",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Sauce del Queguay"
+    ],
+    "name:und_x_variant":[
+        "Sauce Queguay",
+        "Sauce de Queguay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3440138
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"c9c636628e4559a84f25278e1d28faf0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632511,
+            "locality_id":1209496443
+        }
+    ],
+    "wof:id":1209496443,
+    "wof:lastmodified":1537713205,
+    "wof:name":"Sauce del Queguay",
+    "wof:parent_id":85632511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.61172,
+    -32.09158,
+    -57.61172,
+    -32.09158
+],
+  "geometry": {"coordinates":[-57.61172,-32.09158],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226574869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.18333,-32.83333,-56.18333,-32.83333",
+    "geom:latitude":-32.83333,
+    "geom:longitude":-56.18333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Carpinteria",
+    "gn:cc2":"UY",
+    "gn:country_code":"UY",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3443326,
+    "gn:latitude":-32.83333,
+    "gn:longitude":-56.18333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Carpinter\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paso de Carpinter\u00eda",
+        "Carpinter\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3443326
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"cb18ac8ca6ad6ee36654d95caf70c92c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1226574869,
+            "region_id":85680303
+        }
+    ],
+    "wof:id":1226574869,
+    "wof:lastmodified":1537713219,
+    "wof:name":"Carpinteria",
+    "wof:parent_id":85680303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.18333000000001,
+    -32.83333,
+    -56.18333000000001,
+    -32.83333
+],
+  "geometry": {"coordinates":[-56.18333000000001,-32.83333],"type":"Point"}
+}

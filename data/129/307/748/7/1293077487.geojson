@@ -1,0 +1,73 @@
+{
+  "id": 1293077487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.96546,-31.47339,-54.96546,-31.47339",
+    "geom:latitude":-31.47339,
+    "geom:longitude":-54.96546,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Lapuente",
+    "gn:cc2":"UY",
+    "gn:country_code":"UY",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3442085,
+    "gn:latitude":-31.47339,
+    "gn:longitude":-54.96546,
+    "gn:modification_date":"2018-02-23",
+    "gn:name":"Lapuente",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yaguar\u00ed",
+        "Poblado Lapuente",
+        "Yaguan",
+        "Lapuente"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3442085,
+        "wk:page":"Lapuente"
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"6f5e3252cfcc06de73acbcf9d1da5985",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1293077487,
+            "region_id":85680307
+        }
+    ],
+    "wof:id":1293077487,
+    "wof:lastmodified":1537713215,
+    "wof:name":"Lapuente",
+    "wof:parent_id":85680307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.96546,
+    -31.47339,
+    -54.96546,
+    -31.47339
+],
+  "geometry": {"coordinates":[-54.96546,-31.47339],"type":"Point"}
+}

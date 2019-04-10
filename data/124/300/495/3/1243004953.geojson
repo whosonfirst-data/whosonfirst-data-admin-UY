@@ -1,0 +1,65 @@
+{
+  "id": 1243004953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.9,-32.78333,-55.9,-32.78333",
+    "geom:latitude":-32.78333,
+    "geom:longitude":-55.9,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Los Agregados",
+    "gn:country_code":"UY",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3441959,
+    "gn:latitude":-32.78333,
+    "gn:longitude":-55.9,
+    "gn:modification_date":"1993-12-15",
+    "gn:name":"Los Agregados",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3441959
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"4a5503264444b67e0eeb6499b0b5984e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1243004953,
+            "region_id":85680303
+        }
+    ],
+    "wof:id":1243004953,
+    "wof:lastmodified":1536945558,
+    "wof:name":"Los Agregados",
+    "wof:parent_id":85680303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.9,
+    -32.78333,
+    -55.9,
+    -32.78333
+],
+  "geometry": {"coordinates":[-55.9,-32.78333],"type":"Point"}
+}

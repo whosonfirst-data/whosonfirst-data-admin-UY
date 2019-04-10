@@ -1,0 +1,65 @@
+{
+  "id": 1209089339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.95623,-31.10191,-56.95623,-31.10191",
+    "geom:latitude":-31.10191,
+    "geom:longitude":-56.95623,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"03",
+    "gn:asciiname":"Ferreira",
+    "gn:country_code":"UY",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3442603,
+    "gn:latitude":-31.10191,
+    "gn:longitude":-56.95623,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Ferreira",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ferreira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3442603
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"0af57cbc3085aa2e98d5ee0d00a6a315",
+    "wof:hierarchy":[
+        {
+            "country_id":85632511,
+            "locality_id":1209089339
+        }
+    ],
+    "wof:id":1209089339,
+    "wof:lastmodified":1537713217,
+    "wof:name":"Ferreira",
+    "wof:parent_id":85632511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.95623000000001,
+    -31.10191,
+    -56.95623000000001,
+    -31.10191
+],
+  "geometry": {"coordinates":[-56.95623000000001,-31.10191],"type":"Point"}
+}

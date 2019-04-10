@@ -1,0 +1,71 @@
+{
+  "id": 1209724287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.8153,-34.61029,-55.8153,-34.61029",
+    "geom:latitude":-34.61029,
+    "geom:longitude":-55.8153,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"23",
+    "gn:asciiname":"Estacion Pedrera",
+    "gn:country_code":"UY",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10861489,
+    "gn:latitude":-34.61029,
+    "gn:longitude":-55.8153,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Estaci\u00f3n Pedrera",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Estaci\u00f3n Pedrera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680321,
+        1092076017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10861489
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"62e462fb19527a72bb2fa5afa145f81c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092076017,
+            "locality_id":1209724287,
+            "region_id":85680321
+        }
+    ],
+    "wof:id":1209724287,
+    "wof:lastmodified":1537713225,
+    "wof:name":"Estacion Pedrera",
+    "wof:parent_id":1092076017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.8153,
+    -34.61029,
+    -55.8153,
+    -34.61029
+],
+  "geometry": {"coordinates":[-55.8153,-34.61029],"type":"Point"}
+}

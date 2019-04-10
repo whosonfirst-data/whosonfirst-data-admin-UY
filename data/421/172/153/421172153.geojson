@@ -1,0 +1,116 @@
+{
+  "id": 421172153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.38889,-34.29056,-56.38889,-34.29056",
+    "geom:latitude":-34.29056,
+    "geom:longitude":-56.38889,
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Cardal"
+    ],
+    "name:deu_x_preferred":[
+        "Cardal"
+    ],
+    "name:dut_x_preferred":[
+        "Cardal"
+    ],
+    "name:eng_x_preferred":[
+        "Cardal"
+    ],
+    "name:fra_x_preferred":[
+        "Cardal"
+    ],
+    "name:fre_x_preferred":[
+        "Cardal"
+    ],
+    "name:ger_x_preferred":[
+        "Cardal"
+    ],
+    "name:ita_x_preferred":[
+        "Cardal"
+    ],
+    "name:nob_x_preferred":[
+        "Cardal"
+    ],
+    "name:nor_x_preferred":[
+        "Cardal"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0434\u0430\u043b\u044c"
+    ],
+    "name:spa_x_preferred":[
+        "Cardal"
+    ],
+    "qs:gn_country":"UY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3443356,
+    "qs:gn_pop":1291,
+    "qs:name":"Cardal",
+    "qs:name_adm0":"Uruguay",
+    "qs:name_adm1":"Florida",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":147840,
+    "qs:woe_adm0":23424979,
+    "qs:woe_id":468015,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":467,
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3443356,
+        "gp:id":468015,
+        "qs:id":147840,
+        "wd:id":"Q958365",
+        "wk:page":"Cardal, Uruguay"
+    },
+    "wof:country":"UY",
+    "wof:created":1459008922,
+    "wof:geomhash":"cb6a1407b797cf2174b8e5b0f88390b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":421172153,
+            "region_id":85680325
+        }
+    ],
+    "wof:id":421172153,
+    "wof:lastmodified":1527716304,
+    "wof:name":"Cardal",
+    "wof:parent_id":85680325,
+    "wof:placetype":"locality",
+    "wof:population":1291,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.38889,
+    -34.29056,
+    -56.38889,
+    -34.29056
+],
+  "geometry": {"coordinates":[-56.38889,-34.29056],"type":"Point"}
+}

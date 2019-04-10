@@ -1,0 +1,145 @@
+{
+  "id": 85765539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2741785.027691,
+    "geom:bbox":"-56.182496,-34.879289,-56.182496,-34.879289",
+    "geom:latitude":-34.879289,
+    "geom:longitude":-56.182496,
+    "gn:gn_country":"UY",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":-34.88333,
+    "gn:longitude":-56.18333,
+    "iso:country":"UY",
+    "lbl:latitude":-34.879289,
+    "lbl:longitude":-56.182496,
+    "mps:latitude":-34.880551,
+    "mps:longitude":-56.180365,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":3,
+    "name:cat_x_preferred":[
+        "Villa Mu\u00f1oz"
+    ],
+    "name:deu_x_preferred":[
+        "Villa Mu\u00f1oz \u2013 Retiro"
+    ],
+    "name:spa_x_colloquial":[
+        "Villa Munyoz",
+        "Villa Munoz"
+    ],
+    "name:spa_x_preferred":[
+        "Villa Mu\u00f1oz"
+    ],
+    "name:unk_x_variant":[
+        "Villa Mu\u00f1oz"
+    ],
+    "qs:gn_adm0_cc":"US",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":5038018,
+    "qs:gn_namadm1":"10",
+    "qs:gn_name":"Villa Mu\u00f1oz",
+    "qs:local_max":9496,
+    "qs:local_sum":30959,
+    "qs:localhoods":17,
+    "qs:name":"Villa Mu\u00f1oz",
+    "qs:name_adm0":"Uruguay",
+    "qs:name_adm1":"Montevideo",
+    "qs:name_local":"Montevideo",
+    "qs:photo_max":94,
+    "qs:photo_sum":401,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":24,
+    "qs:woe_adm0":23424979,
+    "qs:woe_adm1":2347649,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":468052,
+    "qs:woe_ver":"7.10.0",
+    "qs_pg:aaroncc":"UY",
+    "qs_pg:gn_country":"UY",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3439593,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Villa Mu\u00f1oz",
+    "qs_pg:name_adm0":"Uruguay",
+    "qs_pg:name_adm1":"Montevideo",
+    "qs_pg:photos":502,
+    "qs_pg:photos_1k":102,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":502,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1138012,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424979,
+    "qs_pg:woe_id":464453,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":259,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        85680339,
+        102191577,
+        85632511,
+        1092076303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3439593,
+        "gp:id":464453,
+        "qs:id":1138012,
+        "qs_pg:id":1138012,
+        "wd:id":"Q984422",
+        "wk:page":"Villa Mu\u00f1oz"
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"0ada3ac9ccf5d1e0092ed318d9d21af4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092076303,
+            "locality_id":-1,
+            "neighbourhood_id":85765539,
+            "region_id":85680339
+        }
+    ],
+    "wof:id":85765539,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1534379803,
+    "wof:name":"Villa Mu\u00f1oz",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126108843
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.182496,
+    -34.879289,
+    -56.182496,
+    -34.879289
+],
+  "geometry": {"coordinates":[-56.182496,-34.879289],"type":"Point"}
+}

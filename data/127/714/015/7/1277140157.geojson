@@ -1,0 +1,68 @@
+{
+  "id": 1277140157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.24438,-31.87743,-56.24438,-31.87743",
+    "geom:latitude":-31.87743,
+    "geom:longitude":-56.24438,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Tambores",
+    "gn:country_code":"UY",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3439925,
+    "gn:latitude":-31.87743,
+    "gn:longitude":-56.24438,
+    "gn:modification_date":"2015-03-27",
+    "gn:name":"Tambores",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680363,
+        1092076703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3439925,
+        "wk:page":"Tambores"
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"ada20ac16fda62d6d15ed5d28918e516",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092076703,
+            "locality_id":1277140157,
+            "region_id":85680363
+        }
+    ],
+    "wof:id":1277140157,
+    "wof:lastmodified":1537575737,
+    "wof:name":"Tambores",
+    "wof:parent_id":1092076703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.24438000000001,
+    -31.87743,
+    -56.24438000000001,
+    -31.87743
+],
+  "geometry": {"coordinates":[-56.24438000000001,-31.87743],"type":"Point"}
+}

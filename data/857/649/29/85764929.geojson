@@ -1,0 +1,130 @@
+{
+  "id": 85764929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":22471130.821143,
+    "geom:bbox":"-56.120758,-34.841232,-56.120758,-34.841232",
+    "geom:latitude":-34.841232,
+    "geom:longitude":-56.120758,
+    "gn:latitude":-34.85,
+    "gn:longitude":-56.11667,
+    "iso:country":"UY",
+    "lbl:latitude":-34.841232,
+    "lbl:longitude":-56.120758,
+    "mps:latitude":-34.823055,
+    "mps:longitude":-56.104482,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":3,
+    "name:cat_x_preferred":[
+        "Flor de Maro\u00f1as"
+    ],
+    "name:deu_x_preferred":[
+        "Flor de Maro\u00f1as"
+    ],
+    "name:pol_x_preferred":[
+        "Flor de Maro\u00f1as"
+    ],
+    "name:spa_x_colloquial":[
+        "Balneario Flor de Maronas",
+        "Balneario Flor de Maronyas",
+        "Flor de Maronas",
+        "Flor de Maronyas",
+        "Pueblo Ituzaingo"
+    ],
+    "name:spa_x_preferred":[
+        "Flor de Maro\u00f1as"
+    ],
+    "name:spa_x_variant":[
+        "Balneario Flor de Maro\u00f1as",
+        "Pueblo Ituzaing\u00f3"
+    ],
+    "name:unk_x_variant":[
+        "Balneario Flor de Maro\u00f1as",
+        "Flor de Maro\u00f1as"
+    ],
+    "qs:gn_adm0_cc":"UY",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":5038018,
+    "qs:gn_namadm1":"10",
+    "qs:gn_name":"Flor de Maro\u00f1as",
+    "qs:local_max":9496,
+    "qs:local_sum":30959,
+    "qs:localhoods":17,
+    "qs:name":"Flor de Maro\u00f1as",
+    "qs:name_adm0":"Uruguay",
+    "qs:name_adm1":"Montevideo",
+    "qs:name_local":"Montevideo",
+    "qs:photo_max":9,
+    "qs:photo_sum":36,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":11,
+    "qs:woe_adm0":23424979,
+    "qs:woe_adm1":2347649,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":468052,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":69,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        1092076429,
+        85680339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3442598,
+        "gp:id":380510,
+        "qs:id":475376,
+        "wd:id":"Q984899",
+        "wk:page":"Flor de Maro\u00f1as"
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"35f57f994cd913a14e56f65181f3f363",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092076429,
+            "locality_id":-1,
+            "neighbourhood_id":85764929,
+            "region_id":85680339
+        }
+    ],
+    "wof:id":85764929,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1531858976,
+    "wof:name":"Flor de Maro\u00f1as",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.120758,
+    -34.841232,
+    -56.120758,
+    -34.841232
+],
+  "geometry": {"coordinates":[-56.120758,-34.841232],"type":"Point"}
+}

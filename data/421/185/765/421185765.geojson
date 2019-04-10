@@ -1,0 +1,134 @@
+{
+  "id": 421185765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.28333,-34.03333,-54.28333,-34.03333",
+    "geom:latitude":-34.03333,
+    "geom:longitude":-54.28333,
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:arm_x_preferred":[
+        "\u054e\u0565\u056f\u0561\u057d\u056f\u0565\u057d"
+    ],
+    "name:cat_x_preferred":[
+        "Vel\u00e1zquez"
+    ],
+    "name:deu_x_preferred":[
+        "Vel\u00e1zquez"
+    ],
+    "name:dut_x_preferred":[
+        "Vel\u00e1zquez"
+    ],
+    "name:eng_x_preferred":[
+        "Vel\u00e1zquez"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u0627\u0632\u0642\u0648\u0632\u060c \u0627\u0631\u0648\u06af\u0648\u0626\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Vel\u00e1zquez"
+    ],
+    "name:fre_x_preferred":[
+        "Vel\u00e1zquez"
+    ],
+    "name:ger_x_preferred":[
+        "Vel\u00e1zquez"
+    ],
+    "name:glg_x_preferred":[
+        "Vel\u00e1zquez"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u0565\u056f\u0561\u057d\u056f\u0565\u057d"
+    ],
+    "name:ita_x_preferred":[
+        "Vel\u00e1zquez"
+    ],
+    "name:nob_x_preferred":[
+        "Vel\u00e1zquez"
+    ],
+    "name:nor_x_preferred":[
+        "Vel\u00e1zquez"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u0644\u0627\u0632\u0642\u0648\u0632\u060c \u0627\u0631\u0648\u06af\u0648\u0626\u0647"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043b\u0430\u0441\u043a\u0435\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Vel\u00e1zquez"
+    ],
+    "name:unk_x_variant":[
+        "Pueblo Vel\u00e1zquez"
+    ],
+    "qs:gn_country":"UY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3439652,
+    "qs:gn_pop":1090,
+    "qs:name":"Vel\u00e1zquez",
+    "qs:name_adm0":"Uruguay",
+    "qs:name_adm1":"Rocha",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1044718,
+    "qs:woe_adm0":23424979,
+    "qs:woe_id":380869,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":143,
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3439652,
+        "gp:id":380869,
+        "qs:id":1044718,
+        "wd:id":"Q1020369",
+        "wk:page":"Vel\u00e1zquez, Uruguay"
+    },
+    "wof:country":"UY",
+    "wof:created":1459009453,
+    "wof:geomhash":"5ed76e4f4d64f1874421839f42a2fd24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":421185765,
+            "region_id":85680343
+        }
+    ],
+    "wof:id":421185765,
+    "wof:lastmodified":1527726501,
+    "wof:name":"Vel\u00e1zquez",
+    "wof:parent_id":85680343,
+    "wof:placetype":"locality",
+    "wof:population":1090,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.28333,
+    -34.03333,
+    -54.28333,
+    -34.03333
+],
+  "geometry": {"coordinates":[-54.28333,-34.03333],"type":"Point"}
+}

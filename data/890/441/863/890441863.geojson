@@ -1,0 +1,89 @@
+{
+  "id": 890441863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.63333,-32.76667,-55.63333,-32.76667",
+    "geom:latitude":-32.76667,
+    "geom:longitude":-55.63333,
+    "gn:country":"UY",
+    "gn:fcode":"PPL",
+    "gn:pop":1170,
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Blanquillo"
+    ],
+    "name:dut_x_preferred":[
+        "Blanquillo"
+    ],
+    "name:eng_x_preferred":[
+        "Blanquillo"
+    ],
+    "name:fre_x_preferred":[
+        "Blanquillo"
+    ],
+    "name:ger_x_preferred":[
+        "Blanquillo"
+    ],
+    "name:nob_x_preferred":[
+        "Blanquillo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043b\u0430\u043d\u043a\u0438\u043b\u044c\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Blanquillo"
+    ],
+    "qs:name":"Blanquillo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3443588,
+        "gp:id":468014,
+        "qs:id":147841,
+        "wd:id":"Q389098"
+    },
+    "wof:country":"UY",
+    "wof:created":1469052340,
+    "wof:geomhash":"1b4345bf73b8f97cb87c87aefd41040f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":890441863,
+            "region_id":85680303
+        }
+    ],
+    "wof:id":890441863,
+    "wof:lastmodified":1514502010,
+    "wof:name":"Blanquillo",
+    "wof:parent_id":85680303,
+    "wof:placetype":"locality",
+    "wof:population":1170,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.63333,
+    -32.76667,
+    -55.63333,
+    -32.76667
+],
+  "geometry": {"coordinates":[-55.63333,-32.76667],"type":"Point"}
+}

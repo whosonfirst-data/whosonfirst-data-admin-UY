@@ -1,0 +1,68 @@
+{
+  "id": 1360190877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.3349,-34.43411,-57.3349,-34.43411",
+    "geom:latitude":-34.43411,
+    "geom:longitude":-57.3349,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Boca del Rosario Oeste",
+    "gn:country_code":"UY",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11171781,
+    "gn:latitude":-34.43411,
+    "gn:longitude":-57.3349,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Boca del Rosario Oeste",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Boca del Rosario Oeste"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11171781
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"febc21a4ccb4b4feb576c96d1dba32e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1360190877,
+            "region_id":85680347
+        }
+    ],
+    "wof:id":1360190877,
+    "wof:lastmodified":1537713228,
+    "wof:name":"Boca del Rosario Oeste",
+    "wof:parent_id":85680347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.3349,
+    -34.43411,
+    -57.3349,
+    -34.43411
+],
+  "geometry": {"coordinates":[-57.3349,-34.43411],"type":"Point"}
+}

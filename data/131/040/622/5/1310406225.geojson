@@ -1,0 +1,71 @@
+{
+  "id": 1310406225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.40971,-34.24757,-57.40971,-34.24757",
+    "geom:latitude":-34.24757,
+    "geom:longitude":-57.40971,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Costa de Colla al Este",
+    "gn:country_code":"UY",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11171838,
+    "gn:latitude":-34.24757,
+    "gn:longitude":-57.40971,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Costa de Colla al Este",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Costa de Colla al Este"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680347,
+        1092075943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11171838
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"5aa7084f68188c785f0eb9bc2df9b52f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092075943,
+            "locality_id":1310406225,
+            "region_id":85680347
+        }
+    ],
+    "wof:id":1310406225,
+    "wof:lastmodified":1537713229,
+    "wof:name":"Costa de Colla al Este",
+    "wof:parent_id":1092075943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.40971,
+    -34.24757,
+    -57.40971,
+    -34.24757
+],
+  "geometry": {"coordinates":[-57.40971,-34.24757],"type":"Point"}
+}

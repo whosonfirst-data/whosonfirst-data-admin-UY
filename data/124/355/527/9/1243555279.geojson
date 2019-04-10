@@ -1,0 +1,68 @@
+{
+  "id": 1243555279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.2537,-34.43323,-57.2537,-34.43323",
+    "geom:latitude":-34.43323,
+    "geom:longitude":-57.2537,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Fomento",
+    "gn:country_code":"UY",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11171784,
+    "gn:latitude":-34.43323,
+    "gn:longitude":-57.2537,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Fomento",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Fomento"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11171784
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"7e0c5b49e86f3c70106958a8ec940f5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1243555279,
+            "region_id":85680347
+        }
+    ],
+    "wof:id":1243555279,
+    "wof:lastmodified":1537713228,
+    "wof:name":"Fomento",
+    "wof:parent_id":85680347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.2537,
+    -34.43323,
+    -57.2537,
+    -34.43323
+],
+  "geometry": {"coordinates":[-57.2537,-34.43323],"type":"Point"}
+}

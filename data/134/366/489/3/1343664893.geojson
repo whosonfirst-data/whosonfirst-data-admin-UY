@@ -1,0 +1,68 @@
+{
+  "id": 1343664893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.28333,-34.45,-56.28333,-34.45",
+    "geom:latitude":-34.45,
+    "geom:longitude":-56.28333,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"02",
+    "gn:asciiname":"Paso Francos",
+    "gn:country_code":"UY",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3441266,
+    "gn:latitude":-34.45,
+    "gn:longitude":-56.28333,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Paso Francos",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680321,
+        1092074541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3441266
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"642c229fe166712ab3d391f1fc3041f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092074541,
+            "locality_id":1343664893,
+            "region_id":85680321
+        }
+    ],
+    "wof:id":1343664893,
+    "wof:lastmodified":1536948954,
+    "wof:name":"Paso Francos",
+    "wof:parent_id":1092074541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.28333000000001,
+    -34.45,
+    -56.28333000000001,
+    -34.45
+],
+  "geometry": {"coordinates":[-56.28333000000001,-34.45],"type":"Point"}
+}

@@ -1,0 +1,97 @@
+{
+  "id": 890421811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.79889,-34.51972,-56.79889,-34.51972",
+    "geom:latitude":-34.51972,
+    "geom:longitude":-56.79889,
+    "gn:country":"UY",
+    "gn:fcode":"PPL",
+    "gn:pop":1274,
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u054c\u0561\u0586\u0561\u0565\u056c \u054a\u0565\u0580\u0561\u057d\u057d\u0561"
+    ],
+    "name:cat_x_preferred":[
+        "Rafael Perazza"
+    ],
+    "name:dut_x_preferred":[
+        "Rafael Perazza"
+    ],
+    "name:eng_x_preferred":[
+        "Rafael Perazza"
+    ],
+    "name:fre_x_preferred":[
+        "Rafael Perazza"
+    ],
+    "name:ger_x_preferred":[
+        "Rafael Perazza"
+    ],
+    "name:ita_x_preferred":[
+        "Rafael Perazza"
+    ],
+    "name:nob_x_preferred":[
+        "Rafael Perazza"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0444\u0430\u044d\u043b\u044c-\u041f\u0435\u0440\u0430\u0441\u0441\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Rafael Perazza"
+    ],
+    "qs:name":"Rafael Perazza",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":174,
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3440879,
+        "gp:id":380773,
+        "qs:id":95578,
+        "wd:id":"Q1891613",
+        "wk:page":"Rafael Perazza"
+    },
+    "wof:country":"UY",
+    "wof:created":1469051414,
+    "wof:geomhash":"a740818898ee608531de5d437cbab86e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":890421811,
+            "region_id":85680349
+        }
+    ],
+    "wof:id":890421811,
+    "wof:lastmodified":1527782109,
+    "wof:name":"Rafael Perazza",
+    "wof:parent_id":85680349,
+    "wof:placetype":"locality",
+    "wof:population":1274,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.79889,
+    -34.51972,
+    -56.79889,
+    -34.51972
+],
+  "geometry": {"coordinates":[-56.79889,-34.51972],"type":"Point"}
+}

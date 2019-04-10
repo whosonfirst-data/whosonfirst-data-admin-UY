@@ -1,0 +1,68 @@
+{
+  "id": 1343349679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.75,-32.48333,-57.75,-32.48333",
+    "geom:latitude":-32.48333,
+    "geom:longitude":-57.75,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"01",
+    "gn:asciiname":"La Tentacion",
+    "gn:country_code":"UY",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3442045,
+    "gn:latitude":-32.48333,
+    "gn:longitude":-57.75,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"La Tentaci\u00f5n",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680363,
+        1092076769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3442045
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"552b856691aeeff289d30591ff38c15e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092076769,
+            "locality_id":1343349679,
+            "region_id":85680363
+        }
+    ],
+    "wof:id":1343349679,
+    "wof:lastmodified":1536906367,
+    "wof:name":"La Tentacion",
+    "wof:parent_id":1092076769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.75,
+    -32.48333,
+    -57.75,
+    -32.48333
+],
+  "geometry": {"coordinates":[-57.75,-32.48333],"type":"Point"}
+}

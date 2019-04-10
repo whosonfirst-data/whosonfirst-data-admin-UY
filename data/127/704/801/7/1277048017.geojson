@@ -1,0 +1,68 @@
+{
+  "id": 1277048017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.83483,-34.50326,-56.83483,-34.50326",
+    "geom:latitude":-34.50326,
+    "geom:longitude":-56.83483,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Rincon del Pino",
+    "gn:country_code":"UY",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3440800,
+    "gn:latitude":-34.50326,
+    "gn:longitude":-56.83483,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Rinc\u00f3n del Pino",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Rinc\u00f3n del Pino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3440800
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"7ab1b0ecad33120e422c6c3a83a08520",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1277048017,
+            "region_id":85680349
+        }
+    ],
+    "wof:id":1277048017,
+    "wof:lastmodified":1537713206,
+    "wof:name":"Rincon del Pino",
+    "wof:parent_id":85680349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.83483,
+    -34.50326,
+    -56.83483,
+    -34.50326
+],
+  "geometry": {"coordinates":[-56.83483,-34.50326],"type":"Point"}
+}

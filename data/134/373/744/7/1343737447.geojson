@@ -1,0 +1,65 @@
+{
+  "id": 1343737447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.10472,-33.25895,-55.10472,-33.25895",
+    "geom:latitude":-33.25895,
+    "geom:longitude":-55.10472,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Valentines",
+    "gn:country_code":"UY",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3439681,
+    "gn:latitude":-33.25895,
+    "gn:longitude":-55.10472,
+    "gn:modification_date":"2018-02-21",
+    "gn:name":"Valentines",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3439681
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"6e9fee41c4e11eec81a4c0cfc8d565b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1343737447,
+            "region_id":85680325
+        }
+    ],
+    "wof:id":1343737447,
+    "wof:lastmodified":1536843089,
+    "wof:name":"Valentines",
+    "wof:parent_id":85680325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.10471999999999,
+    -33.25895,
+    -55.10471999999999,
+    -33.25895
+],
+  "geometry": {"coordinates":[-55.10471999999999,-33.25895],"type":"Point"}
+}

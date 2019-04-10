@@ -1,0 +1,68 @@
+{
+  "id": 1360067521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.61865,-34.53084,-56.61865,-34.53084",
+    "geom:latitude":-34.53084,
+    "geom:longitude":-56.61865,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Valdez Chico",
+    "gn:country_code":"UY",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10943563,
+    "gn:latitude":-34.53084,
+    "gn:longitude":-56.61865,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Vald\u00e9z Chico",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Vald\u00e9z Chico"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10943563
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"f70c5160c3f9cccd2c155c8220e11fc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1360067521,
+            "region_id":85680349
+        }
+    ],
+    "wof:id":1360067521,
+    "wof:lastmodified":1537713226,
+    "wof:name":"Valdez Chico",
+    "wof:parent_id":85680349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.61865,
+    -34.53084,
+    -56.61865,
+    -34.53084
+],
+  "geometry": {"coordinates":[-56.61865,-34.53084],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209086547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.48456,-32.55823,-57.48456,-32.55823",
+    "geom:latitude":-32.55823,
+    "geom:longitude":-57.48456,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"02",
+    "gn:asciiname":"Menafra",
+    "gn:country_code":"UY",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3441695,
+    "gn:latitude":-32.55823,
+    "gn:longitude":-57.48456,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Menafra",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Menafra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3441695
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"205d5ae6dd33689c47c1817f4454dd5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632511,
+            "locality_id":1209086547
+        }
+    ],
+    "wof:id":1209086547,
+    "wof:lastmodified":1537713214,
+    "wof:name":"Menafra",
+    "wof:parent_id":85632511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.48456,
+    -32.55823,
+    -57.48456,
+    -32.55823
+],
+  "geometry": {"coordinates":[-57.48456,-32.55823],"type":"Point"}
+}

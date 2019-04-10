@@ -1,0 +1,94 @@
+{
+  "id": 890433133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.98333,-34.43333,-55.98333,-34.43333",
+    "geom:latitude":-34.43333,
+    "geom:longitude":-55.98333,
+    "gn:country":"UY",
+    "gn:fcode":"PPL",
+    "gn:pop":1905,
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "San Bautista"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u5305\u8482\u65af\u5854"
+    ],
+    "name:dut_x_preferred":[
+        "San Bautista"
+    ],
+    "name:eng_x_preferred":[
+        "San Bautista"
+    ],
+    "name:fre_x_preferred":[
+        "San Bautista"
+    ],
+    "name:ger_x_preferred":[
+        "San Bautista"
+    ],
+    "name:ita_x_preferred":[
+        "San Bautista"
+    ],
+    "name:nob_x_preferred":[
+        "San Bautista"
+    ],
+    "name:spa_x_preferred":[
+        "San Bautista"
+    ],
+    "qs:name":"San Bautista",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":203,
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3440698,
+        "gp:id":468039,
+        "qs:id":95576,
+        "wd:id":"Q1005725",
+        "wk:page":"San Bautista"
+    },
+    "wof:country":"UY",
+    "wof:created":1469051968,
+    "wof:geomhash":"a7a9b0ef4cdfd7deebe1d9b55ccf62ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":890433133,
+            "region_id":85680321
+        }
+    ],
+    "wof:id":890433133,
+    "wof:lastmodified":1527792951,
+    "wof:name":"San Bautista",
+    "wof:parent_id":85680321,
+    "wof:placetype":"locality",
+    "wof:population":1905,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.98333,
+    -34.43333,
+    -55.98333,
+    -34.43333
+],
+  "geometry": {"coordinates":[-55.98333,-34.43333],"type":"Point"}
+}

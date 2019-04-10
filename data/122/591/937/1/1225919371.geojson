@@ -1,0 +1,68 @@
+{
+  "id": 1225919371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.55114,-33.43724,-54.55114,-33.43724",
+    "geom:latitude":-33.43724,
+    "geom:longitude":-54.55114,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"El Bellaco",
+    "gn:country_code":"UY",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10637093,
+    "gn:latitude":-33.43724,
+    "gn:longitude":-54.55114,
+    "gn:modification_date":"2018-02-23",
+    "gn:name":"El Bellaco",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Bellaco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10637093
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"5499ca532cdfa2c2ce39582d61879137",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1225919371,
+            "region_id":85680329
+        }
+    ],
+    "wof:id":1225919371,
+    "wof:lastmodified":1537713223,
+    "wof:name":"El Bellaco",
+    "wof:parent_id":85680329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.55114,
+    -33.43724,
+    -54.55114,
+    -33.43724
+],
+  "geometry": {"coordinates":[-54.55114,-33.43724],"type":"Point"}
+}

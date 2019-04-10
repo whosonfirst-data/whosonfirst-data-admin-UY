@@ -1,0 +1,68 @@
+{
+  "id": 1327008749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.53838,-34.78768,-54.53838,-34.78768",
+    "geom:latitude":-34.78768,
+    "geom:longitude":-54.53838,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"El Caracol",
+    "gn:country_code":"UY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10634645,
+    "gn:latitude":-34.78768,
+    "gn:longitude":-54.53838,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"El Caracol",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Caracol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10634645
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"0e1a43e991331f0ca441f5fc863dbc62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1327008749,
+            "region_id":85680335
+        }
+    ],
+    "wof:id":1327008749,
+    "wof:lastmodified":1537713223,
+    "wof:name":"El Caracol",
+    "wof:parent_id":85680335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.53838,
+    -34.78768,
+    -54.53838,
+    -34.78768
+],
+  "geometry": {"coordinates":[-54.53838,-34.78768],"type":"Point"}
+}

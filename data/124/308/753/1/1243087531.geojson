@@ -1,0 +1,68 @@
+{
+  "id": 1243087531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.28203,-34.34417,-55.28203,-34.34417",
+    "geom:latitude":-34.34417,
+    "geom:longitude":-55.28203,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Higueritas",
+    "gn:country_code":"UY",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10642737,
+    "gn:latitude":-34.34417,
+    "gn:longitude":-55.28203,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Higueritas",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Higueritas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10642737
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"4725ac0e2be2d4bdb5dd34b5a8aff598",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1243087531,
+            "region_id":85680329
+        }
+    ],
+    "wof:id":1243087531,
+    "wof:lastmodified":1537713224,
+    "wof:name":"Higueritas",
+    "wof:parent_id":85680329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.28203000000001,
+    -34.34417,
+    -55.28203000000001,
+    -34.34417
+],
+  "geometry": {"coordinates":[-55.28203000000001,-34.34417],"type":"Point"}
+}

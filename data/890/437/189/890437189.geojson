@@ -1,0 +1,296 @@
+{
+  "id": 890437189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.51667,-32.81667,-56.51667,-32.81667",
+    "geom:latitude":-32.81667,
+    "geom:longitude":-56.51667,
+    "gn:country":"UY",
+    "gn:fcode":"PPL",
+    "gn:pop":13221,
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":7.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0633\u0648 \u062f\u064a \u0644\u0648\u0633 \u062a\u0648\u0631\u0648\u0633"
+    ],
+    "name:arm_x_preferred":[
+        "\u054a\u0561\u057d\u0578 \u0564\u0565 \u056c\u0578\u057d \u054f\u0578\u0580\u0578\u057d"
+    ],
+    "name:baq_x_preferred":[
+        "Paso de los Toros"
+    ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09be\u09b8\u09cb \u09a6\u09c7 \u09b2\u09b8 \u099f\u09cb\u09b0\u09cb\u09b8"
+    ],
+    "name:cat_x_preferred":[
+        "Paso de los Toros"
+    ],
+    "name:chi_x_preferred":[
+        "\u5e15\u7d22\u5fb7\u6d1b\u65af\u6258\u7f85\u65af"
+    ],
+    "name:cze_x_preferred":[
+        "Paso de los Toros"
+    ],
+    "name:dan_x_preferred":[
+        "Paso de los Toros"
+    ],
+    "name:dut_x_preferred":[
+        "Paso de los Toros"
+    ],
+    "name:eng_x_preferred":[
+        "Paso de los Toros"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0633\u0648 \u062f \u0644\u0648\u0633\u200c\u062a\u0631\u0648\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "Paso de los Toros"
+    ],
+    "name:fre_x_preferred":[
+        "Paso de los Toros"
+    ],
+    "name:ger_x_preferred":[
+        "Paso de los Toros"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03ac\u03c3\u03bf \u039d\u03c4\u03b5 \u039b\u03bf\u03c2 \u03a4\u03cc\u03c1\u03bf\u03c2"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aaa\u0abe\u0ab8\u0acb \u0aa6\u0ac7 \u0ab2\u0acb\u0ab8 \u0a9f\u0acb\u0ab0\u0acb\u0ab8"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u093e\u0938\u094b \u0926\u0947 \u0932\u0949\u0938 \u091f\u094b\u0930\u094b\u0938"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0561\u057d\u0578 \u0564\u0565 \u056c\u0578\u057d \u054f\u0578\u0580\u0578\u057d"
+    ],
+    "name:ind_x_preferred":[
+        "Paso de los Toros"
+    ],
+    "name:ita_x_preferred":[
+        "Paso de los Toros"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30bd\u30fb\u30c7\u30fb\u30ed\u30b9\u30fb\u30c8\u30ed\u30b9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0caa\u0ccd\u0caf\u0cbe\u0cb8\u0cca \u0ca1\u0cc6 \u0cb2\u0cbe\u0cb8\u0ccd \u0c9f\u0cca\u0cb0\u0cca\u0cb8\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ud30c\uc18c\ub370\ub85c\uc2a4\ud1a0\ub85c\uc2a4"
+    ],
+    "name:lav_x_preferred":[
+        "Paso de los Toros"
+    ],
+    "name:lit_x_preferred":[
+        "Paso de los Torosas"
+    ],
+    "name:mar_x_preferred":[
+        "\u092a\u093e\u0938\u094b \u0921\u0947 \u0932\u0949\u0938 \u091f\u0949\u0930\u094b\u0938"
+    ],
+    "name:may_x_preferred":[
+        "Paso de los Toros"
+    ],
+    "name:nob_x_preferred":[
+        "Paso de los Toros"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0627\u0633\u0648 \u062f \u0644\u0648\u0633\u200c\u062a\u0631\u0648\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Paso de los Toros"
+    ],
+    "name:por_x_preferred":[
+        "Paso de los Toros"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0441\u043e-\u0434\u0435-\u043b\u043e\u0441-\u0422\u043e\u0440\u043e\u0441"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db4\u0dcf\u0dc3\u0ddd \u0da9\u0dd2 \u0dbd\u0ddc\u0dc3\u0dca\u200c \u0da7\u0ddc\u0dbb\u0ddd\u0dc3\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Paso de los Toros"
+    ],
+    "name:swe_x_preferred":[
+        "Paso de los Toros"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bbe\u0bb8\u0bca  \u0b9f\u0bc7  \u0bb2\u0bbe\u0bb8\u0bcd  \u0b9f\u0bcb\u0bb0\u0bcb\u0bb8\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2a\u0c3e\u0c38\u0c4b \u0c21\u0c3f \u0c32\u0c3e\u0c38\u0c4d \u0c1f\u0c4b\u0c30\u0c4b\u0c38\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1b\u0e32\u0e42\u0e0b \u0e40\u0e14\u0e2d \u0e25\u0e32 \u0e41\u0e1e\u0e17\u0e40\u0e17\u0e23\u0e35\u0e22"
+    ],
+    "name:tur_x_preferred":[
+        "Paso de los Toros"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0441\u043e-\u0434\u0435-\u043b\u043e\u0441-\u0422\u043e\u0440\u043e\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Santa Isabel"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0627\u0633\u0648 \u062f\u06d2 \u0644\u0648\u0633 \u062a\u0648\u0631\u0648\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Paso de los Toros"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u7d22\u5fb7\u6d1b\u65af\u6258\u7f85\u65af"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Uruguay",
+    "ne:ADM0_A3":"URY",
+    "ne:ADM1NAME":"Tacuaremb\u00f3",
+    "ne:ADMIN1_COD":5,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":2,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3441273,
+    "ne:GEONAMESNO":"Geonames ascii name + lat.d + long.d matching.",
+    "ne:GN_ASCII":"Paso de los Toros",
+    "ne:GN_POP":13221,
+    "ne:GTOPO30":54.0,
+    "ne:ISO_A2":"UY",
+    "ne:LABELRANK":8,
+    "ne:LATITUDE":-32.810001,
+    "ne:LONGITUDE":-56.51005,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Paso de los Toros",
+    "ne:MAX_AREAKM":7.0,
+    "ne:MAX_AREAMI":3.0,
+    "ne:MAX_BBXMAX":-56.5,
+    "ne:MAX_BBXMIN":-56.533333,
+    "ne:MAX_BBYMAX":-32.791667,
+    "ne:MAX_BBYMIN":-32.825,
+    "ne:MAX_NATSCA":10.0,
+    "ne:MAX_PERKM":14.0,
+    "ne:MAX_PERMI":8.0,
+    "ne:MAX_POP10":9679,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-56.518333,
+    "ne:MEAN_BBYC":-32.8075,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":7.0,
+    "ne:MIN_AREAMI":3.0,
+    "ne:MIN_BBXMAX":-56.5,
+    "ne:MIN_BBXMIN":-56.533333,
+    "ne:MIN_BBYMAX":-32.791667,
+    "ne:MIN_BBYMIN":-32.825,
+    "ne:MIN_PERKM":14.0,
+    "ne:MIN_PERMI":8.0,
+    "ne:NAME":"Paso de los Toros",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Paso de los Toros",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":10,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":13221,
+    "ne:POP_MIN":9679,
+    "ne:POP_OTHER":9679,
+    "ne:RANK_MAX":6,
+    "ne:RANK_MIN":5,
+    "ne:SCALERANK":8,
+    "ne:SOV0NAME":"Uruguay",
+    "ne:SOV_A3":"URY",
+    "ne:TIMEZONE":"America/Montevideo",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:name":"Paso de los Toros",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wd:wordcount":309,
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3441273,
+        "gp:id":468070,
+        "qs:id":1044727,
+        "qs_pg:id":1077496,
+        "wd:id":"Q664156",
+        "wk:page":"Paso de los Toros"
+    },
+    "wof:country":"UY",
+    "wof:created":1469052142,
+    "wof:geomhash":"ad2bc93b19122dbda9a49f4c0a8d49c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":890437189,
+            "region_id":85680311
+        }
+    ],
+    "wof:id":890437189,
+    "wof:lastmodified":1527729750,
+    "wof:name":"Paso de los Toros",
+    "wof:parent_id":85680311,
+    "wof:placetype":"locality",
+    "wof:population":13221,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.51667,
+    -32.81667,
+    -56.51667,
+    -32.81667
+],
+  "geometry": {"coordinates":[-56.51667,-32.81667],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242578153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.88333,-34.43333,-57.88333,-34.43333",
+    "geom:latitude":-34.43333,
+    "geom:longitude":-57.88333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Real de San Carlos",
+    "gn:cc2":"UY",
+    "gn:country_code":"UY",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3440857,
+    "gn:latitude":-34.43333,
+    "gn:longitude":-57.88333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Real de San Carlos",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Real San Carlos",
+        "Real de San Carlos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3440857
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"f52f410de4aa68664439f9fece6f5205",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1242578153,
+            "region_id":85680347
+        }
+    ],
+    "wof:id":1242578153,
+    "wof:lastmodified":1537713207,
+    "wof:name":"Real de San Carlos",
+    "wof:parent_id":85680347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.88333000000001,
+    -34.43333,
+    -57.88333000000001,
+    -34.43333
+],
+  "geometry": {"coordinates":[-57.88333000000001,-34.43333],"type":"Point"}
+}

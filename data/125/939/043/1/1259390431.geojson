@@ -1,0 +1,66 @@
+{
+  "id": 1259390431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.16667,-31.98333,-54.16667,-31.98333",
+    "geom:latitude":-31.98333,
+    "geom:longitude":-54.16667,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"02",
+    "gn:asciiname":"Soto",
+    "gn:country_code":"UY",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3440046,
+    "gn:latitude":-31.98333,
+    "gn:longitude":-54.16667,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Soto",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3440046
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"8b5666aeb0cf01f2173f2818141e7529",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1259390431,
+            "region_id":85680299
+        }
+    ],
+    "wof:id":1259390431,
+    "wof:lastmodified":1536991376,
+    "wof:name":"Soto",
+    "wof:parent_id":85680299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.16667,
+    -31.98333,
+    -54.16667,
+    -31.98333
+],
+  "geometry": {"coordinates":[-54.16667,-31.98333],"type":"Point"}
+}

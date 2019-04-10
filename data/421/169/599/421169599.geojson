@@ -1,0 +1,125 @@
+{
+  "id": 421169599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.16667,-31.83333,-54.16667,-31.83333",
+    "geom:latitude":-31.83333,
+    "geom:longitude":-54.16667,
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:arm_x_preferred":[
+        "\u053b\u057d\u056b\u0564\u0578\u0580\u0578 \u0546\u0578\u0562\u056c\u056b\u0561"
+    ],
+    "name:cat_x_preferred":[
+        "Isidoro Noblia"
+    ],
+    "name:deu_x_preferred":[
+        "Isidoro Nobl\u00eda"
+    ],
+    "name:dut_x_preferred":[
+        "Isidoro Nobl\u00eda"
+    ],
+    "name:eng_x_preferred":[
+        "Isidoro Nobl\u00eda"
+    ],
+    "name:fra_x_preferred":[
+        "Isidoro Noblia"
+    ],
+    "name:fre_x_preferred":[
+        "Isidoro Noblia"
+    ],
+    "name:ger_x_preferred":[
+        "Isidoro Nobl\u00eda"
+    ],
+    "name:hrv_x_preferred":[
+        "Isidoro Nobl\u00eda"
+    ],
+    "name:hye_x_preferred":[
+        "\u053b\u057d\u056b\u0564\u0578\u0580\u0578 \u0546\u0578\u0562\u056c\u056b\u0561"
+    ],
+    "name:nob_x_preferred":[
+        "Isidoro Nobl\u00eda"
+    ],
+    "name:nor_x_preferred":[
+        "Isidoro Nobl\u00eda"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0441\u0438\u0434\u043e\u0440\u043e-\u041d\u043e\u0431\u043b\u0438\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Isidoro Nobl\u00eda"
+    ],
+    "qs:gn_country":"UY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3442299,
+    "qs:gn_pop":2526,
+    "qs:name":"Isidoro Nobl\u00eda",
+    "qs:name_adm0":"Uruguay",
+    "qs:name_adm1":"Cerro Largo",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":215134,
+    "qs:woe_adm0":23424979,
+    "qs:woe_id":468116,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":156,
+    "wof:belongsto":[
+        85682015,
+        102191577,
+        404562889,
+        85633009,
+        102059039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3442299,
+        "gp:id":468116,
+        "qs:id":215134,
+        "wd:id":"Q1673970"
+    },
+    "wof:country":"UY",
+    "wof:created":1459008816,
+    "wof:geomhash":"4ba3417ee56dfe0439626b62678d002d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102059039,
+            "localadmin_id":404562889,
+            "locality_id":421169599,
+            "region_id":85682015
+        }
+    ],
+    "wof:id":421169599,
+    "wof:lastmodified":1553816358,
+    "wof:name":"Isidoro Nobl\u00eda",
+    "wof:parent_id":404562889,
+    "wof:placetype":"locality",
+    "wof:population":2526,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.16667,
+    -31.83333,
+    -54.16667,
+    -31.83333
+],
+  "geometry": {"coordinates":[-54.16667,-31.83333],"type":"Point"}
+}

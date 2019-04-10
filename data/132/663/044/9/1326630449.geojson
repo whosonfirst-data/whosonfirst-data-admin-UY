@@ -1,0 +1,68 @@
+{
+  "id": 1326630449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.79953,-34.13804,-57.79953,-34.13804",
+    "geom:latitude":-34.13804,
+    "geom:longitude":-57.79953,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"El Cuadro",
+    "gn:country_code":"UY",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11171846,
+    "gn:latitude":-34.13804,
+    "gn:longitude":-57.79953,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"El Cuadro",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Cuadro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11171846
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"15978284ee242723dc05ec954b46a8a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1326630449,
+            "region_id":85680347
+        }
+    ],
+    "wof:id":1326630449,
+    "wof:lastmodified":1537713229,
+    "wof:name":"El Cuadro",
+    "wof:parent_id":85680347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.79953,
+    -34.13804,
+    -57.79953,
+    -34.13804
+],
+  "geometry": {"coordinates":[-57.79953,-34.13804],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276835285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-53.98169,-33.31698,-53.98169,-33.31698",
+    "geom:latitude":-33.31698,
+    "geom:longitude":-53.98169,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Canada Chica",
+    "gn:country_code":"UY",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3443447,
+    "gn:latitude":-33.31698,
+    "gn:longitude":-53.98169,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Ca\u00f1ada Chica",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ca\u00f1ada Chica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3443447
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"b07a0122e178d11565de6849f8ecd0cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1276835285,
+            "region_id":85680317
+        }
+    ],
+    "wof:id":1276835285,
+    "wof:lastmodified":1537713220,
+    "wof:name":"Canada Chica",
+    "wof:parent_id":85680317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -53.98169,
+    -33.31698,
+    -53.98169,
+    -33.31698
+],
+  "geometry": {"coordinates":[-53.98169,-33.31698],"type":"Point"}
+}

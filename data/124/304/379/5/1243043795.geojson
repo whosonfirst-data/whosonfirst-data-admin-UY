@@ -1,0 +1,70 @@
+{
+  "id": 1243043795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.01667,-31.76667,-56.01667,-31.76667",
+    "geom:latitude":-31.76667,
+    "geom:longitude":-56.01667,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Poblado Godoy",
+    "gn:cc2":"UY",
+    "gn:country_code":"UY",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3441050,
+    "gn:latitude":-31.76667,
+    "gn:longitude":-56.01667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Poblado Godoy",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Godoy",
+        "Poblado Godoy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3441050
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"07551cef1dbd2fe2b93fcbc9fd15c4f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1243043795,
+            "region_id":85680311
+        }
+    ],
+    "wof:id":1243043795,
+    "wof:lastmodified":1537713210,
+    "wof:name":"Poblado Godoy",
+    "wof:parent_id":85680311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.01667,
+    -31.76667,
+    -56.01667,
+    -31.76667
+],
+  "geometry": {"coordinates":[-56.01667,-31.76667],"type":"Point"}
+}

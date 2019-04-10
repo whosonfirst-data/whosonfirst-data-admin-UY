@@ -1,0 +1,70 @@
+{
+  "id": 1327355593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.74411,-33.49397,-56.74411,-33.49397",
+    "geom:latitude":-33.49397,
+    "geom:longitude":-56.74411,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Juan Jose Castro",
+    "gn:cc2":"UY",
+    "gn:country_code":"UY",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3442208,
+    "gn:latitude":-33.49397,
+    "gn:longitude":-56.74411,
+    "gn:modification_date":"2018-02-23",
+    "gn:name":"Juan Jos\u00e9 Castro",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Juan J. Castro",
+        "Juan Jos\u00e9 Castro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3442208
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"22abcd357d12ea9eff32c1e665c1fa0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1327355593,
+            "region_id":85680359
+        }
+    ],
+    "wof:id":1327355593,
+    "wof:lastmodified":1537713216,
+    "wof:name":"Juan Jose Castro",
+    "wof:parent_id":85680359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.74411,
+    -33.49397,
+    -56.74411,
+    -33.49397
+],
+  "geometry": {"coordinates":[-56.74411,-33.49397],"type":"Point"}
+}

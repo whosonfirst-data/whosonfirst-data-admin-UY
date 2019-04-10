@@ -1,0 +1,110 @@
+{
+  "id": 421201887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.46667,-31.58333,-55.46667,-31.58333",
+    "geom:latitude":-31.58333,
+    "geom:longitude":-55.46667,
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Minas de Corrales"
+    ],
+    "name:deu_x_preferred":[
+        "Minas de Corrales"
+    ],
+    "name:fra_x_preferred":[
+        "Minas de Corrales"
+    ],
+    "name:ita_x_preferred":[
+        "Minas de Corrales"
+    ],
+    "name:nor_x_preferred":[
+        "Minas de Corrales"
+    ],
+    "name:por_x_preferred":[
+        "Minas de Corrales"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043d\u0430\u0441-\u0434\u0435-\u041a\u043e\u0440\u0440\u0430\u043b\u0435\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Minas de Corrales"
+    ],
+    "name:unk_x_variant":[
+        "Corrales"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c73\u7d0d\u65af\u5fb7\u79d1\u62c9\u840a\u65af"
+    ],
+    "qs:gn_country":"UY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3441659,
+    "qs:gn_pop":3509,
+    "qs:name":"Minas de Corrales",
+    "qs:name_adm0":"Uruguay",
+    "qs:name_adm1":"Rivera",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":6,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":215128,
+    "qs:woe_adm0":23424979,
+    "qs:woe_id":468031,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":297,
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3441659,
+        "gp:id":468031,
+        "qs:id":215128,
+        "wd:id":"Q1020376",
+        "wk:page":"Minas de Corrales"
+    },
+    "wof:country":"UY",
+    "wof:created":1459010090,
+    "wof:geomhash":"80c2ea0b31c16ea3729cc094fb140794",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":421201887,
+            "region_id":85680307
+        }
+    ],
+    "wof:id":421201887,
+    "wof:lastmodified":1527716433,
+    "wof:name":"Minas de Corrales",
+    "wof:parent_id":85680307,
+    "wof:placetype":"locality",
+    "wof:population":3509,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.46667,
+    -31.58333,
+    -55.46667,
+    -31.58333
+],
+  "geometry": {"coordinates":[-55.46667,-31.58333],"type":"Point"}
+}

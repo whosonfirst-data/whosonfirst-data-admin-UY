@@ -1,0 +1,68 @@
+{
+  "id": 1309876157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.60372,-31.52306,-56.60372,-31.52306",
+    "geom:latitude":-31.52306,
+    "geom:longitude":-56.60372,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Carumbe",
+    "gn:country_code":"UY",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10866757,
+    "gn:latitude":-31.52306,
+    "gn:longitude":-56.60372,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Carumb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Carumb\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10866757
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"6f0809bd700301d925555dcc2d1132f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1309876157,
+            "region_id":85680289
+        }
+    ],
+    "wof:id":1309876157,
+    "wof:lastmodified":1537713226,
+    "wof:name":"Carumbe",
+    "wof:parent_id":85680289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.60372,
+    -31.52306,
+    -56.60372,
+    -31.52306
+],
+  "geometry": {"coordinates":[-56.60372,-31.52306],"type":"Point"}
+}

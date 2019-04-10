@@ -1,0 +1,62 @@
+{
+  "id": 1209407461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.12847,-33.16831,-57.12847,-33.16831",
+    "geom:latitude":-33.16831,
+    "geom:longitude":-57.12847,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Andresito",
+    "gn:country_code":"UY",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3443859,
+    "gn:latitude":-33.16831,
+    "gn:longitude":-57.12847,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Andresito",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3443859,
+        "wk:page":"Andresito%2C_Uruguay"
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"b88c8e76377214be46f8b2c7068302b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632511,
+            "locality_id":1209407461
+        }
+    ],
+    "wof:id":1209407461,
+    "wof:lastmodified":1537575742,
+    "wof:name":"Andresito",
+    "wof:parent_id":85632511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.12846999999999,
+    -33.16831,
+    -57.12846999999999,
+    -33.16831
+],
+  "geometry": {"coordinates":[-57.12846999999999,-33.16831],"type":"Point"}
+}

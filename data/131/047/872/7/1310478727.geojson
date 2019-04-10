@@ -1,0 +1,73 @@
+{
+  "id": 1310478727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.755,-32.8138,-57.755,-32.8138",
+    "geom:latitude":-32.8138,
+    "geom:longitude":-57.755,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Sanchez",
+    "gn:country_code":"UY",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3440692,
+    "gn:latitude":-32.8138,
+    "gn:longitude":-57.755,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"S\u00e1nchez",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sanchez Grande",
+        "Sanchez Chico",
+        "Pueblo Sanchez",
+        "Pueblo Sauce",
+        "Pueblo S\u00e1nchez Grande",
+        "S\u00e1nchez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3440692
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"8f0084edc8384a8d5ef93b295c2883af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1310478727,
+            "region_id":85680367
+        }
+    ],
+    "wof:id":1310478727,
+    "wof:lastmodified":1537713206,
+    "wof:name":"Sanchez",
+    "wof:parent_id":85680367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.755,
+    -32.8138,
+    -57.755,
+    -32.8138
+],
+  "geometry": {"coordinates":[-57.755,-32.8138],"type":"Point"}
+}

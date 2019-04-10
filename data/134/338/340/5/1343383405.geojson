@@ -1,0 +1,68 @@
+{
+  "id": 1343383405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.15439,-33.76544,-57.15439,-33.76544",
+    "geom:latitude":-33.76544,
+    "geom:longitude":-57.15439,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Santa Adelaida",
+    "gn:country_code":"UY",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10943918,
+    "gn:latitude":-33.76544,
+    "gn:longitude":-57.15439,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Santa Adelaida",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santa Adelaida"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10943918
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"0e0388c0f0bccb123b41ac7ad841df17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1343383405,
+            "region_id":85680359
+        }
+    ],
+    "wof:id":1343383405,
+    "wof:lastmodified":1537713227,
+    "wof:name":"Santa Adelaida",
+    "wof:parent_id":85680359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.15439,
+    -33.76544000000001,
+    -57.15439,
+    -33.76544000000001
+],
+  "geometry": {"coordinates":[-57.15439,-33.76544000000001],"type":"Point"}
+}

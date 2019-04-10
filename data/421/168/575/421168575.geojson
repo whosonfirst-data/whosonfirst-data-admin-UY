@@ -1,0 +1,136 @@
+{
+  "id": 421168575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.53333,-33.45,-54.53333,-33.45",
+    "geom:latitude":-33.45,
+    "geom:longitude":-54.53333,
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Jos\u00e9 Pedro Varela"
+    ],
+    "name:chi_x_preferred":[
+        "\u4f55\u585e\u4f69\u5fb7\u7f85\u5df4\u96f7\u62c9\u6751"
+    ],
+    "name:deu_x_preferred":[
+        "Jos\u00e9 Pedro Varela"
+    ],
+    "name:dut_x_preferred":[
+        "Jos\u00e9 Pedro Varela"
+    ],
+    "name:eng_x_preferred":[
+        "Jos\u00e9 Pedro Varela"
+    ],
+    "name:fas_x_preferred":[
+        "\u062e\u0648\u0632\u0647 \u067e\u062f\u0631\u0648 \u0648\u0627\u0631\u0644\u0627\u060c \u0627\u0631\u0648\u06af\u0648\u0626\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Jos\u00e9 Pedro Varela"
+    ],
+    "name:fre_x_preferred":[
+        "Jos\u00e9 Pedro Varela"
+    ],
+    "name:ger_x_preferred":[
+        "Jos\u00e9 Pedro Varela"
+    ],
+    "name:ita_x_preferred":[
+        "Jos\u00e9 Pedro Varela"
+    ],
+    "name:nob_x_preferred":[
+        "Jos\u00e9 Pedro Varela"
+    ],
+    "name:nor_x_preferred":[
+        "Jos\u00e9 Pedro Varela"
+    ],
+    "name:per_x_preferred":[
+        "\u062e\u0648\u0632\u0647 \u067e\u062f\u0631\u0648 \u0648\u0627\u0631\u0644\u0627\u060c \u0627\u0631\u0648\u06af\u0648\u0626\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Jos\u00e9 Pedro Varela"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u0441\u0435-\u041f\u0435\u0434\u0440\u043e-\u0412\u0430\u0440\u0435\u043b\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Jos\u00e9 Pedro Varela"
+    ],
+    "name:unk_x_variant":[
+        "J.P. Varela"
+    ],
+    "name:urd_x_preferred":[
+        "\u062e\u0648\u0633\u06d2 \u067e\u06cc\u062f\u0631\u0648 \u0648\u0627\u0631\u06cc\u0644\u0627\u060c \u06cc\u0648\u0631\u0627\u06af\u0648\u0626\u06d2"
+    ],
+    "qs:gn_country":"UY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3442221,
+    "qs:gn_pop":5388,
+    "qs:name":"Jos\u00e9 Pedro Varela",
+    "qs:name_adm0":"Uruguay",
+    "qs:name_adm1":"Lavalleja",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":14,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1044746,
+    "qs:woe_adm0":23424979,
+    "qs:woe_id":468091,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":-33.45,
+    "wd:longitude":-54.533333,
+    "wd:wordcount":213,
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3442221,
+        "gp:id":468091,
+        "qs:id":1044746,
+        "wd:id":"Q1709570",
+        "wk:page":"Jos\u00e9 Pedro Varela, Uruguay"
+    },
+    "wof:country":"UY",
+    "wof:created":1459008769,
+    "wof:geomhash":"5c4762729ec0ff1f69f2851f00564c5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":421168575,
+            "region_id":85680329
+        }
+    ],
+    "wof:id":421168575,
+    "wof:lastmodified":1553816356,
+    "wof:name":"Jos\u00e9 Pedro Varela",
+    "wof:parent_id":85680329,
+    "wof:placetype":"locality",
+    "wof:population":5388,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.53333,
+    -33.45,
+    -54.53333,
+    -33.45
+],
+  "geometry": {"coordinates":[-54.53333,-33.45],"type":"Point"}
+}

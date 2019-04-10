@@ -1,0 +1,72 @@
+{
+  "id": 1242955925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.83835,-31.43802,-56.83835,-31.43802",
+    "geom:latitude":-31.43802,
+    "geom:longitude":-56.83835,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Paso del Potrero",
+    "gn:country_code":"UY",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3441260,
+    "gn:latitude":-31.43802,
+    "gn:longitude":-56.83835,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Paso del Potrero",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Paso del Potrero"
+    ],
+    "name:und_x_variant":[
+        "Paso del Potrero de Arerungu\u00e1",
+        "Paso Potrero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3441260
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"589feff5b4dc30c65dfb8435d3ebee24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1242955925,
+            "region_id":85680289
+        }
+    ],
+    "wof:id":1242955925,
+    "wof:lastmodified":1537713212,
+    "wof:name":"Paso del Potrero",
+    "wof:parent_id":85680289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.83835,
+    -31.43802,
+    -56.83835,
+    -31.43802
+],
+  "geometry": {"coordinates":[-56.83835,-31.43802],"type":"Point"}
+}

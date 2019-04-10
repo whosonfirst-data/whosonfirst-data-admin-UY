@@ -1,0 +1,70 @@
+{
+  "id": 1225821283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.07664,-31.51973,-56.07664,-31.51973",
+    "geom:latitude":-31.51973,
+    "geom:longitude":-56.07664,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Paso de Ceferino",
+    "gn:country_code":"UY",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3441289,
+    "gn:latitude":-31.51973,
+    "gn:longitude":-56.07664,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Paso de Ceferino",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paso Ceferino",
+        "Pablado Paso de Ceferino",
+        "Paso de Ceferino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3441289
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"bcca357280af36a1cb21d5399146f896",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1225821283,
+            "region_id":85680311
+        }
+    ],
+    "wof:id":1225821283,
+    "wof:lastmodified":1537713212,
+    "wof:name":"Paso de Ceferino",
+    "wof:parent_id":85680311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.07664000000001,
+    -31.51973,
+    -56.07664000000001,
+    -31.51973
+],
+  "geometry": {"coordinates":[-56.07664000000001,-31.51973],"type":"Point"}
+}

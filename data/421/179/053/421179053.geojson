@@ -1,0 +1,125 @@
+{
+  "id": 421179053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.9,-34.7,-55.9,-34.7",
+    "geom:latitude":-34.7,
+    "geom:longitude":-55.9,
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Empalme Olmos"
+    ],
+    "name:chi_x_preferred":[
+        "\u6069\u5e15\u723e\u6885\u5967\u723e\u83ab\u65af"
+    ],
+    "name:deu_x_preferred":[
+        "Empalme Olmos"
+    ],
+    "name:dut_x_preferred":[
+        "Empalme Olmos"
+    ],
+    "name:eng_x_preferred":[
+        "Empalme Olmos"
+    ],
+    "name:fra_x_preferred":[
+        "Empalme Olmos"
+    ],
+    "name:fre_x_preferred":[
+        "Empalme Olmos"
+    ],
+    "name:ger_x_preferred":[
+        "Empalme Olmos"
+    ],
+    "name:ita_x_preferred":[
+        "Empalme Olmos"
+    ],
+    "name:nob_x_preferred":[
+        "Empalme Olmos"
+    ],
+    "name:nor_x_preferred":[
+        "Empalme Olmos"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043c\u043f\u0430\u043b\u044c\u043c\u0435-\u041e\u043b\u044c\u043c\u043e\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Empalme Olmos"
+    ],
+    "name:unk_x_variant":[
+        "Estaci\u00f3n Olmos"
+    ],
+    "name:zho_x_preferred":[
+        "\u6069\u5e15\u723e\u6885\u5967\u723e\u83ab\u65af"
+    ],
+    "qs:gn_country":"UY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3442683,
+    "qs:gn_pop":4007,
+    "qs:name":"Empalme Olmos",
+    "qs:name_adm0":"Uruguay",
+    "qs:name_adm1":"Canelones",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":147835,
+    "qs:woe_adm0":23424979,
+    "qs:woe_id":468021,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":172,
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3442683,
+        "gp:id":468021,
+        "qs:id":147835,
+        "wd:id":"Q630016",
+        "wk:page":"Empalme Olmos"
+    },
+    "wof:country":"UY",
+    "wof:created":1459009202,
+    "wof:geomhash":"4082c42e173a67d4047b68567315aefd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":421179053,
+            "region_id":85680321
+        }
+    ],
+    "wof:id":421179053,
+    "wof:lastmodified":1527717704,
+    "wof:name":"Empalme Olmos",
+    "wof:parent_id":85680321,
+    "wof:placetype":"locality",
+    "wof:population":4007,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.9,
+    -34.7,
+    -55.9,
+    -34.7
+],
+  "geometry": {"coordinates":[-55.9,-34.7],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1360165845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.46482,-31.87836,-55.46482,-31.87836",
+    "geom:latitude":-31.87836,
+    "geom:longitude":-55.46482,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Ansina",
+    "gn:cc2":"UY",
+    "gn:country_code":"UY",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3443847,
+    "gn:latitude":-31.87836,
+    "gn:longitude":-55.46482,
+    "gn:modification_date":"2015-02-13",
+    "gn:name":"Ansina",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paso del Borracho",
+        "Borracho",
+        "Poblado del Borracho",
+        "El Borracho",
+        "Ansina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3443847,
+        "wk:page":"Ansina"
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"b6b7e1b9f8b44c96dd147fee0eb349f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1360165845,
+            "region_id":85680311
+        }
+    ],
+    "wof:id":1360165845,
+    "wof:lastmodified":1537713221,
+    "wof:name":"Ansina",
+    "wof:parent_id":85680311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.46482,
+    -31.87836,
+    -55.46482,
+    -31.87836
+],
+  "geometry": {"coordinates":[-55.46482,-31.87836],"type":"Point"}
+}

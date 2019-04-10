@@ -1,0 +1,68 @@
+{
+  "id": 1276338077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.02056,-34.7625,-56.02056,-34.7625",
+    "geom:latitude":-34.7625,
+    "geom:longitude":-56.02056,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"05",
+    "gn:asciiname":"Cap. Juan A. Artigas",
+    "gn:country_code":"UY",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3480818,
+    "gn:latitude":-34.7625,
+    "gn:longitude":-56.02056,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Cap. Juan A. Artigas",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680321,
+        1092076383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3480818
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"e5b447f954ab3ab82add411fbdd4ec58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092076383,
+            "locality_id":1276338077,
+            "region_id":85680321
+        }
+    ],
+    "wof:id":1276338077,
+    "wof:lastmodified":1536772687,
+    "wof:name":"Cap. Juan A. Artigas",
+    "wof:parent_id":1092076383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.02056,
+    -34.7625,
+    -56.02056,
+    -34.7625
+],
+  "geometry": {"coordinates":[-56.02056,-34.7625],"type":"Point"}
+}

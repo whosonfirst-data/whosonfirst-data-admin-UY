@@ -1,0 +1,74 @@
+{
+  "id": 1327347629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.66376,-30.37375,-57.66376,-30.37375",
+    "geom:latitude":-30.37375,
+    "geom:longitude":-57.66376,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"02",
+    "gn:asciiname":"Ingeniero Agronomo Alfredo Mones Quintela",
+    "gn:country_code":"UY",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8057961,
+    "gn:latitude":-30.37375,
+    "gn:longitude":-57.66376,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Ingeniero Agr\u00f3nomo Alfredo Mones Quintela",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Calpica Itacumb\u00fa"
+    ],
+    "name:spa_x_variant":[
+        "Ingeniero Agr\u00f3nomo Alfredo Mones Quintela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680355,
+        1092075277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8057961
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"49635b6b8a8e66a917f665f47453893c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092075277,
+            "locality_id":1327347629,
+            "region_id":85680355
+        }
+    ],
+    "wof:id":1327347629,
+    "wof:lastmodified":1537713222,
+    "wof:name":"Ingeniero Agronomo Alfredo Mones Quintela",
+    "wof:parent_id":1092075277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.66376,
+    -30.37375,
+    -57.66376,
+    -30.37375
+],
+  "geometry": {"coordinates":[-57.66376,-30.37375],"type":"Point"}
+}

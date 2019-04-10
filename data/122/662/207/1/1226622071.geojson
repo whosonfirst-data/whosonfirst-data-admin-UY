@@ -1,0 +1,65 @@
+{
+  "id": 1226622071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.13333,-31.9,-55.13333,-31.9",
+    "geom:latitude":-31.9,
+    "geom:longitude":-55.13333,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Cuaro",
+    "gn:country_code":"UY",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3442845,
+    "gn:latitude":-31.9,
+    "gn:longitude":-55.13333,
+    "gn:modification_date":"1993-12-15",
+    "gn:name":"Cuar\u00f3",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3442845
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"84bec497cc2c6167dccad4fdc0259091",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1226622071,
+            "region_id":85680311
+        }
+    ],
+    "wof:id":1226622071,
+    "wof:lastmodified":1536893401,
+    "wof:name":"Cuaro",
+    "wof:parent_id":85680311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.13333000000001,
+    -31.9,
+    -55.13333000000001,
+    -31.9
+],
+  "geometry": {"coordinates":[-55.13333000000001,-31.9],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1326950033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.16086,-34.19187,-55.16086,-34.19187",
+    "geom:latitude":-34.19187,
+    "geom:longitude":-55.16086,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Puntas de Santa Lucia",
+    "gn:country_code":"UY",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10643034,
+    "gn:latitude":-34.19187,
+    "gn:longitude":-55.16086,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Puntas de Santa Luc\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Puntas de Santa Luc\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10643034
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"b2d4f832f07e1bfd7e88edf51bb83317",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1326950033,
+            "region_id":85680329
+        }
+    ],
+    "wof:id":1326950033,
+    "wof:lastmodified":1537713224,
+    "wof:name":"Puntas de Santa Lucia",
+    "wof:parent_id":85680329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.16086,
+    -34.19187,
+    -55.16086,
+    -34.19187
+],
+  "geometry": {"coordinates":[-55.16086,-34.19187],"type":"Point"}
+}

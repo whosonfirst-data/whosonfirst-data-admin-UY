@@ -1,0 +1,65 @@
+{
+  "id": 1209628141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.97063,-34.6944,-55.97063,-34.6944",
+    "geom:latitude":-34.6944,
+    "geom:longitude":-55.97063,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"15",
+    "gn:asciiname":"Estanque de Pando",
+    "gn:country_code":"UY",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10861486,
+    "gn:latitude":-34.6944,
+    "gn:longitude":-55.97063,
+    "gn:modification_date":"2018-02-23",
+    "gn:name":"Estanque de Pando",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Estanque de Pando"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10861486
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"6d997124b0c0382f2e5da2d02c464b99",
+    "wof:hierarchy":[
+        {
+            "country_id":85632511,
+            "locality_id":1209628141
+        }
+    ],
+    "wof:id":1209628141,
+    "wof:lastmodified":1537713224,
+    "wof:name":"Estanque de Pando",
+    "wof:parent_id":85632511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.97063000000001,
+    -34.6944,
+    -55.97063000000001,
+    -34.6944
+],
+  "geometry": {"coordinates":[-55.97063000000001,-34.6944],"type":"Point"}
+}

@@ -1,0 +1,128 @@
+{
+  "id": 421175199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.04423,-34.907517,-55.04423,-34.907517",
+    "geom:latitude":-34.907517,
+    "geom:longitude":-55.04423,
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bre_x_preferred":[
+        "Portezuelo"
+    ],
+    "name:cat_x_preferred":[
+        "Sauce de Portezuelo"
+    ],
+    "name:ceb_x_preferred":[
+        "Portezuelo"
+    ],
+    "name:deu_x_preferred":[
+        "Portezuelo"
+    ],
+    "name:dut_x_preferred":[
+        "Sauce de Portezuelo"
+    ],
+    "name:eng_x_preferred":[
+        "Sauce de Portezuelo"
+    ],
+    "name:eus_x_preferred":[
+        "Portezuelo"
+    ],
+    "name:fra_x_preferred":[
+        "Portezuelo"
+    ],
+    "name:fre_x_preferred":[
+        "Sauce de Portezuelo"
+    ],
+    "name:ger_x_preferred":[
+        "Sauce de Portezuelo"
+    ],
+    "name:glg_x_preferred":[
+        "Portezuelo"
+    ],
+    "name:ita_x_preferred":[
+        "Portezuelo"
+    ],
+    "name:kor_x_preferred":[
+        "\ud3ec\ub974\ud14c\uc218\uc5d8\ub85c"
+    ],
+    "name:nld_x_preferred":[
+        "Portezuelo"
+    ],
+    "name:oci_x_preferred":[
+        "Portezuelo"
+    ],
+    "name:por_x_preferred":[
+        "Portezuelo"
+    ],
+    "name:ron_x_preferred":[
+        "Portezuelo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0440\u0442\u0435\u0441\u0443\u044d\u043b\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Portezuelo"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Portezuelo",
+    "qs:name_adm0":"Uruguay",
+    "qs:name_adm1":"Maldonado",
+    "qs:photos":1400,
+    "qs:photos_1k":284,
+    "qs:photos_9k":6,
+    "qs:photos_9r":7,
+    "qs:photos_all":1400,
+    "qs:photos_sr":12,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":359353,
+    "qs:woe_adm0":23424979,
+    "qs:woe_id":26794423,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":39,
+    "wof:belongsto":[
+        85632511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26794423,
+        "qs:id":359353,
+        "wd:id":"Q1010378"
+    },
+    "wof:country":"UY",
+    "wof:created":1459009058,
+    "wof:geomhash":"3cfa721836a55ba09e93b2b99458cde7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632511,
+            "locality_id":421175199
+        }
+    ],
+    "wof:id":421175199,
+    "wof:lastmodified":1527716342,
+    "wof:name":"Portezuelo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.04423,
+    -34.907517,
+    -55.04423,
+    -34.907517
+],
+  "geometry": {"coordinates":[-55.04423,-34.907517],"type":"Point"}
+}

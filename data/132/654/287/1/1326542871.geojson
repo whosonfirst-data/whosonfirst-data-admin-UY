@@ -1,0 +1,71 @@
+{
+  "id": 1326542871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.45163,-34.62098,-56.45163,-34.62098",
+    "geom:latitude":-34.62098,
+    "geom:longitude":-56.45163,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"07",
+    "gn:asciiname":"Paso del Bote",
+    "gn:country_code":"UY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10861692,
+    "gn:latitude":-34.62098,
+    "gn:longitude":-56.45163,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Paso del Bote",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Paso del Bote"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680321,
+        1092076505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10861692
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"fe5bbf31754a2dc9459d91ce3aff0865",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092076505,
+            "locality_id":1326542871,
+            "region_id":85680321
+        }
+    ],
+    "wof:id":1326542871,
+    "wof:lastmodified":1537713225,
+    "wof:name":"Paso del Bote",
+    "wof:parent_id":1092076505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.45163,
+    -34.62098,
+    -56.45163,
+    -34.62098
+],
+  "geometry": {"coordinates":[-56.45163,-34.62098],"type":"Point"}
+}

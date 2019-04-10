@@ -1,0 +1,102 @@
+{
+  "id": 421192699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.25278,-34.58944,-56.25278,-34.58944",
+    "geom:latitude":-34.58944,
+    "geom:longitude":-56.25278,
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Juanic\u00f3"
+    ],
+    "name:dut_x_preferred":[
+        "Juanic\u00f3"
+    ],
+    "name:eng_x_preferred":[
+        "Juanic\u00f3"
+    ],
+    "name:fre_x_preferred":[
+        "Juanic\u00f3"
+    ],
+    "name:ger_x_preferred":[
+        "Juanic\u00f3"
+    ],
+    "name:nob_x_preferred":[
+        "Juanic\u00f3"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0443\u0430\u043d\u0438\u043a\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Juanic\u00f3"
+    ],
+    "qs:gn_country":"UY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3442238,
+    "qs:gn_pop":1339,
+    "qs:name":"Joanic\u00f3",
+    "qs:name_adm0":"Uruguay",
+    "qs:name_adm1":"Canelones",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":147831,
+    "qs:woe_adm0":23424979,
+    "qs:woe_id":380533,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3442238,
+        "gp:id":380533,
+        "qs:id":147831,
+        "wd:id":"Q1004948"
+    },
+    "wof:country":"UY",
+    "wof:created":1459009745,
+    "wof:geomhash":"fa5ef27b4eac230cb85618dbbf74ca9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":421192699,
+            "region_id":85680321
+        }
+    ],
+    "wof:id":421192699,
+    "wof:lastmodified":1514502026,
+    "wof:name":"Joanic\u00f3",
+    "wof:parent_id":85680321,
+    "wof:placetype":"locality",
+    "wof:population":1339,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.25278,
+    -34.58944,
+    -56.25278,
+    -34.58944
+],
+  "geometry": {"coordinates":[-56.25278,-34.58944],"type":"Point"}
+}

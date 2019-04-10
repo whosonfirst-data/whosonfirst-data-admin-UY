@@ -1,0 +1,73 @@
+{
+  "id": 1293184373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-53.78264,-34.4024,-53.78264,-34.4024",
+    "geom:latitude":-34.4024,
+    "geom:longitude":-53.78264,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"01",
+    "gn:asciiname":"Cabo Polonio",
+    "gn:cc2":"UY",
+    "gn:country_code":"UY",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3443496,
+    "gn:latitude":-34.4024,
+    "gn:longitude":-53.78264,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Cabo Polonio",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Polonio",
+        "Faro de Polonio",
+        "Faro del Polonio",
+        "Cabo Polonio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3443496,
+        "wk:page":"Cabo_Polonio"
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"51fa78d45a982442db5150ca87a2e34f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1293184373,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293184373,
+    "wof:lastmodified":1537713220,
+    "wof:name":"Cabo Polonio",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -53.78264,
+    -34.4024,
+    -53.78264,
+    -34.4024
+],
+  "geometry": {"coordinates":[-53.78264,-34.4024],"type":"Point"}
+}

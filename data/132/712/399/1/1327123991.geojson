@@ -1,0 +1,71 @@
+{
+  "id": 1327123991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.96711,-34.76438,-54.96711,-34.76438",
+    "geom:latitude":-34.76438,
+    "geom:longitude":-54.96711,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"03",
+    "gn:asciiname":"Los Ceibos",
+    "gn:country_code":"UY",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10641919,
+    "gn:latitude":-34.76438,
+    "gn:longitude":-54.96711,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Los Ceibos",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Ceibos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680335,
+        1092075757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10641919
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"35fdddca9b86b6f952fdec91e1ad9270",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092075757,
+            "locality_id":1327123991,
+            "region_id":85680335
+        }
+    ],
+    "wof:id":1327123991,
+    "wof:lastmodified":1537713223,
+    "wof:name":"Los Ceibos",
+    "wof:parent_id":1092075757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.96711,
+    -34.76438,
+    -54.96711,
+    -34.76438
+],
+  "geometry": {"coordinates":[-54.96711,-34.76438],"type":"Point"}
+}

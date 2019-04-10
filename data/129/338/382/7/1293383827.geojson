@@ -1,0 +1,73 @@
+{
+  "id": 1293383827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.21667,-34.8,-56.21667,-34.8",
+    "geom:latitude":-34.8,
+    "geom:longitude":-56.21667,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"08",
+    "gn:asciiname":"Pueblo Ferrocarril",
+    "gn:cc2":"UY",
+    "gn:country_code":"UY",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3440952,
+    "gn:latitude":-34.8,
+    "gn:longitude":-56.21667,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Pueblo Ferrocarril",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ferro Carril",
+        "Pueblo Ferrocarril"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680339,
+        1092074857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3440952
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"11f31c0938b93cab191bf1da0cd69693",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092074857,
+            "locality_id":1293383827,
+            "region_id":85680339
+        }
+    ],
+    "wof:id":1293383827,
+    "wof:lastmodified":1537713207,
+    "wof:name":"Pueblo Ferrocarril",
+    "wof:parent_id":1092074857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.21666999999999,
+    -34.8,
+    -56.21666999999999,
+    -34.8
+],
+  "geometry": {"coordinates":[-56.21666999999999,-34.8],"type":"Point"}
+}

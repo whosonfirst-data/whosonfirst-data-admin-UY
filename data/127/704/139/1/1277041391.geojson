@@ -1,0 +1,70 @@
+{
+  "id": 1277041391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.06667,-32.01667,-55.06667,-32.01667",
+    "geom:latitude":-32.01667,
+    "geom:longitude":-55.06667,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Poblado Las Arenas",
+    "gn:cc2":"UY",
+    "gn:country_code":"UY",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3441042,
+    "gn:latitude":-32.01667,
+    "gn:longitude":-55.06667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Poblado Las Arenas",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Las Arenas",
+        "Poblado Las Arenas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3441042
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"18ce75a51667e57eb86e8bb417d57614",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1277041391,
+            "region_id":85680311
+        }
+    ],
+    "wof:id":1277041391,
+    "wof:lastmodified":1537713210,
+    "wof:name":"Poblado Las Arenas",
+    "wof:parent_id":85680311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.06667,
+    -32.01667,
+    -55.06667,
+    -32.01667
+],
+  "geometry": {"coordinates":[-55.06667,-32.01667],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1343268035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.47759,-34.22026,-57.47759,-34.22026",
+    "geom:latitude":-34.22026,
+    "geom:longitude":-57.47759,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Barker Norte",
+    "gn:country_code":"UY",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11171835,
+    "gn:latitude":-34.22026,
+    "gn:longitude":-57.47759,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Barker Norte",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Barker Norte"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11171835
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"91026816e889f85a9c452af439c5edf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1343268035,
+            "region_id":85680347
+        }
+    ],
+    "wof:id":1343268035,
+    "wof:lastmodified":1537713229,
+    "wof:name":"Barker Norte",
+    "wof:parent_id":85680347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.47759,
+    -34.22026,
+    -57.47759,
+    -34.22026
+],
+  "geometry": {"coordinates":[-57.47759,-34.22026],"type":"Point"}
+}

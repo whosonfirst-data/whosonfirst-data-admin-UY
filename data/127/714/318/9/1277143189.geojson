@@ -1,0 +1,71 @@
+{
+  "id": 1277143189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.03333,-32.5,-56.03333,-32.5",
+    "geom:latitude":-32.5,
+    "geom:longitude":-56.03333,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Poblado Los Laureles",
+    "gn:cc2":"UY",
+    "gn:country_code":"UY",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3441032,
+    "gn:latitude":-32.5,
+    "gn:longitude":-56.03333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Poblado Los Laureles",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Laureles",
+        "Paso de Laureles",
+        "Poblado Los Laureles"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3441032
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"ce035fdc26740a1e127fc0d54339def7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1277143189,
+            "region_id":85680311
+        }
+    ],
+    "wof:id":1277143189,
+    "wof:lastmodified":1537713209,
+    "wof:name":"Poblado Los Laureles",
+    "wof:parent_id":85680311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.03333000000001,
+    -32.5,
+    -56.03333000000001,
+    -32.5
+],
+  "geometry": {"coordinates":[-56.03333000000001,-32.5],"type":"Point"}
+}

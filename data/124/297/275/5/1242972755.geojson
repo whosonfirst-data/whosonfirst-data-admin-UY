@@ -1,0 +1,72 @@
+{
+  "id": 1242972755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-53.71763,-32.75533,-53.71763,-32.75533",
+    "geom:latitude":-32.75533,
+    "geom:longitude":-53.71763,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"05",
+    "gn:asciiname":"Placido Rosas",
+    "gn:cc2":"UY",
+    "gn:country_code":"UY",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3441071,
+    "gn:latitude":-32.75533,
+    "gn:longitude":-53.71763,
+    "gn:modification_date":"2018-02-23",
+    "gn:name":"Pl\u00e1cido Rosas",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rosas",
+        "Pl\u00e1cido Rosas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3441071,
+        "wk:page":"Pl%C3%A1cido_Rosas"
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"4db3ccaa6f8916a688a56d9a28cf1788",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1242972755,
+            "region_id":85680299
+        }
+    ],
+    "wof:id":1242972755,
+    "wof:lastmodified":1537713211,
+    "wof:name":"Placido Rosas",
+    "wof:parent_id":85680299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -53.71763000000001,
+    -32.75533,
+    -53.71763000000001,
+    -32.75533
+],
+  "geometry": {"coordinates":[-53.71763000000001,-32.75533],"type":"Point"}
+}

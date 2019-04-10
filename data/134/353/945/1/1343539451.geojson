@@ -1,0 +1,71 @@
+{
+  "id": 1343539451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.57086,-32.39643,-57.57086,-32.39643",
+    "geom:latitude":-32.39643,
+    "geom:longitude":-57.57086,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Las Flores",
+    "gn:country_code":"UY",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3442068,
+    "gn:latitude":-32.39643,
+    "gn:longitude":-57.57086,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Las Flores",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Flores"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680363,
+        1092076747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3442068
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"ffb496885f2a700059d70157ca979bca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092076747,
+            "locality_id":1343539451,
+            "region_id":85680363
+        }
+    ],
+    "wof:id":1343539451,
+    "wof:lastmodified":1537713215,
+    "wof:name":"Las Flores",
+    "wof:parent_id":1092076747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.57086,
+    -32.39643,
+    -57.57086,
+    -32.39643
+],
+  "geometry": {"coordinates":[-57.57086,-32.39643],"type":"Point"}
+}

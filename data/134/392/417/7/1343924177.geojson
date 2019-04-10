@@ -1,0 +1,68 @@
+{
+  "id": 1343924177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.30704,-32.4566,-56.30704,-32.4566",
+    "geom:latitude":-32.4566,
+    "geom:longitude":-56.30704,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Cardozo Chico",
+    "gn:country_code":"UY",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3443344,
+    "gn:latitude":-32.4566,
+    "gn:longitude":-56.30704,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Cardozo Chico",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cardozo Chico"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3443344
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"2ffdab36a3fbd8e90ccb619151b8a434",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1343924177,
+            "region_id":85680311
+        }
+    ],
+    "wof:id":1343924177,
+    "wof:lastmodified":1537713219,
+    "wof:name":"Cardozo Chico",
+    "wof:parent_id":85680311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.30704,
+    -32.4566,
+    -56.30704,
+    -32.4566
+],
+  "geometry": {"coordinates":[-56.30704,-32.4566],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1225808849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.08891,-33.96059,-57.08891,-33.96059",
+    "geom:latitude":-33.96059,
+    "geom:longitude":-57.08891,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Ismael Cortinas",
+    "gn:country_code":"UY",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10098303,
+    "gn:latitude":-33.96059,
+    "gn:longitude":-57.08891,
+    "gn:modification_date":"2015-02-13",
+    "gn:name":"Ismael Cortinas",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10098303,
+        "wk:page":"Ismael_Cortinas"
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"bd601082830836ddff7c5330b93db376",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1225808849,
+            "region_id":85680293
+        }
+    ],
+    "wof:id":1225808849,
+    "wof:lastmodified":1537575743,
+    "wof:name":"Ismael Cortinas",
+    "wof:parent_id":85680293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.08891,
+    -33.96059,
+    -57.08891,
+    -33.96059
+],
+  "geometry": {"coordinates":[-57.08891,-33.96059],"type":"Point"}
+}

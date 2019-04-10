@@ -1,0 +1,65 @@
+{
+  "id": 1276330811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.48333,-33.48333,-56.48333,-33.48333",
+    "geom:latitude":-33.48333,
+    "geom:longitude":-56.48333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Goni",
+    "gn:country_code":"UY",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3442517,
+    "gn:latitude":-33.48333,
+    "gn:longitude":-56.48333,
+    "gn:modification_date":"1993-12-15",
+    "gn:name":"Gon\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3442517
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"394507a75d0286285c08aef2d588d59e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1276330811,
+            "region_id":85680303
+        }
+    ],
+    "wof:id":1276330811,
+    "wof:lastmodified":1536782431,
+    "wof:name":"Goni",
+    "wof:parent_id":85680303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.48333,
+    -33.48333,
+    -56.48333,
+    -33.48333
+],
+  "geometry": {"coordinates":[-56.48333,-33.48333],"type":"Point"}
+}

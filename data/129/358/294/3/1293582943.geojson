@@ -1,0 +1,74 @@
+{
+  "id": 1293582943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.23333,-34.85,-56.23333,-34.85",
+    "geom:latitude":-34.85,
+    "geom:longitude":-56.23333,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"01",
+    "gn:asciiname":"Nuevo Paris",
+    "gn:cc2":"UY",
+    "gn:country_code":"UY",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3441475,
+    "gn:latitude":-34.85,
+    "gn:longitude":-56.23333,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Nuevo Par\u00eds",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Balneario Nuevo Paris",
+        "Nuevo Par\u00eds"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680339,
+        1092076321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3441475,
+        "wk:page":"Nuevo_Par%C3%ADs"
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"02c787afbc82d553be76bdb954da8d73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092076321,
+            "locality_id":1293582943,
+            "region_id":85680339
+        }
+    ],
+    "wof:id":1293582943,
+    "wof:lastmodified":1537713213,
+    "wof:name":"Nuevo Paris",
+    "wof:parent_id":1092076321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.23333,
+    -34.85,
+    -56.23333,
+    -34.85
+],
+  "geometry": {"coordinates":[-56.23333,-34.85],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1292984579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.33345,-34.86751,-56.33345,-34.86751",
+    "geom:latitude":-34.86751,
+    "geom:longitude":-56.33345,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"01",
+    "gn:asciiname":"Pajas Blancas",
+    "gn:country_code":"UY",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3441414,
+    "gn:latitude":-34.86751,
+    "gn:longitude":-56.33345,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Pajas Blancas",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Playa Pajas Blancas",
+        "Pajas Blancas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680339,
+        1092076321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3441414
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"39b6abaa7e8760872fe92b3510958ce0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092076321,
+            "locality_id":1292984579,
+            "region_id":85680339
+        }
+    ],
+    "wof:id":1292984579,
+    "wof:lastmodified":1537713213,
+    "wof:name":"Pajas Blancas",
+    "wof:parent_id":1092076321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.33345,
+    -34.86751,
+    -56.33345,
+    -34.86751
+],
+  "geometry": {"coordinates":[-56.33345,-34.86751],"type":"Point"}
+}

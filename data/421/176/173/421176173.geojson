@@ -1,0 +1,221 @@
+{
+  "id": 421176173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.32728,-30.71294,-57.32728,-30.71294",
+    "geom:latitude":-30.71294,
+    "geom:longitude":-57.32728,
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":7.0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0644\u062a\u0627\u0633\u0627\u0631 \u0628\u0631\u0648\u0645\u060c \u0623\u0631\u062a\u064a\u062c\u0627\u0633"
+    ],
+    "name:chi_x_preferred":[
+        "\u5df4\u723e\u5854\u85a9\u723e\u5e03\u9b6f\u59c6"
+    ],
+    "name:deu_x_preferred":[
+        "Baltasar Brum"
+    ],
+    "name:dut_x_preferred":[
+        "Baltasar Brum"
+    ],
+    "name:eng_x_preferred":[
+        "Baltasar Brum"
+    ],
+    "name:fra_x_preferred":[
+        "Baltasar Brum"
+    ],
+    "name:fre_x_preferred":[
+        "Baltasar Brum"
+    ],
+    "name:ger_x_preferred":[
+        "Baltasar Brum"
+    ],
+    "name:nob_x_preferred":[
+        "Baltasar Brum"
+    ],
+    "name:nor_x_preferred":[
+        "Baltasar Brum"
+    ],
+    "name:por_x_preferred":[
+        "Baltasar Brum"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u044c\u0442\u0430\u0441\u0430\u0440-\u0411\u0440\u0443\u043c"
+    ],
+    "name:spa_x_preferred":[
+        "Baltasar Brum"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043b\u044c\u0442\u0430\u0441\u0430\u0440-\u0411\u0440\u0443\u043c"
+    ],
+    "name:unk_x_variant":[
+        "Isla Cabello"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u723e\u5854\u85a9\u723e\u5e03\u9b6f\u59c6"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Uruguay",
+    "ne:ADM0_A3":"URY",
+    "ne:ADM1NAME":"Artigas",
+    "ne:ADMIN1_COD":1,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3443697,
+    "ne:GEONAMESNO":"Geonames ascii name + lat.d + long.d matching.",
+    "ne:GN_ASCII":"Baltasar Brum",
+    "ne:GN_POP":2517,
+    "ne:GTOPO30":118.0,
+    "ne:ISO_A2":"UY",
+    "ne:LABELRANK":8,
+    "ne:LATITUDE":-30.730025,
+    "ne:LONGITUDE":-57.319974,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Baltasar Brum",
+    "ne:MAX_AREAKM":1.0,
+    "ne:MAX_AREAMI":1.0,
+    "ne:MAX_BBXMAX":-57.325,
+    "ne:MAX_BBXMIN":-57.333333,
+    "ne:MAX_BBYMAX":-30.716667,
+    "ne:MAX_BBYMIN":-30.733333,
+    "ne:MAX_NATSCA":10.0,
+    "ne:MAX_PERKM":5.0,
+    "ne:MAX_PERMI":3.0,
+    "ne:MAX_POP10":2347,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-57.329167,
+    "ne:MEAN_BBYC":-30.725,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":1.0,
+    "ne:MIN_AREAMI":1.0,
+    "ne:MIN_BBXMAX":-57.325,
+    "ne:MIN_BBXMIN":-57.333333,
+    "ne:MIN_BBYMAX":-30.716667,
+    "ne:MIN_BBYMIN":-30.733333,
+    "ne:MIN_PERKM":5.0,
+    "ne:MIN_PERMI":3.0,
+    "ne:NAME":"Baltasar Brum",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Baltasar Brum",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":10,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":2517,
+    "ne:POP_MIN":2347,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":4,
+    "ne:RANK_MIN":4,
+    "ne:SCALERANK":8,
+    "ne:SOV0NAME":"Uruguay",
+    "ne:SOV_A3":"URY",
+    "ne:TIMEZONE":"America/Montevideo",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"UY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3443697,
+    "qs:gn_pop":2517,
+    "qs:name":"Baltasar Brum",
+    "qs:name_adm0":"Uruguay",
+    "qs:name_adm1":"Artigas",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1044759,
+    "qs:woe_adm0":23424979,
+    "qs:woe_id":468083,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":223,
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3443697,
+        "gp:id":468083,
+        "qs:id":1044759,
+        "wd:id":"Q805555",
+        "wk:page":"Baltasar Brum, Artigas"
+    },
+    "wof:country":"UY",
+    "wof:created":1459009100,
+    "wof:geomhash":"cbcf579d0aa2a4dcbd6ea226b20b1a31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":421176173,
+            "region_id":85680355
+        }
+    ],
+    "wof:id":421176173,
+    "wof:lastmodified":1553816366,
+    "wof:name":"Baltasar Brum",
+    "wof:parent_id":85680355,
+    "wof:placetype":"locality",
+    "wof:population":2517,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.32728,
+    -30.71294,
+    -57.32728,
+    -30.71294
+],
+  "geometry": {"coordinates":[-57.32728,-30.71294],"type":"Point"}
+}

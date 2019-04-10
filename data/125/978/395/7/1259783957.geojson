@@ -1,0 +1,71 @@
+{
+  "id": 1259783957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.40187,-34.38481,-57.40187,-34.38481",
+    "geom:latitude":-34.38481,
+    "geom:longitude":-57.40187,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"06",
+    "gn:asciiname":"Colonia Cosmopolita",
+    "gn:country_code":"UY",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11171798,
+    "gn:latitude":-34.38481,
+    "gn:longitude":-57.40187,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Colonia Cosmopolita",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Colonia Cosmopolita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680347,
+        1092075397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11171798
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"e02c31396603c1e2bda122dcb510238e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092075397,
+            "locality_id":1259783957,
+            "region_id":85680347
+        }
+    ],
+    "wof:id":1259783957,
+    "wof:lastmodified":1537713228,
+    "wof:name":"Colonia Cosmopolita",
+    "wof:parent_id":1092075397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.40187,
+    -34.38480999999999,
+    -57.40187,
+    -34.38480999999999
+],
+  "geometry": {"coordinates":[-57.40187,-34.38480999999999],"type":"Point"}
+}

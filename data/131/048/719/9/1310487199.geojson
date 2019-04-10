@@ -1,0 +1,64 @@
+{
+  "id": 1310487199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-53.40925,-33.77411,-53.40925,-33.77411",
+    "geom:latitude":-33.77411,
+    "geom:longitude":-53.40925,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Puimayen",
+    "gn:country_code":"UY",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10636508,
+    "gn:latitude":-33.77411,
+    "gn:longitude":-53.40925,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Puimayen",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Puimayen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10636508
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"f557f6c6d62746a01d51b76e91ba9328",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310487199,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310487199,
+    "wof:lastmodified":1537713223,
+    "wof:name":"Puimayen",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -53.40925,
+    -33.77411,
+    -53.40925,
+    -33.77411
+],
+  "geometry": {"coordinates":[-53.40925,-33.77411],"type":"Point"}
+}

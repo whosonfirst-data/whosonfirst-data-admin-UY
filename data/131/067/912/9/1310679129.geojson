@@ -1,0 +1,73 @@
+{
+  "id": 1310679129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.34286,-31.86284,-57.34286,-31.86284",
+    "geom:latitude":-31.86284,
+    "geom:longitude":-57.34286,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Puntas del Buricayupi",
+    "gn:country_code":"UY",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3440937,
+    "gn:latitude":-31.86284,
+    "gn:longitude":-57.34286,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Puntas del Buricayup\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Puntas del Buricayup\u00ed"
+    ],
+    "name:und_x_variant":[
+        "Buricayup\u00ed",
+        "Sauce Buricayup\u00ed",
+        "Puntas de Buricayup\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3440937
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"50bd9bf6f20dd3499f3d0bdd8cae51df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1310679129,
+            "region_id":85680363
+        }
+    ],
+    "wof:id":1310679129,
+    "wof:lastmodified":1537713207,
+    "wof:name":"Puntas del Buricayupi",
+    "wof:parent_id":85680363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.34286,
+    -31.86284,
+    -57.34286,
+    -31.86284
+],
+  "geometry": {"coordinates":[-57.34286,-31.86284],"type":"Point"}
+}

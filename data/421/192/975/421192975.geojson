@@ -1,0 +1,90 @@
+{
+  "id": 421192975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-55.908855,-34.80622,-55.908855,-34.80622",
+    "geom:latitude":-34.80622,
+    "geom:longitude":-55.908855,
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Lomas de Solymar"
+    ],
+    "name:deu_x_preferred":[
+        "Lomas de Solymar"
+    ],
+    "name:nor_x_preferred":[
+        "Lomas de Solymar"
+    ],
+    "name:por_x_preferred":[
+        "Lomas de Solymar"
+    ],
+    "name:spa_x_preferred":[
+        "Lomas de Solymar"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"M\u00e9danos de Solymar",
+    "qs:name_adm0":"Uruguay",
+    "qs:name_adm1":"Canelones",
+    "qs:photos":83,
+    "qs:photos_1k":17,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":83,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":484106,
+    "qs:woe_adm0":23424979,
+    "qs:woe_id":26794397,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":112,
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7838845,
+        "gp:id":26794397,
+        "qs:id":484106,
+        "wd:id":"Q1020954"
+    },
+    "wof:country":"UY",
+    "wof:created":1459009755,
+    "wof:geomhash":"0ab0cb4cd6f37e032c089a03b9c8dcbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":421192975,
+            "region_id":85680321
+        }
+    ],
+    "wof:id":421192975,
+    "wof:lastmodified":1527716116,
+    "wof:name":"M\u00e9danos de Solymar",
+    "wof:parent_id":85680321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.908855,
+    -34.80622,
+    -55.908855,
+    -34.80622
+],
+  "geometry": {"coordinates":[-55.908855,-34.80622],"type":"Point"}
+}

@@ -1,0 +1,272 @@
+{
+  "id": 421186925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.311996,-33.127201,-58.311996,-33.127201",
+    "geom:latitude":-33.127201,
+    "geom:longitude":-58.311996,
+    "gn:country":"UY",
+    "gn:fcode":"PPLA",
+    "gn:pop":23279,
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0641\u0631\u0627\u064a \u0628\u0646\u062a\u0648\u0633"
+    ],
+    "name:arm_x_preferred":[
+        "\u0556\u0580\u0561\u0575 \u0532\u0565\u0576\u057f\u0578\u057d"
+    ],
+    "name:bel_x_preferred":[
+        "\u0424\u0440\u0430\u0439-\u0411\u0435\u043d\u0442\u0430\u0441"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ab\u09cd\u09b0\u09be\u09af\u09bc \u09ac\u09c7\u09a8\u09cd\u09a4\u09cb\u09b8"
+    ],
+    "name:bul_x_preferred":[
+        "\u0424\u0440\u0430\u0439 \u0411\u0435\u043d\u0442\u043e\u0441"
+    ],
+    "name:cat_x_preferred":[
+        "Fray Bentos"
+    ],
+    "name:ces_x_preferred":[
+        "Fray Bentos"
+    ],
+    "name:chi_x_preferred":[
+        "\u5f17\u8cf4\u672c\u6258\u65af"
+    ],
+    "name:cze_x_preferred":[
+        "Fray Bentos"
+    ],
+    "name:dan_x_preferred":[
+        "Fray Bentos"
+    ],
+    "name:deu_x_preferred":[
+        "Fray Bentos"
+    ],
+    "name:dut_x_preferred":[
+        "Fray Bentos"
+    ],
+    "name:eng_x_historical":[
+        "Villa Independencia"
+    ],
+    "name:eng_x_preferred":[
+        "Fray Bentos"
+    ],
+    "name:eng_x_variant":[
+        "Villa Independencia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0627\u06cc \u0628\u0646\u062a\u0648\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "Fray Bentos"
+    ],
+    "name:fra_x_preferred":[
+        "Fray Bentos"
+    ],
+    "name:fre_x_preferred":[
+        "Fray Bentos"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e4\u10e0\u10d0\u10d8-\u10d1\u10d4\u10dc\u10e2\u10dd\u10e1\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Fray Bentos"
+    ],
+    "name:glg_x_preferred":[
+        "Fray Bentos"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a6\u03c1\u03ad\u03b9 \u039c\u03c0\u03ad\u03bd\u03c4\u03bf\u03c2"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aab\u0acd\u0ab0\u0ac7 \u0aac\u0ac7\u0aa8\u0acd\u0a9f\u0acb\u0ab8"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e8\u05d0\u05d9 \u05d1\u05e0\u05d8\u05d5\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u092b\u094d\u0930\u093e\u0908 \u092c\u0948\u0928\u094d\u091f\u094b\u0938"
+    ],
+    "name:hrv_x_preferred":[
+        "Fray Bentos"
+    ],
+    "name:hye_x_preferred":[
+        "\u0556\u0580\u0561\u0575 \u0532\u0565\u0576\u057f\u0578\u057d"
+    ],
+    "name:ind_x_preferred":[
+        "Fray Bentos"
+    ],
+    "name:ita_x_preferred":[
+        "Fray Bentos"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30e9\u30a4\u30fb\u30d9\u30f3\u30c8\u30b9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cab\u0ccd\u0cb0\u0cc7 \u0cac\u0cc6\u0c82\u0c9f\u0ccb\u0cb8\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e4\u10e0\u10d0\u10d8-\u10d1\u10d4\u10dc\u10e2\u10dd\u10e1\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ud504\ub77c\uc774\ubca4\ud1a0\uc2a4"
+    ],
+    "name:lav_x_preferred":[
+        "Frajbentosa"
+    ],
+    "name:lit_x_preferred":[
+        "Frai Bentosas"
+    ],
+    "name:mar_x_preferred":[
+        "\u092b\u094d\u0930\u0947 \u092c\u0947\u0902\u091f\u094b\u0938"
+    ],
+    "name:may_x_preferred":[
+        "Fray Bentos"
+    ],
+    "name:nld_x_preferred":[
+        "Fray Bentos"
+    ],
+    "name:nob_x_preferred":[
+        "Fray Bentos"
+    ],
+    "name:nor_x_preferred":[
+        "Fray Bentos"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u06cc \u0628\u0646\u062a\u0648\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Fray Bentos"
+    ],
+    "name:por_x_preferred":[
+        "Fray Bentos"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0440\u0430\u0439-\u0411\u0435\u043d\u0442\u043e\u0441"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc6\u0dca\u0dbb\u0dda \u0db6\u0dd9\u0db1\u0dca\u0dad\u0ddc\u0dc3\u0dca"
+    ],
+    "name:spa_x_historical":[
+        "Villa Independencia"
+    ],
+    "name:spa_x_preferred":[
+        "Fray Bentos"
+    ],
+    "name:spa_x_variant":[
+        "Villa Independencia",
+        "Villa Fray Bentos",
+        "Fray Bentos"
+    ],
+    "name:swe_x_preferred":[
+        "Fray Bentos"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bbf\u0bb0\u0bc7 \u0baa\u0bc6\u0ba9\u0bcd\u0b9f\u0bcb\u0bb8\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2b\u0c4d\u0c30\u0c46 \u0c2c\u0c46\u0c02\u0c1f\u0c4b\u0c38\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e1f\u0e23\u0e22\u0e4c \u0e40\u0e1a\u0e19\u0e42\u0e15\u0e2a"
+    ],
+    "name:tur_x_preferred":[
+        "Fray Bentos"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0440\u0435\u0439 \u0411\u0435\u043d\u0442\u043e\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Villa de Fray Bentos"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u0631\u0627\u06cc \u0628\u06cc\u0646\u062a\u0648\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Fray Bentos"
+    ],
+    "name:war_x_preferred":[
+        "Fray Bentos"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f17\u8cf4\u672c\u6258\u65af"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Fray Bentos",
+    "qs:name_adm0":"Uruguay",
+    "qs:name_adm1":"R\u00edo Negro",
+    "qs:photos":1012,
+    "qs:photos_1k":205,
+    "qs:photos_9k":4,
+    "qs:photos_9r":7,
+    "qs:photos_all":1012,
+    "qs:photos_sr":11,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1077498,
+    "qs:woe_adm0":23424979,
+    "qs:woe_id":468063,
+    "src:geom":"quattroshapes",
+    "src:population":"geonames",
+    "wd:latitude":-33.133333,
+    "wd:longitude":-58.3,
+    "wd:wordcount":988,
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3442568,
+        "gp:id":468063,
+        "qs:id":1077498,
+        "wd:id":"Q849835",
+        "wk:page":"Fray Bentos"
+    },
+    "wof:concordances_alt":{
+        "qs:id":147824
+    },
+    "wof:country":"UY",
+    "wof:created":1459009496,
+    "wof:geomhash":"2aef4d158f6ba197b3c7b73d09e19ac1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":421186925,
+            "region_id":85680367
+        }
+    ],
+    "wof:id":421186925,
+    "wof:lastmodified":1534379803,
+    "wof:name":"Fray Bentos",
+    "wof:parent_id":85680367,
+    "wof:placetype":"locality",
+    "wof:population":23279,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        890451703
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.311996,
+    -33.127201,
+    -58.311996,
+    -33.127201
+],
+  "geometry": {"coordinates":[-58.311996,-33.127201],"type":"Point"}
+}

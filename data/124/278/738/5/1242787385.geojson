@@ -1,0 +1,66 @@
+{
+  "id": 1242787385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.78489,-30.43314,-56.78489,-30.43314",
+    "geom:latitude":-30.43314,
+    "geom:longitude":-56.78489,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Javier de Viana",
+    "gn:country_code":"UY",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3442244,
+    "gn:latitude":-30.43314,
+    "gn:longitude":-56.78489,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Javier de Viana",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3442244,
+        "wk:page":"Javier_de_Viana"
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"6d9873e22bf7ccffee8b0f87807e6687",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1242787385,
+            "region_id":85680355
+        }
+    ],
+    "wof:id":1242787385,
+    "wof:lastmodified":1537575740,
+    "wof:name":"Javier de Viana",
+    "wof:parent_id":85680355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.78489,
+    -30.43314,
+    -56.78489,
+    -30.43314
+],
+  "geometry": {"coordinates":[-56.78489,-30.43314],"type":"Point"}
+}

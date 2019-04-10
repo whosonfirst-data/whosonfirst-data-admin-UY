@@ -1,0 +1,70 @@
+{
+  "id": 1226246815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.00453,-31.08122,-56.00453,-31.08122",
+    "geom:latitude":-31.08122,
+    "geom:longitude":-56.00453,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Masoller",
+    "gn:country_code":"UY",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3441789,
+    "gn:latitude":-31.08122,
+    "gn:longitude":-56.00453,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Masoller",
+    "gn:population":0,
+    "gn:timezone":"America/Sao_Paulo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85682015,
+        102191577,
+        404564433,
+        85633009,
+        102059863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3441789,
+        "wk:page":"Masoller"
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"8a77f583765ba368eeda4779f6347551",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102059863,
+            "localadmin_id":404564433,
+            "locality_id":1226246815,
+            "region_id":85682015
+        }
+    ],
+    "wof:id":1226246815,
+    "wof:lastmodified":1537575739,
+    "wof:name":"Masoller",
+    "wof:parent_id":404564433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.00453,
+    -31.08122,
+    -56.00453,
+    -31.08122
+],
+  "geometry": {"coordinates":[-56.00453,-31.08122],"type":"Point"}
+}

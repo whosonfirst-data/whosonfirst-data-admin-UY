@@ -1,0 +1,70 @@
+{
+  "id": 1343921257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.03333,-32.45,-56.03333,-32.45",
+    "geom:latitude":-32.45,
+    "geom:longitude":-56.03333,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Poblado Cerro Chato",
+    "gn:cc2":"UY",
+    "gn:country_code":"UY",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3441059,
+    "gn:latitude":-32.45,
+    "gn:longitude":-56.03333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Poblado Cerro Chato",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cerro Chato",
+        "Poblado Cerro Chato"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3441059
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"d31fed95f4725e4d3706674103c4edb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1343921257,
+            "region_id":85680311
+        }
+    ],
+    "wof:id":1343921257,
+    "wof:lastmodified":1537713211,
+    "wof:name":"Poblado Cerro Chato",
+    "wof:parent_id":85680311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.03333000000001,
+    -32.45,
+    -56.03333000000001,
+    -32.45
+],
+  "geometry": {"coordinates":[-56.03333000000001,-32.45],"type":"Point"}
+}

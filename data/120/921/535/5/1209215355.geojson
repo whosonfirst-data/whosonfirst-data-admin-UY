@@ -1,0 +1,67 @@
+{
+  "id": 1209215355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.16667,-34.4,-57.16667,-34.4",
+    "geom:latitude":-34.4,
+    "geom:longitude":-57.16667,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"09",
+    "gn:asciiname":"Colonia Espanola",
+    "gn:cc2":"UY",
+    "gn:country_code":"UY",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3443006,
+    "gn:latitude":-34.4,
+    "gn:longitude":-57.16667,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Colonia Espa\u00f1ola",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Espa\u00f1ola Colonia Agr\u00edcola",
+        "Colonia Espa\u00f1ola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3443006
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"2ccb7598ca1bb4f0f3020b3747a3615e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632511,
+            "locality_id":1209215355
+        }
+    ],
+    "wof:id":1209215355,
+    "wof:lastmodified":1537713219,
+    "wof:name":"Colonia Espanola",
+    "wof:parent_id":85632511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.16667,
+    -34.4,
+    -57.16667,
+    -34.4
+],
+  "geometry": {"coordinates":[-57.16667,-34.4],"type":"Point"}
+}

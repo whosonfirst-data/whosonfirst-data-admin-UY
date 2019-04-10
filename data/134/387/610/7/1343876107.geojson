@@ -1,0 +1,68 @@
+{
+  "id": 1343876107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.69251,-30.68811,-57.69251,-30.68811",
+    "geom:latitude":-30.68811,
+    "geom:longitude":-57.69251,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Local Feria Don Felix",
+    "gn:country_code":"UY",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8058697,
+    "gn:latitude":-30.68811,
+    "gn:longitude":-57.69251,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Local Feria Don F\u00e9lix",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Local Feria Don F\u00e9lix"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8058697
+    },
+    "wof:country":"UY",
+    "wof:geomhash":"ea710a5b9816d4b368d6aacc318c93e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":1343876107,
+            "region_id":85680355
+        }
+    ],
+    "wof:id":1343876107,
+    "wof:lastmodified":1537713222,
+    "wof:name":"Local Feria Don Felix",
+    "wof:parent_id":85680355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.69251,
+    -30.68811,
+    -57.69251,
+    -30.68811
+],
+  "geometry": {"coordinates":[-57.69251,-30.68811],"type":"Point"}
+}
