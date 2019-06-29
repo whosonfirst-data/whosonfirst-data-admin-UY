@@ -17,9 +17,6 @@
     "name:ara_x_preferred":[
         "\u0645\u064a\u0646\u0627\u0633\u060c \u0623\u0648\u0631\u0648\u063a\u0648\u0627\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u0544\u056b\u0576\u0561\u057d"
-    ],
     "name:ast_x_preferred":[
         "Minas"
     ],
@@ -32,17 +29,14 @@
     "name:cat_x_preferred":[
         "Minas"
     ],
-    "name:chi_x_preferred":[
-        "\u7c73\u7d0d\u65af"
-    ],
     "name:dan_x_preferred":[
         "Minas"
     ],
     "name:deu_x_preferred":[
         "Minas"
     ],
-    "name:dut_x_preferred":[
-        "Minas"
+    "name:ell_x_preferred":[
+        "\u039c\u03af\u03bd\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Minas"
@@ -55,18 +49,6 @@
     ],
     "name:fra_x_preferred":[
         "Minas"
-    ],
-    "name:fre_x_preferred":[
-        "Minas"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d8\u10dc\u10d0\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Minas"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03af\u03bd\u03b1\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abf\u0aa8\u0abe\u0ab8"
@@ -113,7 +95,7 @@
     "name:mar_x_preferred":[
         "\u092e\u093f\u0928\u093e\u0938"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Minas"
     ],
     "name:nld_x_preferred":[
@@ -124,9 +106,6 @@
     ],
     "name:nor_x_preferred":[
         "Minas"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u06cc\u0646\u0627\u0633\u060c \u0627\u0631\u0648\u06af\u0648\u0626\u0647"
     ],
     "name:pol_x_preferred":[
         "Minas"
@@ -317,7 +296,7 @@
         }
     ],
     "wof:id":421201421,
-    "wof:lastmodified":1553816387,
+    "wof:lastmodified":1561790737,
     "wof:name":"Minas",
     "wof:parent_id":85680329,
     "wof:placetype":"locality",

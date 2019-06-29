@@ -30,9 +30,6 @@
     "name:aka_x_preferred":[
         "Montevideo"
     ],
-    "name:alb_x_preferred":[
-        "Montevideo"
-    ],
     "name:amh_x_preferred":[
         "\u121e\u1295\u1274\u126a\u12f4\u12ce"
     ],
@@ -41,9 +38,6 @@
     ],
     "name:arg_x_preferred":[
         "Montevideo"
-    ],
-    "name:arm_x_preferred":[
-        "\u0544\u0578\u0576\u057f\u0565\u057e\u056b\u0564\u0565\u0578"
     ],
     "name:ast_x_preferred":[
         "Montevid\u00e9u"
@@ -55,9 +49,6 @@
         "\u0645\u0648\u0646\u062a\u0647\u200c\u0648\u06cc\u062f\u0626\u0648"
     ],
     "name:aze_x_preferred":[
-        "Montevideo"
-    ],
-    "name:baq_x_preferred":[
         "Montevideo"
     ],
     "name:bar_x_preferred":[
@@ -84,9 +75,6 @@
     "name:bul_x_preferred":[
         "\u041c\u043e\u043d\u0442\u0435\u0432\u0438\u0434\u0435\u043e"
     ],
-    "name:bur_x_preferred":[
-        "\u1019\u103d\u1014\u103a\u1010\u102e\u1017\u1005\u103a\u1012\u102e\u1021\u102d\u102f\u1019\u103c\u102d\u102f\u1037"
-    ],
     "name:cat_x_preferred":[
         "Montevideo"
     ],
@@ -99,13 +87,10 @@
     "name:che_x_preferred":[
         "\u041c\u043e\u043d\u0442\u0435\u0432\u0438\u0434\u0435\u043e"
     ],
-    "name:chi_x_preferred":[
-        "\u8499\u5f97\u7ef4\u7684\u4e9a"
-    ],
     "name:cos_x_preferred":[
         "Montevideo"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Montevideo"
     ],
     "name:dan_x_preferred":[
@@ -115,9 +100,6 @@
         "Montevideo"
     ],
     "name:diq_x_preferred":[
-        "Montevideo"
-    ],
-    "name:dut_x_preferred":[
         "Montevideo"
     ],
     "name:ell_x_preferred":[
@@ -150,19 +132,10 @@
     "name:fra_x_preferred":[
         "Montevideo"
     ],
-    "name:fre_x_preferred":[
-        "Montevideo"
-    ],
     "name:fry_x_preferred":[
         "Montevideo"
     ],
     "name:gag_x_preferred":[
-        "Montevideo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10dd\u10dc\u10e2\u10d4\u10d5\u10d8\u10d3\u10d4\u10dd"
-    ],
-    "name:ger_x_preferred":[
         "Montevideo"
     ],
     "name:gla_x_preferred":[
@@ -173,9 +146,6 @@
     ],
     "name:glg_x_preferred":[
         "Montevideo"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03bf\u03bd\u03c4\u03b5\u03b2\u03b9\u03b4\u03ad\u03bf"
     ],
     "name:grn_x_preferred":[
         "Montevideo"
@@ -216,8 +186,8 @@
     "name:hye_x_preferred":[
         "\u0544\u0578\u0576\u057f\u0587\u056b\u0564\u0565\u0578"
     ],
-    "name:ice_x_preferred":[
-        "Montev\u00edde\u00f3"
+    "name:hye_x_variant":[
+        "\u0544\u0578\u0576\u057f\u0565\u057e\u056b\u0564\u0565\u0578"
     ],
     "name:ido_x_preferred":[
         "Montevideo"
@@ -297,17 +267,11 @@
     "name:ltz_x_preferred":[
         "Montevideo"
     ],
-    "name:mac_x_preferred":[
-        "\u041c\u043e\u043d\u0442\u0435\u0432\u0438\u0434\u0435\u043e"
-    ],
     "name:mal_x_preferred":[
         "\u0d2e\u0d4a\u0d23\u0d4d\u0d1f\u0d47\u0d35\u0d40\u0d21\u0d3f\u0d2f\u0d4b"
     ],
     "name:mar_x_preferred":[
         "\u092e\u094b\u0928\u094d\u0924\u0947\u0935\u093f\u0926\u0947\u0913"
-    ],
-    "name:may_x_preferred":[
-        "Montevideo"
     ],
     "name:min_x_preferred":[
         "Montevideo"
@@ -320,6 +284,9 @@
     ],
     "name:mon_x_preferred":[
         "\u041c\u043e\u043d\u0442\u0435\u0432\u0438\u0434\u0435\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Montevideo"
     ],
     "name:mya_x_preferred":[
         "\u1019\u103d\u1014\u103a\u1010\u102e\u1017\u1005\u103a\u1012\u102e\u1021\u102d\u102f\u1019\u103c\u102d\u102f\u1037"
@@ -372,9 +339,6 @@
     "name:pdc_x_preferred":[
         "Montevideo"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0648\u0646\u062a\u0647\u200c\u0648\u06cc\u062f\u0626\u0648"
-    ],
     "name:pms_x_preferred":[
         "Montevideo"
     ],
@@ -391,9 +355,6 @@
         "Montevideo"
     ],
     "name:ron_x_preferred":[
-        "Montevideo"
-    ],
-    "name:rum_x_preferred":[
         "Montevideo"
     ],
     "name:run_x_preferred":[
@@ -420,9 +381,6 @@
     "name:slk_x_preferred":[
         "Montevideo"
     ],
-    "name:slo_x_preferred":[
-        "Montevideo"
-    ],
     "name:slv_x_preferred":[
         "Montevideo"
     ],
@@ -433,6 +391,9 @@
         "Montevideo"
     ],
     "name:spa_x_preferred":[
+        "Montevideo"
+    ],
+    "name:sqi_x_preferred":[
         "Montevideo"
     ],
     "name:srd_x_preferred":[
@@ -471,9 +432,6 @@
     "name:tha_x_preferred":[
         "\u0e21\u0e2d\u0e19\u0e40\u0e15\u0e27\u0e34\u0e40\u0e14\u0e42\u0e2d"
     ],
-    "name:tib_x_preferred":[
-        "\u0f58\u0f71\u0f7c\u0f53\u0f0b\u0f4a\u0f72\u0f0b\u0f5d\u0f72\u0f0b\u0f4c\u0f7c\u0f0d"
-    ],
     "name:tuk_x_preferred":[
         "Montowideo"
     ],
@@ -508,9 +466,6 @@
         "Montevideo"
     ],
     "name:war_x_preferred":[
-        "Montevideo"
-    ],
-    "name:wel_x_preferred":[
         "Montevideo"
     ],
     "name:xmf_x_preferred":[
@@ -577,7 +532,7 @@
         }
     ],
     "wof:id":890437681,
-    "wof:lastmodified":1552689275,
+    "wof:lastmodified":1561790739,
     "wof:name":"Montevideo",
     "wof:parent_id":1092076411,
     "wof:placetype":"locality",

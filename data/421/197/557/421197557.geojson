@@ -16,13 +16,7 @@
     "name:cat_x_preferred":[
         "Joaqu\u00edn Su\u00e1rez"
     ],
-    "name:chi_x_preferred":[
-        "\u83ef\u91d1\u8607\u4e9e\u96f7\u65af"
-    ],
     "name:deu_x_preferred":[
-        "Joaqu\u00edn Su\u00e1rez"
-    ],
-    "name:dut_x_preferred":[
         "Joaqu\u00edn Su\u00e1rez"
     ],
     "name:eng_x_preferred":[
@@ -31,13 +25,10 @@
     "name:fra_x_preferred":[
         "Joaqu\u00edn Su\u00e1rez"
     ],
-    "name:fre_x_preferred":[
-        "Joaqu\u00edn Su\u00e1rez"
-    ],
-    "name:ger_x_preferred":[
-        "Joaqu\u00edn Su\u00e1rez"
-    ],
     "name:ita_x_preferred":[
+        "Joaqu\u00edn Su\u00e1rez"
+    ],
+    "name:nld_x_preferred":[
         "Joaqu\u00edn Su\u00e1rez"
     ],
     "name:nob_x_preferred":[
@@ -104,7 +95,7 @@
         }
     ],
     "wof:id":421197557,
-    "wof:lastmodified":1527716399,
+    "wof:lastmodified":1561790735,
     "wof:name":"Joaqu\u00edn Su\u00e1rez",
     "wof:parent_id":85680321,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.605119,
-    "geom:area_square_m":6193401162.192786,
+    "geom:area_square_m":6193401162.192667,
     "geom:bbox":"-58.4156165089,-34.4751085718,-56.9417901271,-33.7779895972",
     "geom:latitude":-34.13356,
     "geom:longitude":-57.649022,
@@ -31,9 +31,6 @@
     "name:ast_x_preferred":[
         "Colonia"
     ],
-    "name:baq_x_preferred":[
-        "Colonia departamendua"
-    ],
     "name:bel_x_preferred":[
         "\u0434\u044d\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442 \u041a\u0430\u043b\u043e\u043d\u0456\u044f"
     ],
@@ -49,17 +46,17 @@
     "name:cat_x_preferred":[
         "Departament de Colonia"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u6d1b\u5c3c\u4e9a\u7701"
-    ],
     "name:dan_x_preferred":[
         "Colonia"
     ],
     "name:deu_x_preferred":[
         "Colonia"
     ],
-    "name:dut_x_preferred":[
-        "Colonia"
+    "name:deu_x_variant":[
+        "Departamento Colonia"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03bb\u03cc\u03bd\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Colonia"
@@ -70,26 +67,17 @@
     "name:epo_x_preferred":[
         "Colonia"
     ],
+    "name:eus_x_preferred":[
+        "Colonia departamendua"
+    ],
     "name:fin_x_preferred":[
         "Colonia"
     ],
     "name:fra_x_preferred":[
         "Colonia"
     ],
-    "name:fre_x_preferred":[
-        "Colonia"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10dd\u10da\u10dd\u10dc\u10d8\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Departamento Colonia"
-    ],
     "name:glg_x_preferred":[
         "Departamento de Colonia"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03bb\u03cc\u03bd\u03b9\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acb\u0ab2\u0acb\u0aa8\u0abf\u0aaf\u0abe \u0ab5\u0abf\u0aad\u0abe\u0a97"
@@ -115,6 +103,9 @@
     "name:kan_x_preferred":[
         "\u0c95\u0cb2\u0ccb\u0ca8\u0cbf\u0caf\u0cbe \u0c87\u0cb2\u0cbe\u0c96\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10da\u10dd\u10dc\u10d8\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ucf5c\ub85c\ub2c8\uc544 \uc8fc"
     ],
@@ -124,13 +115,13 @@
     "name:lit_x_preferred":[
         "Kolonijos departamentas"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u043e\u043b\u043e\u043d\u0438\u0458\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u0915\u0949\u0932\u094b\u0928\u093f\u092f\u093e \u0935\u093f\u092d\u093e\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041a\u043e\u043b\u043e\u043d\u0438\u0458\u0430"
+    ],
+    "name:msa_x_preferred":[
         "Colonia Department"
     ],
     "name:nld_x_preferred":[
@@ -196,6 +187,9 @@
     ],
     "name:war_x_preferred":[
         "Colonia"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u6d1b\u5c3c\u4e9a\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"URY",
@@ -318,7 +312,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553814832,
+    "wof:lastmodified":1561790729,
     "wof:name":"Colonia",
     "wof:parent_id":85632511,
     "wof:placetype":"region",

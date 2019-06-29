@@ -17,17 +17,11 @@
     "name:afr_x_preferred":[
         "Colonia del Sacramento"
     ],
-    "name:arm_x_preferred":[
-        "\u053f\u0578\u056c\u0578\u0576\u056b\u0561 \u0564\u0565\u056c \u054d\u0561\u056f\u0580\u0561\u0574\u0565\u0576\u057f\u0578"
-    ],
     "name:ast_x_preferred":[
         "Colonia del Sacramento"
     ],
     "name:aze_x_preferred":[
         "Sakramento koloniyas\u0131"
-    ],
-    "name:baq_x_preferred":[
-        "Colonia del Sacramento"
     ],
     "name:ben_x_preferred":[
         "\u0995\u09cb\u09b2\u09cb\u09a8\u09bf\u09af\u09bc\u09be \u09a6\u09c7\u09b2 \u09b8\u09be\u0995\u09cd\u09b0\u09be\u09ae\u09c7\u09a8\u09cd\u09a4\u09cb"
@@ -41,19 +35,10 @@
     "name:ces_x_preferred":[
         "Colonia del Sacramento"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u6d1b\u5c3c\u4e9e\u5fb7\u723e\u85a9\u514b\u62c9\u9580\u6258"
-    ],
-    "name:cze_x_preferred":[
-        "Colonia del Sacramento"
-    ],
     "name:dan_x_preferred":[
         "Colonia del Sacramento"
     ],
     "name:deu_x_preferred":[
-        "Colonia del Sacramento"
-    ],
-    "name:dut_x_preferred":[
         "Colonia del Sacramento"
     ],
     "name:ell_x_preferred":[
@@ -76,18 +61,6 @@
     ],
     "name:fra_x_preferred":[
         "Colonia del Sacramento"
-    ],
-    "name:fre_x_preferred":[
-        "Colonia del Sacramento"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10dd\u10da\u10dd\u10dc\u10d8\u10d0-\u10d3\u10d4\u10da-\u10e1\u10d0\u10d9\u10e0\u10d0\u10db\u10d4\u10dc\u10e2\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Colonia del Sacramento"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03bb\u03cc\u03bd\u03b9\u03b1 \u03bd\u03c4\u03b5\u03bb \u03a3\u03b1\u03ba\u03c1\u03b1\u03bc\u03ad\u03bd\u03c4\u03bf"
     ],
     "name:hbs_x_preferred":[
         "Colonia del Sacramento"
@@ -137,9 +110,6 @@
     "name:oci_x_preferred":[
         "Colonia del Sacramento"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u0644\u0648\u0646\u06cc\u0627 \u062f\u0644 \u0633\u0627\u06a9\u0631\u0627\u0645\u0646\u062a\u0648"
-    ],
     "name:pol_x_preferred":[
         "Colonia del Sacramento"
     ],
@@ -156,9 +126,6 @@
         "Colonia del Sacramento"
     ],
     "name:slk_x_preferred":[
-        "Colonia del Sacramento"
-    ],
-    "name:slo_x_preferred":[
         "Colonia del Sacramento"
     ],
     "name:slv_x_preferred":[
@@ -199,6 +166,9 @@
     ],
     "name:zho_x_preferred":[
         "\u79d1\u6d1b\u5c3c\u4e9e\u00b7\u5fb7\u723e\u00b7\u6c99\u52a0\u7dec\u5ea6"
+    ],
+    "name:zho_x_variant":[
+        "\u79d1\u6d1b\u5c3c\u4e9e\u5fb7\u723e\u85a9\u514b\u62c9\u9580\u6258"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Uruguay",
@@ -341,7 +311,7 @@
         }
     ],
     "wof:id":421199749,
-    "wof:lastmodified":1527716413,
+    "wof:lastmodified":1561790736,
     "wof:name":"Colonia del Sacramento",
     "wof:parent_id":85680347,
     "wof:placetype":"locality",

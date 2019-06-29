@@ -16,13 +16,7 @@
     "name:cat_x_preferred":[
         "San Jacinto"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u54c8\u8f9b\u6258"
-    ],
     "name:deu_x_preferred":[
-        "San Jacinto"
-    ],
-    "name:dut_x_preferred":[
         "San Jacinto"
     ],
     "name:eng_x_preferred":[
@@ -31,13 +25,10 @@
     "name:fra_x_preferred":[
         "San Jacinto"
     ],
-    "name:fre_x_preferred":[
-        "San Jacinto"
-    ],
-    "name:ger_x_preferred":[
-        "San Jacinto"
-    ],
     "name:ita_x_preferred":[
+        "San Jacinto"
+    ],
+    "name:nld_x_preferred":[
         "San Jacinto"
     ],
     "name:nob_x_preferred":[
@@ -104,7 +95,7 @@
         }
     ],
     "wof:id":421180715,
-    "wof:lastmodified":1527716237,
+    "wof:lastmodified":1561790734,
     "wof:name":"San Jacinto",
     "wof:parent_id":85680321,
     "wof:placetype":"locality",

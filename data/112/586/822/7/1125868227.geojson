@@ -22,12 +22,6 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0644\u062a\u0648\u060c \u0623\u0648\u0631\u0648\u063a\u0648\u0627\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u0561\u056c\u057f\u0578"
-    ],
-    "name:baq_x_preferred":[
-        "Salto"
-    ],
     "name:bel_x_preferred":[
         "\u0421\u0430\u043b\u044c\u0442\u0430"
     ],
@@ -40,10 +34,7 @@
     "name:cat_x_preferred":[
         "Salto"
     ],
-    "name:chi_x_preferred":[
-        "\u8428\u5c14\u6258"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Salto"
     ],
     "name:dan_x_preferred":[
@@ -52,8 +43,8 @@
     "name:deu_x_preferred":[
         "Salto"
     ],
-    "name:dut_x_preferred":[
-        "Salto"
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03bb\u03c4\u03bf"
     ],
     "name:eng_x_preferred":[
         "Salto"
@@ -62,6 +53,9 @@
         "Salto"
     ],
     "name:est_x_preferred":[
+        "Salto"
+    ],
+    "name:eus_x_preferred":[
         "Salto"
     ],
     "name:fas_x_preferred":[
@@ -73,20 +67,8 @@
     "name:fra_x_preferred":[
         "Salto"
     ],
-    "name:fre_x_preferred":[
-        "Salto"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10da\u10e2\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Salto"
-    ],
     "name:glg_x_preferred":[
         "Salto"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03ac\u03bb\u03c4\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0ab2\u0acd\u0a9f\u0acb"
@@ -130,7 +112,7 @@
     "name:mar_x_preferred":[
         "\u0938\u093e\u0932\u094d\u0924\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Salto"
     ],
     "name:nah_x_preferred":[
@@ -141,9 +123,6 @@
     ],
     "name:nob_x_preferred":[
         "Salto"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u0627\u0644\u062a\u0648\u060c \u0627\u0631\u0648\u06af\u0648\u0626\u0647"
     ],
     "name:pms_x_preferred":[
         "Salto"
@@ -163,7 +142,7 @@
     "name:sin_x_preferred":[
         "\u0dc3\u0dbd\u0dca\u0da7\u0ddd"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Salto"
     ],
     "name:slv_x_preferred":[
@@ -248,7 +227,7 @@
         }
     ],
     "wof:id":1125868227,
-    "wof:lastmodified":1534379803,
+    "wof:lastmodified":1561790741,
     "wof:name":"Salto",
     "wof:parent_id":85680289,
     "wof:placetype":"locality",

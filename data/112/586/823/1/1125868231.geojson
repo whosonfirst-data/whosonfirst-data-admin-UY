@@ -24,9 +24,6 @@
     "name:ara_x_preferred":[
         "\u0631\u0648\u062c\u0627\u060c \u0623\u0648\u0631\u0648\u063a\u0648\u0627\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u054c\u0578\u0579\u0561"
-    ],
     "name:ben_x_preferred":[
         "\u09b0\u09cb\u099a\u09be"
     ],
@@ -36,14 +33,14 @@
     "name:cat_x_preferred":[
         "Rocha"
     ],
-    "name:chi_x_preferred":[
-        "\u7f85\u6070"
-    ],
     "name:dan_x_preferred":[
         "Rocha"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Rocha"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03cc\u03c4\u03c3\u03b1"
     ],
     "name:eng_x_preferred":[
         "Rocha"
@@ -54,20 +51,11 @@
     "name:fin_x_preferred":[
         "Rocha"
     ],
-    "name:fre_x_preferred":[
-        "Rocha"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e0\u10dd\u10e9\u10d0"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Rocha"
     ],
     "name:glg_x_preferred":[
         "Rocha"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a1\u03cc\u03c4\u03c3\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab0\u0acb\u0a9a\u0abe"
@@ -105,14 +93,14 @@
     "name:mar_x_preferred":[
         "\u0930\u094b\u091a\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Rocha"
+    ],
+    "name:nld_x_preferred":[
         "Rocha"
     ],
     "name:nob_x_preferred":[
         "Rocha"
-    ],
-    "name:per_x_preferred":[
-        "\u0631\u0648\u0686\u0627"
     ],
     "name:pol_x_preferred":[
         "Rocha"
@@ -199,7 +187,7 @@
         }
     ],
     "wof:id":1125868231,
-    "wof:lastmodified":1553816585,
+    "wof:lastmodified":1561790741,
     "wof:name":"Rocha",
     "wof:parent_id":85680343,
     "wof:placetype":"locality",

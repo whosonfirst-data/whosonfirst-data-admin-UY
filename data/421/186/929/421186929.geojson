@@ -18,9 +18,6 @@
     "name:ara_x_preferred":[
         "\u062a\u0631\u06cc\u0646\u062a\u0627 \u0627\u064a \u062a\u0631\u0633"
     ],
-    "name:arm_x_preferred":[
-        "\u054f\u0580\u0565\u0575\u0576\u057f\u0561 \u056b \u054f\u0580\u0565\u057d"
-    ],
     "name:ben_x_preferred":[
         "\u099f\u09cd\u09b0\u09c7\u0987\u09a8\u09cd\u099f\u09be\u09af\u09bc\u09c7 \u099f\u09cd\u09b0\u09c7\u09b8"
     ],
@@ -33,17 +30,14 @@
     "name:cbk_zam_x_preferred":[
         "Treinta y Tres"
     ],
-    "name:chi_x_preferred":[
-        "\u4e09\u5341\u4e09\u4eba\u57ce"
-    ],
     "name:dan_x_preferred":[
         "Treinta y Tres"
     ],
     "name:deu_x_preferred":[
         "Treinta y Tres"
     ],
-    "name:dut_x_preferred":[
-        "Treinta y Tres"
+    "name:ell_x_preferred":[
+        "\u03a4\u03c1\u03ad\u03b9\u03bd\u03c4\u03b1 \u03b9 \u03a4\u03c1\u03b5\u03c2"
     ],
     "name:eng_x_preferred":[
         "Treinta y Tres"
@@ -51,26 +45,17 @@
     "name:fas_x_preferred":[
         "\u062a\u0631\u06cc\u0646\u062a\u0627 \u0627\u06cc \u062a\u0631\u0633"
     ],
+    "name:fas_x_variant":[
+        "\u062a\u0631\u06cc\u0646\u062a\u0627 \u0648 \u062a\u0631\u0633"
+    ],
     "name:fin_x_preferred":[
         "Treinta y Tres"
     ],
     "name:fra_x_preferred":[
         "Treinta y Tres"
     ],
-    "name:fre_x_preferred":[
-        "Treinta y Tres"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10e0\u10d4\u10d8\u10dc\u10e2\u10d0-\u10d8-\u10e2\u10e0\u10d4\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Treinta y Tres"
-    ],
     "name:glg_x_preferred":[
         "Treinta y Tres"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03c1\u03ad\u03b9\u03bd\u03c4\u03b1 \u03b9 \u03a4\u03c1\u03b5\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0acd\u0ab0\u0ac7\u0a87\u0aa8\u0acd\u0a9f\u0abe \u0aaf\u0ac7 \u0a9f\u0acd\u0ab0\u0ac7\u0ab8"
@@ -111,7 +96,7 @@
     "name:mar_x_preferred":[
         "\u091f\u094d\u0930\u0947\u0928\u093f\u091f\u093e \u092f\u0941 \u091f\u094d\u0930\u0947\u0938"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Treinta y Tres"
     ],
     "name:nld_x_preferred":[
@@ -122,9 +107,6 @@
     ],
     "name:nor_x_preferred":[
         "Treinta y Tres"
-    ],
-    "name:per_x_preferred":[
-        "\u062a\u0631\u06cc\u0646\u062a\u0627 \u0648 \u062a\u0631\u0633"
     ],
     "name:pol_x_preferred":[
         "Treinta y Tres"
@@ -214,7 +196,7 @@
         }
     ],
     "wof:id":421186929,
-    "wof:lastmodified":1534379803,
+    "wof:lastmodified":1561790735,
     "wof:name":"Treinta y Tres",
     "wof:parent_id":85680317,
     "wof:placetype":"locality",

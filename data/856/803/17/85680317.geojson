@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.926003,
-    "geom:area_square_m":9596258500.46991,
+    "geom:area_square_m":9596258500.470236,
     "geom:bbox":"-55.1483853827,-33.4653471821,-53.1828363116,-32.7050835098",
     "geom:latitude":-33.060936,
     "geom:longitude":-54.250471,
@@ -28,9 +28,6 @@
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u062a\u0631\u064a\u0646\u062a\u0627 \u0630\u0627 \u062a\u0631\u064a\u0633"
     ],
-    "name:baq_x_preferred":[
-        "Treinta y Tres departamendua"
-    ],
     "name:ben_x_preferred":[
         "\u099f\u09cd\u09b0\u09c7\u0987\u09a8\u09cd\u09a4\u09be\u0987 \u099f\u09cd\u09b0\u09c7\u09b8 \u09ac\u09bf\u09ad\u09be\u0997"
     ],
@@ -40,14 +37,14 @@
     "name:cat_x_preferred":[
         "Departament de Treinta y Tres"
     ],
-    "name:chi_x_preferred":[
-        "\u4e09\u5341\u4e09\u4eba\u7701"
-    ],
     "name:dan_x_preferred":[
         "Treinta y Tres"
     ],
-    "name:dut_x_preferred":[
-        "Treinta y Tres"
+    "name:deu_x_preferred":[
+        "Departamento Treinta y Tres"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c1\u03b5\u03ca\u03bd\u03c4\u03ac \u03b9 \u03a4\u03c1\u03b5\u03c2"
     ],
     "name:eng_x_preferred":[
         "Treinta y Tres"
@@ -55,23 +52,17 @@
     "name:epo_x_preferred":[
         "Treinta y Tres"
     ],
+    "name:eus_x_preferred":[
+        "Treinta y Tres departamendua"
+    ],
     "name:fin_x_preferred":[
         "Treinta y Tres"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Treinta y Tres"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10e0\u10d4\u10d8\u10dc\u10e2\u10d0-\u10d8-\u10e2\u10e0\u10d4\u10e1\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Departamento Treinta y Tres"
     ],
     "name:glg_x_preferred":[
         "Departamento de Treinta y Tres"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03c1\u03b5\u03ca\u03bd\u03c4\u03ac \u03b9 \u03a4\u03c1\u03b5\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0acd\u0ab0\u0ac7\u0a87\u0aa8\u0acd\u0a9f\u0abe \u0ab5\u0abe\u0aaf \u0a9f\u0acd\u0ab0\u0ac7\u0ab8 \u0ab5\u0abf\u0aad\u0abe\u0a97"
@@ -100,6 +91,9 @@
     "name:kan_x_preferred":[
         "\u0c9f\u0ccd\u0cb0\u0cc6\u0c82\u0c9f\u0cbe \u0cb5\u0cc8 \u0c9f\u0ccd\u0cb0\u0cc6\u0cb8\u0ccd \u0ca1\u0cbf\u0caa\u0cbe\u0cb0\u0ccd\u0c9f\u0ccd\u0cae\u0cc6\u0c82\u0c9f\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10e0\u10d4\u10d8\u10dc\u10e2\u10d0-\u10d8-\u10e2\u10e0\u10d4\u10e1\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ud2b8\ub808\uc778\ud0c0\uc774\ud2b8\ub808\uc2a4 \uc8fc"
     ],
@@ -112,8 +106,11 @@
     "name:mar_x_preferred":[
         "\u091f\u094d\u0930\u0947\u0928\u093f\u091f\u093e \u092f\u0941 \u091f\u094d\u0930\u0947\u0938 \u0935\u093f\u092d\u093e\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Treinta y Tres Department"
+    ],
+    "name:nld_x_preferred":[
+        "Treinta y Tres"
     ],
     "name:nob_x_preferred":[
         "Treinta y Tres"
@@ -168,6 +165,9 @@
     ],
     "name:war_x_preferred":[
         "Treinta y Tres"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e09\u5341\u4e09\u4eba\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"URY",
@@ -290,7 +290,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553814832,
+    "wof:lastmodified":1561790728,
     "wof:name":"Treinta y Tres",
     "wof:parent_id":85632511,
     "wof:placetype":"region",

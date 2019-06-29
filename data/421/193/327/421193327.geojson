@@ -19,19 +19,13 @@
     "name:deu_x_preferred":[
         "Sol\u00eds"
     ],
-    "name:dut_x_preferred":[
-        "Sol\u00eds"
-    ],
     "name:eng_x_preferred":[
         "Sol\u00eds"
     ],
     "name:fra_x_preferred":[
         "Sol\u00eds"
     ],
-    "name:fre_x_preferred":[
-        "Sol\u00eds"
-    ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Sol\u00eds"
     ],
     "name:spa_x_preferred":[
@@ -84,7 +78,7 @@
         }
     ],
     "wof:id":421193327,
-    "wof:lastmodified":1514502009,
+    "wof:lastmodified":1561790733,
     "wof:name":"Balneario Sol\u00eds",
     "wof:parent_id":85680335,
     "wof:placetype":"locality",

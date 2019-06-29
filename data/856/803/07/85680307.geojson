@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.889494,
-    "geom:area_square_m":9379551291.903706,
+    "geom:area_square_m":9379551291.903786,
     "geom:bbox":"-56.1882185529,-32.1228451466,-54.4672207059,-30.8433875524",
     "geom:latitude":-31.483485,
     "geom:longitude":-55.260218,
@@ -28,9 +28,6 @@
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u0631\u064a\u0641\u064a\u0631\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Rivera departamendua"
-    ],
     "name:ben_x_preferred":[
         "\u09b0\u09bf\u09ad\u09be\u09b0 \u09ac\u09bf\u09ad\u09be\u0997"
     ],
@@ -40,14 +37,14 @@
     "name:cat_x_preferred":[
         "Departament de Rivera"
     ],
-    "name:chi_x_preferred":[
-        "\u91cc\u97e6\u62c9\u7701"
-    ],
     "name:dan_x_preferred":[
         "Rivera"
     ],
-    "name:dut_x_preferred":[
-        "Rivera"
+    "name:deu_x_preferred":[
+        "Departamento Rivera"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03b9\u03b2\u03ad\u03c1\u03b1"
     ],
     "name:eng_x_preferred":[
         "Rivera"
@@ -55,23 +52,17 @@
     "name:epo_x_preferred":[
         "Rivera"
     ],
+    "name:eus_x_preferred":[
+        "Rivera departamendua"
+    ],
     "name:fin_x_preferred":[
         "Rivera"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Rivera"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e0\u10d8\u10d5\u10d4\u10e0\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Departamento Rivera"
     ],
     "name:glg_x_preferred":[
         "Departamento de Rivera"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a1\u03b9\u03b2\u03ad\u03c1\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab0\u0abf\u0ab5\u0ac7\u0ab0\u0abe \u0ab5\u0abf\u0aad\u0abe\u0a97"
@@ -97,6 +88,9 @@
     "name:kan_x_preferred":[
         "\u0cb0\u0cbf\u0cb5\u0cc6\u0cb0\u0cbe \u0ca1\u0cbf\u0caa\u0cbe\u0cb0\u0ccd\u0c9f\u0ccd\u0cae\u0cc6\u0c82\u0c9f\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10d8\u10d5\u10d4\u10e0\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ub9ac\ubca0\ub77c \uc8fc"
     ],
@@ -109,8 +103,11 @@
     "name:mar_x_preferred":[
         "\u0930\u093f\u0935\u0947\u0930\u093e \u0935\u093f\u092d\u093e\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Rivera Department"
+    ],
+    "name:nld_x_preferred":[
+        "Rivera"
     ],
     "name:nob_x_preferred":[
         "Rivera"
@@ -165,6 +162,9 @@
     ],
     "name:war_x_preferred":[
         "Rivera"
+    ],
+    "name:zho_x_preferred":[
+        "\u91cc\u97e6\u62c9\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"URY",
@@ -287,7 +287,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553814832,
+    "wof:lastmodified":1561790729,
     "wof:name":"Rivera",
     "wof:parent_id":85632511,
     "wof:placetype":"region",

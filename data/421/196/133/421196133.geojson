@@ -16,13 +16,7 @@
     "name:cat_x_preferred":[
         "Garz\u00f3n"
     ],
-    "name:chi_x_preferred":[
-        "\u52a0\u723e\u677e"
-    ],
     "name:deu_x_preferred":[
-        "Garz\u00f3n"
-    ],
-    "name:dut_x_preferred":[
         "Garz\u00f3n"
     ],
     "name:eng_x_preferred":[
@@ -31,10 +25,7 @@
     "name:fra_x_preferred":[
         "Garz\u00f3n"
     ],
-    "name:fre_x_preferred":[
-        "Garz\u00f3n"
-    ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Garz\u00f3n"
     ],
     "name:spa_x_preferred":[
@@ -91,7 +82,7 @@
         }
     ],
     "wof:id":421196133,
-    "wof:lastmodified":1527716360,
+    "wof:lastmodified":1561790735,
     "wof:name":"Garz\u00f3n",
     "wof:parent_id":85680335,
     "wof:placetype":"locality",

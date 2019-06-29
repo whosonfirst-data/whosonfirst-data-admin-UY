@@ -13,9 +13,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:arm_x_preferred":[
-        "\u0537\u056c \u054a\u056b\u0576\u0561\u0580"
-    ],
     "name:cat_x_preferred":[
         "El Pinar"
     ],
@@ -25,9 +22,6 @@
     "name:deu_x_preferred":[
         "El Pinar"
     ],
-    "name:dut_x_preferred":[
-        "El Pinar"
-    ],
     "name:eng_x_preferred":[
         "El Pinar"
     ],
@@ -35,9 +29,6 @@
         "El Pinar"
     ],
     "name:fra_x_preferred":[
-        "El Pinar"
-    ],
-    "name:ger_x_preferred":[
         "El Pinar"
     ],
     "name:hun_x_preferred":[
@@ -110,7 +101,7 @@
         }
     ],
     "wof:id":421179649,
-    "wof:lastmodified":1553816369,
+    "wof:lastmodified":1561790738,
     "wof:name":"El Pinar",
     "wof:parent_id":85680321,
     "wof:placetype":"locality",

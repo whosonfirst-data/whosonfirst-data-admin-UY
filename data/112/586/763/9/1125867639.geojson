@@ -19,16 +19,16 @@
     "name:cat_x_preferred":[
         "Punta Ballena"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Punta Ballena"
     ],
     "name:eng_x_preferred":[
         "Punta Ballena"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Punta Ballena"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Punta Ballena"
     ],
     "name:nob_x_preferred":[
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":1125867639,
-    "wof:lastmodified":1514502046,
+    "wof:lastmodified":1561790741,
     "wof:name":"Punta Ballena",
     "wof:parent_id":85680335,
     "wof:placetype":"locality",

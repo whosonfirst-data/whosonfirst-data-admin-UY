@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.481331,
-    "geom:area_square_m":4915662086.318316,
+    "geom:area_square_m":4915662086.318113,
     "geom:bbox":"-57.1674778949,-34.793534634,-56.3542290922,-33.8497164848",
     "geom:latitude":-34.317727,
     "geom:longitude":-56.718177,
@@ -28,9 +28,6 @@
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u0633\u0627\u0646 \u062e\u0648\u0633\u064a\u0647"
     ],
-    "name:baq_x_preferred":[
-        "San Jos\u00e9 departamendua"
-    ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8\u09be \u099c\u09c1\u09b8\u09c7 \u09ac\u09bf\u09ad\u09be\u0997"
     ],
@@ -46,17 +43,14 @@
     "name:cbk_zam_x_preferred":[
         "San Jose"
     ],
-    "name:chi_x_preferred":[
-        "\u5723\u4f55\u585e\u7701"
-    ],
     "name:dan_x_preferred":[
         "San Jos\u00e9"
     ],
     "name:deu_x_preferred":[
         "Departamento San Jos\u00e9"
     ],
-    "name:dut_x_preferred":[
-        "San Jos\u00e9"
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd \u03a7\u03bf\u03c3\u03ad"
     ],
     "name:eng_x_preferred":[
         "San Jos\u00e9"
@@ -70,20 +64,11 @@
     "name:fin_x_preferred":[
         "San Jos\u00e9"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "San Jos\u00e9"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10dc-\u10ee\u10dd\u10e1\u10d4\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Departamento San Jos\u00e9"
     ],
     "name:glg_x_preferred":[
         "Departamento de San Jos\u00e9"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03bd \u03a7\u03bf\u03c3\u03ad"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8 \u0a9c\u0acb\u0ab8 \u0ab5\u0abf\u0aad\u0abe\u0a97"
@@ -109,6 +94,9 @@
     "name:kan_x_preferred":[
         "\u0cb8\u0ccd\u0caf\u0cbe\u0ca8\u0ccd \u0c9c\u0ccb\u0cb8\u0ccd \u0c87\u0cb2\u0cbe\u0c96\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10ee\u10dd\u10e1\u10d4\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc0b0\ud638\uc138 \uc8fc"
     ],
@@ -121,8 +109,11 @@
     "name:mar_x_preferred":[
         "\u0938\u0945\u0928 \u091c\u094b\u0938 \u0935\u093f\u092d\u093e\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "San Jose Department"
+    ],
+    "name:nld_x_preferred":[
+        "San Jos\u00e9"
     ],
     "name:nob_x_preferred":[
         "San Jos\u00e9"
@@ -202,6 +193,9 @@
     ],
     "name:war_x_preferred":[
         "San Jos\u00e9"
+    ],
+    "name:zho_x_preferred":[
+        "\u5723\u4f55\u585e\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"URY",
@@ -324,7 +318,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553814832,
+    "wof:lastmodified":1561790729,
     "wof:name":"San Jos\u00e9",
     "wof:parent_id":85632511,
     "wof:placetype":"region",

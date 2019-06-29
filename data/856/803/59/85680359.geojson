@@ -28,9 +28,6 @@
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u0641\u0644\u0648\u0631\u064a\u0633"
     ],
-    "name:baq_x_preferred":[
-        "Flores departamendua"
-    ],
     "name:ben_x_preferred":[
         "\u09ab\u09cd\u09b2\u09c1\u09b0\u09c7\u09b8 \u09ac\u09bf\u09ad\u09be\u0997"
     ],
@@ -40,14 +37,14 @@
     "name:cat_x_preferred":[
         "Departament de Flores"
     ],
-    "name:chi_x_preferred":[
-        "\u5f17\u6d1b\u96f7\u65af\u7701"
-    ],
     "name:dan_x_preferred":[
         "Flores"
     ],
-    "name:dut_x_preferred":[
-        "Flores"
+    "name:deu_x_preferred":[
+        "Departamento Flores"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a6\u03bb\u03cc\u03c1\u03b5\u03c2"
     ],
     "name:eng_x_preferred":[
         "Flores"
@@ -55,23 +52,17 @@
     "name:epo_x_preferred":[
         "Flores"
     ],
+    "name:eus_x_preferred":[
+        "Flores departamendua"
+    ],
     "name:fin_x_preferred":[
         "Flores"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Flores"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e4\u10da\u10dd\u10e0\u10d4\u10e1\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Departamento Flores"
     ],
     "name:glg_x_preferred":[
         "Departamento de Flores"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a6\u03bb\u03cc\u03c1\u03b5\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0aab\u0acd\u0ab2\u0acb\u0ab0\u0ac7\u0ab8 \u0ab5\u0abf\u0aad\u0abe\u0a97"
@@ -97,6 +88,9 @@
     "name:kan_x_preferred":[
         "\u0cab\u0ccd\u0cb2\u0ccb\u0cb0\u0ccd\u0cb8\u0ccd \u0c87\u0cb2\u0cbe\u0c96\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10e4\u10da\u10dd\u10e0\u10d4\u10e1\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ud50c\ub85c\ub808\uc2a4 \uc8fc"
     ],
@@ -106,14 +100,17 @@
     "name:lit_x_preferred":[
         "Floreso departamentas"
     ],
-    "name:mac_x_preferred":[
-        "\u0424\u043b\u043e\u0440\u0435\u0441"
-    ],
     "name:mar_x_preferred":[
         "\u092b\u094d\u0932\u0949\u0930\u0947\u0938 \u0935\u093f\u092d\u093e\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0424\u043b\u043e\u0440\u0435\u0441"
+    ],
+    "name:msa_x_preferred":[
         "Flores Department"
+    ],
+    "name:nld_x_preferred":[
+        "Flores"
     ],
     "name:nob_x_preferred":[
         "Flores"
@@ -168,6 +165,9 @@
     ],
     "name:war_x_preferred":[
         "Flores"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f17\u6d1b\u96f7\u65af\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"URY",
@@ -290,7 +290,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553550565,
+    "wof:lastmodified":1561790727,
     "wof:name":"Flores",
     "wof:parent_id":85632511,
     "wof:placetype":"region",

@@ -32,13 +32,7 @@
     "name:cbk_zam_x_preferred":[
         "Punta de Este"
     ],
-    "name:chi_x_preferred":[
-        "\u57c3\u65af\u7279\u89d2\u57ce"
-    ],
     "name:deu_x_preferred":[
-        "Punta del Este"
-    ],
-    "name:dut_x_preferred":[
         "Punta del Este"
     ],
     "name:ell_x_preferred":[
@@ -58,15 +52,6 @@
     ],
     "name:fra_x_preferred":[
         "Punta del Este"
-    ],
-    "name:fre_x_preferred":[
-        "Punta del Este"
-    ],
-    "name:ger_x_preferred":[
-        "Punta del Este"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03bf\u03cd\u03bd\u03c4\u03b1 \u03bd\u03c4\u03b5\u03bb \u0388\u03c3\u03c4\u03b5"
     ],
     "name:hbs_x_preferred":[
         "Punta del Este"
@@ -112,9 +97,6 @@
     ],
     "name:oci_x_preferred":[
         "Punta del Este"
-    ],
-    "name:per_x_preferred":[
-        "\u067e\u0648\u0646\u062a\u0627 \u062f\u0644 \u0627\u0633\u062a\u0647"
     ],
     "name:pol_x_preferred":[
         "Punta del Este"
@@ -295,7 +277,7 @@
         }
     ],
     "wof:id":421169061,
-    "wof:lastmodified":1527716174,
+    "wof:lastmodified":1561790734,
     "wof:name":"Punta del Este",
     "wof:parent_id":85680335,
     "wof:placetype":"locality",

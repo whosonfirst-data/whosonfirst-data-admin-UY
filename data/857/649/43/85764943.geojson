@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10408743.36922,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-56.145973,-34.913097,-56.145973,-34.913097",
     "geom:latitude":-34.913097,
     "geom:longitude":-56.145973,
@@ -31,19 +31,16 @@
     "name:deu_x_preferred":[
         "Pocitos"
     ],
-    "name:dut_x_preferred":[
-        "Pocitos"
-    ],
     "name:eng_x_preferred":[
         "Pocitos"
     ],
-    "name:fre_x_preferred":[
-        "Pocitos"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Pocitos"
     ],
     "name:glg_x_preferred":[
+        "Pocitos"
+    ],
+    "name:nld_x_preferred":[
         "Pocitos"
     ],
     "name:pol_x_preferred":[
@@ -114,7 +111,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531858978,
+    "wof:lastmodified":1561790725,
     "wof:name":"Pocitos",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
