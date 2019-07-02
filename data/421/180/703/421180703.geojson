@@ -19,22 +19,16 @@
     "name:deu_x_preferred":[
         "Mariscala"
     ],
-    "name:dut_x_preferred":[
-        "Mariscala"
-    ],
     "name:eng_x_preferred":[
         "Mariscala"
     ],
     "name:fra_x_preferred":[
         "Mariscala"
     ],
-    "name:fre_x_preferred":[
-        "Mariscala"
-    ],
-    "name:ger_x_preferred":[
-        "Mariscala"
-    ],
     "name:ita_x_preferred":[
+        "Mariscala"
+    ],
+    "name:nld_x_preferred":[
         "Mariscala"
     ],
     "name:nob_x_preferred":[
@@ -101,7 +95,7 @@
         }
     ],
     "wof:id":421180703,
-    "wof:lastmodified":1527716239,
+    "wof:lastmodified":1561790734,
     "wof:name":"La Mariscala",
     "wof:parent_id":85680329,
     "wof:placetype":"locality",

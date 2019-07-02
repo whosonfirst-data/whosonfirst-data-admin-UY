@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.356068,
-    "geom:area_square_m":14322468087.518797,
+    "geom:area_square_m":14322468087.518755,
     "geom:bbox":"-58.0752359622,-31.8713359507,-56.0098740205,-30.752231134",
     "geom:latitude":-31.332916,
     "geom:longitude":-57.027903,
@@ -28,9 +28,6 @@
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u0633\u0627\u0644\u062a\u0648"
     ],
-    "name:baq_x_preferred":[
-        "Salto departamendua"
-    ],
     "name:bel_x_preferred":[
         "\u0434\u044d\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442 \u0421\u0430\u043b\u044c\u0442\u0430"
     ],
@@ -43,14 +40,14 @@
     "name:cat_x_preferred":[
         "Departament de Salto"
     ],
-    "name:chi_x_preferred":[
-        "\u8428\u5c14\u6258\u7701"
-    ],
     "name:dan_x_preferred":[
         "Salto"
     ],
-    "name:dut_x_preferred":[
-        "Salto"
+    "name:deu_x_preferred":[
+        "Departamento Salto"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03b5\u03c9\u03b3\u03c1\u03b1\u03c6\u03b9\u03ba\u03cc \u0394\u03b9\u03b1\u03bc\u03ad\u03c1\u03b9\u03c3\u03bc\u03b1 \u03a3\u03ac\u03bb\u03c4\u03bf"
     ],
     "name:eng_x_preferred":[
         "Salto"
@@ -58,23 +55,17 @@
     "name:epo_x_preferred":[
         "Departemento Salto"
     ],
+    "name:eus_x_preferred":[
+        "Salto departamendua"
+    ],
     "name:fin_x_preferred":[
         "Salto"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Salto"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10da\u10e2\u10dd\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Departamento Salto"
     ],
     "name:glg_x_preferred":[
         "Departamento de Salto"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03b5\u03c9\u03b3\u03c1\u03b1\u03c6\u03b9\u03ba\u03cc \u0394\u03b9\u03b1\u03bc\u03ad\u03c1\u03b9\u03c3\u03bc\u03b1 \u03a3\u03ac\u03bb\u03c4\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0ab2\u0acd\u0a9f\u0acb \u0ab5\u0abf\u0aad\u0abe\u0a97"
@@ -100,6 +91,9 @@
     "name:kan_x_preferred":[
         "\u0cb8\u0cbe\u0cb2\u0ccd\u0c9f\u0ccb \u0c87\u0cb2\u0cbe\u0c96\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10da\u10e2\u10dd\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc0b4\ud1a0 \uc8fc"
     ],
@@ -112,8 +106,11 @@
     "name:mar_x_preferred":[
         "\u0938\u093e\u0932\u094d\u091f\u094b \u0935\u093f\u092d\u093e\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Jabatan Salto"
+    ],
+    "name:nld_x_preferred":[
+        "Salto"
     ],
     "name:nob_x_preferred":[
         "Salto"
@@ -171,6 +168,9 @@
     ],
     "name:war_x_preferred":[
         "Salto"
+    ],
+    "name:zho_x_preferred":[
+        "\u8428\u5c14\u6258\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"URY",
@@ -293,7 +293,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553814832,
+    "wof:lastmodified":1561790729,
     "wof:name":"Salto",
     "wof:parent_id":85632511,
     "wof:placetype":"region",

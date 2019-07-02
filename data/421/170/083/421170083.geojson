@@ -22,17 +22,14 @@
     "name:cat_x_preferred":[
         "Cardona"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u723e\u591a\u7d0d"
-    ],
     "name:dan_x_preferred":[
         "Cardona"
     ],
     "name:deu_x_preferred":[
         "Cardona"
     ],
-    "name:dut_x_preferred":[
-        "Cardona"
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c1\u03bd\u03c4\u03cc\u03bd\u03b1"
     ],
     "name:eng_x_preferred":[
         "Cardona"
@@ -45,15 +42,6 @@
     ],
     "name:fra_x_preferred":[
         "Cardona"
-    ],
-    "name:fre_x_preferred":[
-        "Cardona"
-    ],
-    "name:ger_x_preferred":[
-        "Cardona"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03c1\u03bd\u03c4\u03cc\u03bd\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0abe\u0ab0\u0acd\u0aa1\u0acb\u0aa8\u0abe"
@@ -85,7 +73,7 @@
     "name:mar_x_preferred":[
         "\u0915\u093e\u0930\u094d\u0921\u094b\u0928\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Cardona"
     ],
     "name:nld_x_preferred":[
@@ -96,9 +84,6 @@
     ],
     "name:nor_x_preferred":[
         "Cardona"
-    ],
-    "name:per_x_preferred":[
-        "\u06a9\u0627\u0631\u062f\u0648\u0646\u0627\u060c \u0627\u0631\u0648\u06af\u0648\u0626\u0647"
     ],
     "name:pol_x_preferred":[
         "Cardona"
@@ -188,7 +173,7 @@
         }
     ],
     "wof:id":421170083,
-    "wof:lastmodified":1527716459,
+    "wof:lastmodified":1561790737,
     "wof:name":"Cardona",
     "wof:parent_id":85680293,
     "wof:placetype":"locality",

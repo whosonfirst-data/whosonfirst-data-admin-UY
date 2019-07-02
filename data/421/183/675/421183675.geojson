@@ -16,22 +16,16 @@
     "name:deu_x_preferred":[
         "Nuevo Paysand\u00fa"
     ],
-    "name:dut_x_preferred":[
-        "Nuevo Paysand\u00fa"
-    ],
     "name:eng_x_preferred":[
         "Nuevo Paysand\u00fa"
     ],
     "name:fra_x_preferred":[
         "Nuevo Paysand\u00fa"
     ],
-    "name:fre_x_preferred":[
-        "Nuevo Paysand\u00fa"
-    ],
-    "name:ger_x_preferred":[
-        "Nuevo Paysand\u00fa"
-    ],
     "name:ita_x_preferred":[
+        "Nuevo Paysand\u00fa"
+    ],
+    "name:nld_x_preferred":[
         "Nuevo Paysand\u00fa"
     ],
     "name:nob_x_preferred":[
@@ -90,7 +84,7 @@
         }
     ],
     "wof:id":421183675,
-    "wof:lastmodified":1527716489,
+    "wof:lastmodified":1561790737,
     "wof:name":"Colonia Nuevo Paysand\u00fa",
     "wof:parent_id":85680363,
     "wof:placetype":"locality",

@@ -18,16 +18,16 @@
     "name:cat_x_preferred":[
         "Blanquillo"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Blanquillo"
     ],
     "name:eng_x_preferred":[
         "Blanquillo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Blanquillo"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Blanquillo"
     ],
     "name:nob_x_preferred":[
@@ -68,7 +68,7 @@
         }
     ],
     "wof:id":890441863,
-    "wof:lastmodified":1514502010,
+    "wof:lastmodified":1561790739,
     "wof:name":"Blanquillo",
     "wof:parent_id":85680303,
     "wof:placetype":"locality",

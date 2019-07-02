@@ -13,16 +13,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:arm_x_preferred":[
-        "\u053c\u0561 \u054a\u0561\u057d"
-    ],
     "name:cat_x_preferred":[
         "La Paz"
     ],
     "name:deu_x_preferred":[
-        "La Paz"
-    ],
-    "name:dut_x_preferred":[
         "La Paz"
     ],
     "name:eng_x_preferred":[
@@ -31,16 +25,13 @@
     "name:fra_x_preferred":[
         "La Paz"
     ],
-    "name:fre_x_preferred":[
-        "La Paz"
-    ],
-    "name:ger_x_preferred":[
-        "La Paz"
-    ],
     "name:hye_x_preferred":[
         "\u053c\u0561 \u054a\u0561\u057d"
     ],
     "name:ita_x_preferred":[
+        "La Paz"
+    ],
+    "name:nld_x_preferred":[
         "La Paz"
     ],
     "name:rus_x_preferred":[
@@ -100,7 +91,7 @@
         }
     ],
     "wof:id":421199385,
-    "wof:lastmodified":1527716413,
+    "wof:lastmodified":1561790736,
     "wof:name":"La Paz",
     "wof:parent_id":85680347,
     "wof:placetype":"locality",

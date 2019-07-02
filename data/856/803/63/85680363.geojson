@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.342656,
-    "geom:area_square_m":14066555519.893574,
+    "geom:area_square_m":14066555519.89341,
     "geom:bbox":"-58.2026183676,-32.614288019,-56.2448559228,-31.4704301903",
     "geom:latitude":-32.083262,
     "geom:longitude":-57.345083,
@@ -28,9 +28,6 @@
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u0628\u0627\u064a\u0633\u0627\u0646\u062f\u0648"
     ],
-    "name:baq_x_preferred":[
-        "Paysand\u00fa departamendua"
-    ],
     "name:ben_x_preferred":[
         "\u09aa\u09c7\u09b8\u09be\u09a8\u09cd\u09a1\u09cb \u09ac\u09bf\u09ad\u09be\u0997"
     ],
@@ -43,17 +40,14 @@
     "name:cbk_zam_x_preferred":[
         "Paysand\u00fa"
     ],
-    "name:chi_x_preferred":[
-        "\u6d3e\u6851\u675c\u7701"
-    ],
     "name:dan_x_preferred":[
         "Paysand\u00fa"
     ],
     "name:deu_x_preferred":[
         "Departamento Paysand\u00fa"
     ],
-    "name:dut_x_preferred":[
-        "Paysand\u00fa"
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03ca\u03c3\u03b1\u03bd\u03c4\u03bf\u03cd"
     ],
     "name:eng_x_preferred":[
         "Paysand\u00fa"
@@ -70,20 +64,8 @@
     "name:fra_x_preferred":[
         "Paysand\u00fa"
     ],
-    "name:fre_x_preferred":[
-        "Paysand\u00fa"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d0\u10d8\u10e1\u10d0\u10dc\u10d3\u10e3\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Departamento Paysand\u00fa"
-    ],
     "name:glg_x_preferred":[
         "Departamento de Paysand\u00fa"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b1\u03ca\u03c3\u03b1\u03bd\u03c4\u03bf\u03cd"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0ac7\u0ab8\u0a82\u0aa1\u0ac1 \u0ab5\u0abf\u0aad\u0abe\u0a97"
@@ -109,6 +91,9 @@
     "name:kan_x_preferred":[
         "\u0caa\u0cbe\u0cb8\u0cc1\u0c82\u0ca1\u0cc1 \u0c87\u0cb2\u0cbe\u0c96\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d0\u10d8\u10e1\u10d0\u10dc\u10d3\u10e3\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ud30c\uc774\uc0b0\ub450 \uc8fc"
     ],
@@ -121,8 +106,11 @@
     "name:mar_x_preferred":[
         "\u092a\u0947\u0938\u093e\u0902\u0921\u0942 \u0935\u093f\u092d\u093e\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Paysandu Department"
+    ],
+    "name:nld_x_preferred":[
+        "Paysand\u00fa"
     ],
     "name:nob_x_preferred":[
         "Paysand\u00fa"
@@ -185,6 +173,9 @@
     ],
     "name:war_x_preferred":[
         "Paysand\u00fa"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d3e\u6851\u675c\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"URY",
@@ -307,7 +298,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553814832,
+    "wof:lastmodified":1561790729,
     "wof:name":"Paysand\u00fa",
     "wof:parent_id":85632511,
     "wof:placetype":"region",

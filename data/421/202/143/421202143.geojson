@@ -19,13 +19,10 @@
     "name:deu_x_preferred":[
         "Santiago V\u00e1zquez"
     ],
-    "name:dut_x_preferred":[
-        "Santiago V\u00e1zquez"
-    ],
     "name:eng_x_preferred":[
         "Santiago V\u00e1zquez"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Santiago V\u00e1zquez"
     ],
     "name:nob_x_preferred":[
@@ -89,7 +86,7 @@
         }
     ],
     "wof:id":421202143,
-    "wof:lastmodified":1527716208,
+    "wof:lastmodified":1561790734,
     "wof:name":"Santiago V\u00e1zquez",
     "wof:parent_id":85680339,
     "wof:placetype":"locality",

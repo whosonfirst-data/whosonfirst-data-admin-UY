@@ -16,19 +16,10 @@
     "name:cat_x_preferred":[
         "La Floresta"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u5f17\u6d1b\u96f7\u65af\u5854"
-    ],
     "name:deu_x_preferred":[
         "La Floresta"
     ],
-    "name:dut_x_preferred":[
-        "La Floresta"
-    ],
     "name:eng_x_preferred":[
-        "La Floresta"
-    ],
-    "name:ger_x_preferred":[
         "La Floresta"
     ],
     "name:ita_x_preferred":[
@@ -36,6 +27,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30e9\u30fb\u30d5\u30ed\u30ec\u30b9\u30bf"
+    ],
+    "name:nld_x_preferred":[
+        "La Floresta"
     ],
     "name:nob_x_preferred":[
         "La Floresta"
@@ -104,7 +98,7 @@
         }
     ],
     "wof:id":421181139,
-    "wof:lastmodified":1553816370,
+    "wof:lastmodified":1561790735,
     "wof:name":"La Floresta",
     "wof:parent_id":85680321,
     "wof:placetype":"locality",

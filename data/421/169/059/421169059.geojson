@@ -17,17 +17,11 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u062a \u0644\u0648\u0633\u064a\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u0561\u0576\u057f\u0561 \u053c\u0578\u0582\u057d\u056b\u0561"
-    ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u09a4\u09be \u09b2\u09c1\u09b8\u09bf\u09af\u09bc\u09be"
     ],
     "name:cat_x_preferred":[
         "Santa Luc\u00eda"
-    ],
-    "name:chi_x_preferred":[
-        "\u8056\u76e7\u897f\u4e9e"
     ],
     "name:dan_x_preferred":[
         "Santa Luc\u00eda"
@@ -35,8 +29,8 @@
     "name:deu_x_preferred":[
         "Santa Luc\u00eda"
     ],
-    "name:dut_x_preferred":[
-        "Santa Luc\u00eda"
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03bd\u03c4\u03b1 \u039b\u03bf\u03c5\u03c4\u03c3\u03af\u03b1"
     ],
     "name:eng_x_preferred":[
         "Santa Luc\u00eda"
@@ -49,15 +43,6 @@
     ],
     "name:fra_x_preferred":[
         "Santa Luc\u00eda"
-    ],
-    "name:fre_x_preferred":[
-        "Santa Luc\u00eda"
-    ],
-    "name:ger_x_preferred":[
-        "Santa Luc\u00eda"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03ac\u03bd\u03c4\u03b1 \u039b\u03bf\u03c5\u03c4\u03c3\u03af\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0a82\u0aa4\u0abe \u0ab2\u0ac1\u0ab8\u0abf\u0a86"
@@ -92,7 +77,7 @@
     "name:mar_x_preferred":[
         "\u0938\u093e\u0902\u0924\u093e \u0932\u0941\u0938\u0947\u092f\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Santa Lucia"
     ],
     "name:nld_x_preferred":[
@@ -103,9 +88,6 @@
     ],
     "name:nor_x_preferred":[
         "Santa Luc\u00eda"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u0627\u0646\u062a\u0627 \u0644\u0648\u0633\u06cc\u0627\u060c \u0627\u0631\u0648\u06af\u0648\u0626\u0647"
     ],
     "name:pol_x_preferred":[
         "Santa Luc\u00eda"
@@ -148,6 +130,9 @@
     ],
     "name:vie_x_preferred":[
         "Santa Lucia"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u76e7\u897f\u4e9e"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Uruguay",
@@ -289,7 +274,7 @@
         }
     ],
     "wof:id":421169059,
-    "wof:lastmodified":1553816356,
+    "wof:lastmodified":1561790734,
     "wof:name":"Santa Luc\u00eda",
     "wof:parent_id":85680321,
     "wof:placetype":"locality",

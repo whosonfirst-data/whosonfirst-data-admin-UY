@@ -17,13 +17,7 @@
     "name:cat_x_preferred":[
         "Lascano"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u65af\u5361\u8afe"
-    ],
     "name:deu_x_preferred":[
-        "Lascano"
-    ],
-    "name:dut_x_preferred":[
         "Lascano"
     ],
     "name:eng_x_preferred":[
@@ -33,12 +27,6 @@
         "\u0644\u0627\u0633\u06a9\u0627\u0646\u0648"
     ],
     "name:fra_x_preferred":[
-        "Lascano"
-    ],
-    "name:fre_x_preferred":[
-        "Lascano"
-    ],
-    "name:ger_x_preferred":[
         "Lascano"
     ],
     "name:ita_x_preferred":[
@@ -52,9 +40,6 @@
     ],
     "name:nor_x_preferred":[
         "Lascano"
-    ],
-    "name:per_x_preferred":[
-        "\u0644\u0627\u0633\u06a9\u0627\u0646\u0648"
     ],
     "name:pol_x_preferred":[
         "Lascano"
@@ -217,7 +202,7 @@
         }
     ],
     "wof:id":421199723,
-    "wof:lastmodified":1527716414,
+    "wof:lastmodified":1561790736,
     "wof:name":"Lascano",
     "wof:parent_id":85680343,
     "wof:placetype":"locality",

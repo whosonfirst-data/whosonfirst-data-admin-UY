@@ -22,29 +22,26 @@
     "name:cat_x_preferred":[
         "Sarand\u00ed del Y\u00ed"
     ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u6cb3\u7554\u85a9\u862d\u8fea"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sarand\u00ed del Y\u00ed"
     ],
     "name:eng_x_preferred":[
         "Sarand\u00ed del Y\u00ed"
     ],
-    "name:fre_x_preferred":[
-        "Sarand\u00ed del Y\u00ed"
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0631\u0627\u0646\u062f\u06cc \u062f\u0644 \u06cc\u06cc"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Sarand\u00ed del Y\u00ed"
     ],
     "name:ita_x_preferred":[
         "Sarand\u00ed del Y\u00ed"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Sarand\u00ed del Y\u00ed"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0627\u0631\u0627\u0646\u062f\u06cc \u062f\u0644 \u06cc\u06cc"
+    "name:nob_x_preferred":[
+        "Sarand\u00ed del Y\u00ed"
     ],
     "name:pol_x_preferred":[
         "Sarand\u00ed del Y\u00ed"
@@ -60,6 +57,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0631\u0627\u0646\u062f\u06cc \u062f\u06cc\u0644 \u06cc\u06cc"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u6cb3\u7554\u85a9\u862d\u8fea"
     ],
     "qs_pg:aaroncc":"UY",
     "qs_pg:gn_country":"UY",
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":1125868273,
-    "wof:lastmodified":1514502062,
+    "wof:lastmodified":1561790741,
     "wof:name":"Sarand\u00ed del Yi",
     "wof:parent_id":85680303,
     "wof:placetype":"locality",

@@ -16,16 +16,10 @@
     "name:cat_x_preferred":[
         "Santa Clara de Olimar"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u514b\u62c9\u62c9\u5fb7\u5967\u5229\u99ac\u723e"
-    ],
     "name:dan_x_preferred":[
         "Santa Clara de Olimar"
     ],
     "name:deu_x_preferred":[
-        "Santa Clara de Olimar"
-    ],
-    "name:dut_x_preferred":[
         "Santa Clara de Olimar"
     ],
     "name:eng_x_preferred":[
@@ -37,12 +31,6 @@
     "name:fra_x_preferred":[
         "Santa Clara de Olimar"
     ],
-    "name:fre_x_preferred":[
-        "Santa Clara de Olimar"
-    ],
-    "name:ger_x_preferred":[
-        "Santa Clara de Olimar"
-    ],
     "name:hrv_x_preferred":[
         "Santa Clara de Olimar"
     ],
@@ -50,6 +38,9 @@
         "Santa Clara de Olimar"
     ],
     "name:kal_x_preferred":[
+        "Santa Clara de Olimar"
+    ],
+    "name:nld_x_preferred":[
         "Santa Clara de Olimar"
     ],
     "name:nno_x_preferred":[
@@ -128,7 +119,7 @@
         }
     ],
     "wof:id":421168215,
-    "wof:lastmodified":1527716097,
+    "wof:lastmodified":1561790733,
     "wof:name":"Santa Clara de Olimar",
     "wof:parent_id":85680317,
     "wof:placetype":"locality",

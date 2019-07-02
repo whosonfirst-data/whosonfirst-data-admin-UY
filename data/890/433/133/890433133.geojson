@@ -18,22 +18,19 @@
     "name:cat_x_preferred":[
         "San Bautista"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u5305\u8482\u65af\u5854"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "San Bautista"
     ],
     "name:eng_x_preferred":[
         "San Bautista"
     ],
-    "name:fre_x_preferred":[
-        "San Bautista"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "San Bautista"
     ],
     "name:ita_x_preferred":[
+        "San Bautista"
+    ],
+    "name:nld_x_preferred":[
         "San Bautista"
     ],
     "name:nob_x_preferred":[
@@ -41,6 +38,9 @@
     ],
     "name:spa_x_preferred":[
         "San Bautista"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5305\u8482\u65af\u5854"
     ],
     "qs:name":"San Bautista",
     "qs:photos_9r":0,
@@ -73,7 +73,7 @@
         }
     ],
     "wof:id":890433133,
-    "wof:lastmodified":1527792951,
+    "wof:lastmodified":1561790740,
     "wof:name":"San Bautista",
     "wof:parent_id":85680321,
     "wof:placetype":"locality",

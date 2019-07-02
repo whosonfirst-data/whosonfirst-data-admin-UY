@@ -31,9 +31,6 @@
     "name:ast_x_preferred":[
         "Departamentu de Lavalleja"
     ],
-    "name:baq_x_preferred":[
-        "Lavalleja departamendua"
-    ],
     "name:ben_x_preferred":[
         "\u09b2\u09be\u09ad\u09c7\u09b2\u09c7\u099c\u09be \u09ac\u09bf\u09ad\u09be\u0997"
     ],
@@ -43,17 +40,14 @@
     "name:cat_x_preferred":[
         "Departament de Lavalleja"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u74e6\u8036\u54c8\u7701"
-    ],
     "name:dan_x_preferred":[
         "Lavalleja"
     ],
     "name:deu_x_preferred":[
         "Departamento Lavalleja"
     ],
-    "name:dut_x_preferred":[
-        "Lavalleja"
+    "name:ell_x_preferred":[
+        "\u039b\u03b1\u03b2\u03b1\u03bb\u03ad\u03c4\u03b6\u03b1"
     ],
     "name:eng_x_preferred":[
         "Lavalleja"
@@ -64,26 +58,17 @@
     "name:epo_x_preferred":[
         "Lavalleja"
     ],
+    "name:eus_x_preferred":[
+        "Lavalleja departamendua"
+    ],
     "name:fin_x_preferred":[
         "Lavalleja"
     ],
     "name:fra_x_preferred":[
         "Lavalleja"
     ],
-    "name:fre_x_preferred":[
-        "Lavalleja"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d0\u10d5\u10d0\u10da\u10d8\u10d4\u10ee\u10d0\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Departamento Lavalleja"
-    ],
     "name:glg_x_preferred":[
         "Departamento de Lavalleja"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03b1\u03b2\u03b1\u03bb\u03ad\u03c4\u03b6\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0ab5\u0ab2\u0ac7\u0a9c\u0abe \u0ab5\u0abf\u0aad\u0abe\u0a97"
@@ -109,6 +94,9 @@
     "name:kan_x_preferred":[
         "\u0cb2\u0cb5\u0cc6\u0cb2\u0ccd\u0cb2\u0cc6\u0c9c\u0cbe \u0c87\u0cb2\u0cbe\u0c96\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d0\u10d5\u10d0\u10da\u10d8\u10d4\u10ee\u10d0\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ub77c\ubc14\uc608\ud558 \uc8fc"
     ],
@@ -121,7 +109,7 @@
     "name:mar_x_preferred":[
         "\u0932\u093e\u0935\u093e\u0932\u0932\u0947\u091c\u093e \u0935\u093f\u092d\u093e\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lavalleja Department"
     ],
     "name:nld_x_preferred":[
@@ -188,6 +176,9 @@
     ],
     "name:war_x_preferred":[
         "Lavalleja"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u74e6\u8036\u54c8\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"URY",
@@ -310,7 +301,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553550562,
+    "wof:lastmodified":1561790728,
     "wof:name":"Lavalleja",
     "wof:parent_id":85632511,
     "wof:placetype":"region",

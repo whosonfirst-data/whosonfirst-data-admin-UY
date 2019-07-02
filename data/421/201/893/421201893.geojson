@@ -16,13 +16,7 @@
     "name:cat_x_preferred":[
         "Tarariras"
     ],
-    "name:chi_x_preferred":[
-        "\u5854\u62c9\u91cc\u62c9\u65af"
-    ],
     "name:deu_x_preferred":[
-        "Tarariras"
-    ],
-    "name:dut_x_preferred":[
         "Tarariras"
     ],
     "name:eng_x_preferred":[
@@ -34,13 +28,10 @@
     "name:fra_x_preferred":[
         "Tarariras"
     ],
-    "name:fre_x_preferred":[
-        "Tarariras"
-    ],
-    "name:ger_x_preferred":[
-        "Tarariras"
-    ],
     "name:ita_x_preferred":[
+        "Tarariras"
+    ],
+    "name:nld_x_preferred":[
         "Tarariras"
     ],
     "name:nob_x_preferred":[
@@ -48,9 +39,6 @@
     ],
     "name:nor_x_preferred":[
         "Tarariras"
-    ],
-    "name:per_x_preferred":[
-        "\u062a\u0627\u0631\u0627\u0631\u06cc\u0631\u0627\u0633"
     ],
     "name:pol_x_preferred":[
         "Tarariras"
@@ -119,7 +107,7 @@
         }
     ],
     "wof:id":421201893,
-    "wof:lastmodified":1527716434,
+    "wof:lastmodified":1561790737,
     "wof:name":"Tarariras",
     "wof:parent_id":85680347,
     "wof:placetype":"locality",

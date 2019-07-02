@@ -16,17 +16,11 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u0648\u063a\u0631\u064a\u0633\u0648"
     ],
-    "name:arm_x_preferred":[
-        "\u054a\u0580\u0578\u0563\u0580\u0565\u057d\u0578"
-    ],
     "name:ben_x_preferred":[
         "\u09aa\u09cd\u09b0\u09cb\u0997\u09cd\u09b0\u09c7\u09b8\u09cb"
     ],
     "name:cat_x_preferred":[
         "Progreso"
-    ],
-    "name:chi_x_preferred":[
-        "\u666e\u7f85\u683c\u96f7\u7d22"
     ],
     "name:dan_x_preferred":[
         "Progreso"
@@ -34,8 +28,8 @@
     "name:deu_x_preferred":[
         "Progreso"
     ],
-    "name:dut_x_preferred":[
-        "Progreso"
+    "name:ell_x_preferred":[
+        "\u03a0\u03c1\u03bf\u03b3\u03ba\u03c1\u03ad\u03c3\u03bf"
     ],
     "name:eng_x_preferred":[
         "Progreso"
@@ -45,15 +39,6 @@
     ],
     "name:fra_x_preferred":[
         "Progreso"
-    ],
-    "name:fre_x_preferred":[
-        "Progreso"
-    ],
-    "name:ger_x_preferred":[
-        "Progreso"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03c1\u03bf\u03b3\u03ba\u03c1\u03ad\u03c3\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acd\u0ab0\u0acb\u0a97\u0acd\u0ab0\u0ac7\u0ab8\u0acb"
@@ -88,7 +73,10 @@
     "name:mar_x_preferred":[
         "\u092a\u094d\u0930\u094b\u0917\u094d\u0930\u0947\u0938\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Progreso"
+    ],
+    "name:nld_x_preferred":[
         "Progreso"
     ],
     "name:nob_x_preferred":[
@@ -188,7 +176,7 @@
         }
     ],
     "wof:id":421168219,
-    "wof:lastmodified":1553816356,
+    "wof:lastmodified":1561790733,
     "wof:name":"Progreso",
     "wof:parent_id":85680321,
     "wof:placetype":"locality",

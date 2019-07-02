@@ -19,19 +19,13 @@
     "name:deu_x_preferred":[
         "Playa Verde"
     ],
-    "name:dut_x_preferred":[
-        "Playa Verde"
-    ],
     "name:eng_x_preferred":[
         "Playa Verde"
     ],
     "name:fra_x_preferred":[
         "Playa Verde"
     ],
-    "name:fre_x_preferred":[
-        "Playa Verde"
-    ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Playa Verde"
     ],
     "name:spa_x_preferred":[
@@ -80,7 +74,7 @@
         }
     ],
     "wof:id":421186369,
-    "wof:lastmodified":1527716315,
+    "wof:lastmodified":1561790734,
     "wof:name":"Playa Verde",
     "wof:parent_id":85680335,
     "wof:placetype":"locality",

@@ -15,25 +15,16 @@
     "iso:country":"UY",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0549\u0578\u0582\u0575"
-    ],
     "name:cat_x_preferred":[
         "Chuy"
     ],
-    "name:chi_x_preferred":[
-        "\u4e18\u4f0a"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Chuy"
     ],
     "name:eng_x_preferred":[
         "Chuy"
     ],
-    "name:fre_x_preferred":[
-        "Chuy"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Chuy"
     ],
     "name:heb_x_preferred":[
@@ -47,6 +38,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30c1\u30e5\u30a4"
+    ],
+    "name:nld_x_preferred":[
+        "Chuy"
     ],
     "name:nob_x_preferred":[
         "Chuy"
@@ -71,6 +65,9 @@
     ],
     "name:vie_x_preferred":[
         "Chuy"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e18\u4f0a"
     ],
     "qs:name":"Chuy",
     "qs:photos_9r":0,
@@ -102,7 +99,7 @@
         }
     ],
     "wof:id":890435991,
-    "wof:lastmodified":1527793044,
+    "wof:lastmodified":1561790740,
     "wof:name":"Chuy",
     "wof:parent_id":85680343,
     "wof:placetype":"locality",

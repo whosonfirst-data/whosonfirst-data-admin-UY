@@ -18,22 +18,19 @@
     "name:cat_x_preferred":[
         "Omb\u00faes de Lavalle"
     ],
-    "name:chi_x_preferred":[
-        "\u7fc1\u5e03\u57c3\u65af-\u5fb7\u62c9\u74e6\u8036"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Omb\u00faes de Lavalle"
     ],
     "name:eng_x_preferred":[
         "Omb\u00faes de Lavalle"
     ],
-    "name:fre_x_preferred":[
-        "Omb\u00faes de Lavalle"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Omb\u00faes de Lavalle"
     ],
     "name:ita_x_preferred":[
+        "Omb\u00faes de Lavalle"
+    ],
+    "name:nld_x_preferred":[
         "Omb\u00faes de Lavalle"
     ],
     "name:rus_x_preferred":[
@@ -47,6 +44,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u0648\u0645\u0628\u0648\u06cc\u0633 \u062f\u06d2 \u0644\u0627\u0648\u0627\u0626\u06cc\u06d2"
+    ],
+    "name:zho_x_preferred":[
+        "\u7fc1\u5e03\u57c3\u65af-\u5fb7\u62c9\u74e6\u8036"
     ],
     "qs:name":"Omb\u00faes de Lavalle",
     "qs:photos_9r":0,
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":890437181,
-    "wof:lastmodified":1527729750,
+    "wof:lastmodified":1561790739,
     "wof:name":"Omb\u00faes de Lavalle",
     "wof:parent_id":85680347,
     "wof:placetype":"locality",

@@ -19,9 +19,6 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0646\u0644\u0648\u0646\u064a\u0633"
     ],
-    "name:arm_x_preferred":[
-        "\u053f\u0561\u0576\u0565\u056c\u0578\u0576\u0565\u057d"
-    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u09a8\u09c7\u09b2\u09cb\u09a8\u09cd\u09b8"
     ],
@@ -31,35 +28,32 @@
     "name:cat_x_preferred":[
         "Canelones"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u5167\u6d1b\u5167\u65af"
+    "name:cym_x_preferred":[
+        "Canelones"
     ],
     "name:dan_x_preferred":[
         "Canelones"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Canelones"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bd\u03b5\u03bb\u03cc\u03bd\u03b5\u03c2"
     ],
     "name:eng_x_preferred":[
         "Canelones"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0646\u0644\u0648\u0646\u0633\u060c \u0627\u0631\u0648\u06af\u0648\u0626\u0647"
+    ],
     "name:fin_x_preferred":[
         "Canelones"
     ],
-    "name:fre_x_preferred":[
-        "Canelones"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d0\u10dc\u10d4\u10da\u10dd\u10dc\u10d4\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Canelones"
     ],
     "name:glg_x_preferred":[
         "Canelones"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03bd\u03b5\u03bb\u03cc\u03bd\u03b5\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac7\u0aa8\u0ac7\u0ab2\u0acb\u0aa8\u0acd\u0ab8"
@@ -73,6 +67,9 @@
     "name:hrv_x_preferred":[
         "Canelones"
     ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u0576\u0565\u056c\u0578\u0576\u0565\u057d"
+    ],
     "name:ind_x_preferred":[
         "Canelones"
     ],
@@ -84,6 +81,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c95\u0cc6\u0ca8\u0cc6\u0cb2\u0ccb\u0ca8\u0ccd\u0cb8\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10dc\u10d4\u10da\u10dd\u10dc\u10d4\u10e1\u10d8"
     ],
     "name:kor_x_preferred":[
         "\uce74\ub12c\ub85c\ub124\uc2a4"
@@ -97,14 +97,14 @@
     "name:mar_x_preferred":[
         "\u0915\u0945\u0928\u093f\u0932\u094b\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Canelones"
+    ],
+    "name:nld_x_preferred":[
         "Canelones"
     ],
     "name:nob_x_preferred":[
         "Canelones"
-    ],
-    "name:per_x_preferred":[
-        "\u06a9\u0646\u0644\u0648\u0646\u0633\u060c \u0627\u0631\u0648\u06af\u0648\u0626\u0647"
     ],
     "name:pol_x_preferred":[
         "Canelones"
@@ -151,8 +151,8 @@
     "name:war_x_preferred":[
         "Canelones"
     ],
-    "name:wel_x_preferred":[
-        "Canelones"
+    "name:zho_x_preferred":[
+        "\u5361\u5167\u6d1b\u5167\u65af"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Uruguay",
@@ -277,7 +277,7 @@
         }
     ],
     "wof:id":890444649,
-    "wof:lastmodified":1527782135,
+    "wof:lastmodified":1561790740,
     "wof:name":"Canelones",
     "wof:parent_id":85680321,
     "wof:placetype":"locality",
