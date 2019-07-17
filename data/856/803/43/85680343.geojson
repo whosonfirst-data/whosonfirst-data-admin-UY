@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u0631\u0648\u062a\u0634\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Rocha"
+    ],
     "name:ben_x_preferred":[
         "\u09b0\u09cb\u099a\u09be \u09a1\u09bf\u09aa\u09be\u09b0\u09cd\u099f\u09ae\u09c7\u09a8\u09cd\u099f"
     ],
@@ -49,16 +52,25 @@
     "name:eng_x_preferred":[
         "Rocha"
     ],
+    "name:eng_x_variant":[
+        "Rocha Department"
+    ],
     "name:epo_x_preferred":[
         "Rocha"
     ],
     "name:eus_x_preferred":[
         "Rocha departamendua"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u0631\u0648\u0686\u0627"
+    ],
     "name:fin_x_preferred":[
         "Rocha"
     ],
     "name:fra_x_preferred":[
+        "Rocha"
+    ],
+    "name:frr_x_preferred":[
         "Rocha"
     ],
     "name:glg_x_preferred":[
@@ -94,8 +106,17 @@
     "name:kor_x_preferred":[
         "\ub85c\ucc28 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ub85c\ucc28\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Rocha"
+    ],
     "name:lav_x_preferred":[
         "Ro\u010das departaments"
+    ],
+    "name:lez_x_preferred":[
+        "\u0420\u043e\u0447\u0430"
     ],
     "name:lit_x_preferred":[
         "Ro\u010dos departamentas"
@@ -129,6 +150,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0dbb\u0ddd\u0da0\u0dcf \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0"
+    ],
+    "name:slk_x_preferred":[
+        "Rocha"
     ],
     "name:sme_x_preferred":[
         "Rocha"
@@ -290,7 +314,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561790729,
+    "wof:lastmodified":1563360253,
     "wof:name":"Rocha",
     "wof:parent_id":85632511,
     "wof:placetype":"region",

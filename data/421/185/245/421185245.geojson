@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "Termas del Arapey"
     ],
+    "name:ceb_x_preferred":[
+        "Termas del Arapey"
+    ],
     "name:deu_x_preferred":[
         "Termas del Arapey"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":421185245,
-    "wof:lastmodified":1561790738,
+    "wof:lastmodified":1563360419,
     "wof:name":"Termas del Arapey",
     "wof:parent_id":85680289,
     "wof:placetype":"locality",

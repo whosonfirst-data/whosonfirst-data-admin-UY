@@ -50,6 +50,9 @@
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8 \u0a9c\u0acb\u0ab8 \u0aa1\u0ac7 \u0aae\u0ac7\u0aaf\u0acb"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05df \u05d7\u05d5\u05e1\u05d4 \u05d3\u05d4 \u05de\u05d0\u05d6'\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u0938\u0948\u0928 \u0939\u094b\u0938\u0947"
     ],
@@ -260,7 +263,7 @@
         }
     ],
     "wof:id":1141908485,
-    "wof:lastmodified":1561790743,
+    "wof:lastmodified":1563360503,
     "wof:name":"San Jose de Mayo",
     "wof:parent_id":85680349,
     "wof:placetype":"locality",

@@ -16,14 +16,26 @@
     "name:cat_x_preferred":[
         "Nuevo Berl\u00edn"
     ],
+    "name:ceb_x_preferred":[
+        "Nuevo Berl\u00edn"
+    ],
+    "name:dan_x_preferred":[
+        "Nuevo Berl\u00edn"
+    ],
     "name:deu_x_preferred":[
         "Nuevo Berl\u00edn"
     ],
     "name:eng_x_preferred":[
         "Nuevo Berl\u00edn"
     ],
+    "name:epo_x_preferred":[
+        "Nova Berlino"
+    ],
     "name:fra_x_preferred":[
         "Nuevo Berl\u00edn"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d5\u05d0\u05d1\u05d5 \u05d1\u05e8\u05dc\u05d9\u05df"
     ],
     "name:ita_x_preferred":[
         "Nuevo Berl\u00edn"
@@ -98,7 +110,7 @@
         }
     ],
     "wof:id":421205317,
-    "wof:lastmodified":1561790734,
+    "wof:lastmodified":1563360389,
     "wof:name":"Nuevo Berl\u00edn",
     "wof:parent_id":85680367,
     "wof:placetype":"locality",

@@ -32,6 +32,9 @@
     "name:cat_x_preferred":[
         "Colonia del Sacramento"
     ],
+    "name:ceb_x_preferred":[
+        "Colonia del Sacramento"
+    ],
     "name:ces_x_preferred":[
         "Colonia del Sacramento"
     ],
@@ -88,6 +91,9 @@
     ],
     "name:kor_x_preferred":[
         "\ucf5c\ub85c\ub2c8\uc544\ub378\uc0ac\ud06c\ub77c\uba58\ud1a0"
+    ],
+    "name:lad_x_preferred":[
+        "Colonia del Sacramento"
     ],
     "name:lit_x_preferred":[
         "Kolonija del Sakramentas"
@@ -311,7 +317,7 @@
         }
     ],
     "wof:id":421199749,
-    "wof:lastmodified":1561790736,
+    "wof:lastmodified":1563360402,
     "wof:name":"Colonia del Sacramento",
     "wof:parent_id":85680347,
     "wof:placetype":"locality",

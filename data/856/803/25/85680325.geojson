@@ -58,13 +58,22 @@
     "name:epo_x_preferred":[
         "Florida"
     ],
+    "name:epo_x_variant":[
+        "Departemento Florido"
+    ],
     "name:eus_x_preferred":[
         "Florida departamendua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u0641\u0644\u0648\u0631\u06cc\u062f\u0627"
     ],
     "name:fin_x_preferred":[
         "Florida"
     ],
     "name:fra_x_preferred":[
+        "Florida"
+    ],
+    "name:frr_x_preferred":[
         "Florida"
     ],
     "name:glg_x_preferred":[
@@ -100,8 +109,17 @@
     "name:kor_x_preferred":[
         "\ud50c\ub85c\ub9ac\ub2e4 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ud50c\ub85c\ub9ac\ub2e4\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Florida"
+    ],
     "name:lav_x_preferred":[
         "Floridas departaments"
+    ],
+    "name:lez_x_preferred":[
+        "\u0424\u043b\u043e\u0440\u0438\u0434\u0430"
     ],
     "name:lit_x_preferred":[
         "Floridos departamentas"
@@ -127,6 +145,9 @@
     "name:por_x_preferred":[
         "Departamento de Florida"
     ],
+    "name:por_x_variant":[
+        "Florida"
+    ],
     "name:que_x_preferred":[
         "Florida"
     ],
@@ -135,6 +156,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0dc6\u0dca\u0dbd\u0ddc\u0dbb\u0dd2\u0da9\u0dcf \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0"
+    ],
+    "name:slk_x_preferred":[
+        "Florida"
     ],
     "name:sme_x_preferred":[
         "Florida"
@@ -153,6 +177,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1f\u0e23\u0e2d\u0e23\u0e34\u0e14\u0e49\u0e32 \u0e14\u0e35\u0e1e\u0e32\u0e17\u0e40\u0e21\u0e49\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e42\u0e1f\u0e25\u0e23\u0e34\u0e14\u0e32"
     ],
     "name:tur_x_preferred":[
         "Florida Departman\u0131"
@@ -296,7 +323,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561790729,
+    "wof:lastmodified":1563360259,
     "wof:name":"Florida",
     "wof:parent_id":85632511,
     "wof:placetype":"region",

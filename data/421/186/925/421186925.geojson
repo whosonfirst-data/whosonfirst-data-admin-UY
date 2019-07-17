@@ -19,6 +19,9 @@
     "name:ara_x_preferred":[
         "\u0641\u0631\u0627\u064a \u0628\u0646\u062a\u0648\u0633"
     ],
+    "name:ast_x_preferred":[
+        "Fray Bentos"
+    ],
     "name:bel_x_preferred":[
         "\u0424\u0440\u0430\u0439-\u0411\u0435\u043d\u0442\u0430\u0441"
     ],
@@ -29,6 +32,9 @@
         "\u0424\u0440\u0430\u0439 \u0411\u0435\u043d\u0442\u043e\u0441"
     ],
     "name:cat_x_preferred":[
+        "Fray Bentos"
+    ],
+    "name:ceb_x_preferred":[
         "Fray Bentos"
     ],
     "name:ces_x_preferred":[
@@ -133,6 +139,9 @@
     "name:sin_x_preferred":[
         "\u0dc6\u0dca\u0dbb\u0dda \u0db6\u0dd9\u0db1\u0dca\u0dad\u0ddc\u0dc3\u0dca"
     ],
+    "name:slk_x_preferred":[
+        "Fray Bentos"
+    ],
     "name:spa_x_historical":[
         "Villa Independencia"
     ],
@@ -141,8 +150,7 @@
     ],
     "name:spa_x_variant":[
         "Villa Independencia",
-        "Villa Fray Bentos",
-        "Fray Bentos"
+        "Villa Fray Bentos"
     ],
     "name:swe_x_preferred":[
         "Fray Bentos"
@@ -228,7 +236,7 @@
         }
     ],
     "wof:id":421186925,
-    "wof:lastmodified":1561790734,
+    "wof:lastmodified":1563360394,
     "wof:name":"Fray Bentos",
     "wof:parent_id":85680367,
     "wof:placetype":"locality",

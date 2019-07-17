@@ -27,6 +27,9 @@
     "name:cat_x_preferred":[
         "Juan Lacaze"
     ],
+    "name:ceb_x_preferred":[
+        "Juan L. Lacaze"
+    ],
     "name:dan_x_preferred":[
         "Juan Lacaze"
     ],
@@ -169,7 +172,7 @@
         }
     ],
     "wof:id":890444647,
-    "wof:lastmodified":1561790740,
+    "wof:lastmodified":1563360436,
     "wof:name":"Juan L. Lacaze",
     "wof:parent_id":85680347,
     "wof:placetype":"locality",

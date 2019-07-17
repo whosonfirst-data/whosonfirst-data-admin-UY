@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "Jos\u00e9 Enrique Rod\u00f3"
     ],
+    "name:ceb_x_preferred":[
+        "Jos\u00e9 Enrique Rod\u00f3"
+    ],
     "name:deu_x_preferred":[
         "Jos\u00e9 Enrique Rod\u00f3"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":421197555,
-    "wof:lastmodified":1561790735,
+    "wof:lastmodified":1563360400,
     "wof:name":"Jos\u00e9 Enrique Rod\u00f3",
     "wof:parent_id":85680293,
     "wof:placetype":"locality",

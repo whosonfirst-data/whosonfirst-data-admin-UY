@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "Soca"
     ],
+    "name:ceb_x_preferred":[
+        "Soca"
+    ],
     "name:deu_x_preferred":[
         "Dr. Francisco Soca"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":421185741,
-    "wof:lastmodified":1561790738,
+    "wof:lastmodified":1563360420,
     "wof:name":"Soca",
     "wof:parent_id":85680321,
     "wof:placetype":"locality",

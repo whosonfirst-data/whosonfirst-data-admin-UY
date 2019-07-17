@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "Tom\u00e1s Gomensoro"
     ],
+    "name:ceb_x_preferred":[
+        "Tom\u00e1s Gomensoro"
+    ],
     "name:cym_x_preferred":[
         "Tom\u00e1s Gomensoro"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0422\u043e\u043c\u0430\u0441-\u0413\u043e\u043c\u0435\u043d\u0441\u043e\u0440\u043e"
+    ],
+    "name:ukr_x_variant":[
+        "\u0422\u043e\u043c\u0430\u0441-\u0490\u043e\u043c\u0435\u043d\u0441\u043e\u0440\u043e"
     ],
     "name:zho_x_preferred":[
         "\u6258\u99ac\u65af\u6208\u9580\u7d22\u7f85"
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":421201891,
-    "wof:lastmodified":1561790737,
+    "wof:lastmodified":1563360408,
     "wof:name":"Tom\u00e1s Gomensoro",
     "wof:parent_id":85680355,
     "wof:placetype":"locality",

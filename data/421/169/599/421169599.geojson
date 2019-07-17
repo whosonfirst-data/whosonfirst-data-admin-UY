@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "Isidoro Noblia"
     ],
+    "name:ceb_x_preferred":[
+        "Isidoro Nobl\u00eda"
+    ],
     "name:deu_x_preferred":[
         "Isidoro Nobl\u00eda"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":421169599,
-    "wof:lastmodified":1561790734,
+    "wof:lastmodified":1563360385,
     "wof:name":"Isidoro Nobl\u00eda",
     "wof:parent_id":404562889,
     "wof:placetype":"locality",

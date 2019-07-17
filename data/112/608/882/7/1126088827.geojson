@@ -26,6 +26,15 @@
     "name:deu_x_preferred":[
         "Belvedere"
     ],
+    "name:eng_x_preferred":[
+        "Belvedere"
+    ],
+    "name:fra_x_preferred":[
+        "Belvedere"
+    ],
+    "name:nld_x_preferred":[
+        "Belvedere"
+    ],
     "name:pol_x_preferred":[
         "Belvedere"
     ],
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":1126088827,
-    "wof:lastmodified":1534379804,
+    "wof:lastmodified":1563360449,
     "wof:name":"Belveder",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

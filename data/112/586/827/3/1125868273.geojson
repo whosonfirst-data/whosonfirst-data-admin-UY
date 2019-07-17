@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Sarand\u00ed del Y\u00ed"
     ],
+    "name:ceb_x_preferred":[
+        "Sarand\u00ed del Yi"
+    ],
     "name:deu_x_preferred":[
         "Sarand\u00ed del Y\u00ed"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1125868273,
-    "wof:lastmodified":1561790741,
+    "wof:lastmodified":1563360444,
     "wof:name":"Sarand\u00ed del Yi",
     "wof:parent_id":85680303,
     "wof:placetype":"locality",

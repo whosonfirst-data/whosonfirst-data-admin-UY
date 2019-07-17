@@ -55,8 +55,14 @@
     "name:eng_x_preferred":[
         "Montevideo"
     ],
+    "name:eng_x_variant":[
+        "Montevideo Department"
+    ],
     "name:epo_x_preferred":[
         "Montevideo"
+    ],
+    "name:epo_x_variant":[
+        "Departemento Montevideo"
     ],
     "name:eus_x_preferred":[
         "Montevideo departamendua"
@@ -68,6 +74,9 @@
         "Montevideo"
     ],
     "name:fra_x_preferred":[
+        "Montevideo"
+    ],
+    "name:frr_x_preferred":[
         "Montevideo"
     ],
     "name:glg_x_preferred":[
@@ -94,6 +103,9 @@
     "name:jpn_x_preferred":[
         "\u30e2\u30f3\u30c6\u30d3\u30c7\u30aa"
     ],
+    "name:jpn_x_variant":[
+        "\u30e2\u30f3\u30c6\u30d3\u30c7\u30aa\u770c"
+    ],
     "name:kan_x_preferred":[
         "\u0cae\u0cbe\u0c82\u0c9f\u0cc6\u0cb5\u0cbf\u0ca1\u0cbf\u0caf\u0cca \u0c87\u0cb2\u0cbe\u0c96\u0cc6"
     ],
@@ -103,8 +115,14 @@
     "name:kor_x_preferred":[
         "\ubaac\ud14c\ube44\ub370\uc624"
     ],
+    "name:kor_x_variant":[
+        "\ubaac\ud14c\ube44\ub370\uc624\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Montevideo departaments"
+    ],
+    "name:lez_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0435\u0432\u0438\u0434\u0435\u043e"
     ],
     "name:lit_x_preferred":[
         "Montevid\u0117jo departamentas"
@@ -139,6 +157,9 @@
     "name:sin_x_preferred":[
         "\u0db8\u0ddc\u0db1\u0dca\u0da7\u0dd9\u0dc0\u0dd2\u0da9\u0dd2\u0dba\u0ddd \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0"
     ],
+    "name:slk_x_preferred":[
+        "Montevideo"
+    ],
     "name:sme_x_preferred":[
         "Montevideo"
     ],
@@ -156,6 +177,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e21\u0e2d\u0e19\u0e40\u0e15\u0e27\u0e34\u0e40\u0e14\u0e42\u0e2d"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e21\u0e2d\u0e19\u0e40\u0e15\u0e27\u0e34\u0e40\u0e14\u0e42\u0e2d"
     ],
     "name:tur_x_preferred":[
         "Montevideo Departman\u0131"
@@ -305,7 +329,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561790729,
+    "wof:lastmodified":1563360254,
     "wof:name":"Montevideo",
     "wof:parent_id":85632511,
     "wof:placetype":"region",

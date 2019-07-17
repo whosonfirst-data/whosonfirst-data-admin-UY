@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u0633\u0648\u0631\u064a\u0627\u0646\u0648"
     ],
+    "name:ast_x_preferred":[
+        "Soriano"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09b0\u09bf\u09af\u09bc\u09be\u09a8\u09cb \u09ac\u09bf\u09ad\u09be\u0997"
     ],
@@ -58,10 +61,16 @@
     "name:eus_x_preferred":[
         "Soriano departamendua"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u0633\u0648\u0631\u06cc\u0627\u0646\u0648"
+    ],
     "name:fin_x_preferred":[
         "Soriano"
     ],
     "name:fra_x_preferred":[
+        "Soriano"
+    ],
+    "name:frr_x_preferred":[
         "Soriano"
     ],
     "name:glg_x_preferred":[
@@ -96,6 +105,12 @@
     ],
     "name:kor_x_preferred":[
         "\uc18c\ub9ac\uc544\ub178 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc18c\ub9ac\uc544\ub178\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Soriano"
     ],
     "name:lav_x_preferred":[
         "Sorjano departaments"
@@ -133,6 +148,9 @@
     "name:sin_x_preferred":[
         "\u0dc3\u0ddc\u0dbb\u0dd2\u0dba\u0dcf\u0db1\u0ddd \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0"
     ],
+    "name:slk_x_preferred":[
+        "Soriano"
+    ],
     "name:sme_x_preferred":[
         "Soriano"
     ],
@@ -150,6 +168,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e02\u0e15\u0e42\u0e0b\u0e40\u0e23\u0e35\u0e22\u0e42\u0e19\u0e48"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e42\u0e0b\u0e40\u0e23\u0e35\u0e22\u0e42\u0e19"
     ],
     "name:tur_x_preferred":[
         "Soriana Department"
@@ -293,7 +314,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561790729,
+    "wof:lastmodified":1563360260,
     "wof:name":"Soriano",
     "wof:parent_id":85632511,
     "wof:placetype":"region",

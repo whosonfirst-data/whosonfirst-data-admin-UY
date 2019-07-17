@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "Santiago V\u00e1zquez"
     ],
+    "name:ceb_x_preferred":[
+        "Santiago V\u00e1zquez"
+    ],
     "name:deu_x_preferred":[
         "Santiago V\u00e1zquez"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":421202143,
-    "wof:lastmodified":1561790734,
+    "wof:lastmodified":1563360388,
     "wof:name":"Santiago V\u00e1zquez",
     "wof:parent_id":85680339,
     "wof:placetype":"locality",

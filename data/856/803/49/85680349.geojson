@@ -28,8 +28,14 @@
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u0633\u0627\u0646 \u062e\u0648\u0633\u064a\u0647"
     ],
+    "name:ast_x_preferred":[
+        "San Jos\u00e9"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8\u09be \u099c\u09c1\u09b8\u09c7 \u09ac\u09bf\u09ad\u09be\u0997"
+    ],
+    "name:ben_x_variant":[
+        "\u09b8\u09be\u09a8 \u09b9\u09cb\u09b8\u09c7 \u09ac\u09bf\u09ad\u09be\u0997"
     ],
     "name:bre_x_preferred":[
         "Departamant San Jos\u00e9"
@@ -43,6 +49,9 @@
     "name:cbk_zam_x_preferred":[
         "San Jose"
     ],
+    "name:cym_x_preferred":[
+        "San Jos\u00e9"
+    ],
     "name:dan_x_preferred":[
         "San Jos\u00e9"
     ],
@@ -55,11 +64,20 @@
     "name:eng_x_preferred":[
         "San Jos\u00e9"
     ],
+    "name:eng_x_variant":[
+        "San Jos\u00e9 Department"
+    ],
     "name:epo_x_preferred":[
         "Departemento San Jos\u00e9"
     ],
+    "name:epo_x_variant":[
+        "Departemento San-Joseo"
+    ],
     "name:eus_x_preferred":[
         "San Jos\u00e9 departamendua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u0633\u0646 \u062e\u0648\u0632\u0647"
     ],
     "name:fin_x_preferred":[
         "San Jos\u00e9"
@@ -67,11 +85,17 @@
     "name:fra_x_preferred":[
         "San Jos\u00e9"
     ],
+    "name:frr_x_preferred":[
+        "San Jos\u00e9"
+    ],
     "name:glg_x_preferred":[
         "Departamento de San Jos\u00e9"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8 \u0a9c\u0acb\u0ab8 \u0ab5\u0abf\u0aad\u0abe\u0a97"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05df \u05d7\u05d5\u05e1\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u0938\u0948\u0928 \u091c\u094b\u0938 \u0935\u093f\u092d\u093e\u0917"
@@ -100,8 +124,17 @@
     "name:kor_x_preferred":[
         "\uc0b0\ud638\uc138 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc0b0\ud638\uc138\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "San Jos\u00e9"
+    ],
     "name:lav_x_preferred":[
         "Sanhos\u0113 departaments"
+    ],
+    "name:lez_x_preferred":[
+        "\u0421\u0430\u043d-\u0425\u043e\u0441\u0435"
     ],
     "name:lit_x_preferred":[
         "San Chos\u0117s departamentas"
@@ -135,6 +168,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0dc3\u0dd0\u0db1\u0dca \u0da2\u0ddc\u0dc3\u0dda \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0"
+    ],
+    "name:slk_x_preferred":[
+        "San Jos\u00e9"
     ],
     "name:sme_x_preferred":[
         "San Jos\u00e9"
@@ -175,6 +211,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e0b\u0e32\u0e19 \u0e42\u0e08\u0e40\u0e0b\u0e48 \u0e14\u0e35\u0e1e\u0e32\u0e17\u0e40\u0e21\u0e49\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e0b\u0e32\u0e19\u0e42\u0e06\u0e40\u0e0b"
     ],
     "name:tur_x_preferred":[
         "San Jose Departman\u0131"
@@ -318,7 +357,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561790729,
+    "wof:lastmodified":1563360257,
     "wof:name":"San Jos\u00e9",
     "wof:parent_id":85632511,
     "wof:placetype":"region",

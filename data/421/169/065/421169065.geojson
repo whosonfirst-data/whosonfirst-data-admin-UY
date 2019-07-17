@@ -17,6 +17,9 @@
     "name:cat_x_preferred":[
         "Castillos"
     ],
+    "name:ceb_x_preferred":[
+        "Castillos"
+    ],
     "name:deu_x_preferred":[
         "Castillos"
     ],
@@ -55,6 +58,9 @@
     ],
     "name:spa_x_preferred":[
         "Castillos"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0441\u0442\u0456\u043b\u044c\u0439\u043e\u0441"
     ],
     "name:unk_x_variant":[
         "Pueblo de San Vicente de Castillos"
@@ -206,7 +212,7 @@
         }
     ],
     "wof:id":421169065,
-    "wof:lastmodified":1561790733,
+    "wof:lastmodified":1563360384,
     "wof:name":"Castillos",
     "wof:parent_id":85680343,
     "wof:placetype":"locality",

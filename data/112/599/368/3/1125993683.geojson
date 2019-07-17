@@ -21,6 +21,9 @@
     "name:cat_x_preferred":[
         "Piri\u00e1polis"
     ],
+    "name:ceb_x_preferred":[
+        "Piri\u00e1polis"
+    ],
     "name:dan_x_preferred":[
         "Piri\u00e1polis"
     ],
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":1125993683,
-    "wof:lastmodified":1561790741,
+    "wof:lastmodified":1563360448,
     "wof:name":"Piri\u00e1polis",
     "wof:parent_id":1092075613,
     "wof:placetype":"locality",

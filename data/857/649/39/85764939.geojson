@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11171917.372354,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-56.2075,-34.856897,-56.2075,-34.856897",
     "geom:latitude":-34.856897,
     "geom:longitude":-56.2075,
@@ -25,6 +25,12 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
+    "name:eng_x_preferred":[
+        "Paso del Molino"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30bd\u30fb\u30e2\u30ea\u30fc\u30ce"
+    ],
     "name:por_x_preferred":[
         "Paso del Molino"
     ],
@@ -68,10 +74,10 @@
     "wd:wordcount":35,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85680339,
         102191577,
         85632511,
-        1092076303,
-        85680339
+        1092076303
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,7 +103,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531858978,
+    "wof:lastmodified":1563360243,
     "wof:name":"Paso Molino",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

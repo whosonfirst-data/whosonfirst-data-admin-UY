@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "Sol\u00eds"
     ],
+    "name:ceb_x_preferred":[
+        "Balneario Sol\u00eds"
+    ],
     "name:deu_x_preferred":[
         "Sol\u00eds"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":421193327,
-    "wof:lastmodified":1561790733,
+    "wof:lastmodified":1563360383,
     "wof:name":"Balneario Sol\u00eds",
     "wof:parent_id":85680335,
     "wof:placetype":"locality",

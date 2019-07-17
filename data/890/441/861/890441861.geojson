@@ -18,6 +18,9 @@
     "name:cat_x_preferred":[
         "Ecilda Paullier"
     ],
+    "name:ceb_x_preferred":[
+        "Ecilda Paullier"
+    ],
     "name:deu_x_preferred":[
         "Ecilda Paullier"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":890441861,
-    "wof:lastmodified":1561790739,
+    "wof:lastmodified":1563360423,
     "wof:name":"Ecilda Paullier",
     "wof:parent_id":85680349,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10767440.922968,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-56.164331,-34.922295,-56.164331,-34.922295",
     "geom:latitude":-34.922295,
     "geom:longitude":-56.164331,
@@ -28,6 +28,21 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
+    "name:cat_x_preferred":[
+        "Punta Carretas"
+    ],
+    "name:deu_x_preferred":[
+        "Punta Carretas"
+    ],
+    "name:eng_x_preferred":[
+        "Punta Carretas"
+    ],
+    "name:fra_x_preferred":[
+        "Punta Carretas"
+    ],
+    "name:nld_x_preferred":[
+        "Punta Carretas"
+    ],
     "name:spa_x_preferred":[
         "Punta Carretas"
     ],
@@ -117,7 +132,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379803,
+    "wof:lastmodified":1563360243,
     "wof:name":"Punta Carretas",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

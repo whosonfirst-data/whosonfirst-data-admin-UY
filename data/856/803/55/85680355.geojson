@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u0623\u0631\u062a\u064a\u063a\u0627\u0633"
     ],
+    "name:ast_x_preferred":[
+        "Departamentu d'Artigas"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09b0\u09cd\u099f\u09bf\u0997\u09be\u09b8 \u09ac\u09bf\u09ad\u09be\u0997"
     ],
@@ -55,13 +58,22 @@
     "name:epo_x_preferred":[
         "Departemento Artigas"
     ],
+    "name:epo_x_variant":[
+        "Artigas"
+    ],
     "name:eus_x_preferred":[
         "Artigas departamendua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u0622\u0631\u062a\u06cc\u06af\u0627\u0633"
     ],
     "name:fin_x_preferred":[
         "Artigas"
     ],
     "name:fra_x_preferred":[
+        "Artigas"
+    ],
+    "name:frr_x_preferred":[
         "Artigas"
     ],
     "name:glg_x_preferred":[
@@ -100,8 +112,17 @@
     "name:kor_x_preferred":[
         "\uc544\ub974\ud2f0\uac00\uc2a4 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc544\ub974\ud2f0\uac00\uc2a4\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Artigas"
+    ],
     "name:lav_x_preferred":[
         "Artigasas departaments"
+    ],
+    "name:lez_x_preferred":[
+        "\u0410\u0440\u0442\u0438\u0433\u0430\u0441"
     ],
     "name:lit_x_preferred":[
         "Artigaso departamentas"
@@ -121,6 +142,9 @@
     "name:nno_x_preferred":[
         "Artigasdepartementet"
     ],
+    "name:nno_x_variant":[
+        "Departementet Artigas"
+    ],
     "name:nob_x_preferred":[
         "Artigas"
     ],
@@ -130,6 +154,9 @@
     "name:por_x_preferred":[
         "Departamento de Artigas"
     ],
+    "name:por_x_variant":[
+        "Artigas"
+    ],
     "name:que_x_preferred":[
         "Artigas suyu"
     ],
@@ -138,6 +165,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0d85\u0dbb\u0dca\u0da7\u0dd2\u0d9c\u0dcf\u0dc3\u0dca \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0"
+    ],
+    "name:slk_x_preferred":[
+        "Artigas"
     ],
     "name:sme_x_preferred":[
         "Artigas"
@@ -156,6 +186,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e01\u0e23\u0e21\u0e2d\u0e32\u0e23\u0e4c\u0e15\u0e34\u0e01\u0e31\u0e2a"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2d\u0e32\u0e23\u0e4c\u0e15\u0e34\u0e01\u0e31\u0e2a"
     ],
     "name:tur_x_preferred":[
         "Artigas Departman\u0131"
@@ -299,7 +332,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561790729,
+    "wof:lastmodified":1563360255,
     "wof:name":"Artigas",
     "wof:parent_id":85632511,
     "wof:placetype":"region",

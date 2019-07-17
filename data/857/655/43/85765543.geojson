@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3166713.15971,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-55.26947,-34.870159,-55.26947,-34.870159",
     "geom:latitude":-34.870159,
     "geom:longitude":-55.26947,
@@ -29,7 +29,16 @@
     "name:cat_x_preferred":[
         "Piri\u00e1polis"
     ],
+    "name:ceb_x_preferred":[
+        "Piri\u00e1polis"
+    ],
+    "name:dan_x_preferred":[
+        "Piri\u00e1polis"
+    ],
     "name:deu_x_preferred":[
+        "Piri\u00e1polis"
+    ],
+    "name:eng_x_preferred":[
         "Piri\u00e1polis"
     ],
     "name:fas_x_preferred":[
@@ -47,10 +56,25 @@
     "name:ita_x_preferred":[
         "Piri\u00e1polis"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d4\u30ea\u30a2\u30dd\u30ea\u30b9"
+    ],
     "name:lit_x_preferred":[
         "Piriapolis"
     ],
+    "name:nld_x_preferred":[
+        "Piri\u00e1polis"
+    ],
+    "name:nob_x_preferred":[
+        "Piri\u00e1polis"
+    ],
     "name:nor_x_preferred":[
+        "Piri\u00e1polis"
+    ],
+    "name:pol_x_preferred":[
+        "Piri\u00e1polis"
+    ],
+    "name:por_x_preferred":[
         "Piri\u00e1polis"
     ],
     "name:rus_x_preferred":[
@@ -111,10 +135,10 @@
     "wd:wordcount":673,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85680335,
         102191577,
         85632511,
-        1092075613,
-        85680335
+        1092075613
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -140,7 +164,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531859016,
+    "wof:lastmodified":1563360244,
     "wof:name":"Piri\u00e1polis",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":18702176.795283,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-56.170622,-34.867645,-56.170622,-34.867645",
     "geom:latitude":-34.867645,
     "geom:longitude":-56.170622,
@@ -25,6 +25,18 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
+    "name:cat_x_preferred":[
+        "Cerrito"
+    ],
+    "name:eng_x_preferred":[
+        "Cerrito"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30ea\u30fc\u30c8\u30fb\u30c7\u30fb\u30e9\u30fb\u30a6\u30a3\u30af\u30c8\u30ea\u30a2"
+    ],
+    "name:nld_x_preferred":[
+        "Cerrito"
+    ],
     "name:spa_x_preferred":[
         "Cerrito"
     ],
@@ -61,10 +73,10 @@
     "wd:wordcount":163,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85680339,
         102191577,
         85632511,
-        1092076303,
-        85680339
+        1092076303
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,7 +102,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531858975,
+    "wof:lastmodified":1563360242,
     "wof:name":"Cerrito",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "San F\u00e9lix"
     ],
+    "name:ceb_x_preferred":[
+        "San F\u00e9lix"
+    ],
     "name:deu_x_preferred":[
         "San F\u00e9lix"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1125868291,
-    "wof:lastmodified":1561790741,
+    "wof:lastmodified":1563360445,
     "wof:name":"San F\u00e9lix",
     "wof:parent_id":1108718243,
     "wof:placetype":"locality",

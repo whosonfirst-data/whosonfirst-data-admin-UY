@@ -13,7 +13,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Sarand\u00ed Grande"
+    ],
     "name:cat_x_preferred":[
+        "Sarand\u00ed Grande"
+    ],
+    "name:ceb_x_preferred":[
         "Sarand\u00ed Grande"
     ],
     "name:deu_x_preferred":[
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":421168213,
-    "wof:lastmodified":1561790733,
+    "wof:lastmodified":1563360380,
     "wof:name":"Sarand\u00ed Grande",
     "wof:parent_id":85680325,
     "wof:placetype":"locality",

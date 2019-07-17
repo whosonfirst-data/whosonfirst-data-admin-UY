@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Bella Uni\u00f3n"
     ],
+    "name:ceb_x_preferred":[
+        "Bella Uni\u00f3n"
+    ],
     "name:cym_x_preferred":[
         "Bella Uni\u00f3n"
     ],
@@ -277,7 +280,7 @@
         }
     ],
     "wof:id":421169069,
-    "wof:lastmodified":1561790734,
+    "wof:lastmodified":1563360387,
     "wof:name":"Bella Uni\u00f3n",
     "wof:parent_id":85680355,
     "wof:placetype":"locality",

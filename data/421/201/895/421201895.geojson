@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "San Antonio"
     ],
+    "name:ceb_x_preferred":[
+        "San Antonio"
+    ],
     "name:deu_x_preferred":[
         "San Antonio"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":421201895,
-    "wof:lastmodified":1561790736,
+    "wof:lastmodified":1563360406,
     "wof:name":"San Antonio",
     "wof:parent_id":85680321,
     "wof:placetype":"locality",

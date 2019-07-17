@@ -52,16 +52,28 @@
     "name:eng_x_preferred":[
         "Tacuaremb\u00f3"
     ],
+    "name:eng_x_variant":[
+        "Tacuaremb\u00f3 Department"
+    ],
     "name:epo_x_preferred":[
         "Departemento Tacuaremb\u00f3"
     ],
+    "name:epo_x_variant":[
+        "Tacuaremb\u00f3"
+    ],
     "name:eus_x_preferred":[
         "Tacuaremb\u00f3 departamendua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u062a\u0627\u06a9\u0648\u0626\u0627\u0631\u0645\u0628\u0648"
     ],
     "name:fin_x_preferred":[
         "Tacuaremb\u00f3"
     ],
     "name:fra_x_preferred":[
+        "Tacuaremb\u00f3"
+    ],
+    "name:frr_x_preferred":[
         "Tacuaremb\u00f3"
     ],
     "name:glg_x_preferred":[
@@ -100,8 +112,14 @@
     "name:kor_x_preferred":[
         "\ud0c0\ucfe0\uc544\ub818\ubcf4 \uc8fc"
     ],
+    "name:lad_x_preferred":[
+        "Tacuaremb\u00f3"
+    ],
     "name:lav_x_preferred":[
         "Takvarembo departaments"
+    ],
+    "name:lez_x_preferred":[
+        "\u0422\u0430\u043a\u0443\u0430\u0440\u0435\u043c\u0431\u043e"
     ],
     "name:lit_x_preferred":[
         "Takuarembo departamentas"
@@ -136,6 +154,9 @@
     "name:sin_x_preferred":[
         "\u0da7\u0d9a\u0dd4\u0d85\u0dbb\u0dd9\u0db8\u0dca\u0db6\u0ddd \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0"
     ],
+    "name:slk_x_preferred":[
+        "Tacuaremb\u00f3"
+    ],
     "name:slv_x_preferred":[
         "Departma Tacuaremb\u00f3"
     ],
@@ -169,6 +190,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e15\u0e32\u0e01\u0e27\u0e32\u0e40\u0e23\u0e21\u0e42\u0e1a"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e15\u0e32\u0e01\u0e31\u0e27\u0e40\u0e23\u0e21\u0e42\u0e1a"
     ],
     "name:tur_x_preferred":[
         "Tacuarembo Departman\u0131"
@@ -312,7 +336,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561790728,
+    "wof:lastmodified":1563360249,
     "wof:name":"Tacuaremb\u00f3",
     "wof:parent_id":85632511,
     "wof:placetype":"region",

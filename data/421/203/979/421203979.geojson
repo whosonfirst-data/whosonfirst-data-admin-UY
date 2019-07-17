@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "Costa Azul"
     ],
+    "name:ceb_x_preferred":[
+        "Costa Azul"
+    ],
     "name:deu_x_preferred":[
         "Costa Azul"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":421203979,
-    "wof:lastmodified":1561790734,
+    "wof:lastmodified":1563360387,
     "wof:name":"Costa Azul",
     "wof:parent_id":85680321,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3860744.922127,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-56.159866,-34.880464,-56.159866,-34.880464",
     "geom:latitude":-34.880464,
     "geom:longitude":-56.159866,
@@ -31,6 +31,15 @@
     "name:deu_x_preferred":[
         "Villa Espa\u00f1ola"
     ],
+    "name:eng_x_preferred":[
+        "Villa Espa\u00f1ola"
+    ],
+    "name:fra_x_preferred":[
+        "villa Espa\u00f1ola"
+    ],
+    "name:nld_x_preferred":[
+        "Villa Espa\u00f1ola"
+    ],
     "name:spa_x_colloquial":[
         "Villa Espanola",
         "Villa Espanyola"
@@ -40,6 +49,9 @@
     ],
     "name:unk_x_variant":[
         "Villa Espa\u00f1ola"
+    ],
+    "name:zho_x_preferred":[
+        "\u7dad\u62c9\u897f\u73ed\u7259\u4eba"
     ],
     "qs:gn_adm0_cc":"US",
     "qs:gn_fcode":"PPLX",
@@ -71,10 +83,10 @@
     "wd:wordcount":86,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85680339,
         102191577,
         85632511,
-        1092076303,
-        85680339
+        1092076303
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,7 +112,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531858981,
+    "wof:lastmodified":1563360241,
     "wof:name":"Villa Espa\u00f1ola",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

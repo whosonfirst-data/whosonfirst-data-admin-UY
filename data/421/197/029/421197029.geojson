@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Libertad"
     ],
+    "name:ceb_x_preferred":[
+        "Libertad"
+    ],
     "name:dan_x_preferred":[
         "Libertad"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0644\u06cc\u0628\u0631\u062a\u0627\u062f\u060c \u0627\u0631\u0648\u06af\u0648\u0626\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0644\u06cc\u0628\u0631\u062a\u0627\u062f"
     ],
     "name:fin_x_preferred":[
         "Libertad"
@@ -127,6 +133,9 @@
     "name:urd_x_preferred":[
         "\u0644\u06cc\u0648\u0631\u062a\u0627\u062f\u060c \u06cc\u0648\u0631\u0627\u06af\u0648\u0626\u06d2"
     ],
+    "name:urd_x_variant":[
+        "\u0644\u06cc\u0648\u0631\u062a\u0627\u062f"
+    ],
     "name:vie_x_preferred":[
         "Libertad"
     ],
@@ -179,7 +188,7 @@
         }
     ],
     "wof:id":421197029,
-    "wof:lastmodified":1561790736,
+    "wof:lastmodified":1563360400,
     "wof:name":"Libertad",
     "wof:parent_id":85680349,
     "wof:placetype":"locality",
