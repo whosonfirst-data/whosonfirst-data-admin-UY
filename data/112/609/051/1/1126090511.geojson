@@ -26,6 +26,12 @@
     "name:deu_x_preferred":[
         "Capurro - Bella Vista"
     ],
+    "name:eng_x_preferred":[
+        "Capurro"
+    ],
+    "name:nld_x_preferred":[
+        "Capurro"
+    ],
     "name:spa_x_preferred":[
         "Capurro"
     ],
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1126090511,
-    "wof:lastmodified":1534379804,
+    "wof:lastmodified":1563360451,
     "wof:name":"Capurro",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

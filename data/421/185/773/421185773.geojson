@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "Tupamba\u00e9"
     ],
+    "name:ceb_x_preferred":[
+        "Tupamba\u00e9"
+    ],
     "name:deu_x_preferred":[
         "Tupamba\u00e9"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421185773,
-    "wof:lastmodified":1561790739,
+    "wof:lastmodified":1563360422,
     "wof:name":"Tupamba\u00e9",
     "wof:parent_id":85680317,
     "wof:placetype":"locality",

@@ -16,10 +16,16 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u0648\u063a\u0631\u064a\u0633\u0648"
     ],
+    "name:ast_x_preferred":[
+        "Progreso"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09cd\u09b0\u09cb\u0997\u09cd\u09b0\u09c7\u09b8\u09cb"
     ],
     "name:cat_x_preferred":[
+        "Progreso"
+    ],
+    "name:ceb_x_preferred":[
         "Progreso"
     ],
     "name:dan_x_preferred":[
@@ -32,6 +38,9 @@
         "\u03a0\u03c1\u03bf\u03b3\u03ba\u03c1\u03ad\u03c3\u03bf"
     ],
     "name:eng_x_preferred":[
+        "Progreso"
+    ],
+    "name:eus_x_preferred":[
         "Progreso"
     ],
     "name:fin_x_preferred":[
@@ -97,6 +106,9 @@
     "name:sin_x_preferred":[
         "\u0db4\u0dca\u200d\u0dbb\u0ddc\u0d9c\u0dca\u0dbb\u0dd9\u0dc3\u0ddd"
     ],
+    "name:slk_x_preferred":[
+        "Progreso"
+    ],
     "name:spa_x_preferred":[
         "Progreso"
     ],
@@ -123,6 +135,9 @@
     ],
     "name:urd_x_preferred":[
         "\u067e\u0631\u0648\u06af\u0631\u06cc\u0633\u0648\u060c \u06cc\u0648\u0631\u0627\u06af\u0648\u0626\u06d2"
+    ],
+    "name:urd_x_variant":[
+        "\u067e\u0631\u0648\u06af\u0631\u06cc\u0633\u0648"
     ],
     "name:vie_x_preferred":[
         "Progreso"
@@ -176,7 +191,7 @@
         }
     ],
     "wof:id":421168219,
-    "wof:lastmodified":1561790733,
+    "wof:lastmodified":1563360377,
     "wof:name":"Progreso",
     "wof:parent_id":85680321,
     "wof:placetype":"locality",

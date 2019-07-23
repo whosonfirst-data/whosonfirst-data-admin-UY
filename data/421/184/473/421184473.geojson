@@ -17,6 +17,9 @@
     "name:ara_x_preferred":[
         "\u0623\u0631\u062a\u064a\u062c\u0627\u0633"
     ],
+    "name:ast_x_preferred":[
+        "Artigas"
+    ],
     "name:bel_x_preferred":[
         "\u0410\u0440\u0442\u044b\u0433\u0430\u0441"
     ],
@@ -27,6 +30,12 @@
         "\u0410\u0440\u0442\u0438\u0433\u0430\u0441"
     ],
     "name:cat_x_preferred":[
+        "Artigas"
+    ],
+    "name:ceb_x_preferred":[
+        "Artigas"
+    ],
+    "name:ces_x_preferred":[
         "Artigas"
     ],
     "name:cym_x_preferred":[
@@ -46,6 +55,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0622\u0631\u062a\u06cc\u06af\u0627\u0633\u060c \u0627\u0631\u0648\u06af\u0648\u0626\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0622\u0631\u062a\u06cc\u06af\u0627\u0633"
     ],
     "name:fin_x_preferred":[
         "Artigas"
@@ -122,6 +134,9 @@
     "name:sin_x_preferred":[
         "\u0d85\u0dbb\u0dca\u0da7\u0dd2\u0d9c\u0dcf\u0dc3\u0dca"
     ],
+    "name:slk_x_preferred":[
+        "Artigas"
+    ],
     "name:spa_x_preferred":[
         "Artigas"
     ],
@@ -143,11 +158,17 @@
     "name:ukr_x_preferred":[
         "\u0410\u0440\u0442\u0438\u0433\u0430\u0441"
     ],
+    "name:ukr_x_variant":[
+        "\u0410\u0440\u0442\u0438\u0491\u0430\u0441"
+    ],
     "name:unk_x_variant":[
         "San Eugenio"
     ],
     "name:urd_x_preferred":[
         "\u0622\u0631\u062a\u06cc\u06af\u0627\u0633\u060c \u06cc\u0648\u0631\u0627\u06af\u0648\u0626\u06d2"
+    ],
+    "name:urd_x_variant":[
+        "\u0622\u0631\u062a\u06cc\u06af\u0627\u0633"
     ],
     "name:vie_x_preferred":[
         "Artigas"
@@ -300,7 +321,7 @@
         }
     ],
     "wof:id":421184473,
-    "wof:lastmodified":1561790737,
+    "wof:lastmodified":1563360409,
     "wof:name":"Artigas",
     "wof:parent_id":85680355,
     "wof:placetype":"locality",

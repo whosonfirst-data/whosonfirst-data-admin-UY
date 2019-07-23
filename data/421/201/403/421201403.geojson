@@ -59,8 +59,14 @@
     "name:urd_x_preferred":[
         "\u0644\u0627 \u067e\u0627\u0644\u0648\u0645\u0627\u060c \u0631\u0648\u0686\u0627"
     ],
+    "name:urd_x_variant":[
+        "\u0644\u0627 \u067e\u0627\u0644\u0648\u0645\u0627"
+    ],
     "name:zho_x_preferred":[
         "\u62c9\u5e15\u6d1b\u99ac"
+    ],
+    "name:zho_x_variant":[
+        "\u6258\u99ac\u65af\u6208\u9580\u7d22\u7f85"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Uruguay",
@@ -200,7 +206,7 @@
         }
     ],
     "wof:id":421201403,
-    "wof:lastmodified":1561790737,
+    "wof:lastmodified":1563360408,
     "wof:name":"La Paloma",
     "wof:parent_id":85680343,
     "wof:placetype":"locality",

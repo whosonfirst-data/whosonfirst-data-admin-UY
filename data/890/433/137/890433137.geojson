@@ -18,6 +18,9 @@
     "name:cat_x_preferred":[
         "Rodr\u00edguez"
     ],
+    "name:ceb_x_preferred":[
+        "Rodr\u00edguez"
+    ],
     "name:deu_x_preferred":[
         "Rodr\u00edguez"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":890433137,
-    "wof:lastmodified":1561790740,
+    "wof:lastmodified":1563360440,
     "wof:name":"Rodr\u00edguez",
     "wof:parent_id":85680349,
     "wof:placetype":"locality",

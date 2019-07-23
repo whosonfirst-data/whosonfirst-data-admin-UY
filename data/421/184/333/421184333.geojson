@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "El Bosque"
     ],
+    "name:ceb_x_preferred":[
+        "El Bosque"
+    ],
     "name:deu_x_preferred":[
         "El Bosque"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":421184333,
-    "wof:lastmodified":1561790737,
+    "wof:lastmodified":1563360409,
     "wof:name":"El Bosque",
     "wof:parent_id":85680321,
     "wof:placetype":"locality",

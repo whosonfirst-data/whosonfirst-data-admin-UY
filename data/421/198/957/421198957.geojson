@@ -13,7 +13,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Montes"
+    ],
     "name:cat_x_preferred":[
+        "Montes"
+    ],
+    "name:ceb_x_preferred":[
         "Montes"
     ],
     "name:deu_x_preferred":[
@@ -32,6 +38,9 @@
         "Montes"
     ],
     "name:nor_x_preferred":[
+        "Montes"
+    ],
+    "name:por_x_preferred":[
         "Montes"
     ],
     "name:spa_x_preferred":[
@@ -86,7 +95,7 @@
         }
     ],
     "wof:id":421198957,
-    "wof:lastmodified":1561790735,
+    "wof:lastmodified":1563360398,
     "wof:name":"Montes",
     "wof:parent_id":85680321,
     "wof:placetype":"locality",

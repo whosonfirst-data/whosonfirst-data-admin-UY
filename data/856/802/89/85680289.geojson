@@ -52,16 +52,25 @@
     "name:eng_x_preferred":[
         "Salto"
     ],
+    "name:eng_x_variant":[
+        "Salto Department"
+    ],
     "name:epo_x_preferred":[
         "Departemento Salto"
     ],
     "name:eus_x_preferred":[
         "Salto departamendua"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u0633\u0627\u0644\u062a\u0648"
+    ],
     "name:fin_x_preferred":[
         "Salto"
     ],
     "name:fra_x_preferred":[
+        "Salto"
+    ],
+    "name:frr_x_preferred":[
         "Salto"
     ],
     "name:glg_x_preferred":[
@@ -97,8 +106,17 @@
     "name:kor_x_preferred":[
         "\uc0b4\ud1a0 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc0b4\ud1a0\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Salto"
+    ],
     "name:lav_x_preferred":[
         "Salto departaments"
+    ],
+    "name:lez_x_preferred":[
+        "\u0421\u0430\u043b\u044c\u0442\u043e"
     ],
     "name:lit_x_preferred":[
         "Salto departamentas"
@@ -133,6 +151,9 @@
     "name:sin_x_preferred":[
         "\u0dc3\u0dbd\u0dca\u0da7\u0ddd \u0daf\u0dd9\u0db4\u0dcf\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0"
     ],
+    "name:slk_x_preferred":[
+        "Salto"
+    ],
     "name:sme_x_preferred":[
         "Salto"
     ],
@@ -150,6 +171,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e01\u0e23\u0e21\u0e0b\u0e2d\u0e25\u0e42\u0e15"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e0b\u0e31\u0e25\u0e42\u0e15"
     ],
     "name:tur_x_preferred":[
         "Salto Departman\u0131"
@@ -293,7 +317,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561790729,
+    "wof:lastmodified":1563360261,
     "wof:name":"Salto",
     "wof:parent_id":85632511,
     "wof:placetype":"region",

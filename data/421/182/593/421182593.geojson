@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "San Javier"
     ],
+    "name:ceb_x_preferred":[
+        "San Javier"
+    ],
     "name:deu_x_preferred":[
         "San Javier"
     ],
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":421182593,
-    "wof:lastmodified":1561790738,
+    "wof:lastmodified":1563360414,
     "wof:name":"San Javier",
     "wof:parent_id":85680367,
     "wof:placetype":"locality",

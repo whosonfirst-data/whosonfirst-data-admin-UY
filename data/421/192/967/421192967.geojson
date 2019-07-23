@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "Palmitas"
     ],
+    "name:ceb_x_preferred":[
+        "Palmitas"
+    ],
     "name:deu_x_preferred":[
         "Palmitas"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":421192967,
-    "wof:lastmodified":1561790733,
+    "wof:lastmodified":1563360381,
     "wof:name":"Palmitas",
     "wof:parent_id":85680293,
     "wof:placetype":"locality",

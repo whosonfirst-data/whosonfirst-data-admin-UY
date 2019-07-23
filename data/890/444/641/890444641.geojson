@@ -19,6 +19,9 @@
     "name:ara_x_preferred":[
         "\u062a\u0631\u06cc\u0646\u062a\u0627 \u0627\u064a \u062a\u0631\u0633"
     ],
+    "name:ast_x_preferred":[
+        "Treinta y Tres"
+    ],
     "name:ben_x_preferred":[
         "\u099f\u09cd\u09b0\u09c7\u0987\u09a8\u09cd\u099f\u09be\u09af\u09bc\u09c7 \u099f\u09cd\u09b0\u09c7\u09b8"
     ],
@@ -29,6 +32,12 @@
         "Treinta y Tres"
     ],
     "name:cbk_zam_x_preferred":[
+        "Treinta y Tres"
+    ],
+    "name:ceb_x_preferred":[
+        "Treinta y Tres"
+    ],
+    "name:ces_x_preferred":[
         "Treinta y Tres"
     ],
     "name:dan_x_preferred":[
@@ -94,6 +103,9 @@
     "name:lit_x_preferred":[
         "Treinta i Tresas"
     ],
+    "name:lzh_x_preferred":[
+        "\u5345\u4e09\u4eba\u57ce"
+    ],
     "name:mar_x_preferred":[
         "\u091f\u094d\u0930\u0947\u0928\u093f\u091f\u093e \u092f\u0941 \u091f\u094d\u0930\u0947\u0938"
     ],
@@ -121,6 +133,9 @@
     "name:sin_x_preferred":[
         "\u0da7\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dd9\u0db1\u0dca\u0da7\u0dcf \u0dc0\u0dba\u0dd2 \u0da7\u0dca\u200d\u0dbb\u0dd9\u0dc3\u0dca"
     ],
+    "name:slk_x_preferred":[
+        "Treinta y Tres"
+    ],
     "name:spa_x_preferred":[
         "Treinta y Tres"
     ],
@@ -135,6 +150,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e15\u0e23\u0e07\u0e44\u0e15\u0e22\u0e4c \u0e40\u0e15\u0e23\u0e2a"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e15\u0e23\u0e22\u0e4c\u0e19\u0e15\u0e32\u0e2d\u0e35\u0e40\u0e15\u0e23\u0e2a"
     ],
     "name:tur_x_preferred":[
         "Treinta y Tres"
@@ -283,7 +301,7 @@
         }
     ],
     "wof:id":890444641,
-    "wof:lastmodified":1561790740,
+    "wof:lastmodified":1563360437,
     "wof:name":"Treinta y Tres",
     "wof:parent_id":85680317,
     "wof:placetype":"locality",

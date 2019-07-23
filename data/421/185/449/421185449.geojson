@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "Santa Bernardina"
     ],
+    "name:ceb_x_preferred":[
+        "Santa Bernardina"
+    ],
     "name:deu_x_preferred":[
         "Santa Bernardina"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":421185449,
-    "wof:lastmodified":1561790738,
+    "wof:lastmodified":1563360419,
     "wof:name":"Santa Bernardina",
     "wof:parent_id":85680303,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u0631\u064a\u0641\u064a\u0631\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Rivera"
+    ],
     "name:ben_x_preferred":[
         "\u09b0\u09bf\u09ad\u09be\u09b0 \u09ac\u09bf\u09ad\u09be\u0997"
     ],
@@ -49,16 +52,25 @@
     "name:eng_x_preferred":[
         "Rivera"
     ],
+    "name:eng_x_variant":[
+        "Rivera Department"
+    ],
     "name:epo_x_preferred":[
         "Rivera"
     ],
     "name:eus_x_preferred":[
         "Rivera departamendua"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u0631\u06cc\u0648\u0631\u0627"
+    ],
     "name:fin_x_preferred":[
         "Rivera"
     ],
     "name:fra_x_preferred":[
+        "Rivera"
+    ],
+    "name:frr_x_preferred":[
         "Rivera"
     ],
     "name:glg_x_preferred":[
@@ -94,8 +106,17 @@
     "name:kor_x_preferred":[
         "\ub9ac\ubca0\ub77c \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ub9ac\ubca0\ub77c\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Rivera"
+    ],
     "name:lav_x_preferred":[
         "Riveras departaments"
+    ],
+    "name:lez_x_preferred":[
+        "\u0420\u0438\u0432\u0435\u0440\u0430"
     ],
     "name:lit_x_preferred":[
         "Riveros departamentas"
@@ -127,6 +148,9 @@
     "name:sin_x_preferred":[
         "\u0dbb\u0dd2\u0dc0\u0dd9\u0dbb\u0dcf \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0"
     ],
+    "name:slk_x_preferred":[
+        "Rivera"
+    ],
     "name:sme_x_preferred":[
         "Rivera"
     ],
@@ -144,6 +168,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e23\u0e34\u0e40\u0e27\u0e35\u0e22\u0e23\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e23\u0e34\u0e40\u0e1a\u0e23\u0e32"
     ],
     "name:tur_x_preferred":[
         "Rivera Departman\u0131"
@@ -287,7 +314,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561790729,
+    "wof:lastmodified":1563360254,
     "wof:name":"Rivera",
     "wof:parent_id":85632511,
     "wof:placetype":"region",

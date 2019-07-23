@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "Tarariras"
     ],
+    "name:ceb_x_preferred":[
+        "Tarariras"
+    ],
     "name:deu_x_preferred":[
         "Tarariras"
     ],
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":421201893,
-    "wof:lastmodified":1561790737,
+    "wof:lastmodified":1563360406,
     "wof:name":"Tarariras",
     "wof:parent_id":85680347,
     "wof:placetype":"locality",

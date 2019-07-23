@@ -64,10 +64,16 @@
     "name:eus_x_preferred":[
         "Canelones departamendua"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u06a9\u0646\u0644\u0648\u0646\u0633"
+    ],
     "name:fin_x_preferred":[
         "Canelones"
     ],
     "name:fra_x_preferred":[
+        "Canelones"
+    ],
+    "name:frr_x_preferred":[
         "Canelones"
     ],
     "name:glg_x_preferred":[
@@ -103,8 +109,17 @@
     "name:kor_x_preferred":[
         "\uce74\ub12c\ub85c\ub124\uc2a4 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uce74\ub12c\ub85c\ub124\uc2a4\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Canelones"
+    ],
     "name:lav_x_preferred":[
         "Kanelonesas departaments"
+    ],
+    "name:lez_x_preferred":[
+        "\u041a\u0430\u043d\u0435\u043b\u043e\u043d\u0435\u0441"
     ],
     "name:lit_x_preferred":[
         "Kaneloneso departamentas"
@@ -142,6 +157,9 @@
     "name:sin_x_preferred":[
         "\u0d9a\u0dda\u0db1\u0dca\u0dbd\u0ddd\u0db1\u0dca\u0dc3\u0dca \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dca\u0db1\u0dca\u0dad\u0dd4\u0dc0"
     ],
+    "name:slk_x_preferred":[
+        "Canelones"
+    ],
     "name:sme_x_preferred":[
         "Canelones"
     ],
@@ -159,6 +177,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e04\u0e32\u0e40\u0e19\u0e42\u0e25\u0e19 \u0e14\u0e34\u0e1e\u0e32\u0e23\u0e4c\u0e17\u0e40\u0e21\u0e19\u0e15\u0e4c"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e01\u0e32\u0e40\u0e19\u0e42\u0e25\u0e40\u0e19\u0e2a"
     ],
     "name:tur_x_preferred":[
         "Canelones Departman\u0131"
@@ -302,7 +323,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561790728,
+    "wof:lastmodified":1563360252,
     "wof:name":"Canelones",
     "wof:parent_id":85632511,
     "wof:placetype":"region",

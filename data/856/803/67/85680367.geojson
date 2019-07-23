@@ -55,16 +55,28 @@
     "name:eng_x_preferred":[
         "R\u00edo Negro"
     ],
+    "name:eng_x_variant":[
+        "R\u00edo Negro Department"
+    ],
     "name:epo_x_preferred":[
         "Departemento R\u00edo Negro"
     ],
+    "name:epo_x_variant":[
+        "R\u00edo Negro"
+    ],
     "name:eus_x_preferred":[
         "R\u00edo Negro departamendua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u0631\u06cc\u0648 \u0646\u06af\u0631\u0648"
     ],
     "name:fin_x_preferred":[
         "R\u00edo Negro"
     ],
     "name:fra_x_preferred":[
+        "R\u00edo Negro"
+    ],
+    "name:frr_x_preferred":[
         "R\u00edo Negro"
     ],
     "name:glg_x_preferred":[
@@ -100,8 +112,14 @@
     "name:kor_x_preferred":[
         "\ub9ac\uc624\ub124\uadf8\ub85c \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ub9ac\uc624\ub124\uadf8\ub85c\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Rionegro departaments"
+    ],
+    "name:lez_x_preferred":[
+        "\u0420\u0438\u043e-\u041d\u0435\u0433\u0440\u043e"
     ],
     "name:lit_x_preferred":[
         "Rio Negro departamentas"
@@ -133,6 +151,9 @@
     "name:sin_x_preferred":[
         "\u0dbb\u0dd2\u0dba\u0ddd \u0db1\u0dd9\u0d9c\u0dca\u0dbb\u0ddd \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0"
     ],
+    "name:slk_x_preferred":[
+        "R\u00edo Negro"
+    ],
     "name:sme_x_preferred":[
         "R\u00edo Negro"
     ],
@@ -154,6 +175,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e23\u0e35\u0e42\u0e2d\u0e40\u0e19\u0e42\u0e01\u0e23"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e23\u0e34\u0e42\u0e2d\u0e40\u0e19\u0e42\u0e01\u0e23"
     ],
     "name:tur_x_preferred":[
         "R\u00edo Negro Departman\u0131"
@@ -297,7 +321,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561790728,
+    "wof:lastmodified":1563360248,
     "wof:name":"R\u00edo Negro",
     "wof:parent_id":85632511,
     "wof:placetype":"region",

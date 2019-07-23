@@ -18,6 +18,9 @@
     "name:cat_x_preferred":[
         "Cebollat\u00ed"
     ],
+    "name:ceb_x_preferred":[
+        "Cebollat\u00ed"
+    ],
     "name:deu_x_preferred":[
         "Cebollat\u00ed"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":890435993,
-    "wof:lastmodified":1561790741,
+    "wof:lastmodified":1563360441,
     "wof:name":"Cebollat\u00ed",
     "wof:parent_id":85680343,
     "wof:placetype":"locality",

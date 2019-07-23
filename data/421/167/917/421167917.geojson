@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "Las Flores"
     ],
+    "name:ceb_x_preferred":[
+        "Las Flores"
+    ],
     "name:deu_x_preferred":[
         "Las Flores"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u0633 \u0641\u0644\u0648\u0631\u06cc\u0633\u060c \u0645\u0627\u0644\u0688\u0648\u0646\u0627\u0688\u0648"
+    ],
+    "name:urd_x_variant":[
+        "\u0644\u0627\u0633 \u0641\u0644\u0648\u0631\u06cc\u0633"
     ],
     "qs:gn_country":"UY",
     "qs:gn_fcode":"PPL",
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":421167917,
-    "wof:lastmodified":1561790733,
+    "wof:lastmodified":1563360384,
     "wof:name":"Las Flores",
     "wof:parent_id":85680335,
     "wof:placetype":"locality",

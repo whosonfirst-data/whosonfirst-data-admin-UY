@@ -40,6 +40,9 @@
     "name:cat_x_preferred":[
         "Departament de Lavalleja"
     ],
+    "name:ces_x_preferred":[
+        "Lavalleja"
+    ],
     "name:dan_x_preferred":[
         "Lavalleja"
     ],
@@ -61,10 +64,16 @@
     "name:eus_x_preferred":[
         "Lavalleja departamendua"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u0644\u0627\u0648\u0627\u06cc\u062e\u0627"
+    ],
     "name:fin_x_preferred":[
         "Lavalleja"
     ],
     "name:fra_x_preferred":[
+        "Lavalleja"
+    ],
+    "name:frr_x_preferred":[
         "Lavalleja"
     ],
     "name:glg_x_preferred":[
@@ -100,8 +109,14 @@
     "name:kor_x_preferred":[
         "\ub77c\ubc14\uc608\ud558 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ub77c\ubc14\uc608\ud558\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Lavaljehas departaments"
+    ],
+    "name:lez_x_preferred":[
+        "\u041b\u0430\u0432\u0430\u043b\u044c\u0435\u0445\u0430"
     ],
     "name:lit_x_preferred":[
         "Lavaljechos departamentas"
@@ -136,6 +151,9 @@
     "name:sin_x_preferred":[
         "\u0dbd\u0dc0\u0dbd\u0dda\u0da2\u0dcf \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0"
     ],
+    "name:slk_x_preferred":[
+        "Lavalleja"
+    ],
     "name:sme_x_preferred":[
         "Lavalleja"
     ],
@@ -158,6 +176,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e25\u0e32\u0e40\u0e27\u0e25\u0e40\u0e25\u0e08\u0e32 \u0e14\u0e35\u0e1e\u0e32\u0e17\u0e40\u0e21\u0e49\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e25\u0e32\u0e1a\u0e32\u0e40\u0e22\u0e06\u0e32"
     ],
     "name:tur_x_preferred":[
         "Lavalleja Departman\u0131"
@@ -301,7 +322,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561790728,
+    "wof:lastmodified":1563360250,
     "wof:name":"Lavalleja",
     "wof:parent_id":85632511,
     "wof:placetype":"region",

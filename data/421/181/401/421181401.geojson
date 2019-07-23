@@ -16,6 +16,12 @@
     "name:ara_x_preferred":[
         "\u0644\u0627\u0633 \u0628\u064a\u062f\u0631\u0627\u0633\u060c \u0623\u0648\u0631\u0648\u063a\u0648\u0627\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0644\u0627\u0633 \u0628\u064a\u062f\u0631\u0627\u0633"
+    ],
+    "name:ast_x_preferred":[
+        "Las Piedras"
+    ],
     "name:ben_x_preferred":[
         "\u09b2\u09be\u09b8 \u09aa\u09bf\u09af\u09bc\u09c7\u09a6\u09cd\u09b0\u09be\u09b8"
     ],
@@ -28,6 +34,12 @@
     "name:cbk_zam_x_preferred":[
         "Las Piedras"
     ],
+    "name:ceb_x_preferred":[
+        "Las Piedras"
+    ],
+    "name:ces_x_preferred":[
+        "Las Piedras"
+    ],
     "name:dan_x_preferred":[
         "Las Piedras"
     ],
@@ -38,6 +50,9 @@
         "\u039b\u03b1\u03c2 \u03a0\u03b9\u03ad\u03bd\u03c4\u03c1\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
+        "Las Piedras"
+    ],
+    "name:eus_x_preferred":[
         "Las Piedras"
     ],
     "name:fas_x_preferred":[
@@ -115,6 +130,9 @@
     "name:sin_x_preferred":[
         "\u0dbd\u0dcf\u0dc3\u0dca \u0db4\u0dba\u0dd2\u0daf\u0dca\u0dbb\u0dcf\u0dc3\u0dca"
     ],
+    "name:slk_x_preferred":[
+        "Las Piedras"
+    ],
     "name:spa_x_preferred":[
         "Las Piedras"
     ],
@@ -141,6 +159,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u0633 \u067e\u06cc\u0688\u0631\u0627\u0633\u060c \u06cc\u0648\u0631\u0627\u06af\u0648\u0626\u06d2"
+    ],
+    "name:urd_x_variant":[
+        "\u0644\u0627\u0633 \u067e\u06cc\u0688\u0631\u0627\u0633"
     ],
     "name:vep_x_preferred":[
         "Las Pjedras"
@@ -203,7 +224,7 @@
         }
     ],
     "wof:id":421181401,
-    "wof:lastmodified":1561790735,
+    "wof:lastmodified":1563360396,
     "wof:name":"Las Piedras",
     "wof:parent_id":85680321,
     "wof:placetype":"locality",

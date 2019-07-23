@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0644\u062a\u0648\u060c \u0623\u0648\u0631\u0648\u063a\u0648\u0627\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0633\u0627\u0644\u062a\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Salto"
+    ],
     "name:bel_x_preferred":[
         "\u0421\u0430\u043b\u044c\u0442\u0430"
     ],
@@ -35,6 +41,9 @@
         "Salto"
     ],
     "name:ces_x_preferred":[
+        "Salto"
+    ],
+    "name:cym_x_preferred":[
         "Salto"
     ],
     "name:dan_x_preferred":[
@@ -61,6 +70,9 @@
     "name:fas_x_preferred":[
         "\u0633\u0627\u0644\u062a\u0648\u060c \u0627\u0631\u0648\u06af\u0648\u0626\u0647"
     ],
+    "name:fas_x_variant":[
+        "\u0633\u0627\u0644\u062a\u0648"
+    ],
     "name:fin_x_preferred":[
         "Salto"
     ],
@@ -68,6 +80,9 @@
         "Salto"
     ],
     "name:glg_x_preferred":[
+        "Salto"
+    ],
+    "name:grn_x_preferred":[
         "Salto"
     ],
     "name:guj_x_preferred":[
@@ -151,7 +166,13 @@
     "name:spa_x_preferred":[
         "Salto"
     ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043b\u0442\u043e"
+    ],
     "name:swe_x_preferred":[
+        "Salto"
+    ],
+    "name:szl_x_preferred":[
         "Salto"
     ],
     "name:tam_x_preferred":[
@@ -174,6 +195,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0644\u062a\u0648\u060c \u06cc\u0648\u0631\u0627\u06af\u0648\u0626\u06d2"
+    ],
+    "name:urd_x_variant":[
+        "\u0633\u0627\u0644\u062a\u0648"
     ],
     "name:vep_x_preferred":[
         "Sal'to"
@@ -227,7 +251,7 @@
         }
     ],
     "wof:id":1125868227,
-    "wof:lastmodified":1561790741,
+    "wof:lastmodified":1563360447,
     "wof:name":"Salto",
     "wof:parent_id":85680289,
     "wof:placetype":"locality",

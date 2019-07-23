@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "Jos\u00e9 Pedro Varela"
     ],
+    "name:ceb_x_preferred":[
+        "Jos\u00e9 Pedro Varela"
+    ],
     "name:deu_x_preferred":[
         "Jos\u00e9 Pedro Varela"
     ],
@@ -24,6 +27,9 @@
     ],
     "name:fas_x_preferred":[
         "\u062e\u0648\u0632\u0647 \u067e\u062f\u0631\u0648 \u0648\u0627\u0631\u0644\u0627\u060c \u0627\u0631\u0648\u06af\u0648\u0626\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u062e\u0648\u0632\u0647 \u067e\u062f\u0631\u0648 \u0648\u0627\u0631\u0644\u0627"
     ],
     "name:fra_x_preferred":[
         "Jos\u00e9 Pedro Varela"
@@ -54,6 +60,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062e\u0648\u0633\u06d2 \u067e\u06cc\u062f\u0631\u0648 \u0648\u0627\u0631\u06cc\u0644\u0627\u060c \u06cc\u0648\u0631\u0627\u06af\u0648\u0626\u06d2"
+    ],
+    "name:urd_x_variant":[
+        "\u062e\u0648\u0633\u06d2 \u067e\u06cc\u062f\u0631\u0648 \u0648\u0627\u0631\u06cc\u0644\u0627"
     ],
     "name:zho_x_preferred":[
         "\u4f55\u585e\u4f69\u5fb7\u7f85\u5df4\u96f7\u62c9\u6751"
@@ -106,7 +115,7 @@
         }
     ],
     "wof:id":421168575,
-    "wof:lastmodified":1561790733,
+    "wof:lastmodified":1563360379,
     "wof:name":"Jos\u00e9 Pedro Varela",
     "wof:parent_id":85680329,
     "wof:placetype":"locality",

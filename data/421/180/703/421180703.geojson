@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "La Mariscala"
     ],
+    "name:ceb_x_preferred":[
+        "Mariscala"
+    ],
     "name:deu_x_preferred":[
         "Mariscala"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":421180703,
-    "wof:lastmodified":1561790734,
+    "wof:lastmodified":1563360390,
     "wof:name":"La Mariscala",
     "wof:parent_id":85680329,
     "wof:placetype":"locality",

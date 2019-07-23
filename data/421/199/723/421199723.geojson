@@ -17,6 +17,9 @@
     "name:cat_x_preferred":[
         "Lascano"
     ],
+    "name:ceb_x_preferred":[
+        "Lascano"
+    ],
     "name:deu_x_preferred":[
         "Lascano"
     ],
@@ -202,7 +205,7 @@
         }
     ],
     "wof:id":421199723,
-    "wof:lastmodified":1561790736,
+    "wof:lastmodified":1563360403,
     "wof:name":"Lascano",
     "wof:parent_id":85680343,
     "wof:placetype":"locality",

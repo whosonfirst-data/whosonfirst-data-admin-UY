@@ -18,6 +18,12 @@
     "name:cat_x_preferred":[
         "Nueva Palmira"
     ],
+    "name:ceb_x_preferred":[
+        "Nueva Palmira"
+    ],
+    "name:dan_x_preferred":[
+        "Nueva Palmira"
+    ],
     "name:deu_x_preferred":[
         "Nueva Palmira"
     ],
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":890437183,
-    "wof:lastmodified":1561790740,
+    "wof:lastmodified":1563360430,
     "wof:name":"Nueva Palmira",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

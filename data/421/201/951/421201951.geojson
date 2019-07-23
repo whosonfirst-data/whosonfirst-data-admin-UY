@@ -19,6 +19,9 @@
     "name:cat_x_preferred":[
         "Colonia Valdense"
     ],
+    "name:ceb_x_preferred":[
+        "Valdense"
+    ],
     "name:deu_x_preferred":[
         "Colonia Valdense"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":421201951,
-    "wof:lastmodified":1561790737,
+    "wof:lastmodified":1563360407,
     "wof:name":"Valdense",
     "wof:parent_id":85680347,
     "wof:placetype":"locality",

@@ -13,7 +13,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Parque del Plata"
+    ],
     "name:cat_x_preferred":[
+        "Parque del Plata"
+    ],
+    "name:ceb_x_preferred":[
         "Parque del Plata"
     ],
     "name:deu_x_preferred":[
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421170235,
-    "wof:lastmodified":1561790737,
+    "wof:lastmodified":1563360410,
     "wof:name":"Parque del Plata",
     "wof:parent_id":85680321,
     "wof:placetype":"locality",

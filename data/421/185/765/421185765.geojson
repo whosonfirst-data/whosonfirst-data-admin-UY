@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "Vel\u00e1zquez"
     ],
+    "name:ceb_x_preferred":[
+        "Vel\u00e1zquez"
+    ],
     "name:deu_x_preferred":[
         "Vel\u00e1zquez"
     ],
@@ -24,6 +27,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0648\u0644\u0627\u0632\u0642\u0648\u0632\u060c \u0627\u0631\u0648\u06af\u0648\u0626\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0648\u0644\u0627\u0632\u0642\u0648\u0632"
     ],
     "name:fra_x_preferred":[
         "Vel\u00e1zquez"
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":421185765,
-    "wof:lastmodified":1561790738,
+    "wof:lastmodified":1563360419,
     "wof:name":"Vel\u00e1zquez",
     "wof:parent_id":85680343,
     "wof:placetype":"locality",

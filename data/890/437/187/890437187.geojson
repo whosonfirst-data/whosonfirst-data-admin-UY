@@ -18,6 +18,9 @@
     "name:cat_x_preferred":[
         "Villa Sara"
     ],
+    "name:ceb_x_preferred":[
+        "Villa Sara"
+    ],
     "name:deu_x_preferred":[
         "Villa Sara"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":890437187,
-    "wof:lastmodified":1561790739,
+    "wof:lastmodified":1563360427,
     "wof:name":"Villa Sara",
     "wof:parent_id":85680317,
     "wof:placetype":"locality",

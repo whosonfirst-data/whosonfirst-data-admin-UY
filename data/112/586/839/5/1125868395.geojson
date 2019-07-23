@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Pajas Blancas"
+    ],
     "name:deu_x_preferred":[
         "Casab\u00f3"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1125868395,
-    "wof:lastmodified":1561790741,
+    "wof:lastmodified":1563360448,
     "wof:name":"Pajas Blancas",
     "wof:parent_id":1092076321,
     "wof:placetype":"locality",

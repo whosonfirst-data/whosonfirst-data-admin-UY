@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u0641\u0644\u0648\u0631\u064a\u0633"
     ],
+    "name:ast_x_preferred":[
+        "Flores"
+    ],
     "name:ben_x_preferred":[
         "\u09ab\u09cd\u09b2\u09c1\u09b0\u09c7\u09b8 \u09ac\u09bf\u09ad\u09be\u0997"
     ],
@@ -49,16 +52,25 @@
     "name:eng_x_preferred":[
         "Flores"
     ],
+    "name:eng_x_variant":[
+        "Flores Department"
+    ],
     "name:epo_x_preferred":[
         "Flores"
     ],
     "name:eus_x_preferred":[
         "Flores departamendua"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u0641\u0644\u0648\u0631\u0633"
+    ],
     "name:fin_x_preferred":[
         "Flores"
     ],
     "name:fra_x_preferred":[
+        "Flores"
+    ],
+    "name:frr_x_preferred":[
         "Flores"
     ],
     "name:glg_x_preferred":[
@@ -94,8 +106,17 @@
     "name:kor_x_preferred":[
         "\ud50c\ub85c\ub808\uc2a4 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ud50c\ub85c\ub808\uc2a4\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Flores"
+    ],
     "name:lav_x_preferred":[
         "Floresas departaments"
+    ],
+    "name:lez_x_preferred":[
+        "\u0424\u043b\u043e\u0440\u0435\u0441"
     ],
     "name:lit_x_preferred":[
         "Floreso departamentas"
@@ -130,6 +151,9 @@
     "name:sin_x_preferred":[
         "\u0dc6\u0dca\u0dbd\u0ddc\u0dbb\u0dd9\u0dc3\u0dca \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0"
     ],
+    "name:slk_x_preferred":[
+        "Flores"
+    ],
     "name:sme_x_preferred":[
         "Flores"
     ],
@@ -147,6 +171,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e42\u0e1f\u0e25\u0e40\u0e23\u0e2a"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e42\u0e1f\u0e25\u0e40\u0e23\u0e2a"
     ],
     "name:tur_x_preferred":[
         "Flores Departman\u0131"
@@ -290,7 +317,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561790727,
+    "wof:lastmodified":1563360245,
     "wof:name":"Flores",
     "wof:parent_id":85632511,
     "wof:placetype":"region",

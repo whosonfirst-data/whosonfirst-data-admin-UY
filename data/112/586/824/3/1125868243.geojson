@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0631\u064a\u0641\u064a\u0631\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Rivera"
+    ],
     "name:ben_x_preferred":[
         "\u09b0\u09bf\u09ac\u09c7\u09b0\u09be"
     ],
@@ -29,6 +32,12 @@
         "\u0420\u0438\u0432\u0435\u0440\u0430"
     ],
     "name:cat_x_preferred":[
+        "Rivera"
+    ],
+    "name:ceb_x_preferred":[
+        "Rivera"
+    ],
+    "name:ces_x_preferred":[
         "Rivera"
     ],
     "name:dan_x_preferred":[
@@ -65,6 +74,9 @@
         "\u0930\u093f\u0935\u0947\u0930\u093e"
     ],
     "name:hrv_x_preferred":[
+        "Rivera"
+    ],
+    "name:hun_x_preferred":[
         "Rivera"
     ],
     "name:hye_x_preferred":[
@@ -121,11 +133,17 @@
     "name:sin_x_preferred":[
         "\u0dbb\u0dd2\u0dc0\u0dd9\u0dbb\u0dcf"
     ],
+    "name:slk_x_preferred":[
+        "Rivera"
+    ],
     "name:spa_x_preferred":[
         "Rivera"
     ],
     "name:srp_x_preferred":[
         "\u0420\u0438\u0432\u0435\u0440\u0430"
+    ],
+    "name:srp_x_variant":[
+        "Rivera"
     ],
     "name:swe_x_preferred":[
         "Rivera"
@@ -138,6 +156,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e23\u0e35\u0e40\u0e1a\u0e23\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e23\u0e34\u0e40\u0e1a\u0e23\u0e32"
     ],
     "name:tur_x_preferred":[
         "Rivera"
@@ -200,7 +221,7 @@
         }
     ],
     "wof:id":1125868243,
-    "wof:lastmodified":1561790741,
+    "wof:lastmodified":1563360446,
     "wof:name":"Rivera",
     "wof:parent_id":85680307,
     "wof:placetype":"locality",

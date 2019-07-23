@@ -20,6 +20,9 @@
     "name:cat_x_preferred":[
         "Aigu\u00e1"
     ],
+    "name:ceb_x_preferred":[
+        "Aigu\u00e1"
+    ],
     "name:deu_x_preferred":[
         "Aigu\u00e1"
     ],
@@ -206,7 +209,7 @@
         }
     ],
     "wof:id":421176175,
-    "wof:lastmodified":1561790738,
+    "wof:lastmodified":1563360416,
     "wof:name":"Aigu\u00e1",
     "wof:parent_id":85680335,
     "wof:placetype":"locality",

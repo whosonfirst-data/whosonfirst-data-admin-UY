@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "La Coronilla"
     ],
+    "name:ceb_x_preferred":[
+        "La Coronilla"
+    ],
     "name:deu_x_preferred":[
         "La Coronilla"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421181117,
-    "wof:lastmodified":1561790735,
+    "wof:lastmodified":1563360396,
     "wof:name":"La Coronilla",
     "wof:parent_id":85680343,
     "wof:placetype":"locality",

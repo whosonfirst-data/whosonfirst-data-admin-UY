@@ -27,6 +27,9 @@
     "name:fra_x_preferred":[
         "Blanquillo"
     ],
+    "name:hye_x_preferred":[
+        "\u0532\u056c\u0561\u0576\u056f\u056b\u056c\u0578"
+    ],
     "name:nld_x_preferred":[
         "Blanquillo"
     ],
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":890441863,
-    "wof:lastmodified":1561790739,
+    "wof:lastmodified":1563360423,
     "wof:name":"Blanquillo",
     "wof:parent_id":85680303,
     "wof:placetype":"locality",

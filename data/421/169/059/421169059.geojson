@@ -17,10 +17,16 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u062a \u0644\u0648\u0633\u064a\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Santa Luc\u00eda"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u09a4\u09be \u09b2\u09c1\u09b8\u09bf\u09af\u09bc\u09be"
     ],
     "name:cat_x_preferred":[
+        "Santa Luc\u00eda"
+    ],
+    "name:ceb_x_preferred":[
         "Santa Luc\u00eda"
     ],
     "name:dan_x_preferred":[
@@ -37,6 +43,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0633\u0627\u0646\u062a\u0627 \u0644\u0648\u0633\u06cc\u0627\u060c \u0627\u0631\u0648\u06af\u0648\u0626\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0627\u0646\u062a\u0627 \u0644\u0648\u0633\u06cc\u0627"
     ],
     "name:fin_x_preferred":[
         "Santa Luc\u00eda"
@@ -101,6 +110,9 @@
     "name:sin_x_preferred":[
         "\u0dc3\u0dd0\u0db1\u0dca\u0da7\u0dcf \u0dbd\u0dd4\u0dc3\u0dd2\u0dba\u0dcf"
     ],
+    "name:slk_x_preferred":[
+        "Santa Luc\u00eda"
+    ],
     "name:spa_x_preferred":[
         "Santa Luc\u00eda"
     ],
@@ -127,6 +139,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0646\u062a\u0627 \u0644\u0648\u0633\u06cc\u0627\u060c \u06cc\u0648\u0631\u0627\u06af\u0648\u0626\u06d2"
+    ],
+    "name:urd_x_variant":[
+        "\u0633\u0627\u0646\u062a\u0627 \u0644\u0648\u0633\u06cc\u0627"
     ],
     "name:vie_x_preferred":[
         "Santa Lucia"
@@ -274,7 +289,7 @@
         }
     ],
     "wof:id":421169059,
-    "wof:lastmodified":1561790734,
+    "wof:lastmodified":1563360387,
     "wof:name":"Santa Luc\u00eda",
     "wof:parent_id":85680321,
     "wof:placetype":"locality",
