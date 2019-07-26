@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.073803,
-    "geom:area_square_m":786292204.17043,
+    "geom:area_square_m":786292204.170258,
     "geom:bbox":"-57.5457748601,-30.6961047803,-57.2286559706,-30.300779301",
     "geom:latitude":-30.502392,
     "geom:longitude":-57.382191,
@@ -22,6 +22,39 @@
     "mps:longitude":-57.382196,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Tom\u00e1s Gomensoro"
+    ],
+    "name:ceb_x_preferred":[
+        "Tom\u00e1s Gomensoro"
+    ],
+    "name:deu_x_preferred":[
+        "Tom\u00e1s Gomensoro"
+    ],
+    "name:fra_x_preferred":[
+        "Tom\u00e1s Gomensoro"
+    ],
+    "name:hye_x_preferred":[
+        "\u0539\u0578\u0574\u0561\u057d \u0533\u0578\u0574\u0565\u0576\u057d\u0578\u0580\u0578"
+    ],
+    "name:ita_x_preferred":[
+        "Tom\u00e1s Gomensoro"
+    ],
+    "name:nor_x_preferred":[
+        "Tom\u00e1s Gomensoro"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u043c\u0430\u0441-\u0413\u043e\u043c\u0435\u043d\u0441\u043e\u0440\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Tom\u00e1s Gomensoro"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u043e\u043c\u0430\u0441-\u0413\u043e\u043c\u0435\u043d\u0441\u043e\u0440\u043e"
+    ],
+    "name:zho_x_preferred":[
+        "\u6258\u99ac\u65af\u6208\u9580\u7d22\u7f85"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -43,7 +76,7 @@
         }
     ],
     "wof:id":1092075303,
-    "wof:lastmodified":1512516761,
+    "wof:lastmodified":1564167695,
     "wof:name":"Tom\u00e1s Gomensoro",
     "wof:parent_id":85680355,
     "wof:placetype":"county",

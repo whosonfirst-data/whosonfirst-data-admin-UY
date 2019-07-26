@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016681,
-    "geom:area_square_m":171242335.763811,
+    "geom:area_square_m":171242335.763799,
     "geom:bbox":"-58.4220588766,-33.9493429885,-58.227610299,-33.7999309348",
     "geom:latitude":-33.88058,
     "geom:longitude":-58.322833,
@@ -22,6 +22,51 @@
     "mps:longitude":-58.313298,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Nueva Palmira"
+    ],
+    "name:ceb_x_preferred":[
+        "Nueva Palmira"
+    ],
+    "name:deu_x_preferred":[
+        "Nueva Palmira"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0626\u0648\u0627 \u067e\u0627\u0644\u0645\u06cc\u0631\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Nueva Palmira"
+    ],
+    "name:hrv_x_preferred":[
+        "Nueva Palmira"
+    ],
+    "name:ita_x_preferred":[
+        "Nueva Palmira"
+    ],
+    "name:nld_x_preferred":[
+        "Nueva Palmira"
+    ],
+    "name:nor_x_preferred":[
+        "Nueva Palmira"
+    ],
+    "name:pol_x_preferred":[
+        "Nueva Palmira"
+    ],
+    "name:por_x_preferred":[
+        "Nueva Palmira"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0443\u044d\u0432\u0430-\u041f\u0430\u043b\u044c\u043c\u0438\u0440\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Nueva Palmira"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0648\u06cc\u0648\u0627 \u067e\u0627\u0644\u0645\u06cc\u0631\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u5e15\u723e\u7c73\u62c9"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -43,7 +88,7 @@
         }
     ],
     "wof:id":1092074735,
-    "wof:lastmodified":1512516759,
+    "wof:lastmodified":1564167701,
     "wof:name":"Nueva Palmira",
     "wof:parent_id":85680347,
     "wof:placetype":"county",

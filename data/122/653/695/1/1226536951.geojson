@@ -25,6 +25,21 @@
     "iso:country":"UY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Juncal"
+    ],
+    "name:fra_x_preferred":[
+        "Juncal"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0416\u0443\u043d\u043a\u0430\u043b"
+    ],
+    "name:msa_x_preferred":[
+        "Juncal"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0443\u043d\u043a\u0430\u043b"
+    ],
     "name:spa_x_preferred":[
         "Juncal"
     ],
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1226536951,
-    "wof:lastmodified":1537713225,
+    "wof:lastmodified":1564167772,
     "wof:name":"Juncal",
     "wof:parent_id":85680325,
     "wof:placetype":"locality",

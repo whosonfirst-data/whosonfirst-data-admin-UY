@@ -25,6 +25,21 @@
     "iso:country":"UY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "San Luis Al Medio"
+    ],
+    "name:deu_x_preferred":[
+        "San Luis al Medio"
+    ],
+    "name:fra_x_preferred":[
+        "San Luis al Medio"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0576 \u053c\u0578\u0582\u056b\u057d \u0561\u056c \u0544\u0565\u0564\u056b\u0578"
+    ],
+    "name:nor_x_preferred":[
+        "San Luis al Medio"
+    ],
     "name:spa_x_preferred":[
         "San Luis al Medio"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1209288255,
-    "wof:lastmodified":1537713206,
+    "wof:lastmodified":1564167638,
     "wof:name":"San Luis al Medio",
     "wof:parent_id":85632511,
     "wof:placetype":"locality",

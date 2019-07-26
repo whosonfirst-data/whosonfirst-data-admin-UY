@@ -25,6 +25,24 @@
     "iso:country":"UY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Cerro Ejido"
+    ],
+    "name:ceb_x_preferred":[
+        "Cerro Ejido"
+    ],
+    "name:deu_x_preferred":[
+        "Cerro Ejido"
+    ],
+    "name:fra_x_preferred":[
+        "Cerro Ejido"
+    ],
+    "name:nor_x_preferred":[
+        "Cerro Ejido"
+    ],
+    "name:spa_x_preferred":[
+        "Cerro Ejido"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -47,7 +65,7 @@
         }
     ],
     "wof:id":1293004765,
-    "wof:lastmodified":1537575742,
+    "wof:lastmodified":1564167588,
     "wof:name":"Cerro Ejido",
     "wof:parent_id":85680355,
     "wof:placetype":"locality",

@@ -25,6 +25,27 @@
     "iso:country":"UY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Pintadito"
+    ],
+    "name:deu_x_preferred":[
+        "Pintadito"
+    ],
+    "name:fra_x_preferred":[
+        "Pintadito"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u056b\u0576\u057f\u0561\u0564\u056b\u057f\u0578"
+    ],
+    "name:ita_x_preferred":[
+        "Pintadito"
+    ],
+    "name:nor_x_preferred":[
+        "Pintadito"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u043d\u0442\u0430\u0434\u0438\u0442\u043e"
+    ],
     "name:spa_x_preferred":[
         "Pintadito"
     ],
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1344171223,
-    "wof:lastmodified":1537713228,
+    "wof:lastmodified":1564167584,
     "wof:name":"Pintadito",
     "wof:parent_id":85680355,
     "wof:placetype":"locality",

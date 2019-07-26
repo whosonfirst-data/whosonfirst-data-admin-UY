@@ -25,7 +25,43 @@
     "iso:country":"UY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0648\u0627\u0646 \u0633\u0648\u0644\u064a\u0631"
+    ],
+    "name:bul_x_preferred":[
+        "\u0425\u0443\u0430\u043d \u0421\u043e\u043b\u0435\u0440"
+    ],
+    "name:fra_x_preferred":[
+        "Juan Soler"
+    ],
+    "name:hat_x_preferred":[
+        "Juan Soler"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05d5\u05d0\u05df \u05e1\u05d5\u05dc\u05e8"
+    ],
+    "name:hun_x_preferred":[
+        "Juan Soler"
+    ],
+    "name:ita_x_preferred":[
+        "Juan Soler"
+    ],
+    "name:pol_x_preferred":[
+        "Juan Soler"
+    ],
+    "name:por_x_preferred":[
+        "Juan Soler"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0443\u0430\u043d \u0421\u043e\u043b\u0435\u0440"
+    ],
     "name:spa_x_preferred":[
+        "Juan Soler"
+    ],
+    "name:sqi_x_preferred":[
+        "Juan Soler"
+    ],
+    "name:tgl_x_preferred":[
         "Juan Soler"
     ],
     "src:geom":"geonames",
@@ -49,7 +85,7 @@
         }
     ],
     "wof:id":1360057921,
-    "wof:lastmodified":1537713216,
+    "wof:lastmodified":1564167672,
     "wof:name":"Juan Soler",
     "wof:parent_id":85680349,
     "wof:placetype":"locality",

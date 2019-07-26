@@ -26,6 +26,30 @@
     "iso:country":"UY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Ansina"
+    ],
+    "name:ceb_x_preferred":[
+        "Ansina"
+    ],
+    "name:deu_x_preferred":[
+        "Ansina"
+    ],
+    "name:fra_x_preferred":[
+        "Ansina"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0576\u057d\u056b\u0576\u0561"
+    ],
+    "name:nor_x_preferred":[
+        "Ansina"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0441\u0438\u043d\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Villa Ansina"
+    ],
     "name:und_x_variant":[
         "Paso del Borracho",
         "Borracho",
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1360165845,
-    "wof:lastmodified":1537713221,
+    "wof:lastmodified":1564167669,
     "wof:name":"Ansina",
     "wof:parent_id":85680311,
     "wof:placetype":"locality",

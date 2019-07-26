@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049319,
-    "geom:area_square_m":518326389.190562,
+    "geom:area_square_m":518326389.190542,
     "geom:bbox":"-54.7582315918,-31.9116872761,-54.4548741999,-31.6581980059",
     "geom:latitude":-31.795106,
     "geom:longitude":-54.603158,
@@ -22,6 +22,36 @@
     "mps:longitude":-54.603155,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Vichadero"
+    ],
+    "name:deu_x_preferred":[
+        "Vichadero"
+    ],
+    "name:fra_x_preferred":[
+        "Vichadero"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u056b\u0579\u0561\u0564\u0565\u0580\u0578"
+    ],
+    "name:ita_x_preferred":[
+        "Vichadero"
+    ],
+    "name:nor_x_preferred":[
+        "Vichadero"
+    ],
+    "name:por_x_preferred":[
+        "Vichadero"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u0447\u0430\u0434\u0435\u0440\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Vichadero"
+    ],
+    "name:zho_x_preferred":[
+        "\u7dad\u67e5\u5fb7\u7f85"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -43,7 +73,7 @@
         }
     ],
     "wof:id":1092075033,
-    "wof:lastmodified":1512516760,
+    "wof:lastmodified":1564167677,
     "wof:name":"Vichadero",
     "wof:parent_id":85680307,
     "wof:placetype":"county",

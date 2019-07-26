@@ -27,6 +27,36 @@
     "iso:country":"UY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Cabo Polonio"
+    ],
+    "name:ceb_x_preferred":[
+        "Cabo Polonio"
+    ],
+    "name:deu_x_preferred":[
+        "Cabo Polonio"
+    ],
+    "name:fra_x_preferred":[
+        "Cabo Polonio"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d0\u05d1\u05d5 \u05e4\u05d5\u05dc\u05d5\u05e0\u05d9\u05d5"
+    ],
+    "name:kor_x_preferred":[
+        "\uce74\ubcf4 \ud3f4\ub85c\ub2c8\uc624"
+    ],
+    "name:nor_x_preferred":[
+        "Cabo Polonio"
+    ],
+    "name:por_x_preferred":[
+        "Cabo Polonio"
+    ],
+    "name:spa_x_preferred":[
+        "Cabo Polonio"
+    ],
+    "name:swe_x_preferred":[
+        "Cabo Polonio"
+    ],
     "name:und_x_variant":[
         "Polonio",
         "Faro de Polonio",
@@ -54,7 +84,7 @@
         }
     ],
     "wof:id":1293184373,
-    "wof:lastmodified":1537713220,
+    "wof:lastmodified":1564167599,
     "wof:name":"Cabo Polonio",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -25,6 +25,27 @@
     "iso:country":"UY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chamizo"
+    ],
+    "name:deu_x_preferred":[
+        "Chamizo"
+    ],
+    "name:fra_x_preferred":[
+        "Chamizo"
+    ],
+    "name:hye_x_preferred":[
+        "\u0549\u0561\u0574\u056b\u057d\u056f\u0578"
+    ],
+    "name:nor_x_preferred":[
+        "Chamizo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u043c\u0438\u0441\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Chamizo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -46,7 +67,7 @@
         }
     ],
     "wof:id":1293070665,
-    "wof:lastmodified":1536890783,
+    "wof:lastmodified":1564167588,
     "wof:name":"Chamizo",
     "wof:parent_id":85680349,
     "wof:placetype":"locality",

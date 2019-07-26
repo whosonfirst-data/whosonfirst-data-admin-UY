@@ -26,6 +26,27 @@
     "iso:country":"UY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Biassini"
+    ],
+    "name:ceb_x_preferred":[
+        "Biassini"
+    ],
+    "name:deu_x_preferred":[
+        "Biassini"
+    ],
+    "name:fra_x_preferred":[
+        "Biassini"
+    ],
+    "name:ita_x_preferred":[
+        "Biassini"
+    ],
+    "name:nor_x_preferred":[
+        "Biassini"
+    ],
+    "name:spa_x_preferred":[
+        "Biassini"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1226316091,
-    "wof:lastmodified":1537575741,
+    "wof:lastmodified":1564167773,
     "wof:name":"Biassini",
     "wof:parent_id":1092075387,
     "wof:placetype":"locality",

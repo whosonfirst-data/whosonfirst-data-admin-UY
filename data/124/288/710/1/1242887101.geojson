@@ -26,6 +26,21 @@
     "iso:country":"UY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Estaci\u00f3n Atl\u00e1ntida"
+    ],
+    "name:ceb_x_preferred":[
+        "Estaci\u00f3n Atl\u00e1ntida"
+    ],
+    "name:deu_x_preferred":[
+        "Estaci\u00f3n Atl\u00e1ntida"
+    ],
+    "name:nor_x_preferred":[
+        "Estaci\u00f3n Atl\u00e1ntida"
+    ],
+    "name:spa_x_preferred":[
+        "Estaci\u00f3n Atl\u00e1ntida"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1242887101,
-    "wof:lastmodified":1537575742,
+    "wof:lastmodified":1564167727,
     "wof:name":"Estacion Atlantida",
     "wof:parent_id":1092076103,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"UY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Capurro"
+    ],
     "name:spa_x_preferred":[
         "Capurro"
     ],
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1209078695,
-    "wof:lastmodified":1537713219,
+    "wof:lastmodified":1564167622,
     "wof:name":"Capurro",
     "wof:parent_id":85632511,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012107,
-    "geom:area_square_m":123077359.125364,
+    "geom:area_square_m":123077359.125374,
     "geom:bbox":"-55.8464185351,-34.781923666,-55.7042236334,-34.6069092491",
     "geom:latitude":-34.701348,
     "geom:longitude":-55.775178,
@@ -22,6 +22,45 @@
     "mps:longitude":-55.775202,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Atl\u00e0ntida"
+    ],
+    "name:ceb_x_preferred":[
+        "Atl\u00e1ntida"
+    ],
+    "name:deu_x_preferred":[
+        "Atl\u00e1ntida"
+    ],
+    "name:fra_x_preferred":[
+        "Atl\u00e1ntida"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u057f\u056c\u0561\u0576\u057f\u056b\u0564\u0561"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30c8\u30e9\u30f3\u30c6\u30a3\u30c0"
+    ],
+    "name:pol_x_preferred":[
+        "Atl\u00e1ntida"
+    ],
+    "name:por_x_preferred":[
+        "Atl\u00e2ntida"
+    ],
+    "name:ron_x_preferred":[
+        "Atlantida"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0442\u043b\u0430\u043d\u0442\u0438\u0434\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Atl\u00e1ntida"
+    ],
+    "name:swe_x_preferred":[
+        "Atl\u00e1ntida"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0442\u043b\u0430\u043d\u0442\u0438\u0434\u0430"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -43,7 +82,7 @@
         }
     ],
     "wof:id":1092076103,
-    "wof:lastmodified":1512516764,
+    "wof:lastmodified":1564167680,
     "wof:name":"Atl\u00e1ntida",
     "wof:parent_id":85680321,
     "wof:placetype":"county",

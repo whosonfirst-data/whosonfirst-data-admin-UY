@@ -25,6 +25,18 @@
     "iso:country":"UY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Puimayen"
+    ],
+    "name:deu_x_preferred":[
+        "Puimayen"
+    ],
+    "name:fra_x_preferred":[
+        "Puimayen"
+    ],
+    "name:nor_x_preferred":[
+        "Puimayen"
+    ],
     "name:spa_x_preferred":[
         "Puimayen"
     ],
@@ -45,7 +57,7 @@
         }
     ],
     "wof:id":1310487199,
-    "wof:lastmodified":1537713223,
+    "wof:lastmodified":1564167650,
     "wof:name":"Puimayen",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

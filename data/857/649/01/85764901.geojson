@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5469316.319583,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-56.17733,-34.906896,-56.17733,-34.906896",
     "geom:latitude":-34.906896,
     "geom:longitude":-56.17733,
@@ -24,10 +24,34 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
+    "name:ceb_x_preferred":[
+        "Aguada"
+    ],
+    "name:deu_x_preferred":[
+        "Aguada"
+    ],
+    "name:glg_x_preferred":[
+        "Aguada"
+    ],
+    "name:ita_x_preferred":[
+        "Aguada"
+    ],
+    "name:nld_x_preferred":[
+        "Aguada"
+    ],
+    "name:pol_x_preferred":[
+        "Aguada"
+    ],
     "name:spa_x_preferred":[
         "Aguada"
     ],
+    "name:swe_x_preferred":[
+        "Aguada"
+    ],
     "name:unk_x_variant":[
+        "Aguada"
+    ],
+    "name:vie_x_preferred":[
         "Aguada"
     ],
     "qs:gn_adm0_cc":"US",
@@ -57,10 +81,10 @@
     "src:lbl:centroid":"yerbashapes",
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85680339,
         102191577,
         85632511,
-        1092076277,
-        85680339
+        1092076277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,7 +107,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531858971,
+    "wof:lastmodified":1564167587,
     "wof:name":"Aguada",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

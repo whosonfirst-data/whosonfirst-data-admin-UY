@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.272546,
-    "geom:area_square_m":2850736419.963896,
+    "geom:area_square_m":2850736419.963952,
     "geom:bbox":"-57.4708643688,-32.4900384365,-56.4656790192,-32.0138634627",
     "geom:latitude":-32.232094,
     "geom:longitude":-56.938973,
@@ -22,6 +22,42 @@
     "mps:longitude":-56.889686,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Guich\u00f3n"
+    ],
+    "name:ceb_x_preferred":[
+        "Guich\u00f3n"
+    ],
+    "name:deu_x_preferred":[
+        "Guich\u00f3n"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u06cc\u0686\u0648\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Guich\u00f3n"
+    ],
+    "name:hye_x_preferred":[
+        "\u0533\u056b\u0579\u0578\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Guich\u00f3n"
+    ],
+    "name:nor_x_preferred":[
+        "Guich\u00f3n"
+    ],
+    "name:pol_x_preferred":[
+        "Guich\u00f3n"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0438\u0447\u043e\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Guich\u00f3n"
+    ],
+    "name:urd_x_preferred":[
+        "\u06af\u06cc\u0686\u0648\u0646"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -43,7 +79,7 @@
         }
     ],
     "wof:id":1092076725,
-    "wof:lastmodified":1512516766,
+    "wof:lastmodified":1564167678,
     "wof:name":"Guich\u00f3n",
     "wof:parent_id":85680363,
     "wof:placetype":"county",

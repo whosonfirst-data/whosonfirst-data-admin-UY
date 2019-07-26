@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.084007,
-    "geom:area_square_m":879962293.806807,
+    "geom:area_square_m":879962293.806549,
     "geom:bbox":"-58.1625692815,-32.2539514437,-57.603451404,-31.8935167311",
     "geom:latitude":-32.09964,
     "geom:longitude":-57.928872,
@@ -22,6 +22,27 @@
     "mps:longitude":-57.952116,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Lorenzo Geyres"
+    ],
+    "name:deu_x_preferred":[
+        "Lorenzo Geyres"
+    ],
+    "name:fra_x_preferred":[
+        "Lorenzo Geyres"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0578\u0580\u0565\u0576\u057d\u0578 \u0533\u0565\u0575\u0580\u0565\u057d"
+    ],
+    "name:nor_x_preferred":[
+        "Lorenzo Geyres"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u0440\u0435\u043d\u0441\u043e-\u0425\u0435\u0439\u0440\u0435\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Lorenzo Geyres"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -43,7 +64,7 @@
         }
     ],
     "wof:id":1092076679,
-    "wof:lastmodified":1512516766,
+    "wof:lastmodified":1564167687,
     "wof:name":"Lorenzo Geyres",
     "wof:parent_id":85680363,
     "wof:placetype":"county",

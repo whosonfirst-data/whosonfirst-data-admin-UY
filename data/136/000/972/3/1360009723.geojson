@@ -27,6 +27,9 @@
     "iso:country":"UY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Colonia Suiza"
+    ],
     "name:und_x_variant":[
         "Nueva Helvecia",
         "Colonia Suiza"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1360009723,
-    "wof:lastmodified":1537713218,
+    "wof:lastmodified":1564167663,
     "wof:name":"Colonia Suiza",
     "wof:parent_id":1092075419,
     "wof:placetype":"locality",

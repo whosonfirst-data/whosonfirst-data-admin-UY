@@ -26,6 +26,21 @@
     "iso:country":"UY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Shangril\u00e1"
+    ],
+    "name:ceb_x_preferred":[
+        "Shangrila"
+    ],
+    "name:deu_x_preferred":[
+        "Shangril\u00e1"
+    ],
+    "name:fra_x_preferred":[
+        "Shangril\u00e1"
+    ],
+    "name:spa_x_preferred":[
+        "Shangril\u00e1"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1310705121,
-    "wof:lastmodified":1537575742,
+    "wof:lastmodified":1564167650,
     "wof:name":"Shangrila",
     "wof:parent_id":1092076339,
     "wof:placetype":"locality",

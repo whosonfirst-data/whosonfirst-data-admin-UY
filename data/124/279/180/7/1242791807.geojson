@@ -25,6 +25,24 @@
     "iso:country":"UY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Cuar\u00f3"
+    ],
+    "name:ceb_x_preferred":[
+        "Cuar\u00f3"
+    ],
+    "name:deu_x_preferred":[
+        "Cuar\u00f3"
+    ],
+    "name:fra_x_preferred":[
+        "Cuar\u00f3"
+    ],
+    "name:nor_x_preferred":[
+        "Cuar\u00f3"
+    ],
+    "name:spa_x_preferred":[
+        "Cuar\u00f3"
+    ],
     "name:und_x_variant":[
         "Cuar\u00f3"
     ],
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1242791807,
-    "wof:lastmodified":1537713218,
+    "wof:lastmodified":1564167738,
     "wof:name":"Cuaro",
     "wof:parent_id":85680355,
     "wof:placetype":"locality",

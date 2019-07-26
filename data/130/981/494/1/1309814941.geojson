@@ -27,6 +27,24 @@
     "iso:country":"UY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Ram\u00f3n Trigo"
+    ],
+    "name:ceb_x_preferred":[
+        "Ram\u00f3n Trigo"
+    ],
+    "name:deu_x_preferred":[
+        "Ram\u00f3n Trigo"
+    ],
+    "name:fra_x_preferred":[
+        "Ram\u00f3n Trigo"
+    ],
+    "name:nor_x_preferred":[
+        "Ram\u00f3n Trigo"
+    ],
+    "name:spa_x_preferred":[
+        "Ram\u00f3n Trigo"
+    ],
     "name:und_x_variant":[
         "Trigo",
         "Ram\u00f3n Trigo"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1309814941,
-    "wof:lastmodified":1537713207,
+    "wof:lastmodified":1564167715,
     "wof:name":"Ramon Trigo",
     "wof:parent_id":85680299,
     "wof:placetype":"locality",

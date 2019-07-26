@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010322,
-    "geom:area_square_m":104743938.214919,
+    "geom:area_square_m":104743938.214976,
     "geom:bbox":"-55.2976903775,-34.9055152159,-55.0799426566,-34.7863303964",
     "geom:latitude":-34.852031,
     "geom:longitude":-55.225372,
@@ -22,6 +22,54 @@
     "mps:longitude":-55.236105,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Piri\u00e1polis"
+    ],
+    "name:ceb_x_preferred":[
+        "Piri\u00e1polis"
+    ],
+    "name:deu_x_preferred":[
+        "Piri\u00e1polis"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0631\u06cc\u0627\u067e\u0644\u06cc\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Piri\u00e1polis"
+    ],
+    "name:hrv_x_preferred":[
+        "Piri\u00e1polis"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u056b\u0580\u056b\u0561\u057a\u0578\u056c\u056b\u057d"
+    ],
+    "name:ita_x_preferred":[
+        "Piri\u00e1polis"
+    ],
+    "name:lit_x_preferred":[
+        "Piriapolis"
+    ],
+    "name:nor_x_preferred":[
+        "Piri\u00e1polis"
+    ],
+    "name:pol_x_preferred":[
+        "Piri\u00e1polis"
+    ],
+    "name:por_x_preferred":[
+        "Piri\u00e1polis"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u0440\u044c\u044f\u043f\u043e\u043b\u0438\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Piri\u00e1polis"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u06cc\u0631\u06cc\u0627\u067e\u0648\u0644\u06cc\u0633"
+    ],
+    "name:zho_x_preferred":[
+        "\u76ae\u91cc\u4e9e\u6ce2\u5229\u65af"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -43,7 +91,7 @@
         }
     ],
     "wof:id":1092075613,
-    "wof:lastmodified":1512516763,
+    "wof:lastmodified":1564167676,
     "wof:name":"Piri\u00e1polis",
     "wof:parent_id":85680335,
     "wof:placetype":"county",

@@ -25,6 +25,33 @@
     "iso:country":"UY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Algorta"
+    ],
+    "name:ceb_x_preferred":[
+        "Algorta"
+    ],
+    "name:deu_x_preferred":[
+        "Algorta"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u06af\u0648\u0631\u062a\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Algorta"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u056c\u0563\u0578\u0580\u057f\u0561"
+    ],
+    "name:nor_x_preferred":[
+        "Algorta"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u044c\u0433\u043e\u0440\u0442\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Algorta"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -47,7 +74,7 @@
         }
     ],
     "wof:id":1293566439,
-    "wof:lastmodified":1537575742,
+    "wof:lastmodified":1564167596,
     "wof:name":"Algorta",
     "wof:parent_id":85680363,
     "wof:placetype":"locality",

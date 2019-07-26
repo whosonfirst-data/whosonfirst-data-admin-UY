@@ -26,6 +26,21 @@
     "iso:country":"UY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Franquia"
+    ],
+    "name:ceb_x_preferred":[
+        "Franqu\u00eda"
+    ],
+    "name:deu_x_preferred":[
+        "Franquia"
+    ],
+    "name:fra_x_preferred":[
+        "Franquia"
+    ],
+    "name:nor_x_preferred":[
+        "Franquia"
+    ],
     "name:spa_x_preferred":[
         "Franqu\u00eda"
     ],
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1327248997,
-    "wof:lastmodified":1537713222,
+    "wof:lastmodified":1564167559,
     "wof:name":"Franquia",
     "wof:parent_id":1092075277,
     "wof:placetype":"locality",

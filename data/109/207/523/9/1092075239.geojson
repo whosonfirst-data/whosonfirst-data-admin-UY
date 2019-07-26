@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.071002,
-    "geom:area_square_m":754439128.343458,
+    "geom:area_square_m":754439128.343298,
     "geom:bbox":"-57.5664998352,-30.9292791218,-57.1399853868,-30.552890122",
     "geom:latitude":-30.76044,
     "geom:longitude":-57.39951,
@@ -22,6 +22,51 @@
     "mps:longitude":-57.402689,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0644\u062a\u0627\u0632\u0627\u0631 \u0628\u0631\u0648\u0645"
+    ],
+    "name:ast_x_preferred":[
+        "Baltasar Brum"
+    ],
+    "name:cat_x_preferred":[
+        "Baltasar Brum Rodr\u00edguez"
+    ],
+    "name:deu_x_preferred":[
+        "Baltasar Brum"
+    ],
+    "name:fra_x_preferred":[
+        "Baltasar Brum"
+    ],
+    "name:ido_x_preferred":[
+        "Baltasar Brum"
+    ],
+    "name:ita_x_preferred":[
+        "Baltasar Brum"
+    ],
+    "name:nor_x_preferred":[
+        "Baltasar Brum"
+    ],
+    "name:oci_x_preferred":[
+        "Baltasar Brum"
+    ],
+    "name:pol_x_preferred":[
+        "Baltasar Brum"
+    ],
+    "name:por_x_preferred":[
+        "Baltasar Brum"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u0443\u043c"
+    ],
+    "name:spa_x_preferred":[
+        "Baltasar Brum"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043b\u044c\u0442\u0430\u0437\u0430\u0440 \u0411\u0440\u0443\u043c"
+    ],
+    "name:yor_x_preferred":[
+        "Baltasar Brum"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -43,7 +88,7 @@
         }
     ],
     "wof:id":1092075239,
-    "wof:lastmodified":1512516761,
+    "wof:lastmodified":1564167710,
     "wof:name":"Baltasar Brum",
     "wof:parent_id":85680355,
     "wof:placetype":"county",

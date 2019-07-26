@@ -26,6 +26,12 @@
     "iso:country":"UY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Los Titanes"
+    ],
+    "name:spa_x_preferred":[
+        "Los Titanes"
+    ],
     "name:und_x_variant":[
         "Balneario Los Titanes"
     ],
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1226255755,
-    "wof:lastmodified":1537713214,
+    "wof:lastmodified":1564167766,
     "wof:name":"Los Titanes",
     "wof:parent_id":1092075715,
     "wof:placetype":"locality",

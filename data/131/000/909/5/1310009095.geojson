@@ -26,6 +26,24 @@
     "iso:country":"UY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Jaureguiberry"
+    ],
+    "name:ceb_x_preferred":[
+        "Jaureguiberry"
+    ],
+    "name:deu_x_preferred":[
+        "Jaureguiberry"
+    ],
+    "name:fra_x_preferred":[
+        "Jaureguiberry"
+    ],
+    "name:nor_x_preferred":[
+        "Jaureguiberry"
+    ],
+    "name:spa_x_preferred":[
+        "Jaureguiberry"
+    ],
     "name:und_x_variant":[
         "Balneario Jaureguiberry"
     ],
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1310009095,
-    "wof:lastmodified":1537713216,
+    "wof:lastmodified":1564167653,
     "wof:name":"Jaureguiberry",
     "wof:parent_id":1092075715,
     "wof:placetype":"locality",

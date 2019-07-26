@@ -25,6 +25,9 @@
     "iso:country":"UY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Garzas"
+    ],
     "name:und_x_variant":[
         "Balneario Las Garzas",
         "Las Garzas"
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1343332703,
-    "wof:lastmodified":1537713215,
+    "wof:lastmodified":1564167583,
     "wof:name":"Las Garzas",
     "wof:parent_id":85680343,
     "wof:placetype":"locality",

@@ -27,6 +27,30 @@
     "iso:country":"UY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Pl\u00e1cido Rosas"
+    ],
+    "name:ceb_x_preferred":[
+        "Pl\u00e1cido Rosas"
+    ],
+    "name:deu_x_preferred":[
+        "Pl\u00e1cido Rosas"
+    ],
+    "name:fra_x_preferred":[
+        "Pl\u00e1cido Rosas"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u056c\u0561\u057d\u056b\u0564\u0578 \u054c\u0578\u057d\u0561\u057d"
+    ],
+    "name:nor_x_preferred":[
+        "Pl\u00e1cido Rosas"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043b\u0430\u0441\u0438\u0434\u043e-\u0420\u043e\u0441\u0430\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Pl\u00e1cido Rosas"
+    ],
     "name:und_x_variant":[
         "Rosas",
         "Pl\u00e1cido Rosas"
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1242972755,
-    "wof:lastmodified":1537713211,
+    "wof:lastmodified":1564167741,
     "wof:name":"Placido Rosas",
     "wof:parent_id":85680299,
     "wof:placetype":"locality",

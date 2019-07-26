@@ -25,6 +25,12 @@
     "iso:country":"UY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Chilcas"
+    ],
+    "name:spa_x_preferred":[
+        "Chilcas"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -46,7 +52,7 @@
         }
     ],
     "wof:id":1309800655,
-    "wof:lastmodified":1536939243,
+    "wof:lastmodified":1564167714,
     "wof:name":"Chilcas",
     "wof:parent_id":85680325,
     "wof:placetype":"locality",

@@ -20,11 +20,32 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "La Floresta"
+    ],
+    "name:ceb_x_preferred":[
+        "La Floresta"
+    ],
+    "name:deu_x_preferred":[
+        "La Floresta"
+    ],
+    "name:eus_x_preferred":[
+        "La Floresta"
+    ],
+    "name:ita_x_preferred":[
+        "La Floresta"
+    ],
     "name:spa_x_preferred":[
         "La Floresta"
     ],
     "name:spa_x_variant":[
         "Balneario Floresta"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430 \u0424\u043b\u043e\u0440\u0435\u0441\u0442\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "La Floresta"
     ],
     "name:unk_x_variant":[
         "Balneario Floresta",
@@ -83,7 +104,7 @@
         }
     ],
     "wof:id":1126068199,
-    "wof:lastmodified":1534379803,
+    "wof:lastmodified":1564167718,
     "wof:name":"La Floresta",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
