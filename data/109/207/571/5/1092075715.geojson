@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00561,
-    "geom:area_square_m":56985744.084419,
+    "geom:area_square_m":56985744.084422,
     "geom:bbox":"-55.7094031664,-34.7990803406,-55.3933170441,-34.7273086573",
     "geom:latitude":-34.770754,
     "geom:longitude":-55.564898,
@@ -22,6 +22,30 @@
     "mps:longitude":-55.633024,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "La Floresta"
+    ],
+    "name:ceb_x_preferred":[
+        "La Floresta"
+    ],
+    "name:deu_x_preferred":[
+        "La Floresta"
+    ],
+    "name:eus_x_preferred":[
+        "La Floresta"
+    ],
+    "name:ita_x_preferred":[
+        "La Floresta"
+    ],
+    "name:spa_x_preferred":[
+        "La Floresta"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430 \u0424\u043b\u043e\u0440\u0435\u0441\u0442\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "La Floresta"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -43,7 +67,7 @@
         }
     ],
     "wof:id":1092075715,
-    "wof:lastmodified":1512516763,
+    "wof:lastmodified":1564167708,
     "wof:name":"La Floresta",
     "wof:parent_id":85680321,
     "wof:placetype":"county",

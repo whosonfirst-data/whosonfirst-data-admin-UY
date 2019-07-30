@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016257,
-    "geom:area_square_m":166418781.791777,
+    "geom:area_square_m":166418781.791785,
     "geom:bbox":"-55.7197922576,-34.2109420431,-55.5483884617,-34.0062775957",
     "geom:latitude":-34.117813,
     "geom:longitude":-55.629376,
@@ -22,6 +22,33 @@
     "mps:longitude":-55.609279,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Casup\u00e1"
+    ],
+    "name:ceb_x_preferred":[
+        "Casup\u00e1"
+    ],
+    "name:deu_x_preferred":[
+        "Casup\u00e1"
+    ],
+    "name:fra_x_preferred":[
+        "Casup\u00e1"
+    ],
+    "name:ita_x_preferred":[
+        "Casup\u00e1"
+    ],
+    "name:nor_x_preferred":[
+        "Casup\u00e1"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0441\u0443\u043f\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Casup\u00e1"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u8607\u5e15"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -43,7 +70,7 @@
         }
     ],
     "wof:id":1092075565,
-    "wof:lastmodified":1512516763,
+    "wof:lastmodified":1564167673,
     "wof:name":"Casup\u00e1",
     "wof:parent_id":85680325,
     "wof:placetype":"county",

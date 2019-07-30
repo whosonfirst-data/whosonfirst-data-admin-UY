@@ -26,6 +26,15 @@
     "iso:country":"UY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Villa Garc\u00eda-Manga Rural"
+    ],
+    "name:sco_x_preferred":[
+        "Villa Garc\u00eda"
+    ],
+    "name:spa_x_preferred":[
+        "Villa Garc\u00eda"
+    ],
     "name:und_x_variant":[
         "Villa Garc\u00eda"
     ],
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1293195819,
-    "wof:lastmodified":1537713222,
+    "wof:lastmodified":1564167603,
     "wof:name":"Villa Garcia",
     "wof:parent_id":1092076429,
     "wof:placetype":"locality",

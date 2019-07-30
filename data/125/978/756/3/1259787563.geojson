@@ -25,8 +25,29 @@
     "iso:country":"UY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Bernab\u00e9 Rivera"
+    ],
+    "name:ceb_x_preferred":[
+        "Bernab\u00e9 Rivera"
+    ],
+    "name:deu_x_preferred":[
+        "Bernab\u00e9 Rivera"
+    ],
+    "name:fra_x_preferred":[
+        "Bernab\u00e9 Rivera"
+    ],
+    "name:nor_x_preferred":[
+        "Bernab\u00e9 Rivera"
+    ],
+    "name:spa_x_preferred":[
+        "Bernab\u00e9 Rivera"
+    ],
     "name:und_x_variant":[
         "Bernab\u00e9 Rivera"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c9d\u723e\u7d0d\u97cb\u91cc\u97cb\u62c9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1259787563,
-    "wof:lastmodified":1537713220,
+    "wof:lastmodified":1564167747,
     "wof:name":"Bernabe Rivera",
     "wof:parent_id":85680355,
     "wof:placetype":"locality",

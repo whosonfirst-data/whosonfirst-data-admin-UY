@@ -26,6 +26,27 @@
     "iso:country":"UY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "San Jorge"
+    ],
+    "name:deu_x_preferred":[
+        "San Jorge"
+    ],
+    "name:fra_x_preferred":[
+        "San Jorge"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0576 \u053d\u0578\u0580\u056d\u0565"
+    ],
+    "name:nor_x_preferred":[
+        "San Jorge"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u0425\u043e\u0440\u0445\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "San Jorge"
+    ],
     "name:und_x_variant":[
         "Cerro San Jorge",
         "Sauce de San Jorge",
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1242800615,
-    "wof:lastmodified":1537713206,
+    "wof:lastmodified":1564167726,
     "wof:name":"San Jorge",
     "wof:parent_id":85680303,
     "wof:placetype":"locality",

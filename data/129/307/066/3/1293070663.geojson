@@ -25,6 +25,30 @@
     "iso:country":"UY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Raig\u00f3n"
+    ],
+    "name:ceb_x_preferred":[
+        "Raig\u00f3n"
+    ],
+    "name:deu_x_preferred":[
+        "Raig\u00f3n"
+    ],
+    "name:fra_x_preferred":[
+        "Raig\u00f3n"
+    ],
+    "name:hye_x_preferred":[
+        "\u054c\u0561\u0575\u0563\u0578\u0576"
+    ],
+    "name:nor_x_preferred":[
+        "Raig\u00f3n"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0439\u0433\u043e\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Raig\u00f3n"
+    ],
     "name:und_x_variant":[
         "Raig\u00f3n"
     ],
@@ -50,7 +74,7 @@
         }
     ],
     "wof:id":1293070663,
-    "wof:lastmodified":1537713207,
+    "wof:lastmodified":1564167588,
     "wof:name":"Raigon",
     "wof:parent_id":85680349,
     "wof:placetype":"locality",

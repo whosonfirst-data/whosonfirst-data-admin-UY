@@ -26,6 +26,24 @@
     "iso:country":"UY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Risso"
+    ],
+    "name:ceb_x_preferred":[
+        "Risso"
+    ],
+    "name:deu_x_preferred":[
+        "Risso"
+    ],
+    "name:fra_x_preferred":[
+        "Risso"
+    ],
+    "name:nor_x_preferred":[
+        "Risso"
+    ],
+    "name:spa_x_preferred":[
+        "Risso"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1193254627,
-    "wof:lastmodified":1537575738,
+    "wof:lastmodified":1564167641,
     "wof:name":"Risso",
     "wof:parent_id":85680293,
     "wof:placetype":"locality",

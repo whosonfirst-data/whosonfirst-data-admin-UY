@@ -26,6 +26,21 @@
     "iso:country":"UY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Cuareim"
+    ],
+    "name:ceb_x_preferred":[
+        "Cuareim"
+    ],
+    "name:deu_x_preferred":[
+        "Cuareim"
+    ],
+    "name:fra_x_preferred":[
+        "Cuareim"
+    ],
+    "name:nor_x_preferred":[
+        "Cuareim"
+    ],
     "name:spa_x_preferred":[
         "Cuareim"
     ],
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1225953859,
-    "wof:lastmodified":1537713222,
+    "wof:lastmodified":1564167754,
     "wof:name":"Cuareim",
     "wof:parent_id":1092075277,
     "wof:placetype":"locality",

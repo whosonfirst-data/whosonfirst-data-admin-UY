@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002325,
-    "geom:area_square_m":23623603.384922,
+    "geom:area_square_m":23623603.384928,
     "geom:bbox":"-56.0383593633,-34.7868247513,-55.9663718991,-34.725563747",
     "geom:latitude":-34.758176,
     "geom:longitude":-56.001685,
@@ -22,6 +22,57 @@
     "mps:longitude":-56.001117,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Barros Blancos"
+    ],
+    "name:cat_x_preferred":[
+        "Barros Blancos"
+    ],
+    "name:ces_x_preferred":[
+        "Barros Blancos"
+    ],
+    "name:deu_x_preferred":[
+        "Barros Blancos"
+    ],
+    "name:fra_x_preferred":[
+        "Barros Blancos"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u0580\u0580\u0578\u057d \u0532\u056c\u0561\u0576\u056f\u0578\u057d"
+    ],
+    "name:ita_x_preferred":[
+        "Barros Blancos"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10e0\u10dd\u10e1-\u10d1\u10da\u10d0\u10dc\u10d9\u10dd\u10e1\u10d8"
+    ],
+    "name:lit_x_preferred":[
+        "Baros Blankosas"
+    ],
+    "name:nor_x_preferred":[
+        "Barros Blancos"
+    ],
+    "name:por_x_preferred":[
+        "Barros Blancos"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0440\u0440\u043e\u0441-\u0411\u043b\u0430\u043d\u043a\u043e\u0441"
+    ],
+    "name:slk_x_preferred":[
+        "Barros Blancos"
+    ],
+    "name:spa_x_preferred":[
+        "Barros Blancos"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0440\u0440\u043e\u0441-\u0411\u043b\u0430\u043d\u043a\u043e\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0627\u0631\u0648\u0633 \u0628\u0644\u0627\u0646\u06a9\u0648\u0633"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u7f85\u65af\u5e03\u862d\u79d1\u65af"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -43,7 +94,7 @@
         }
     ],
     "wof:id":1092076383,
-    "wof:lastmodified":1512516765,
+    "wof:lastmodified":1564167707,
     "wof:name":"Barros Blancos",
     "wof:parent_id":85680321,
     "wof:placetype":"county",

@@ -25,6 +25,36 @@
     "iso:country":"UY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "La Cruz"
+    ],
+    "name:ceb_x_preferred":[
+        "La Cruz"
+    ],
+    "name:dan_x_preferred":[
+        "La Cruz"
+    ],
+    "name:deu_x_preferred":[
+        "La Cruz"
+    ],
+    "name:fra_x_preferred":[
+        "La Cruz"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0561 \u053f\u0580\u0578\u0582\u057d"
+    ],
+    "name:nor_x_preferred":[
+        "La Cruz"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430-\u041a\u0440\u0443\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "La Cruz"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u06a9\u0631\u0648\u0632"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -47,7 +77,7 @@
         }
     ],
     "wof:id":1327325307,
-    "wof:lastmodified":1537575740,
+    "wof:lastmodified":1564167560,
     "wof:name":"La Cruz",
     "wof:parent_id":85680325,
     "wof:placetype":"locality",

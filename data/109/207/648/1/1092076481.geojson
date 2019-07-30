@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011611,
-    "geom:area_square_m":118027269.46699,
+    "geom:area_square_m":118027269.466819,
     "geom:bbox":"-56.0263720258,-34.7927822814,-55.8789136334,-34.6112255184",
     "geom:latitude":-34.709622,
     "geom:longitude":-55.953736,
@@ -22,6 +22,54 @@
     "mps:longitude":-55.973263,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Pando"
+    ],
+    "name:cat_x_preferred":[
+        "Pando"
+    ],
+    "name:ceb_x_preferred":[
+        "Pando"
+    ],
+    "name:deu_x_preferred":[
+        "Pando"
+    ],
+    "name:epo_x_preferred":[
+        "Pando"
+    ],
+    "name:eus_x_preferred":[
+        "Pando"
+    ],
+    "name:fra_x_preferred":[
+        "Pando"
+    ],
+    "name:glg_x_preferred":[
+        "Pando"
+    ],
+    "name:hrv_x_preferred":[
+        "Pando"
+    ],
+    "name:ita_x_preferred":[
+        "Pando"
+    ],
+    "name:kor_x_preferred":[
+        "\ud310\ub3c4"
+    ],
+    "name:nld_x_preferred":[
+        "Pando"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u043d\u0434\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Pando"
+    ],
+    "name:swe_x_preferred":[
+        "Pando"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u043d\u0434\u043e"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -43,7 +91,7 @@
         }
     ],
     "wof:id":1092076481,
-    "wof:lastmodified":1512516765,
+    "wof:lastmodified":1564167704,
     "wof:name":"Pando",
     "wof:parent_id":85680321,
     "wof:placetype":"county",

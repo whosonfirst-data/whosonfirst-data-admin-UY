@@ -25,6 +25,30 @@
     "iso:country":"UY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Mendoza Chico"
+    ],
+    "name:ceb_x_preferred":[
+        "Mendoza Chico"
+    ],
+    "name:deu_x_preferred":[
+        "Mendoza Chico"
+    ],
+    "name:fra_x_preferred":[
+        "Mendoza Chico"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0565\u0576\u0564\u0578\u057d\u0561 \u0549\u056b\u056f\u0578"
+    ],
+    "name:nor_x_preferred":[
+        "Mendoza Chico"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u043d\u0434\u043e\u0441\u0430-\u0427\u0438\u043a\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Mendoza Chico"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -47,7 +71,7 @@
         }
     ],
     "wof:id":1310026873,
-    "wof:lastmodified":1537575739,
+    "wof:lastmodified":1564167661,
     "wof:name":"Mendoza Chico",
     "wof:parent_id":85680325,
     "wof:placetype":"locality",

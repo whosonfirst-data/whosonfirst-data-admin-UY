@@ -26,6 +26,9 @@
     "iso:country":"UY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Portezuelo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1193036875,
-    "wof:lastmodified":1537575743,
+    "wof:lastmodified":1564167642,
     "wof:name":"Sauce de Portezuelo",
     "wof:parent_id":1092075613,
     "wof:placetype":"locality",

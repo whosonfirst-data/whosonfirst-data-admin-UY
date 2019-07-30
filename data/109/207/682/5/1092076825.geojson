@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043623,
-    "geom:area_square_m":452461415.94338,
+    "geom:area_square_m":452461415.943224,
     "geom:bbox":"-58.1018347016,-33.1385289629,-57.8656230741,-32.8153942038",
     "geom:latitude":-32.985612,
     "geom:longitude":-57.991186,
@@ -22,6 +22,36 @@
     "mps:longitude":-57.979623,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Nuevo Berl\u00edn"
+    ],
+    "name:ceb_x_preferred":[
+        "Nuevo Berl\u00edn"
+    ],
+    "name:deu_x_preferred":[
+        "Nuevo Berl\u00edn"
+    ],
+    "name:fra_x_preferred":[
+        "Nuevo Berl\u00edn"
+    ],
+    "name:ita_x_preferred":[
+        "Nuevo Berl\u00edn"
+    ],
+    "name:nor_x_preferred":[
+        "Nuevo Berl\u00edn"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0443\u044d\u0432\u043e-\u0411\u0435\u0440\u043b\u0438\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Nuevo Berl\u00edn"
+    ],
+    "name:tur_x_preferred":[
+        "Nuevo Berlin"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u67cf\u6797"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -43,7 +73,7 @@
         }
     ],
     "wof:id":1092076825,
-    "wof:lastmodified":1512516767,
+    "wof:lastmodified":1564167699,
     "wof:name":"Nuevo Berl\u00edn",
     "wof:parent_id":85680367,
     "wof:placetype":"county",

@@ -18,6 +18,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Villa Espa\u00f1ola"
+    ],
+    "name:deu_x_preferred":[
+        "Villa Espa\u00f1ola"
+    ],
+    "name:spa_x_preferred":[
+        "Villa Espa\u00f1ola"
+    ],
     "qs_pg:aaroncc":"UY",
     "qs_pg:gn_country":"UY",
     "qs_pg:gn_fcode":"PPLX",
@@ -45,10 +54,10 @@
     "woe:name_adm1":"Montevideo",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85680339,
         102191577,
         85632511,
-        1092077025,
-        85680339
+        1092077025
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":1126109795,
-    "wof:lastmodified":1509412548,
+    "wof:lastmodified":1564167717,
     "wof:name":"Villa Espa\u00f1ola",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

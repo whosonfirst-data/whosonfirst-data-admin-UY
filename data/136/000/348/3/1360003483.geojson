@@ -25,6 +25,21 @@
     "iso:country":"UY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Palma"
+    ],
+    "name:ceb_x_preferred":[
+        "Colonia Palma"
+    ],
+    "name:deu_x_preferred":[
+        "Colonia Palma"
+    ],
+    "name:fra_x_preferred":[
+        "Colonia Palma"
+    ],
+    "name:nor_x_preferred":[
+        "Colonia Palma"
+    ],
     "name:spa_x_preferred":[
         "Colonia Palma"
     ],
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1360003483,
-    "wof:lastmodified":1537713222,
+    "wof:lastmodified":1564167663,
     "wof:name":"Colonia Palma",
     "wof:parent_id":85680355,
     "wof:placetype":"locality",

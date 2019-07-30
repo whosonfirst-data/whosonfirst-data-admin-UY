@@ -27,6 +27,21 @@
     "iso:country":"UY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Malv\u00edn Norte"
+    ],
+    "name:deu_x_preferred":[
+        "Malv\u00edn Norte"
+    ],
+    "name:pol_x_preferred":[
+        "Malv\u00edn Norte"
+    ],
+    "name:sco_x_preferred":[
+        "Malv\u00edn Norte"
+    ],
+    "name:spa_x_preferred":[
+        "Malv\u00edn Norte"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1210000357,
-    "wof:lastmodified":1537575743,
+    "wof:lastmodified":1564167639,
     "wof:name":"Malvin Norte",
     "wof:parent_id":1092077025,
     "wof:placetype":"locality",

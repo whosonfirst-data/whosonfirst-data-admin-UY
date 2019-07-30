@@ -26,6 +26,21 @@
     "iso:country":"UY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Barker"
+    ],
+    "name:ceb_x_preferred":[
+        "Barker"
+    ],
+    "name:deu_x_preferred":[
+        "Barker"
+    ],
+    "name:fra_x_preferred":[
+        "Barker"
+    ],
+    "name:nor_x_preferred":[
+        "Barker"
+    ],
     "name:spa_x_preferred":[
         "Barker"
     ],
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1242678217,
-    "wof:lastmodified":1537713221,
+    "wof:lastmodified":1564167730,
     "wof:name":"Barker",
     "wof:parent_id":1092075943,
     "wof:placetype":"locality",

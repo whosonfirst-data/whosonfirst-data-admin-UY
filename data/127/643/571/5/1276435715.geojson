@@ -27,6 +27,9 @@
     "iso:country":"UY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:sco_x_preferred":[
+        "Bella Italia"
+    ],
     "name:und_x_variant":[
         "Balneario Bella Italia",
         "Bella Italia"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1276435715,
-    "wof:lastmodified":1537713220,
+    "wof:lastmodified":1564167606,
     "wof:name":"Bella Italia",
     "wof:parent_id":1092076429,
     "wof:placetype":"locality",

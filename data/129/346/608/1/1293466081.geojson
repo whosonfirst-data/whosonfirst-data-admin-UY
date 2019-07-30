@@ -25,6 +25,24 @@
     "iso:country":"UY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Ega\u00f1a"
+    ],
+    "name:ceb_x_preferred":[
+        "Ega\u00f1a"
+    ],
+    "name:deu_x_preferred":[
+        "Ega\u00f1a"
+    ],
+    "name:fra_x_preferred":[
+        "Ega\u00f1a"
+    ],
+    "name:nor_x_preferred":[
+        "Ega\u00f1a"
+    ],
+    "name:spa_x_preferred":[
+        "Ega\u00f1a"
+    ],
     "name:und_x_variant":[
         "Pueblo Ega\u00f1a",
         "Ega\u00f1a"
@@ -51,7 +69,7 @@
         }
     ],
     "wof:id":1293466081,
-    "wof:lastmodified":1537713218,
+    "wof:lastmodified":1564167591,
     "wof:name":"Egana",
     "wof:parent_id":85680293,
     "wof:placetype":"locality",

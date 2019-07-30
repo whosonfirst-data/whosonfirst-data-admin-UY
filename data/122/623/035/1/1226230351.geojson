@@ -26,6 +26,27 @@
     "iso:country":"UY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Merinos"
+    ],
+    "name:deu_x_preferred":[
+        "Merinos"
+    ],
+    "name:fra_x_preferred":[
+        "Merinos"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0565\u0580\u056b\u0576\u0578\u057d"
+    ],
+    "name:nor_x_preferred":[
+        "Merinos"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0440\u0438\u043d\u043e\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Merinos"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1226230351,
-    "wof:lastmodified":1537575739,
+    "wof:lastmodified":1564167767,
     "wof:name":"Merinos",
     "wof:parent_id":1092076725,
     "wof:placetype":"locality",

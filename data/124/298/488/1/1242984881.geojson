@@ -25,6 +25,9 @@
     "iso:country":"UY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Piedra Pintada"
+    ],
     "name:und_x_variant":[
         "Colonia Pintado",
         "Pintado Colonia Agr\u00edcola",
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1242984881,
-    "wof:lastmodified":1537713211,
+    "wof:lastmodified":1564167741,
     "wof:name":"Piedra Pintada",
     "wof:parent_id":85680355,
     "wof:placetype":"locality",

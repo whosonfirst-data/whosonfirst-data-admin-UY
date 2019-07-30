@@ -25,8 +25,20 @@
     "iso:country":"UY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Villa Darwin"
+    ],
+    "name:fra_x_preferred":[
+        "Villa Darwin"
+    ],
+    "name:nor_x_preferred":[
+        "Villa Darwin"
+    ],
     "name:spa_x_preferred":[
         "Villa Darwin"
+    ],
+    "name:spa_x_variant":[
+        "Sacachispas"
     ],
     "name:und_x_variant":[
         "Darwin"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1243148515,
-    "wof:lastmodified":1537713218,
+    "wof:lastmodified":1564167735,
     "wof:name":"Villa Darwin",
     "wof:parent_id":85680293,
     "wof:placetype":"locality",

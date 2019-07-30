@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042044,
-    "geom:area_square_m":430594327.71337,
+    "geom:area_square_m":430594327.713511,
     "geom:bbox":"-58.3063712058,-34.2027874966,-57.9393847887,-33.9431171458",
     "geom:latitude":-34.079937,
     "geom:longitude":-58.133217,
@@ -22,6 +22,24 @@
     "mps:longitude":-58.130477,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bre_x_preferred":[
+        "Carmelo"
+    ],
+    "name:deu_x_preferred":[
+        "Carmelo"
+    ],
+    "name:ita_x_preferred":[
+        "Carmelo"
+    ],
+    "name:lat_x_preferred":[
+        "Carmelo"
+    ],
+    "name:nor_x_preferred":[
+        "Carmelo"
+    ],
+    "name:spa_x_preferred":[
+        "Carmelo"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -43,7 +61,7 @@
         }
     ],
     "wof:id":1092075395,
-    "wof:lastmodified":1512516762,
+    "wof:lastmodified":1564167696,
     "wof:name":"Carmelo",
     "wof:parent_id":85680347,
     "wof:placetype":"county",

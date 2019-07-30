@@ -25,6 +25,15 @@
     "iso:country":"UY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Machado"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0448\u0430\u0434\u0443"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0448\u0430\u0434\u0443"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -46,7 +55,7 @@
         }
     ],
     "wof:id":1193113429,
-    "wof:lastmodified":1536370785,
+    "wof:lastmodified":1564167643,
     "wof:name":"Machado",
     "wof:parent_id":85680359,
     "wof:placetype":"locality",

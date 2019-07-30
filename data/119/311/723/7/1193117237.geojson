@@ -25,6 +25,24 @@
     "iso:country":"UY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Grecco"
+    ],
+    "name:deu_x_preferred":[
+        "Grecco"
+    ],
+    "name:fra_x_preferred":[
+        "Grecco"
+    ],
+    "name:ita_x_preferred":[
+        "Grecco"
+    ],
+    "name:nor_x_preferred":[
+        "Grecco"
+    ],
+    "name:spa_x_preferred":[
+        "Grecco"
+    ],
     "name:und_x_variant":[
         "Las Flores",
         "Greco",
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1193117237,
-    "wof:lastmodified":1537713216,
+    "wof:lastmodified":1564167643,
     "wof:name":"Grecco",
     "wof:parent_id":85680367,
     "wof:placetype":"locality",

@@ -25,6 +25,27 @@
     "iso:country":"UY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Paso del Cerro"
+    ],
+    "name:deu_x_preferred":[
+        "Paso del Cerro"
+    ],
+    "name:fra_x_preferred":[
+        "Paso del Cerro"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0561\u057d\u0578 \u0564\u0565\u056c \u054d\u0565\u0580\u0580\u0578"
+    ],
+    "name:nor_x_preferred":[
+        "Paso del Cerro"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0441\u043e-\u0434\u0435\u043b\u044c-\u0421\u0435\u0440\u0440\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Paso del Cerro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -47,7 +68,7 @@
         }
     ],
     "wof:id":1276832761,
-    "wof:lastmodified":1537575739,
+    "wof:lastmodified":1564167614,
     "wof:name":"Paso del Cerro",
     "wof:parent_id":85680311,
     "wof:placetype":"locality",

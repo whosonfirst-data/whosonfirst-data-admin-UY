@@ -26,6 +26,15 @@
     "iso:country":"UY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Barrio Hip\u00f3dromo"
+    ],
+    "name:deu_x_preferred":[
+        "Barrio Hip\u00f3dromo"
+    ],
+    "name:fra_x_preferred":[
+        "Barrio Hip\u00f3dromo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1310696321,
-    "wof:lastmodified":1537575743,
+    "wof:lastmodified":1564167662,
     "wof:name":"Barrio Hipodromo",
     "wof:parent_id":1092075757,
     "wof:placetype":"locality",

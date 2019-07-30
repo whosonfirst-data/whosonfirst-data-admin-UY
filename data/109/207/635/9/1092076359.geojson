@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002456,
-    "geom:area_square_m":24939549.140032,
+    "geom:area_square_m":24939549.140009,
     "geom:bbox":"-56.0529758874,-34.8322322812,-55.976265857,-34.7782867462",
     "geom:latitude":-34.804592,
     "geom:longitude":-56.013227,
@@ -22,6 +22,33 @@
     "mps:longitude":-56.012491,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Colonia Nicolich"
+    ],
+    "name:cat_x_preferred":[
+        "Colonia Nicolich"
+    ],
+    "name:ceb_x_preferred":[
+        "Colonia Nicolich"
+    ],
+    "name:deu_x_preferred":[
+        "Colonia Nicolich"
+    ],
+    "name:ita_x_preferred":[
+        "Colonia Nicolich"
+    ],
+    "name:nor_x_preferred":[
+        "Colonia Nicolich"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043b\u043e\u043d\u0438\u044f-\u041d\u0438\u043a\u043e\u043b\u0438\u0447"
+    ],
+    "name:spa_x_preferred":[
+        "General L\u00edber Seregni"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c3c\u79d1\u5229\u5947\u79fb\u6c11\u93ae"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -43,7 +70,7 @@
         }
     ],
     "wof:id":1092076359,
-    "wof:lastmodified":1512516765,
+    "wof:lastmodified":1564167689,
     "wof:name":"Colonia Nicolich",
     "wof:parent_id":85680321,
     "wof:placetype":"county",

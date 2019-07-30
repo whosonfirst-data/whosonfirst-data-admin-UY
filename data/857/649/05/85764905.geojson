@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3914450.97032,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-56.194785,-34.881455,-56.194785,-34.881455",
     "geom:latitude":-34.881455,
     "geom:longitude":-56.194785,
@@ -28,7 +28,22 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
+    "name:ceb_x_preferred":[
+        "Arroyo Seco"
+    ],
+    "name:deu_x_preferred":[
+        "Arroyo Seco"
+    ],
+    "name:fra_x_preferred":[
+        "Arroyo Seco"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0440\u043e\u0439\u043e-\u0421\u0435\u043a\u043e"
+    ],
     "name:spa_x_preferred":[
+        "Arroyo Seco"
+    ],
+    "name:swe_x_preferred":[
         "Arroyo Seco"
     ],
     "name:unk_x_variant":[
@@ -111,7 +126,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379803,
+    "wof:lastmodified":1564167587,
     "wof:name":"Arroyo Seco",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

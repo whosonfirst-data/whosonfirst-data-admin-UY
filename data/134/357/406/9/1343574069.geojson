@@ -26,6 +26,18 @@
     "iso:country":"UY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Argentino"
+    ],
+    "name:fra_x_preferred":[
+        "Argentino"
+    ],
+    "name:slv_x_preferred":[
+        "Argentino"
+    ],
+    "name:spa_x_preferred":[
+        "Argentino"
+    ],
     "name:und_x_variant":[
         "Balneario Argentino"
     ],
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1343574069,
-    "wof:lastmodified":1537713221,
+    "wof:lastmodified":1564167580,
     "wof:name":"Argentino",
     "wof:parent_id":1092075715,
     "wof:placetype":"locality",

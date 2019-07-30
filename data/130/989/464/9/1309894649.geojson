@@ -26,6 +26,12 @@
     "iso:country":"UY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Maro\u00f1as"
+    ],
+    "name:spa_x_preferred":[
+        "Maro\u00f1as"
+    ],
     "name:und_x_variant":[
         "Maro\u00f1as"
     ],
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1309894649,
-    "wof:lastmodified":1537713214,
+    "wof:lastmodified":1564167715,
     "wof:name":"Maronas",
     "wof:parent_id":1092076429,
     "wof:placetype":"locality",

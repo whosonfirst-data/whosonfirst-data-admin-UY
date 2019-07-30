@@ -26,6 +26,18 @@
     "iso:country":"UY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Marindia"
+    ],
+    "name:deu_x_preferred":[
+        "Marindia"
+    ],
+    "name:fra_x_preferred":[
+        "Marindia"
+    ],
+    "name:nor_x_preferred":[
+        "Marindia"
+    ],
     "name:spa_x_preferred":[
         "Marindia"
     ],
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1276445433,
-    "wof:lastmodified":1537713224,
+    "wof:lastmodified":1564167606,
     "wof:name":"Marindia",
     "wof:parent_id":1092076195,
     "wof:placetype":"locality",

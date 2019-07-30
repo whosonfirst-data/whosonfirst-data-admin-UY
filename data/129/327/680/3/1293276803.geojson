@@ -26,6 +26,18 @@
     "iso:country":"UY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Ocean Park"
+    ],
+    "name:deu_x_preferred":[
+        "Ocean Park"
+    ],
+    "name:fra_x_preferred":[
+        "Ocean Park"
+    ],
+    "name:spa_x_preferred":[
+        "Ocean Park"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1293276803,
-    "wof:lastmodified":1537575743,
+    "wof:lastmodified":1564167599,
     "wof:name":"Ocean Park",
     "wof:parent_id":1092075613,
     "wof:placetype":"locality",

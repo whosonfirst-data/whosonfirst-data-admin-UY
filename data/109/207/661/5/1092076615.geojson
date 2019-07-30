@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.157292,
-    "geom:area_square_m":1655206856.482256,
+    "geom:area_square_m":1655206856.482245,
     "geom:bbox":"-58.0347057268,-31.8677390053,-57.3602080744,-31.4523925765",
     "geom:latitude":-31.676117,
     "geom:longitude":-57.755825,
@@ -22,6 +22,27 @@
     "mps:longitude":-57.834936,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Chapicuy"
+    ],
+    "name:deu_x_preferred":[
+        "Chapicuy"
+    ],
+    "name:fra_x_preferred":[
+        "Chapicuy"
+    ],
+    "name:hye_x_preferred":[
+        "\u0549\u0561\u057a\u056b\u056f\u0578\u0582\u0575"
+    ],
+    "name:nor_x_preferred":[
+        "Chapicuy"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u043f\u0438\u043a\u0443\u0439"
+    ],
+    "name:spa_x_preferred":[
+        "Chapicuy"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -43,7 +64,7 @@
         }
     ],
     "wof:id":1092076615,
-    "wof:lastmodified":1512516766,
+    "wof:lastmodified":1564167691,
     "wof:name":"Chapicuy",
     "wof:parent_id":85680363,
     "wof:placetype":"county",

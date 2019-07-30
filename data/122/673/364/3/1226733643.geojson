@@ -26,6 +26,24 @@
     "iso:country":"UY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Buceo"
+    ],
+    "name:deu_x_preferred":[
+        "Buceo"
+    ],
+    "name:glg_x_preferred":[
+        "Buceo"
+    ],
+    "name:pol_x_preferred":[
+        "Buceo"
+    ],
+    "name:por_x_preferred":[
+        "Buceo"
+    ],
+    "name:spa_x_preferred":[
+        "Buceo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1226733643,
-    "wof:lastmodified":1537575741,
+    "wof:lastmodified":1564167756,
     "wof:name":"Buceo",
     "wof:parent_id":1092076251,
     "wof:placetype":"locality",

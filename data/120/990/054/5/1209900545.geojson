@@ -26,6 +26,18 @@
     "iso:country":"UY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Manantiales"
+    ],
+    "name:deu_x_preferred":[
+        "Manantiales"
+    ],
+    "name:spa_x_preferred":[
+        "Manantiales"
+    ],
+    "name:swe_x_preferred":[
+        "Manantiales"
+    ],
     "name:und_x_variant":[
         "Playa Manantiales",
         "Manantiales"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1209900545,
-    "wof:lastmodified":1537713214,
+    "wof:lastmodified":1564167627,
     "wof:name":"Manantiales",
     "wof:parent_id":1092075463,
     "wof:placetype":"locality",

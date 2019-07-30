@@ -26,6 +26,9 @@
     "iso:country":"UY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Toro Negro"
+    ],
     "name:und_x_variant":[
         "Ceferino",
         "Toro Negro"
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1310078743,
-    "wof:lastmodified":1537713204,
+    "wof:lastmodified":1564167653,
     "wof:name":"Toro Negro",
     "wof:parent_id":85680289,
     "wof:placetype":"locality",

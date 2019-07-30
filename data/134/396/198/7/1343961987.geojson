@@ -26,6 +26,21 @@
     "iso:country":"UY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Coronado"
+    ],
+    "name:ceb_x_preferred":[
+        "Coronado"
+    ],
+    "name:deu_x_preferred":[
+        "Coronado"
+    ],
+    "name:fra_x_preferred":[
+        "Coronado"
+    ],
+    "name:nor_x_preferred":[
+        "Coronado"
+    ],
     "name:spa_x_preferred":[
         "Coronado"
     ],
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1343961987,
-    "wof:lastmodified":1537713222,
+    "wof:lastmodified":1564167568,
     "wof:name":"Coronado",
     "wof:parent_id":1092075277,
     "wof:placetype":"locality",
