@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MO"
+    ],
     "lbl:latitude":-34.822559,
     "lbl:longitude":-56.15736,
     "mps:latitude":-34.822559,
@@ -320,16 +323,13 @@
         }
     ],
     "wof:id":85680339,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563360254,
+    "wof:lastmodified":1565738626,
     "wof:name":"Montevideo",
     "wof:parent_id":85632511,
     "wof:placetype":"region",

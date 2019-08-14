@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CL"
+    ],
     "lbl:latitude":-32.326775,
     "lbl:longitude":-54.167429,
     "mps:latitude":-32.326775,
@@ -320,16 +323,13 @@
         }
     ],
     "wof:id":85680299,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563360262,
+    "wof:lastmodified":1565738627,
     "wof:name":"Cerro Largo",
     "wof:parent_id":85632511,
     "wof:placetype":"region",

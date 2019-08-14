@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DU"
+    ],
     "lbl:latitude":-33.029889,
     "lbl:longitude":-55.852266,
     "mps:latitude":-33.029889,
@@ -311,16 +314,13 @@
         }
     ],
     "wof:id":85680303,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563360246,
+    "wof:lastmodified":1565738625,
     "wof:name":"Durazno",
     "wof:parent_id":85632511,
     "wof:placetype":"region",

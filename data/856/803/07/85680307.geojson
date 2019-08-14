@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RV"
+    ],
     "lbl:latitude":-31.484865,
     "lbl:longitude":-55.390659,
     "mps:latitude":-31.484865,
@@ -305,16 +308,13 @@
         }
     ],
     "wof:id":85680307,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563360254,
+    "wof:lastmodified":1565738626,
     "wof:name":"Rivera",
     "wof:parent_id":85632511,
     "wof:placetype":"region",

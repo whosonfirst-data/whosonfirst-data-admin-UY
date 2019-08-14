@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MA"
+    ],
     "lbl:latitude":-34.662904,
     "lbl:longitude":-54.853059,
     "mps:latitude":-34.662904,
@@ -314,16 +317,13 @@
         }
     ],
     "wof:id":85680335,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563360247,
+    "wof:lastmodified":1565738626,
     "wof:name":"Maldonado",
     "wof:parent_id":85632511,
     "wof:placetype":"region",

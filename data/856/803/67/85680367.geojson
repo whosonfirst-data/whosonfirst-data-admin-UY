@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RN"
+    ],
     "lbl:latitude":-32.758906,
     "lbl:longitude":-57.335607,
     "mps:latitude":-32.758906,
@@ -312,16 +315,13 @@
         }
     ],
     "wof:id":85680367,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563360248,
+    "wof:lastmodified":1565738626,
     "wof:name":"R\u00edo Negro",
     "wof:parent_id":85632511,
     "wof:placetype":"region",

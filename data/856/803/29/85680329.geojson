@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LA"
+    ],
     "lbl:latitude":-33.895741,
     "lbl:longitude":-54.982939,
     "mps:latitude":-33.895741,
@@ -313,16 +316,13 @@
         }
     ],
     "wof:id":85680329,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563360250,
+    "wof:lastmodified":1565738626,
     "wof:name":"Lavalleja",
     "wof:parent_id":85632511,
     "wof:placetype":"region",

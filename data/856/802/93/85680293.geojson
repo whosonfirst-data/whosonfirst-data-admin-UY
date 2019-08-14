@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SO"
+    ],
     "lbl:latitude":-33.486969,
     "lbl:longitude":-57.734111,
     "mps:latitude":-33.486969,
@@ -305,16 +308,13 @@
         }
     ],
     "wof:id":85680293,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563360260,
+    "wof:lastmodified":1565738626,
     "wof:name":"Soriano",
     "wof:parent_id":85632511,
     "wof:placetype":"region",

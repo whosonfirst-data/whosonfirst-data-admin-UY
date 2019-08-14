@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "FD"
+    ],
     "lbl:latitude":-33.820507,
     "lbl:longitude":-55.868574,
     "mps:latitude":-33.820507,
@@ -314,16 +317,13 @@
         }
     ],
     "wof:id":85680325,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563360259,
+    "wof:lastmodified":1565738626,
     "wof:name":"Florida",
     "wof:parent_id":85632511,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "FS"
+    ],
     "lbl:latitude":-33.603175,
     "lbl:longitude":-56.850023,
     "mps:latitude":-33.603175,
@@ -308,16 +311,13 @@
         }
     ],
     "wof:id":85680359,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563360245,
+    "wof:lastmodified":1565738625,
     "wof:name":"Flores",
     "wof:parent_id":85632511,
     "wof:placetype":"region",

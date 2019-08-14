@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TA"
+    ],
     "lbl:latitude":-32.148479,
     "lbl:longitude":-55.792965,
     "mps:latitude":-32.148479,
@@ -327,16 +330,13 @@
         }
     ],
     "wof:id":85680311,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563360249,
+    "wof:lastmodified":1565738626,
     "wof:name":"Tacuaremb\u00f3",
     "wof:parent_id":85632511,
     "wof:placetype":"region",

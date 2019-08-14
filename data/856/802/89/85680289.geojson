@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SA"
+    ],
     "lbl:latitude":-31.42523,
     "lbl:longitude":-56.905911,
     "mps:latitude":-31.42523,
@@ -308,16 +311,13 @@
         }
     ],
     "wof:id":85680289,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563360261,
+    "wof:lastmodified":1565738627,
     "wof:name":"Salto",
     "wof:parent_id":85632511,
     "wof:placetype":"region",

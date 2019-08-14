@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TT"
+    ],
     "lbl:latitude":-33.057849,
     "lbl:longitude":-54.269334,
     "mps:latitude":-33.057849,
@@ -308,16 +311,13 @@
         }
     ],
     "wof:id":85680317,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563360251,
+    "wof:lastmodified":1565738626,
     "wof:name":"Treinta y Tres",
     "wof:parent_id":85632511,
     "wof:placetype":"region",

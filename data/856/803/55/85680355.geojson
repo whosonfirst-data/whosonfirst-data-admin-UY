@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AR"
+    ],
     "lbl:latitude":-30.62543,
     "lbl:longitude":-56.950741,
     "mps:latitude":-30.62543,
@@ -323,16 +326,13 @@
         }
     ],
     "wof:id":85680355,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563360255,
+    "wof:lastmodified":1565738626,
     "wof:name":"Artigas",
     "wof:parent_id":85632511,
     "wof:placetype":"region",

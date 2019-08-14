@@ -15,6 +15,9 @@
     "itu:country_code":[
         "598"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "UY"
+    ],
     "lbl:latitude":-32.838882,
     "lbl:longitude":-56.01682,
     "mps:latitude":-32.838882,
@@ -1014,16 +1017,13 @@
         }
     ],
     "wof:id":85632511,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563360266,
+    "wof:lastmodified":1565738627,
     "wof:name":"Uruguay",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RO"
+    ],
     "lbl:latitude":-33.898601,
     "lbl:longitude":-53.995165,
     "mps:latitude":-33.898601,
@@ -305,16 +308,13 @@
         }
     ],
     "wof:id":85680343,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563360253,
+    "wof:lastmodified":1565738626,
     "wof:name":"Rocha",
     "wof:parent_id":85632511,
     "wof:placetype":"region",
