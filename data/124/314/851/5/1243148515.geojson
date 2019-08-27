@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Montevideo",
     "iso:country":"UY",
+    "lbl:bbox":"-57.65333,-33.13266,-57.61333,-33.09266",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Villa Darwin"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1243148515,
-    "wof:lastmodified":1564167735,
+    "wof:lastmodified":1566643153,
     "wof:name":"Villa Darwin",
     "wof:parent_id":85680293,
     "wof:placetype":"locality",

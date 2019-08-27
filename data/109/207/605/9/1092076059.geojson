@@ -12,6 +12,8 @@
     "iso:country":"UY",
     "lbl:latitude":-34.659548,
     "lbl:longitude":-55.87868,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Canelones",
     "meso:mps_x":-55.87868,
     "meso:mps_y":-34.659548,
@@ -22,6 +24,7 @@
     "mps:longitude":-55.87868,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Empalme Olmos"
     ],
@@ -56,7 +59,7 @@
         "\u6069\u5e15\u723e\u6885\u5967\u723e\u83ab\u65af"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632511,
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1092076059,
-    "wof:lastmodified":1564167687,
+    "wof:lastmodified":1566643095,
     "wof:name":"Empalme Olmos",
     "wof:parent_id":85680321,
     "wof:placetype":"county",

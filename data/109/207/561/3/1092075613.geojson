@@ -12,6 +12,8 @@
     "iso:country":"UY",
     "lbl:latitude":-34.859361,
     "lbl:longitude":-55.236105,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Maldonado",
     "meso:mps_x":-55.236105,
     "meso:mps_y":-34.859361,
@@ -22,6 +24,7 @@
     "mps:longitude":-55.236105,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Piri\u00e1polis"
     ],
@@ -71,7 +74,7 @@
         "\u76ae\u91cc\u4e9e\u6ce2\u5229\u65af"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632511,
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1092075613,
-    "wof:lastmodified":1564167676,
+    "wof:lastmodified":1566643089,
     "wof:name":"Piri\u00e1polis",
     "wof:parent_id":85680335,
     "wof:placetype":"county",

@@ -11,10 +11,14 @@
     "geom:longitude":-55.63333,
     "gn:country":"UY",
     "gn:fcode":"PPL",
-    "gn:pop":1170,
+    "gn:population":1170,
     "iso:country":"UY",
+    "lbl:bbox":"-55.65333,-32.78667,-55.61333,-32.74667",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Blanquillo"
     ],
@@ -56,7 +60,7 @@
     "wof:concordances":{
         "gn:id":3443588,
         "gp:id":468014,
-        "qs:id":147841,
+        "qs_pg:id":147841,
         "wd:id":"Q389098"
     },
     "wof:country":"UY",
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":890441863,
-    "wof:lastmodified":1563360423,
+    "wof:lastmodified":1566643136,
     "wof:name":"Blanquillo",
     "wof:parent_id":85680303,
     "wof:placetype":"locality",

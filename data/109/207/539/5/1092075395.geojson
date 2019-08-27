@@ -12,6 +12,8 @@
     "iso:country":"UY",
     "lbl:latitude":-34.100805,
     "lbl:longitude":-58.130477,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Colonia",
     "meso:mps_x":-58.130477,
     "meso:mps_y":-34.100805,
@@ -22,6 +24,7 @@
     "mps:longitude":-58.130477,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bre_x_preferred":[
         "Carmelo"
     ],
@@ -41,7 +44,7 @@
         "Carmelo"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632511,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1092075395,
-    "wof:lastmodified":1564167696,
+    "wof:lastmodified":1566643104,
     "wof:name":"Carmelo",
     "wof:parent_id":85680347,
     "wof:placetype":"county",

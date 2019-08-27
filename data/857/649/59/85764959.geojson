@@ -12,8 +12,10 @@
     "gn:latitude":-34.88333,
     "gn:longitude":-56.15,
     "iso:country":"UY",
+    "lbl:bbox":"-56.164866,-34.885464,-56.154866,-34.875464",
     "lbl:latitude":-34.880464,
     "lbl:longitude":-56.159866,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.881988,
     "mps:longitude":-56.157413,
     "mz:hierarchy_label":0,
@@ -47,9 +49,6 @@
     "name:spa_x_preferred":[
         "Villa Espa\u00f1ola"
     ],
-    "name:unk_x_variant":[
-        "Villa Espa\u00f1ola"
-    ],
     "name:zho_x_preferred":[
         "\u7dad\u62c9\u897f\u73ed\u7259\u4eba"
     ],
@@ -79,9 +78,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":86,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85680339,
         102191577,
@@ -92,7 +90,7 @@
     "wof:concordances":{
         "gn:id":3439594,
         "gp:id":380876,
-        "qs:id":887613,
+        "qs_pg:id":887613,
         "wd:id":"Q984929",
         "wk:page":"Villa Espa\u00f1ola"
     },
@@ -112,7 +110,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563360241,
+    "wof:lastmodified":1566643028,
     "wof:name":"Villa Espa\u00f1ola",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

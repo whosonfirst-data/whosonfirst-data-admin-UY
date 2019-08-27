@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-55.954828,-34.837265,-55.954828,-34.837265",
     "geom:latitude":-34.837265,
     "geom:longitude":-55.954828,
     "iso:country":"UY",
+    "lbl:bbox":"-55.974828,-34.857265,-55.934828,-34.817265",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -38,11 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26794394,
-        "qs:id":210229
+        "qs_pg:id":210229
     },
     "wof:country":"UY",
     "wof:created":1459010063,
-    "wof:geomhash":"6cbcbc8bcdfda2da4a118ed83033c5a1",
+    "wof:geomhash":"5753051d4cb1353d62098d8785d51226",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":421201165,
-    "wof:lastmodified":1466635892,
+    "wof:lastmodified":1566643129,
     "wof:name":"Villa del Mar",
     "wof:parent_id":85680321,
     "wof:placetype":"locality",

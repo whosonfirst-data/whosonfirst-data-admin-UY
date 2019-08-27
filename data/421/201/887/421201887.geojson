@@ -10,8 +10,12 @@
     "geom:latitude":-31.58333,
     "geom:longitude":-55.46667,
     "iso:country":"UY",
+    "lbl:bbox":"-55.48667,-31.60333,-55.44667,-31.56333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Minas de Corrales"
@@ -37,7 +41,7 @@
     "name:spa_x_preferred":[
         "Minas de Corrales"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Corrales"
     ],
     "name:zho_x_preferred":[
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3441659,
         "gp:id":468031,
-        "qs:id":215128,
+        "qs_pg:id":215128,
         "wd:id":"Q1020376",
         "wk:page":"Minas de Corrales"
     },
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":421201887,
-    "wof:lastmodified":1527716433,
+    "wof:lastmodified":1566643129,
     "wof:name":"Minas de Corrales",
     "wof:parent_id":85680307,
     "wof:placetype":"locality",

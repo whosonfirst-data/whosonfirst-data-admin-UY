@@ -13,8 +13,10 @@
     "gn:longitude":-55.27471,
     "gn:population":7968,
     "iso:country":"UY",
+    "lbl:bbox":"-55.27447,-34.875159,-55.26447,-34.865159",
     "lbl:latitude":-34.870159,
     "lbl:longitude":-55.26947,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.870158,
     "mps:longitude":-55.26947,
     "mz:hierarchy_label":0,
@@ -92,9 +94,6 @@
         "Pto del Ingl\u00e9s",
         "Puerto del Ingl\u00e9s"
     ],
-    "name:unk_x_variant":[
-        "Piri\u00e1polis"
-    ],
     "name:urd_x_preferred":[
         "\u067e\u06cc\u0631\u06cc\u0627\u067e\u0648\u0644\u06cc\u0633"
     ],
@@ -128,12 +127,11 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wd:latitude":-34.866111,
     "wd:longitude":-55.274722,
     "wd:wordcount":673,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85680335,
         102191577,
@@ -144,7 +142,7 @@
     "wof:concordances":{
         "gn:id":3441074,
         "gp:id":468071,
-        "qs:id":489751,
+        "qs_pg:id":489751,
         "wd:id":"Q1006155",
         "wk:page":"Piri\u00e1polis"
     },
@@ -164,7 +162,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563360244,
+    "wof:lastmodified":1566643029,
     "wof:name":"Piri\u00e1polis",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

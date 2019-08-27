@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Montevideo",
     "iso:country":"UY",
+    "lbl:bbox":"-55.1088,-34.8941,-55.0688,-34.8541",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Chihuahua"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1277095327,
-    "wof:lastmodified":1564167604,
+    "wof:lastmodified":1566643046,
     "wof:name":"Chihuahua",
     "wof:parent_id":1092075757,
     "wof:placetype":"locality",

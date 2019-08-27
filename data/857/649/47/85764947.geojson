@@ -9,14 +9,16 @@
     "geom:bbox":"-56.164331,-34.922295,-56.164331,-34.922295",
     "geom:latitude":-34.922295,
     "geom:longitude":-56.164331,
-    "gn:gn_country":"UY",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"UY",
+    "gn:fcode":"PPL",
     "gn:latitude":-34.92278,
     "gn:longitude":-56.15972,
+    "gn:population":0,
     "iso:country":"UY",
+    "lbl:bbox":"-56.169331,-34.927295,-56.159331,-34.917295",
     "lbl:latitude":-34.922295,
     "lbl:longitude":-56.164331,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.932857,
     "mps:longitude":-56.162709,
     "mz:hierarchy_label":0,
@@ -48,9 +50,6 @@
     ],
     "name:spa_x_variant":[
         "Pta Carretas"
-    ],
-    "name:unk_x_variant":[
-        "Punta Carretas"
     ],
     "qs:gn_adm0_cc":"US",
     "qs:gn_fcode":"PPL",
@@ -98,9 +97,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":221,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85680339,
         102191577,
@@ -111,7 +109,6 @@
     "wof:concordances":{
         "gn:id":3440942,
         "gp:id":380760,
-        "qs:id":211191,
         "qs_pg:id":211191,
         "wd:id":"Q984390",
         "wk:page":"Punta Carretas"
@@ -132,7 +129,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563360243,
+    "wof:lastmodified":1566643029,
     "wof:name":"Punta Carretas",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

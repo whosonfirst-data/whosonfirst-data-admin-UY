@@ -11,8 +11,11 @@
     "geom:longitude":-54.38333,
     "gn:country":"UY",
     "gn:fcode":"PPLA",
-    "gn:pop":25653,
+    "gn:population":25653,
     "iso:country":"UY",
+    "lbl:bbox":"-54.40333,-33.25333,-54.36333,-33.21333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -160,7 +163,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0440\u0435\u0439\u043d\u0442\u0430-\u0456-\u0422\u0440\u0435\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Villa de Treinta y Tres"
     ],
     "name:urd_x_preferred":[
@@ -282,12 +285,12 @@
     "wof:concordances":{
         "gn:id":3439781,
         "gp:id":468078,
-        "qs:id":1044715,
+        "qs_pg:id":1044715,
         "wd:id":"Q830390",
         "wk:page":"Treinta y Tres"
     },
     "wof:concordances_alt":{
-        "qs:id":1077501
+        "qs_pg:id":1077501
     },
     "wof:country":"UY",
     "wof:created":1469052476,
@@ -301,7 +304,7 @@
         }
     ],
     "wof:id":890444641,
-    "wof:lastmodified":1563360437,
+    "wof:lastmodified":1566643138,
     "wof:name":"Treinta y Tres",
     "wof:parent_id":85680317,
     "wof:placetype":"locality",

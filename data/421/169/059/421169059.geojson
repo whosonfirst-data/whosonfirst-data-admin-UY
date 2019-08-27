@@ -10,6 +10,9 @@
     "geom:latitude":-34.45333,
     "geom:longitude":-56.39056,
     "iso:country":"UY",
+    "lbl:bbox":"-56.41056,-34.47333,-56.37056,-34.43333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -134,7 +137,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430-\u041b\u0443\u0441\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Juan Bautista"
     ],
     "name:urd_x_preferred":[
@@ -273,7 +276,7 @@
     "wof:concordances":{
         "gn:id":3440571,
         "gp:id":468076,
-        "qs:id":274304,
+        "qs_pg:id":274304,
         "wd:id":"Q1014315",
         "wk:page":"Santa Luc\u00eda, Uruguay"
     },
@@ -289,7 +292,7 @@
         }
     ],
     "wof:id":421169059,
-    "wof:lastmodified":1563360387,
+    "wof:lastmodified":1566643122,
     "wof:name":"Santa Luc\u00eda",
     "wof:parent_id":85680321,
     "wof:placetype":"locality",

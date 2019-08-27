@@ -10,8 +10,12 @@
     "geom:latitude":-32.91667,
     "geom:longitude":-54.96667,
     "iso:country":"UY",
+    "lbl:bbox":"-54.98667,-32.93667,-54.94667,-32.89667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Santa Clara de Olimar"
@@ -64,7 +68,7 @@
     "name:swe_x_preferred":[
         "Santa Clara de Olimar"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pueblo Olimar"
     ],
     "name:zho_x_preferred":[
@@ -103,7 +107,7 @@
     "wof:concordances":{
         "gn:id":3440577,
         "gp:id":380822,
-        "qs:id":1044732,
+        "qs_pg:id":1044732,
         "wd:id":"Q1508561",
         "wk:page":"Santa Clara de Olimar"
     },
@@ -119,7 +123,7 @@
         }
     ],
     "wof:id":421168215,
-    "wof:lastmodified":1561790733,
+    "wof:lastmodified":1566643120,
     "wof:name":"Santa Clara de Olimar",
     "wof:parent_id":85680317,
     "wof:placetype":"locality",

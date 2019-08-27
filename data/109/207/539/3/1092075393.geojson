@@ -12,6 +12,8 @@
     "iso:country":"UY",
     "lbl:latitude":-32.690655,
     "lbl:longitude":-56.489904,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Tacuarembo",
     "meso:mps_x":-56.489904,
     "meso:mps_y":-32.690655,
@@ -22,6 +24,7 @@
     "mps:longitude":-56.489904,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:fas_x_preferred":[
         "\u067e\u0627\u0633\u0648 \u062f \u0644\u0648\u0633\u200c\u062a\u0631\u0648\u0633"
     ],
@@ -32,7 +35,7 @@
         "\u067e\u0627\u0633\u0648 \u062f\u06d2 \u0644\u0648\u0633 \u062a\u0648\u0631\u0648\u0633"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632511,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1092075393,
-    "wof:lastmodified":1564167695,
+    "wof:lastmodified":1566643104,
     "wof:name":"Paso de los Toros",
     "wof:parent_id":85680311,
     "wof:placetype":"county",

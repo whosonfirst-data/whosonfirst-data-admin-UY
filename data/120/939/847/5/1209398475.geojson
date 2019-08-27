@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Montevideo",
     "iso:country":"UY",
+    "lbl:bbox":"-56.2591,-34.87945,-56.2191,-34.83945",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Victoria"
     ],
@@ -208,8 +212,7 @@
         "Victoria"
     ],
     "name:und_x_variant":[
-        "Pueblo Victoria",
-        "Victoria"
+        "Pueblo Victoria"
     ],
     "name:urd_x_preferred":[
         "\u0648\u06a9\u0679\u0648\u0631\u06cc\u06c1"
@@ -246,7 +249,7 @@
         }
     ],
     "wof:id":1209398475,
-    "wof:lastmodified":1564167624,
+    "wof:lastmodified":1566643059,
     "wof:name":"Victoria",
     "wof:parent_id":85632511,
     "wof:placetype":"locality",

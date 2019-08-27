@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Montevideo",
     "iso:country":"UY",
+    "lbl:bbox":"-56.25849,-33.94994,-56.21849,-33.90994",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "La Cruz"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1327325307,
-    "wof:lastmodified":1564167560,
+    "wof:lastmodified":1566643008,
     "wof:name":"La Cruz",
     "wof:parent_id":85680325,
     "wof:placetype":"locality",

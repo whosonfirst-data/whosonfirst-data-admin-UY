@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Montevideo",
     "iso:country":"UY",
+    "lbl:bbox":"-54.96221,-33.54284,-54.92221,-33.50284",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Zapic\u00e1n"
     ],
@@ -52,9 +56,6 @@
     "name:spa_x_preferred":[
         "Zapic\u00e1n"
     ],
-    "name:und_x_variant":[
-        "Zapic\u00e1n"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1242958739,
-    "wof:lastmodified":1564167729,
+    "wof:lastmodified":1566643151,
     "wof:name":"Zapican",
     "wof:parent_id":85680329,
     "wof:placetype":"locality",

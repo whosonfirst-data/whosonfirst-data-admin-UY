@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Montevideo",
     "iso:country":"UY",
+    "lbl:bbox":"-54.74034,-33.89642,-54.70034,-33.85642",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u043e\u043b\u043e\u043d"
     ],
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":1242859979,
-    "wof:lastmodified":1564167740,
+    "wof:lastmodified":1566643156,
     "wof:name":"Colon",
     "wof:parent_id":85680329,
     "wof:placetype":"locality",

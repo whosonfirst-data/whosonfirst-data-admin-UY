@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Montevideo",
     "iso:country":"UY",
+    "lbl:bbox":"-55.32046,-34.85734,-55.28046,-34.81734",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Playa Hermosa"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1243544381,
-    "wof:lastmodified":1564167723,
+    "wof:lastmodified":1566643146,
     "wof:name":"Playa Hermosa",
     "wof:parent_id":1092074821,
     "wof:placetype":"locality",

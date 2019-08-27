@@ -9,20 +9,23 @@
     "geom:bbox":"-55.48333,-34.6,-55.48333,-34.6",
     "geom:latitude":-34.6,
     "geom:longitude":-55.48333,
-    "gn:gn_country":"UY",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2704,
+    "gn:country":"UY",
+    "gn:fcode":"PPL",
     "gn:population":2704,
     "iso:country":"UY",
+    "lbl:bbox":"-55.50333,-34.62,-55.46333,-34.58",
     "lbl:latitude":-34.6,
     "lbl:longitude":-55.48333,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:rus_x_preferred":[
         "\u0421\u043e\u043b\u0438\u0441-\u0434\u0435-\u041c\u0430\u0442\u0430\u043e\u0445\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sol\u00eds"
     ],
     "name:zho_x_preferred":[
@@ -40,7 +43,7 @@
     "qs_pg:qs_id":95572,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1125868263,
-    "wof:lastmodified":1564167718,
+    "wof:lastmodified":1566643142,
     "wof:name":"Sol\u00eds de Mataojo",
     "wof:parent_id":1092075681,
     "wof:placetype":"locality",

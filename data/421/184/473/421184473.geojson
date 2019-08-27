@@ -10,6 +10,9 @@
     "geom:latitude":-30.401898,
     "geom:longitude":-56.467151,
     "iso:country":"UY",
+    "lbl:bbox":"-56.487151,-30.421898,-56.447151,-30.381898",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -161,7 +164,7 @@
     "name:ukr_x_variant":[
         "\u0410\u0440\u0442\u0438\u0491\u0430\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Eugenio"
     ],
     "name:urd_x_preferred":[
@@ -305,9 +308,11 @@
     "wof:concordances":{
         "gn:id":3443758,
         "gp:id":380894,
-        "qs:id":1075821,
         "qs_pg:id":1044760,
         "wd:id":"Q712567"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1075821
     },
     "wof:country":"UY",
     "wof:created":1459009412,
@@ -321,7 +326,7 @@
         }
     ],
     "wof:id":421184473,
-    "wof:lastmodified":1563360409,
+    "wof:lastmodified":1566643130,
     "wof:name":"Artigas",
     "wof:parent_id":85680355,
     "wof:placetype":"locality",

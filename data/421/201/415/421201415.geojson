@@ -10,8 +10,12 @@
     "geom:latitude":-34.8,
     "geom:longitude":-54.91667,
     "iso:country":"UY",
+    "lbl:bbox":"-54.93667,-34.82,-54.89667,-34.78",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646 \u0643\u0627\u0631\u0644\u0648\u0633\u060c \u0623\u0648\u0631\u0648\u063a\u0648\u0627\u064a"
@@ -146,7 +150,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u041a\u0430\u0440\u043b\u043e\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Villa de San Carlos"
     ],
     "name:urd_x_preferred":[
@@ -194,7 +198,7 @@
     "wof:concordances":{
         "gn:id":3440696,
         "gp:id":468074,
-        "qs:id":211199,
+        "qs_pg:id":211199,
         "wd:id":"Q374670",
         "wk:page":"San Carlos, Uruguay"
     },
@@ -210,7 +214,7 @@
         }
     ],
     "wof:id":421201415,
-    "wof:lastmodified":1563360406,
+    "wof:lastmodified":1566643129,
     "wof:name":"San Carlos",
     "wof:parent_id":85680335,
     "wof:placetype":"locality",

@@ -11,13 +11,16 @@
     "geom:longitude":-56.218756,
     "gn:country":"UY",
     "gn:fcode":"PPLC",
-    "gn:pop":1270737,
+    "gn:population":1270737,
     "iso:country":"UY",
     "lbl:latitude":-34.83346,
     "lbl:longitude":-56.16735,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
+    "mz:min_zoom":4.0,
     "name:abk_x_preferred":[
         "\u041c\u043e\u043d\u0442\u0435\u0432\u0438\u0434\u0435\u043e"
     ],
@@ -471,7 +474,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043d\u0442\u0435\u0432\u0456\u0434\u0435\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ciudad de Montevideo"
     ],
     "name:urd_x_preferred":[
@@ -544,10 +547,12 @@
     "wof:concordances":{
         "gn:id":3441575,
         "gp:id":468052,
-        "qs:id":95579,
-        "qs_pg:id":1059187,
+        "qs_pg:id":95579,
         "wd:id":"Q1335",
         "wk:page":"Montevideo"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1059187
     },
     "wof:coterminous":[
         85680339
@@ -565,7 +570,7 @@
         }
     ],
     "wof:id":890437681,
-    "wof:lastmodified":1563360427,
+    "wof:lastmodified":1566643136,
     "wof:name":"Montevideo",
     "wof:parent_id":1092076411,
     "wof:placetype":"locality",

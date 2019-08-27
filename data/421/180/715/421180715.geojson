@@ -10,8 +10,12 @@
     "geom:latitude":-34.55,
     "geom:longitude":-55.88333,
     "iso:country":"UY",
+    "lbl:bbox":"-55.90333,-34.57,-55.86333,-34.53",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "San Jacinto"
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":3440654,
         "gp:id":468111,
-        "qs:id":1212496,
+        "qs_pg:id":1212496,
         "wd:id":"Q525163",
         "wk:page":"San Jacinto, Uruguay"
     },
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":421180715,
-    "wof:lastmodified":1563360389,
+    "wof:lastmodified":1566643123,
     "wof:name":"San Jacinto",
     "wof:parent_id":85680321,
     "wof:placetype":"locality",

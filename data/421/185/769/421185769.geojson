@@ -10,8 +10,12 @@
     "geom:latitude":-34.41167,
     "geom:longitude":-56.40222,
     "iso:country":"UY",
+    "lbl:bbox":"-56.42222,-34.43167,-56.38222,-34.39167",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Veinticinco de Agosto"
@@ -43,9 +47,6 @@
     "name:spa_x_preferred":[
         "Veinticinco de Agosto"
     ],
-    "name:unk_x_variant":[
-        "25 de Agosto"
-    ],
     "qs:gn_country":"UY",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3439661,
@@ -76,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3439661,
         "gp:id":468050,
-        "qs:id":1044720,
+        "qs_pg:id":1044720,
         "wd:id":"Q218465",
         "wk:page":"Veinticinco de Agosto"
     },
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":421185769,
-    "wof:lastmodified":1561790739,
+    "wof:lastmodified":1566643134,
     "wof:name":"Veinticinco de Agosto",
     "wof:parent_id":85680325,
     "wof:placetype":"locality",

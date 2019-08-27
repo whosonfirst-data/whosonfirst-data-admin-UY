@@ -10,6 +10,9 @@
     "geom:latitude":-34.9,
     "geom:longitude":-54.95,
     "iso:country":"UY",
+    "lbl:bbox":"-54.97,-34.92,-54.93,-34.88",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
@@ -164,7 +167,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043b\u044c\u0434\u043e\u043d\u0430\u0434\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Fernando de Maldonado"
     ],
     "name:urd_x_preferred":[
@@ -306,7 +309,7 @@
     "wof:concordances":{
         "gn:id":3441894,
         "gp:id":468065,
-        "qs:id":1044740,
+        "qs_pg:id":1044740,
         "wd:id":"Q16258",
         "wk:page":"Maldonado, Uruguay"
     },
@@ -322,7 +325,7 @@
         }
     ],
     "wof:id":421176163,
-    "wof:lastmodified":1563360418,
+    "wof:lastmodified":1566643133,
     "wof:name":"Maldonado",
     "wof:parent_id":85680335,
     "wof:placetype":"locality",

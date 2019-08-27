@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Montevideo",
     "iso:country":"UY",
+    "lbl:bbox":"-55.84406,-34.79433,-55.80406,-34.75433",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Marindia"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1276445433,
-    "wof:lastmodified":1564167606,
+    "wof:lastmodified":1566643048,
     "wof:name":"Marindia",
     "wof:parent_id":1092076195,
     "wof:placetype":"locality",

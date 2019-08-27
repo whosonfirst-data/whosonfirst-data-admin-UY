@@ -10,8 +10,12 @@
     "geom:latitude":-34.44972,
     "geom:longitude":-56.07917,
     "iso:country":"UY",
+    "lbl:bbox":"-56.09917,-34.46972,-56.05917,-34.42972",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "San Antonio"
@@ -75,7 +79,7 @@
     "wof:concordances":{
         "gn:id":3440705,
         "gp:id":468038,
-        "qs:id":215132,
+        "qs_pg:id":215132,
         "wd:id":"Q1005259",
         "wk:page":"San Antonio, Canelones"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421201895,
-    "wof:lastmodified":1563360406,
+    "wof:lastmodified":1566643129,
     "wof:name":"San Antonio",
     "wof:parent_id":85680321,
     "wof:placetype":"locality",

@@ -9,16 +9,19 @@
     "geom:bbox":"-56.13361,-34.87056,-56.13361,-34.87056",
     "geom:latitude":-34.87056,
     "geom:longitude":-56.13361,
-    "gn:gn_country":"UY",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"UY",
+    "gn:fcode":"PPLX",
     "gn:latitude":-34.87056,
     "gn:longitude":-56.13361,
+    "gn:population":0,
     "iso:country":"UY",
+    "lbl:bbox":"-56.13861,-34.87556,-56.12861,-34.86556",
     "lbl:latitude":-34.87056,
     "lbl:longitude":-56.13361,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Uni\u00f3n"
@@ -51,9 +54,6 @@
         "La Uni\u00f3n",
         "Uni\u00f3n"
     ],
-    "name:unk_x_variant":[
-        "Uni\u00f3n"
-    ],
     "qs_pg:aaroncc":"UY",
     "qs_pg:gn_country":"UY",
     "qs_pg:gn_fcode":"PPLX",
@@ -75,7 +75,7 @@
     "qs_pg:woe_adm0":23424979,
     "qs_pg:woe_id":380865,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424979,
     "woe:name_adm0":"Uruguay",
     "woe:name_adm1":"Montevideo",
@@ -90,7 +90,6 @@
     "wof:concordances":{
         "gn:id":3439708,
         "gp:id":380865,
-        "qs:id":1324870,
         "qs_pg:id":1324870,
         "wd:id":"Q984518",
         "wk:page":"Uni\u00f3n, Montevideo"
@@ -109,7 +108,7 @@
         }
     ],
     "wof:id":1126103725,
-    "wof:lastmodified":1563360443,
+    "wof:lastmodified":1566643141,
     "wof:name":"Uni\u00f3n",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

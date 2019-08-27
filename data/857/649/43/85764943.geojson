@@ -12,8 +12,10 @@
     "gn:latitude":-34.90972,
     "gn:longitude":-56.15222,
     "iso:country":"UY",
+    "lbl:bbox":"-56.150973,-34.918097,-56.140973,-34.908097",
     "lbl:latitude":-34.913097,
     "lbl:longitude":-56.145973,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.918365,
     "mps:longitude":-56.132281,
     "mz:hierarchy_label":0,
@@ -52,9 +54,6 @@
     "name:spa_x_preferred":[
         "Pocitos"
     ],
-    "name:unk_x_variant":[
-        "Pocitos"
-    ],
     "qs:gn_adm0_cc":"US",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":5038018,
@@ -81,8 +80,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191577,
         85632511,
@@ -92,7 +90,7 @@
     "wof:concordances":{
         "gn:id":3441011,
         "gp:id":380744,
-        "qs:id":889979,
+        "qs_pg:id":889979,
         "wd:id":"Q2094894",
         "wk:page":"Pocitos"
     },
@@ -111,7 +109,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1561790725,
+    "wof:lastmodified":1566643028,
     "wof:name":"Pocitos",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Montevideo",
     "iso:country":"UY",
+    "lbl:bbox":"-54.65733,-32.36864,-54.61733,-32.32864",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ram\u00f3n Trigo"
     ],
@@ -46,8 +50,7 @@
         "Ram\u00f3n Trigo"
     ],
     "name:und_x_variant":[
-        "Trigo",
-        "Ram\u00f3n Trigo"
+        "Trigo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1309814941,
-    "wof:lastmodified":1564167715,
+    "wof:lastmodified":1566643119,
     "wof:name":"Ramon Trigo",
     "wof:parent_id":85680299,
     "wof:placetype":"locality",

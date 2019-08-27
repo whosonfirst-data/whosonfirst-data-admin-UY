@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Montevideo",
     "iso:country":"UY",
+    "lbl:bbox":"-57.63119,-30.31785,-57.59119,-30.27785",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Coronado"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1343961987,
-    "wof:lastmodified":1564167568,
+    "wof:lastmodified":1566643013,
     "wof:name":"Coronado",
     "wof:parent_id":1092075277,
     "wof:placetype":"locality",

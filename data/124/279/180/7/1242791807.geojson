@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Montevideo",
     "iso:country":"UY",
+    "lbl:bbox":"-56.92455,-30.63174,-56.88455,-30.59174",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Cuar\u00f3"
     ],
@@ -41,9 +45,6 @@
         "Cuar\u00f3"
     ],
     "name:spa_x_preferred":[
-        "Cuar\u00f3"
-    ],
-    "name:und_x_variant":[
         "Cuar\u00f3"
     ],
     "src:geom":"geonames",
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1242791807,
-    "wof:lastmodified":1564167738,
+    "wof:lastmodified":1566643155,
     "wof:name":"Cuaro",
     "wof:parent_id":85680355,
     "wof:placetype":"locality",

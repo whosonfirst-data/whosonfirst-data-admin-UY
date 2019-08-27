@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Montevideo",
     "iso:country":"UY",
+    "lbl:bbox":"-57.36286,-31.88284,-57.32286,-31.84284",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Puntas del Buricayup\u00ed"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310679129,
-    "wof:lastmodified":1537713207,
+    "wof:lastmodified":1566643083,
     "wof:name":"Puntas del Buricayupi",
     "wof:parent_id":85680363,
     "wof:placetype":"locality",

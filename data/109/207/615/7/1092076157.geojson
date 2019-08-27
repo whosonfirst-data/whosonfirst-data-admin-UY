@@ -12,6 +12,8 @@
     "iso:country":"UY",
     "lbl:latitude":-34.520941,
     "lbl:longitude":-56.058964,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Canelones",
     "meso:mps_x":-56.058964,
     "meso:mps_y":-34.520941,
@@ -22,6 +24,7 @@
     "mps:longitude":-56.058964,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Santa Rosa"
     ],
@@ -116,7 +119,7 @@
         "Santa Rosa"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632511,
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":1092076157,
-    "wof:lastmodified":1564167701,
+    "wof:lastmodified":1566643107,
     "wof:name":"Santa Rosa",
     "wof:parent_id":85680321,
     "wof:placetype":"county",

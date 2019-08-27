@@ -10,8 +10,12 @@
     "geom:latitude":-33.73333,
     "geom:longitude":-56.33333,
     "iso:country":"UY",
+    "lbl:bbox":"-56.35333,-33.75333,-56.31333,-33.71333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Sarand\u00ed Grande"
@@ -58,7 +62,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u0440\u0430\u043d\u0434\u0456 \u0413\u0440\u0430\u043d\u0434\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Villa Sarand\u00ed"
     ],
     "name:urd_x_preferred":[
@@ -99,7 +103,7 @@
     "wof:concordances":{
         "gn:id":3440394,
         "gp:id":468041,
-        "qs:id":1044731,
+        "qs_pg:id":1044731,
         "wd:id":"Q1783586",
         "wk:page":"Sarand\u00ed Grande"
     },
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":421168213,
-    "wof:lastmodified":1563360380,
+    "wof:lastmodified":1566643120,
     "wof:name":"Sarand\u00ed Grande",
     "wof:parent_id":85680325,
     "wof:placetype":"locality",

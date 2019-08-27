@@ -11,8 +11,11 @@
     "geom:longitude":-58.03047,
     "gn:country":"UY",
     "gn:fcode":"PPLA",
-    "gn:pop":42359,
+    "gn:population":42359,
     "iso:country":"UY",
+    "lbl:bbox":"-58.05047,-33.2724,-58.01047,-33.2324",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -154,7 +157,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0440\u0441\u0435\u0434\u0435\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ciudad de Mercedes"
     ],
     "name:urd_x_preferred":[
@@ -282,12 +285,12 @@
     "wof:concordances":{
         "gn:id":3441684,
         "gp:id":468067,
-        "qs:id":1044728,
+        "qs_pg:id":1044728,
         "wd:id":"Q844914",
         "wk:page":"Mercedes"
     },
     "wof:concordances_alt":{
-        "qs:id":1077499
+        "qs_pg:id":1077499
     },
     "wof:country":"UY",
     "wof:created":1469052142,
@@ -301,7 +304,7 @@
         }
     ],
     "wof:id":890437191,
-    "wof:lastmodified":1563360430,
+    "wof:lastmodified":1566643137,
     "wof:name":"Mercedes",
     "wof:parent_id":85680293,
     "wof:placetype":"locality",

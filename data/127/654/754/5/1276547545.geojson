@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Montevideo",
     "iso:country":"UY",
+    "lbl:bbox":"-57.95597,-34.12241,-57.91597,-34.08241",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Puntas de Juan Gonz\u00e1lez"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1276547545,
-    "wof:lastmodified":1537713229,
+    "wof:lastmodified":1566643056,
     "wof:name":"Puntas de Juan Gonzalez",
     "wof:parent_id":85680347,
     "wof:placetype":"locality",
