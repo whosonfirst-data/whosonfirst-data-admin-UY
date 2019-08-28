@@ -10,8 +10,12 @@
     "geom:latitude":-33.50719,
     "geom:longitude":-57.80079,
     "iso:country":"UY",
+    "lbl:bbox":"-57.82079,-33.52719,-57.78079,-33.48719",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Palmitas"
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":3441377,
         "gp:id":468104,
-        "qs:id":600582,
+        "qs_pg:id":600582,
         "wd:id":"Q489450",
         "wk:page":"Palmitas"
     },
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":421192967,
-    "wof:lastmodified":1563360381,
+    "wof:lastmodified":1566643120,
     "wof:name":"Palmitas",
     "wof:parent_id":85680293,
     "wof:placetype":"locality",

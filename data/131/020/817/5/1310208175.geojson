@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Montevideo",
     "iso:country":"UY",
+    "lbl:bbox":"-55.82809,-34.79083,-55.78809,-34.75083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Fort\u00edn de Santa Rosa"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310208175,
-    "wof:lastmodified":1537713224,
+    "wof:lastmodified":1566643078,
     "wof:name":"Fortin de Santa Rosa",
     "wof:parent_id":1092076195,
     "wof:placetype":"locality",

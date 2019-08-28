@@ -12,6 +12,8 @@
     "iso:country":"UY",
     "lbl:latitude":-32.301476,
     "lbl:longitude":-57.532125,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Paysandu",
     "meso:mps_x":-57.532125,
     "meso:mps_y":-32.301476,
@@ -22,6 +24,7 @@
     "mps:longitude":-57.532125,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Piedras Coloradas"
     ],
@@ -47,7 +50,7 @@
         "Piedras Coloradas"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632511,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1092076747,
-    "wof:lastmodified":1564167685,
+    "wof:lastmodified":1566643095,
     "wof:name":"Piedras Coloradas",
     "wof:parent_id":85680363,
     "wof:placetype":"county",

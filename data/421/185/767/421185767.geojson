@@ -10,8 +10,12 @@
     "geom:latitude":-34.18917,
     "geom:longitude":-56.33944,
     "iso:country":"UY",
+    "lbl:bbox":"-56.35944,-34.20917,-56.31944,-34.16917",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Isla Mala"
@@ -49,9 +53,6 @@
     "name:spa_x_preferred":[
         "25 de Mayo"
     ],
-    "name:unk_x_variant":[
-        "Isla Mala"
-    ],
     "qs:gn_country":"UY",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3439659,
@@ -82,7 +83,7 @@
     "wof:concordances":{
         "gn:id":3439659,
         "gp:id":468051,
-        "qs:id":1044719,
+        "qs_pg:id":1044719,
         "wd:id":"Q218472",
         "wk:page":"Veinticinco de Mayo, Uruguay"
     },
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":421185767,
-    "wof:lastmodified":1563360420,
+    "wof:lastmodified":1566643134,
     "wof:name":"Veinticinco de Mayo",
     "wof:parent_id":85680325,
     "wof:placetype":"locality",

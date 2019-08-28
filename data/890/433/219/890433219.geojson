@@ -11,10 +11,14 @@
     "geom:longitude":-56.39361,
     "gn:country":"UY",
     "gn:fcode":"PPL",
-    "gn:pop":1101,
+    "gn:population":1101,
     "iso:country":"UY",
+    "lbl:bbox":"-56.41361,-34.54194,-56.37361,-34.50194",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Aguas Corrientes"
     ],
@@ -72,7 +76,7 @@
     "wof:concordances":{
         "gn:id":3443928,
         "gp:id":468010,
-        "qs:id":279753,
+        "qs_pg:id":279753,
         "wd:id":"Q397975",
         "wk:page":"Aguas Corrientes"
     },
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":890433219,
-    "wof:lastmodified":1563360439,
+    "wof:lastmodified":1566643139,
     "wof:name":"Aguas Corrientes",
     "wof:parent_id":85680321,
     "wof:placetype":"locality",

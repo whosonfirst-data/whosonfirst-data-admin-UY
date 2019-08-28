@@ -10,8 +10,12 @@
     "geom:latitude":-34.82365,
     "geom:longitude":-55.315454,
     "iso:country":"UY",
+    "lbl:bbox":"-55.335454,-34.84365,-55.295454,-34.80365",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Playa Verde"
@@ -59,7 +63,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26794425,
-        "qs:id":1064911,
+        "qs_pg:id":1064911,
         "wd:id":"Q984693"
     },
     "wof:country":"UY",
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":421186369,
-    "wof:lastmodified":1561790734,
+    "wof:lastmodified":1566643125,
     "wof:name":"Playa Verde",
     "wof:parent_id":85680335,
     "wof:placetype":"locality",

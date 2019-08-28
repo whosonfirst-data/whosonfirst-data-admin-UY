@@ -10,8 +10,12 @@
     "geom:latitude":-34.68333,
     "geom:longitude":-55.68333,
     "iso:country":"UY",
+    "lbl:bbox":"-55.70333,-34.70333,-55.66333,-34.66333",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Soca"
@@ -37,7 +41,7 @@
     "name:spa_x_preferred":[
         "Soca"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mosquitos"
     ],
     "name:urd_x_preferred":[
@@ -72,7 +76,7 @@
     "wof:concordances":{
         "gn:id":3440076,
         "gp:id":468044,
-        "qs:id":1044724,
+        "qs_pg:id":1044724,
         "wd:id":"Q984836",
         "wk:page":"Dr. Francisco Soca"
     },
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":421185741,
-    "wof:lastmodified":1563360420,
+    "wof:lastmodified":1566643134,
     "wof:name":"Soca",
     "wof:parent_id":85680321,
     "wof:placetype":"locality",

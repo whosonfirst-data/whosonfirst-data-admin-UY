@@ -10,8 +10,12 @@
     "geom:latitude":-32.83333,
     "geom:longitude":-54.76667,
     "iso:country":"UY",
+    "lbl:bbox":"-54.78667,-32.85333,-54.74667,-32.81333",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Tupamba\u00e9"
@@ -84,7 +88,7 @@
     "wof:concordances":{
         "gn:id":3439725,
         "gp:id":380905,
-        "qs:id":1044721,
+        "qs_pg:id":1044721,
         "wd:id":"Q1020969",
         "wk:page":"Tupamba\u00e9"
     },
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":421185773,
-    "wof:lastmodified":1563360422,
+    "wof:lastmodified":1566643135,
     "wof:name":"Tupamba\u00e9",
     "wof:parent_id":85680317,
     "wof:placetype":"locality",

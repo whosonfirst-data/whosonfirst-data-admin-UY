@@ -10,8 +10,12 @@
     "geom:latitude":-34.3,
     "geom:longitude":-55.96667,
     "iso:country":"UY",
+    "lbl:bbox":"-55.98667,-34.32,-55.94667,-34.28",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "San Ram\u00f3n"
@@ -106,7 +110,7 @@
     "wof:concordances":{
         "gn:id":3440596,
         "gp:id":468075,
-        "qs:id":982718,
+        "qs_pg:id":982718,
         "wd:id":"Q1784539",
         "wk:page":"San Ram\u00f3n, Uruguay"
     },
@@ -122,7 +126,7 @@
         }
     ],
     "wof:id":421183699,
-    "wof:lastmodified":1563360412,
+    "wof:lastmodified":1566643131,
     "wof:name":"San Ram\u00f3n",
     "wof:parent_id":85680321,
     "wof:placetype":"locality",

@@ -12,6 +12,8 @@
     "iso:country":"UY",
     "lbl:latitude":-33.798629,
     "lbl:longitude":-54.273192,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Rocha",
     "meso:mps_x":-54.273192,
     "meso:mps_y":-33.798629,
@@ -22,6 +24,7 @@
     "mps:longitude":-54.273192,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Lascano"
     ],
@@ -65,7 +68,7 @@
         "\u62c9\u65af\u5361\u8afe"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632511,
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1092074905,
-    "wof:lastmodified":1564167687,
+    "wof:lastmodified":1566643096,
     "wof:name":"Lascano",
     "wof:parent_id":85680343,
     "wof:placetype":"county",

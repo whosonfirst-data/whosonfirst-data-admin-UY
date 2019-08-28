@@ -11,8 +11,11 @@
     "geom:longitude":-56.27778,
     "gn:country":"UY",
     "gn:fcode":"PPLA",
-    "gn:pop":19698,
+    "gn:population":19698,
     "iso:country":"UY",
+    "lbl:bbox":"-56.29778,-34.54278,-56.25778,-34.50278",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
@@ -160,7 +163,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043d\u0435\u043b\u043e\u043d\u0435\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Villa de Canelones"
     ],
     "name:urd_x_preferred":[
@@ -285,7 +288,7 @@
     "wof:concordances":{
         "gn:id":3443413,
         "gp:id":468058,
-        "qs:id":1044747,
+        "qs_pg:id":1044747,
         "wd:id":"Q841342",
         "wk:page":"Canelones"
     },
@@ -301,7 +304,7 @@
         }
     ],
     "wof:id":890444649,
-    "wof:lastmodified":1563360435,
+    "wof:lastmodified":1566643138,
     "wof:name":"Canelones",
     "wof:parent_id":85680321,
     "wof:placetype":"locality",

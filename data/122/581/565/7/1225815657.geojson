@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Montevideo",
     "iso:country":"UY",
+    "lbl:bbox":"-57.60333,-31.53667,-57.56333,-31.49667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Sous"
     ],
@@ -213,8 +217,7 @@
         "\u0421\u043e\u0443\u0441"
     ],
     "name:und_x_variant":[
-        "Sauce Chico de Laureles",
-        "Sauce"
+        "Sauce Chico de Laureles"
     ],
     "name:vie_x_preferred":[
         "X\u1ed1t"
@@ -240,7 +243,7 @@
         }
     ],
     "wof:id":1225815657,
-    "wof:lastmodified":1564167764,
+    "wof:lastmodified":1566643171,
     "wof:name":"Sauce",
     "wof:parent_id":85680289,
     "wof:placetype":"locality",

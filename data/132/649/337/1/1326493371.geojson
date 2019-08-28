@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Montevideo",
     "iso:country":"UY",
+    "lbl:bbox":"-55.0343,-32.19663,-54.9943,-32.15663",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Las Toscas"
     ],
@@ -48,8 +52,7 @@
         "Las Toscas"
     ],
     "name:und_x_variant":[
-        "Paso de las Toscas",
-        "Las Toscas"
+        "Paso de las Toscas"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u0633 \u0679\u0648\u0633\u06a9\u0627\u0633"
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1326493371,
-    "wof:lastmodified":1564167561,
+    "wof:lastmodified":1566643009,
     "wof:name":"Las Toscas",
     "wof:parent_id":85680311,
     "wof:placetype":"locality",

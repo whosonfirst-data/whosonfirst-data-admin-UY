@@ -9,14 +9,16 @@
     "geom:bbox":"-56.182496,-34.879289,-56.182496,-34.879289",
     "geom:latitude":-34.879289,
     "geom:longitude":-56.182496,
-    "gn:gn_country":"UY",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"UY",
+    "gn:fcode":"PPLX",
     "gn:latitude":-34.88333,
     "gn:longitude":-56.18333,
+    "gn:population":0,
     "iso:country":"UY",
+    "lbl:bbox":"-56.187496,-34.884289,-56.177496,-34.874289",
     "lbl:latitude":-34.879289,
     "lbl:longitude":-56.182496,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.880551,
     "mps:longitude":-56.180365,
     "mz:hierarchy_label":0,
@@ -51,9 +53,6 @@
         "Villa Munoz"
     ],
     "name:spa_x_preferred":[
-        "Villa Mu\u00f1oz"
-    ],
-    "name:unk_x_variant":[
         "Villa Mu\u00f1oz"
     ],
     "qs:gn_adm0_cc":"US",
@@ -102,9 +101,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":259,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85680339,
         102191577,
@@ -115,7 +113,6 @@
     "wof:concordances":{
         "gn:id":3439593,
         "gp:id":464453,
-        "qs:id":1138012,
         "qs_pg:id":1138012,
         "wd:id":"Q984422",
         "wk:page":"Villa Mu\u00f1oz"
@@ -136,7 +133,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563360244,
+    "wof:lastmodified":1566643029,
     "wof:name":"Villa Mu\u00f1oz",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

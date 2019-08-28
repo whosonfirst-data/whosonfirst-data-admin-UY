@@ -10,8 +10,12 @@
     "geom:latitude":-33.88333,
     "geom:longitude":-57.38333,
     "iso:country":"UY",
+    "lbl:bbox":"-57.40333,-33.90333,-57.36333,-33.86333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0643\u0627\u0631\u062f\u0648\u0646\u0627\u060c \u0623\u0648\u0631\u0648\u063a\u0648\u0627\u064a"
@@ -169,7 +173,7 @@
     "wof:concordances":{
         "gn:id":3443352,
         "gp:id":468016,
-        "qs:id":215129,
+        "qs_pg:id":215129,
         "wd:id":"Q247843",
         "wk:page":"Cardona, Uruguay"
     },
@@ -185,7 +189,7 @@
         }
     ],
     "wof:id":421170083,
-    "wof:lastmodified":1563360410,
+    "wof:lastmodified":1566643130,
     "wof:name":"Cardona",
     "wof:parent_id":85680293,
     "wof:placetype":"locality",

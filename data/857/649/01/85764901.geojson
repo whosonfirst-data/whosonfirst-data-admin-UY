@@ -11,8 +11,10 @@
     "geom:longitude":-56.17733,
     "gn:id":"",
     "iso:country":"UY",
+    "lbl:bbox":"-56.18233,-34.911896,-56.17233,-34.901896",
     "lbl:latitude":-34.906896,
     "lbl:longitude":-56.17733,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.905079,
     "mps:longitude":-56.17566,
     "mz:hierarchy_label":0,
@@ -48,9 +50,6 @@
     "name:swe_x_preferred":[
         "Aguada"
     ],
-    "name:unk_x_variant":[
-        "Aguada"
-    ],
     "name:vie_x_preferred":[
         "Aguada"
     ],
@@ -78,8 +77,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85680339,
         102191577,
@@ -89,7 +87,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":380342,
-        "qs:id":1075809
+        "qs_pg:id":1075809
     },
     "wof:country":"UY",
     "wof:geomhash":"32329373489d007245e27f32677818ee",
@@ -107,7 +105,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564167587,
+    "wof:lastmodified":1566643028,
     "wof:name":"Aguada",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

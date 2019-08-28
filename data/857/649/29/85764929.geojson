@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":22471130.821143,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-56.120758,-34.841232,-56.120758,-34.841232",
     "geom:latitude":-34.841232,
     "geom:longitude":-56.120758,
     "gn:latitude":-34.85,
     "gn:longitude":-56.11667,
     "iso:country":"UY",
+    "lbl:bbox":"-56.125758,-34.846232,-56.115758,-34.836232",
     "lbl:latitude":-34.841232,
     "lbl:longitude":-56.120758,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-34.823055,
     "mps:longitude":-56.104482,
     "mz:hierarchy_label":0,
@@ -48,10 +50,6 @@
         "Balneario Flor de Maro\u00f1as",
         "Pueblo Ituzaing\u00f3"
     ],
-    "name:unk_x_variant":[
-        "Balneario Flor de Maro\u00f1as",
-        "Flor de Maro\u00f1as"
-    ],
     "qs:gn_adm0_cc":"UY",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":5038018,
@@ -78,20 +76,19 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":69,
-    "wof:belongs_to":[],
     "wof:belongsto":[
+        85680339,
         102191577,
         85632511,
-        1092076429,
-        85680339
+        1092076429
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3442598,
         "gp:id":380510,
-        "qs:id":475376,
+        "qs_pg:id":475376,
         "wd:id":"Q984899",
         "wk:page":"Flor de Maro\u00f1as"
     },
@@ -111,7 +108,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531858976,
+    "wof:lastmodified":1566643028,
     "wof:name":"Flor de Maro\u00f1as",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

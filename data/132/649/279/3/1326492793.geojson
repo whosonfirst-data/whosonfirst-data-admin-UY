@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Montevideo",
     "iso:country":"UY",
+    "lbl:bbox":"-54.6983,-33.41003,-54.6583,-33.37003",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Villa Mar\u00eda Albina",
         "Mar\u00eda Albina"
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326492793,
-    "wof:lastmodified":1537713214,
+    "wof:lastmodified":1566643009,
     "wof:name":"Maria Albina",
     "wof:parent_id":85680317,
     "wof:placetype":"locality",

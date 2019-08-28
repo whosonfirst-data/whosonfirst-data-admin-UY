@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Montevideo",
     "iso:country":"UY",
+    "lbl:bbox":"-57.81234,-31.38698,-57.77234,-31.34698",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Parada Herrer\u00eda"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1292983763,
-    "wof:lastmodified":1537713212,
+    "wof:lastmodified":1566643041,
     "wof:name":"Parada Herreria",
     "wof:parent_id":1092077065,
     "wof:placetype":"locality",

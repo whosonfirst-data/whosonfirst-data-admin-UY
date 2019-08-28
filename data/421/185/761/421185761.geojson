@@ -10,8 +10,12 @@
     "geom:latitude":-33.25,
     "geom:longitude":-56.01667,
     "iso:country":"UY",
+    "lbl:bbox":"-56.03667,-33.27,-55.99667,-33.23",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Villa del Carmen"
@@ -40,7 +44,7 @@
     "name:spa_x_preferred":[
         "Villa del Carmen"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pueblo del Carmen"
     ],
     "name:zho_x_preferred":[
@@ -75,7 +79,7 @@
     "wof:concordances":{
         "gn:id":3439598,
         "gp:id":420098,
-        "qs:id":1044712,
+        "qs_pg:id":1044712,
         "wd:id":"Q289379",
         "wk:page":"Villa del Carmen"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421185761,
-    "wof:lastmodified":1561790739,
+    "wof:lastmodified":1566643135,
     "wof:name":"Carmen",
     "wof:parent_id":85680303,
     "wof:placetype":"locality",

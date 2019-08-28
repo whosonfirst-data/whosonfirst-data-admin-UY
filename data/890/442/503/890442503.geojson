@@ -12,7 +12,12 @@
     "gn:country":"UY",
     "gp:adm0":23424979,
     "iso:country":"UY",
+    "lbl:bbox":"-55.588191,-34.803458,-55.548191,-34.763458",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"La Tuna",
     "qs:name_adm0":"Uruguay",
     "qs:name_adm1":"Canelones",
@@ -32,11 +37,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26794410,
-        "qs:id":572769
+        "qs_pg:id":572769
     },
     "wof:country":"UY",
     "wof:created":1469052365,
-    "wof:geomhash":"897445b0f458c5a208515bad535516a5",
+    "wof:geomhash":"792eb261fae7aa4ab5f1415114d059b7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -46,7 +51,7 @@
         }
     ],
     "wof:id":890442503,
-    "wof:lastmodified":1469052365,
+    "wof:lastmodified":1566643139,
     "wof:name":"La Tuna",
     "wof:parent_id":85680321,
     "wof:placetype":"locality",

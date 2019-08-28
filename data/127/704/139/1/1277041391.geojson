@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Montevideo",
     "iso:country":"UY",
+    "lbl:bbox":"-55.08667,-32.03667,-55.04667,-31.99667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Las Arenas",
         "Poblado Las Arenas"
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1277041391,
-    "wof:lastmodified":1537713210,
+    "wof:lastmodified":1566643051,
     "wof:name":"Poblado Las Arenas",
     "wof:parent_id":85680311,
     "wof:placetype":"locality",

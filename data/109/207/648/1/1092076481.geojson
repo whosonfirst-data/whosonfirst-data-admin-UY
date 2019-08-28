@@ -12,6 +12,8 @@
     "iso:country":"UY",
     "lbl:latitude":-34.684975,
     "lbl:longitude":-55.973263,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Canelones",
     "meso:mps_x":-55.973263,
     "meso:mps_y":-34.684975,
@@ -22,6 +24,7 @@
     "mps:longitude":-55.973263,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Pando"
     ],
@@ -71,7 +74,7 @@
         "\u041f\u0430\u043d\u0434\u043e"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632511,
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1092076481,
-    "wof:lastmodified":1564167704,
+    "wof:lastmodified":1566643109,
     "wof:name":"Pando",
     "wof:parent_id":85680321,
     "wof:placetype":"county",

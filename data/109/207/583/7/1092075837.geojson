@@ -12,6 +12,8 @@
     "iso:country":"UY",
     "lbl:latitude":-34.527797,
     "lbl:longitude":-56.363408,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Canelones",
     "meso:mps_x":-56.363408,
     "meso:mps_y":-34.527797,
@@ -22,6 +24,7 @@
     "mps:longitude":-56.363408,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Aguas Corrientes"
     ],
@@ -59,7 +62,7 @@
         "\u963f\u74dc\u65af\u79d1\u9023\u7279\u65af"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632511,
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1092075837,
-    "wof:lastmodified":1564167710,
+    "wof:lastmodified":1566643114,
     "wof:name":"Aguas Corrientes",
     "wof:parent_id":85680321,
     "wof:placetype":"county",

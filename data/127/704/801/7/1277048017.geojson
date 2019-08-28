@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Montevideo",
     "iso:country":"UY",
+    "lbl:bbox":"-56.85483,-34.52326,-56.81483,-34.48326",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Rinc\u00f3n del Pino"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1277048017,
-    "wof:lastmodified":1537713206,
+    "wof:lastmodified":1566643051,
     "wof:name":"Rincon del Pino",
     "wof:parent_id":85680349,
     "wof:placetype":"locality",

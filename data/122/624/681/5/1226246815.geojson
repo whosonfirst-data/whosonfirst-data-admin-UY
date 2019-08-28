@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Sao_Paulo",
     "iso:country":"UY",
+    "lbl:bbox":"-56.02453,-31.10122,-55.98453,-31.06122",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Masoller"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1226246815,
-    "wof:lastmodified":1564167768,
+    "wof:lastmodified":1566643173,
     "wof:name":"Masoller",
     "wof:parent_id":404564433,
     "wof:placetype":"locality",

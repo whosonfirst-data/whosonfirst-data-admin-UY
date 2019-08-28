@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Montevideo",
     "iso:country":"UY",
+    "lbl:bbox":"-57.73667,-32.85333,-57.69667,-32.81333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pueblo Sanchez",
         "S\u00e1nchez Grande"
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1260367231,
-    "wof:lastmodified":1537713206,
+    "wof:lastmodified":1566643072,
     "wof:name":"Sanchez Grande",
     "wof:parent_id":85680367,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":-33.89671,
     "geom:longitude":-53.51749,
     "iso:country":"UY",
+    "lbl:bbox":"-53.53749,-33.91671,-53.49749,-33.87671",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "La Coronilla"
@@ -49,7 +53,7 @@
     "name:spa_x_preferred":[
         "La Coronilla"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Balneario La Coronilla"
     ],
     "name:urd_x_preferred":[
@@ -84,7 +88,7 @@
     "wof:concordances":{
         "gn:id":3442150,
         "gp:id":380931,
-        "qs:id":475378,
+        "qs_pg:id":475378,
         "wd:id":"Q1020391",
         "wk:page":"La Coronilla"
     },
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":421181117,
-    "wof:lastmodified":1563360396,
+    "wof:lastmodified":1566643125,
     "wof:name":"La Coronilla",
     "wof:parent_id":85680343,
     "wof:placetype":"locality",

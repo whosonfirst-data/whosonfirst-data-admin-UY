@@ -11,8 +11,11 @@
     "geom:longitude":-56.51667,
     "gn:country":"UY",
     "gn:fcode":"PPL",
-    "gn:pop":13221,
+    "gn:population":13221,
     "iso:country":"UY",
+    "lbl:bbox":"-56.53667,-32.83667,-56.49667,-32.79667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -113,7 +116,7 @@
         "Paso de los Toros"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0bbe\u0bb8\u0bca  \u0b9f\u0bc7  \u0bb2\u0bbe\u0bb8\u0bcd  \u0b9f\u0bcb\u0bb0\u0bcb\u0bb8\u0bcd"
+        "\u0baa\u0bbe\u0bb8\u0bca \u0b9f\u0bc7 \u0bb2\u0bbe\u0bb8\u0bcd \u0b9f\u0bcb\u0bb0\u0bcb\u0bb8\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2a\u0c3e\u0c38\u0c4b \u0c21\u0c3f \u0c32\u0c3e\u0c38\u0c4d \u0c1f\u0c4b\u0c30\u0c4b\u0c38\u0c4d"
@@ -127,7 +130,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u0441\u043e-\u0434\u0435-\u043b\u043e\u0441-\u0422\u043e\u0440\u043e\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Santa Isabel"
     ],
     "name:urd_x_preferred":[
@@ -249,10 +252,12 @@
     "wof:concordances":{
         "gn:id":3441273,
         "gp:id":468070,
-        "qs:id":1044727,
-        "qs_pg:id":1077496,
+        "qs_pg:id":1044727,
         "wd:id":"Q664156",
         "wk:page":"Paso de los Toros"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1077496
     },
     "wof:country":"UY",
     "wof:created":1469052142,
@@ -266,7 +271,7 @@
         }
     ],
     "wof:id":890437189,
-    "wof:lastmodified":1561790739,
+    "wof:lastmodified":1566643137,
     "wof:name":"Paso de los Toros",
     "wof:parent_id":85680311,
     "wof:placetype":"locality",

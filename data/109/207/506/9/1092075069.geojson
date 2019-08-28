@@ -12,6 +12,8 @@
     "iso:country":"UY",
     "lbl:latitude":-31.504295,
     "lbl:longitude":-55.49892,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Rivera",
     "meso:mps_x":-55.49892,
     "meso:mps_y":-31.504295,
@@ -22,6 +24,7 @@
     "mps:longitude":-55.49892,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:rus_x_preferred":[
         "\u041c\u0438\u043d\u0430\u0441-\u0434\u0435-\u041a\u043e\u0440\u0440\u0430\u043b\u0435\u0441"
     ],
@@ -29,7 +32,7 @@
         "\u7c73\u7d0d\u65af\u5fb7\u79d1\u62c9\u840a\u65af"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632511,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1092075069,
-    "wof:lastmodified":1564167696,
+    "wof:lastmodified":1566643104,
     "wof:name":"Minas de Corrales",
     "wof:parent_id":85680307,
     "wof:placetype":"county",

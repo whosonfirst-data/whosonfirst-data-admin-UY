@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Montevideo",
     "iso:country":"UY",
+    "lbl:bbox":"-56.93517,-32.10637,-56.89517,-32.06637",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Queguay Chico"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327314889,
-    "wof:lastmodified":1537713226,
+    "wof:lastmodified":1566643002,
     "wof:name":"Queguay Chico",
     "wof:parent_id":1092076725,
     "wof:placetype":"locality",

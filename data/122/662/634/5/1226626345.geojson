@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Montevideo",
     "iso:country":"UY",
+    "lbl:bbox":"-57.75176,-32.92521,-57.71176,-32.88521",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Sous"
     ],
@@ -238,7 +242,7 @@
         }
     ],
     "wof:id":1226626345,
-    "wof:lastmodified":1564167771,
+    "wof:lastmodified":1566643175,
     "wof:name":"Sauce",
     "wof:parent_id":85680367,
     "wof:placetype":"locality",

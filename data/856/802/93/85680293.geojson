@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-33.486969,
     "lbl:longitude":-57.734111,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-33.486969,
     "mps:longitude":-57.734111,
     "mz:hierarchy_label":1,
@@ -164,7 +165,7 @@
         "Soriano"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0bca\u0bb0\u0bbf\u0baf\u0bbe\u0ba9\u0bcb  \u0ba4\u0bc1\u0bb1\u0bc8"
+        "\u0b9a\u0bca\u0bb0\u0bbf\u0baf\u0bbe\u0ba9\u0bcb \u0ba4\u0bc1\u0bb1\u0bc8"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c4b\u0c30\u0c3f\u0c2f\u0c3e\u0c28\u0c4b \u0c21\u0c3f\u0c2a\u0c3e\u0c30\u0c4d\u0c1f\u0c4d\u0c2e\u0c46\u0c02\u0c1f\u0c4d"
@@ -180,9 +181,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u043e\u0440\u0456\u0430\u043d\u043e"
-    ],
-    "name:unk_x_variant":[
-        "Departamento de Soriano"
     ],
     "name:urd_x_preferred":[
         "\u0633\u0648\u0631\u06cc\u0627\u0646\u0648 \u0645\u062d\u06a9\u0645\u06c1"
@@ -266,9 +264,9 @@
     "qs:type":"Department",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"9,000",
     "statoids:area_mi":"3,475",
     "statoids:as_of_date":"2011-09-01",
@@ -293,7 +291,7 @@
         "gp:id":2347656,
         "hasc:id":"UY.SO",
         "iso:id":"UY-SO",
-        "qs:id":1285582,
+        "qs_pg:id":1285582,
         "unlc:id":"UY-SO",
         "wd:id":"Q16584",
         "wk:page":"Soriano Department"
@@ -314,11 +312,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565738626,
+    "wof:lastmodified":1566643033,
     "wof:name":"Soriano",
     "wof:parent_id":85632511,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"department",
     "wof:population":82595,
     "wof:population_rank":8,

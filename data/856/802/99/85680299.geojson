@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-32.326775,
     "lbl:longitude":-54.167429,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-32.326775,
     "mps:longitude":-54.167429,
     "mz:hierarchy_label":1,
@@ -196,9 +197,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0435\u0440\u0440\u043e-\u041b\u0430\u0440\u0491\u043e"
     ],
-    "name:unk_x_variant":[
-        "Departamento de Cerro Largo"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0631\u0648 \u0644\u0627\u0631\u06af\u0648 \u0645\u062d\u06a9\u0645\u06c1"
     ],
@@ -281,9 +279,9 @@
     "qs:type":"Department",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-09-01",
+    "src:population_date":"2011-09-01",
     "statoids:area_km":"13,648",
     "statoids:area_mi":"5,270",
     "statoids:as_of_date":"2011-09-01",
@@ -308,7 +306,7 @@
         "gp:id":2347642,
         "hasc:id":"UY.CL",
         "iso:id":"UY-CL",
-        "qs:id":427344,
+        "qs_pg:id":427344,
         "unlc:id":"UY-CL",
         "wd:id":"Q16575",
         "wk:page":"Cerro Largo Department"
@@ -329,11 +327,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565738627,
+    "wof:lastmodified":1566643033,
     "wof:name":"Cerro Largo",
     "wof:parent_id":85632511,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"department",
     "wof:population":84698,
     "wof:population_rank":8,

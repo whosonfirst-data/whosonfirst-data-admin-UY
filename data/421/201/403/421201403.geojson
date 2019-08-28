@@ -10,6 +10,9 @@
     "geom:latitude":-34.66667,
     "geom:longitude":-54.16667,
     "iso:country":"UY",
+    "lbl:bbox":"-54.18667,-34.68667,-54.14667,-34.64667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -53,7 +56,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430-\u041f\u0430\u043b\u043e\u043c\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Puerto de la Paloma"
     ],
     "name:urd_x_preferred":[
@@ -190,7 +193,7 @@
     "wof:concordances":{
         "gn:id":3442105,
         "gp:id":380901,
-        "qs:id":211187,
+        "qs_pg:id":211187,
         "wd:id":"Q893173",
         "wk:page":"La Paloma, Rocha"
     },
@@ -206,7 +209,7 @@
         }
     ],
     "wof:id":421201403,
-    "wof:lastmodified":1563360408,
+    "wof:lastmodified":1566643130,
     "wof:name":"La Paloma",
     "wof:parent_id":85680343,
     "wof:placetype":"locality",

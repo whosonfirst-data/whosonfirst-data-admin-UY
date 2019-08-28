@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Montevideo",
     "iso:country":"UY",
+    "lbl:bbox":"-57.79372,-30.82745,-57.75372,-30.78745",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Chacras de Bel\u00e9n"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1360258341,
-    "wof:lastmodified":1537713228,
+    "wof:lastmodified":1566643084,
     "wof:name":"Chacras de Belen",
     "wof:parent_id":1092075193,
     "wof:placetype":"locality",

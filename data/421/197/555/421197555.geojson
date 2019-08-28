@@ -10,8 +10,12 @@
     "geom:latitude":-33.68333,
     "geom:longitude":-57.56667,
     "iso:country":"UY",
+    "lbl:bbox":"-57.58667,-33.70333,-57.54667,-33.66333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Jos\u00e9 Enrique Rod\u00f3"
@@ -43,7 +47,7 @@
     "name:spa_x_preferred":[
         "Jos\u00e9 Enrique Rod\u00f3"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rodo"
     ],
     "qs:gn_country":"UY",
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":3442231,
         "gp:id":468090,
-        "qs:id":147829,
+        "qs_pg:id":147829,
         "wd:id":"Q1020396",
         "wk:page":"Jos\u00e9 Enrique Rod\u00f3, Uruguay"
     },
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":421197555,
-    "wof:lastmodified":1563360400,
+    "wof:lastmodified":1566643127,
     "wof:name":"Jos\u00e9 Enrique Rod\u00f3",
     "wof:parent_id":85680293,
     "wof:placetype":"locality",

@@ -12,6 +12,8 @@
     "iso:country":"UY",
     "lbl:latitude":-34.751615,
     "lbl:longitude":-55.853728,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Canelones",
     "meso:mps_x":-55.853728,
     "meso:mps_y":-34.751615,
@@ -22,6 +24,7 @@
     "mps:longitude":-55.853728,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:arg_x_preferred":[
         "Salinas"
     ],
@@ -119,7 +122,7 @@
         "\u8428\u5229\u7eb3\u65af"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632511,
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":1092076195,
-    "wof:lastmodified":1564167681,
+    "wof:lastmodified":1566643093,
     "wof:name":"Salinas",
     "wof:parent_id":85680321,
     "wof:placetype":"county",

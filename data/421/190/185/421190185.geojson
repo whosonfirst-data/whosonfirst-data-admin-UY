@@ -10,8 +10,12 @@
     "geom:latitude":-34.85806,
     "geom:longitude":-56.00917,
     "iso:country":"UY",
+    "lbl:bbox":"-56.02917,-34.87806,-55.98917,-34.83806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Parque Carrasco"
@@ -43,7 +47,7 @@
     "name:spa_x_preferred":[
         "Parque Carrasco"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Parque de Carrasco"
     ],
     "qs:gn_country":"UY",
@@ -75,7 +79,7 @@
     "wof:concordances":{
         "gn:id":7838849,
         "gp:id":26794391,
-        "qs:id":1118955,
+        "qs_pg:id":1118955,
         "wd:id":"Q1018088",
         "wk:page":"Parque Carrasco"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421190185,
-    "wof:lastmodified":1563360398,
+    "wof:lastmodified":1566643127,
     "wof:name":"Parque Carrasco",
     "wof:parent_id":85680321,
     "wof:placetype":"locality",

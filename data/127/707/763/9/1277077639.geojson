@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Montevideo",
     "iso:country":"UY",
+    "lbl:bbox":"-56.30185,-34.4491,-56.26185,-34.4091",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Paso de Pache"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1277077639,
-    "wof:lastmodified":1537713212,
+    "wof:lastmodified":1566643046,
     "wof:name":"Paso de Pache",
     "wof:parent_id":1092074541,
     "wof:placetype":"locality",

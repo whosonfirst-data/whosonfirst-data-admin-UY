@@ -10,6 +10,9 @@
     "geom:latitude":-34.96667,
     "geom:longitude":-54.95,
     "iso:country":"UY",
+    "lbl:bbox":"-54.97,-34.98667,-54.93,-34.94667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
@@ -282,7 +285,7 @@
     "wof:concordances":{
         "gn:id":3440939,
         "gp:id":468108,
-        "qs:id":1165475,
+        "qs_pg:id":1165475,
         "wd:id":"Q56069",
         "wk:page":"Punta del Este"
     },
@@ -298,7 +301,7 @@
         }
     ],
     "wof:id":421169061,
-    "wof:lastmodified":1563360386,
+    "wof:lastmodified":1566643122,
     "wof:name":"Punta del Este",
     "wof:parent_id":85680335,
     "wof:placetype":"locality",

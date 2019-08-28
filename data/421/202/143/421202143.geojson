@@ -10,8 +10,12 @@
     "geom:latitude":-34.79028,
     "geom:longitude":-56.35,
     "iso:country":"UY",
+    "lbl:bbox":"-56.37,-34.81028,-56.33,-34.77028",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Santiago V\u00e1zquez"
@@ -40,7 +44,7 @@
     "name:spa_x_preferred":[
         "Santiago V\u00e1zquez"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Santiago"
     ],
     "qs:gn_country":"UY",
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3440541,
         "gp:id":380945,
-        "qs:id":219455,
+        "qs_pg:id":219455,
         "wd:id":"Q3698900",
         "wk:page":"Santiago V\u00e1zquez, Montevideo"
     },
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":421202143,
-    "wof:lastmodified":1563360388,
+    "wof:lastmodified":1566643123,
     "wof:name":"Santiago V\u00e1zquez",
     "wof:parent_id":85680339,
     "wof:placetype":"locality",

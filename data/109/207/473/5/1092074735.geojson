@@ -12,6 +12,8 @@
     "iso:country":"UY",
     "lbl:latitude":-33.880725,
     "lbl:longitude":-58.313298,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Colonia",
     "meso:mps_x":-58.313298,
     "meso:mps_y":-33.880725,
@@ -22,6 +24,7 @@
     "mps:longitude":-58.313298,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Nueva Palmira"
     ],
@@ -68,7 +71,7 @@
         "\u65b0\u5e15\u723e\u7c73\u62c9"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632511,
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1092074735,
-    "wof:lastmodified":1564167701,
+    "wof:lastmodified":1566643108,
     "wof:name":"Nueva Palmira",
     "wof:parent_id":85680347,
     "wof:placetype":"county",

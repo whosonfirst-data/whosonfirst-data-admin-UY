@@ -12,6 +12,8 @@
     "iso:country":"UY",
     "lbl:latitude":-34.838557,
     "lbl:longitude":-54.980121,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Maldonado",
     "meso:mps_x":-54.980121,
     "meso:mps_y":-34.838557,
@@ -22,6 +24,7 @@
     "mps:longitude":-54.980121,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Maldonado"
     ],
@@ -65,7 +68,7 @@
         "\u041c\u0430\u043b\u0434\u043e\u043d\u0430\u0434\u043e"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632511,
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1092075757,
-    "wof:lastmodified":1564167692,
+    "wof:lastmodified":1566643101,
     "wof:name":"Maldonado",
     "wof:parent_id":85680335,
     "wof:placetype":"county",

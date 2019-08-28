@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Montevideo",
     "iso:country":"UY",
+    "lbl:bbox":"-56.13667,-34.87,-56.09667,-34.83",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ituzaing\u00f3"
     ],
@@ -40,8 +44,7 @@
         "Ituzaing\u00f3"
     ],
     "name:und_x_variant":[
-        "Pueblo Ituzaing\u00f3",
-        "Ituzaing\u00f3"
+        "Pueblo Ituzaing\u00f3"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1226560169,
-    "wof:lastmodified":1564167761,
+    "wof:lastmodified":1566643170,
     "wof:name":"Ituzaingo",
     "wof:parent_id":1092076429,
     "wof:placetype":"locality",

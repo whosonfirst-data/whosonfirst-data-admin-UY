@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Montevideo",
     "iso:country":"UY",
+    "lbl:bbox":"-56.44488,-34.44028,-56.40488,-34.40028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ituzaing\u00f3"
     ],
@@ -52,9 +56,6 @@
     "name:spa_x_preferred":[
         "Ituzaing\u00f3"
     ],
-    "name:und_x_variant":[
-        "Ituzaing\u00f3"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1226628503,
-    "wof:lastmodified":1564167771,
+    "wof:lastmodified":1566643175,
     "wof:name":"Ituzaingo",
     "wof:parent_id":85680349,
     "wof:placetype":"locality",

@@ -9,16 +9,19 @@
     "geom:bbox":"-56.20039,-34.87678,-56.20039,-34.87678",
     "geom:latitude":-34.87678,
     "geom:longitude":-56.20039,
-    "gn:gn_country":"UY",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"UY",
+    "gn:fcode":"PPLX",
     "gn:latitude":-34.87678,
     "gn:longitude":-56.20039,
+    "gn:population":0,
     "iso:country":"UY",
+    "lbl:bbox":"-56.20539,-34.88178,-56.19539,-34.87178",
     "lbl:latitude":-34.87678,
     "lbl:longitude":-56.20039,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Capurro"
@@ -37,10 +40,6 @@
     ],
     "name:spa_x_variant":[
         "Barrio de Capurro"
-    ],
-    "name:unk_x_variant":[
-        "Barrio de Capurro",
-        "Capurro"
     ],
     "qs_pg:aaroncc":"UY",
     "qs_pg:gn_country":"UY",
@@ -63,7 +62,7 @@
     "qs_pg:woe_adm0":23424979,
     "qs_pg:woe_id":380410,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424979,
     "woe:name_adm0":"Uruguay",
     "woe:name_adm1":"Montevideo",
@@ -78,7 +77,6 @@
     "wof:concordances":{
         "gn:id":3443376,
         "gp:id":380410,
-        "qs:id":1082760,
         "qs_pg:id":1082760,
         "wd:id":"Q986346",
         "wk:page":"Capurro"
@@ -97,7 +95,7 @@
         }
     ],
     "wof:id":1126090511,
-    "wof:lastmodified":1563360451,
+    "wof:lastmodified":1566643144,
     "wof:name":"Capurro",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -10,8 +10,12 @@
     "geom:latitude":-33.88333,
     "geom:longitude":-57.4,
     "iso:country":"UY",
+    "lbl:bbox":"-57.42,-33.90333,-57.38,-33.86333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Florencio S\u00e1nchez"
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":3442597,
         "gp:id":380899,
-        "qs:id":194839,
+        "qs_pg:id":194839,
         "wd:id":"Q972190",
         "wk:page":"Florencio S\u00e1nchez, Uruguay"
     },
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":421199637,
-    "wof:lastmodified":1563360404,
+    "wof:lastmodified":1566643128,
     "wof:name":"Florencio S\u00e1nchez",
     "wof:parent_id":85680293,
     "wof:placetype":"locality",

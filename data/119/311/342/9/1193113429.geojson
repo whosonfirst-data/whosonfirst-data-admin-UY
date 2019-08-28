@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Montevideo",
     "iso:country":"UY",
+    "lbl:bbox":"-57.02,-33.88667,-56.98,-33.84667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Machado"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1193113429,
-    "wof:lastmodified":1564167643,
+    "wof:lastmodified":1566643070,
     "wof:name":"Machado",
     "wof:parent_id":85680359,
     "wof:placetype":"locality",

@@ -12,6 +12,8 @@
     "iso:country":"UY",
     "lbl:latitude":-34.268125,
     "lbl:longitude":-57.570967,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Colonia",
     "meso:mps_x":-57.570967,
     "meso:mps_y":-34.268125,
@@ -22,6 +24,7 @@
     "mps:longitude":-57.570967,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Tarariras"
     ],
@@ -62,7 +65,7 @@
         "\u5854\u62c9\u91cc\u62c9\u65af"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632511,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1092075901,
-    "wof:lastmodified":1564167697,
+    "wof:lastmodified":1566643104,
     "wof:name":"Tarariras",
     "wof:parent_id":85680347,
     "wof:placetype":"county",

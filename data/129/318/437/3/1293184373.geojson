@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Montevideo",
     "iso:country":"UY",
+    "lbl:bbox":"-53.80264,-34.4224,-53.76264,-34.3824",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Cabo Polonio"
     ],
@@ -60,8 +64,7 @@
     "name:und_x_variant":[
         "Polonio",
         "Faro de Polonio",
-        "Faro del Polonio",
-        "Cabo Polonio"
+        "Faro del Polonio"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1293184373,
-    "wof:lastmodified":1564167599,
+    "wof:lastmodified":1566643043,
     "wof:name":"Cabo Polonio",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

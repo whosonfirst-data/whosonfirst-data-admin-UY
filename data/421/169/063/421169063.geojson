@@ -10,6 +10,9 @@
     "geom:latitude":-33.41306,
     "geom:longitude":-56.50056,
     "iso:country":"UY",
+    "lbl:bbox":"-56.52056,-33.43306,-56.48056,-33.39306",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.6,
@@ -155,7 +158,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0443\u0440\u0430\u0441\u043d\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Duranzo"
     ],
     "name:urd_x_preferred":[
@@ -294,7 +297,7 @@
     "wof:concordances":{
         "gn:id":3442727,
         "gp:id":468061,
-        "qs:id":274306,
+        "qs_pg:id":274306,
         "wd:id":"Q855645",
         "wk:page":"Durazno"
     },
@@ -310,7 +313,7 @@
         }
     ],
     "wof:id":421169063,
-    "wof:lastmodified":1563360385,
+    "wof:lastmodified":1566643122,
     "wof:name":"Durazno",
     "wof:parent_id":85680303,
     "wof:placetype":"locality",

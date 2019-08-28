@@ -10,6 +10,9 @@
     "geom:latitude":-31.2,
     "geom:longitude":-55.75,
     "iso:country":"UY",
+    "lbl:bbox":"-55.77,-31.22,-55.73,-31.18",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":7.0,
@@ -56,7 +59,7 @@
     "name:spa_x_preferred":[
         "Tranqueras"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Paso Tranqueras"
     ],
     "name:urd_x_preferred":[
@@ -189,7 +192,7 @@
     "wof:concordances":{
         "gn:id":3439787,
         "gp:id":468048,
-        "qs:id":1044716,
+        "qs_pg:id":1044716,
         "wd:id":"Q1784710",
         "wk:page":"Tranqueras"
     },
@@ -205,7 +208,7 @@
         }
     ],
     "wof:id":421167931,
-    "wof:lastmodified":1563360383,
+    "wof:lastmodified":1566643121,
     "wof:name":"Tranqueras",
     "wof:parent_id":85680307,
     "wof:placetype":"locality",

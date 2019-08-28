@@ -10,8 +10,12 @@
     "geom:latitude":-34.73333,
     "geom:longitude":-55.71667,
     "iso:country":"UY",
+    "lbl:bbox":"-55.73667,-34.75333,-55.69667,-34.71333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Las Toscas"
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3442050,
         "gp:id":380577,
-        "qs:id":1044742,
+        "qs_pg:id":1044742,
         "wd:id":"Q984723"
     },
     "wof:country":"UY",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":421176161,
-    "wof:lastmodified":1563360415,
+    "wof:lastmodified":1566643132,
     "wof:name":"Las Toscas",
     "wof:parent_id":85680321,
     "wof:placetype":"locality",

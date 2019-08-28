@@ -12,6 +12,8 @@
     "iso:country":"UY",
     "lbl:latitude":-34.259709,
     "lbl:longitude":-57.233423,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Colonia",
     "meso:mps_x":-57.233423,
     "meso:mps_y":-34.259709,
@@ -22,6 +24,7 @@
     "mps:longitude":-57.233423,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Nueva Helvecia"
     ],
@@ -71,7 +74,7 @@
         "\u65b0\u57c3\u723e\u97cb\u897f\u4e9e"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632511,
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1092075419,
-    "wof:lastmodified":1564167709,
+    "wof:lastmodified":1566643114,
     "wof:name":"Nueva Helvecia",
     "wof:parent_id":85680347,
     "wof:placetype":"county",

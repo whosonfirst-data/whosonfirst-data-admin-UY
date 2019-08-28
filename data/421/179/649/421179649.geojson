@@ -10,8 +10,12 @@
     "geom:latitude":-34.794492,
     "geom:longitude":-55.890541,
     "iso:country":"UY",
+    "lbl:bbox":"-55.910541,-34.814492,-55.870541,-34.774492",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "El Pinar"
@@ -86,7 +90,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26794399,
-        "qs:id":484102,
+        "qs_pg:id":484102,
         "wd:id":"Q1324503"
     },
     "wof:country":"UY",
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":421179649,
-    "wof:lastmodified":1561790738,
+    "wof:lastmodified":1566643132,
     "wof:name":"El Pinar",
     "wof:parent_id":85680321,
     "wof:placetype":"locality",

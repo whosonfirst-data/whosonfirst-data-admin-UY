@@ -11,10 +11,14 @@
     "geom:longitude":-57.78333,
     "gn:country":"UY",
     "gn:fcode":"PPL",
-    "gn:pop":3482,
+    "gn:population":3482,
     "iso:country":"UY",
+    "lbl:bbox":"-57.80333,-33.93667,-57.76333,-33.89667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Omb\u00faes de Lavalle"
     ],
@@ -39,7 +43,7 @@
     "name:spa_x_preferred":[
         "Omb\u00faes de Lavalle"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Colonia Omb\u00faes de Lavalle"
     ],
     "name:urd_x_preferred":[
@@ -63,7 +67,7 @@
     "wof:concordances":{
         "gn:id":3441442,
         "gp:id":468094,
-        "qs:id":1044738,
+        "qs_pg:id":1044738,
         "wd:id":"Q1020402",
         "wk:page":"Omb\u00faes de Lavalle"
     },
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":890437181,
-    "wof:lastmodified":1561790739,
+    "wof:lastmodified":1566643137,
     "wof:name":"Omb\u00faes de Lavalle",
     "wof:parent_id":85680347,
     "wof:placetype":"locality",
