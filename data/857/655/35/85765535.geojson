@@ -111,6 +111,9 @@
         "wk:page":"Reducto"
     },
     "wof:country":"UY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"99a490cb10412ddbf42fd25e093e6a5f",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566643029,
+    "wof:lastmodified":1582343188,
     "wof:name":"Reducto",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

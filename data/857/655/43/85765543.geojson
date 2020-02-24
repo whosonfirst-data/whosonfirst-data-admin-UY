@@ -147,6 +147,9 @@
         "wk:page":"Piri\u00e1polis"
     },
     "wof:country":"UY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5897e8a52b96e4a18c084a3488710036",
     "wof:hierarchy":[
         {
@@ -162,7 +165,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566643029,
+    "wof:lastmodified":1582343188,
     "wof:name":"Piri\u00e1polis",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

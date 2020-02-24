@@ -93,6 +93,9 @@
         "wk:page":"Flor de Maro\u00f1as"
     },
     "wof:country":"UY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"35f57f994cd913a14e56f65181f3f363",
     "wof:hierarchy":[
         {
@@ -108,7 +111,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566643028,
+    "wof:lastmodified":1582343188,
     "wof:name":"Flor de Maro\u00f1as",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

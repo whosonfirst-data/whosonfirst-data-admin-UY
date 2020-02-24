@@ -195,6 +195,9 @@
     },
     "wof:country":"UY",
     "wof:created":1459009460,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"73526dab9bec6b52a2eb63c19e64ecb4",
     "wof:hierarchy":[
         {
@@ -205,7 +208,7 @@
         }
     ],
     "wof:id":421185967,
-    "wof:lastmodified":1566643135,
+    "wof:lastmodified":1582343192,
     "wof:name":"San Jos\u00e9 de Mayo",
     "wof:parent_id":85680349,
     "wof:placetype":"locality",
