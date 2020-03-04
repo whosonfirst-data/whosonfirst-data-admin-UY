@@ -95,6 +95,9 @@
         "wk:page":"Villa Espa\u00f1ola"
     },
     "wof:country":"UY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2bc25c50c2614437ff5dd74baa77d2e2",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566643028,
+    "wof:lastmodified":1582343188,
     "wof:name":"Villa Espa\u00f1ola",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

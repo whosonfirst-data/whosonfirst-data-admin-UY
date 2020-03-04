@@ -303,6 +303,9 @@
     },
     "wof:country":"UY",
     "wof:created":1469051882,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e1303d2ec075e695c0c795a5357822a0",
     "wof:hierarchy":[
         {
@@ -313,7 +316,7 @@
         }
     ],
     "wof:id":890431207,
-    "wof:lastmodified":1566643137,
+    "wof:lastmodified":1582343192,
     "wof:name":"Florida",
     "wof:parent_id":85680325,
     "wof:placetype":"locality",

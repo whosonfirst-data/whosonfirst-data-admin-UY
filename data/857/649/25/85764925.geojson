@@ -89,6 +89,9 @@
         "wd:id":"Q1005742"
     },
     "wof:country":"UY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d53fadd2132d8f940e58fc919aea98aa",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379804,
+    "wof:lastmodified":1582343188,
     "wof:name":"Cord\u00f3n",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

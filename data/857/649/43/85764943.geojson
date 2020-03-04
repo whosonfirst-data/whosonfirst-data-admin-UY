@@ -95,6 +95,9 @@
         "wk:page":"Pocitos"
     },
     "wof:country":"UY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"64afb3ec3c3ef455dd6d4a03c5ddc0ff",
     "wof:hierarchy":[
         {
@@ -109,7 +112,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566643028,
+    "wof:lastmodified":1582343188,
     "wof:name":"Pocitos",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

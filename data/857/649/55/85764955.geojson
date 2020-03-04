@@ -74,6 +74,9 @@
         "qs:id":1284798
     },
     "wof:country":"UY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"76e4ac22afe8afe02b88209e7d10bcdb",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379804,
+    "wof:lastmodified":1582343188,
     "wof:name":"Villa Dolores",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

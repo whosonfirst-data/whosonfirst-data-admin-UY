@@ -85,6 +85,9 @@
         "wk:page":"Cerrito, Montevideo"
     },
     "wof:country":"UY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bdcb645190558a79e10c9ebde6dc1d18",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566643028,
+    "wof:lastmodified":1582343188,
     "wof:name":"Cerrito",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -261,6 +261,9 @@
     },
     "wof:country":"UY",
     "wof:created":1469052142,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ad2bc93b19122dbda9a49f4c0a8d49c0",
     "wof:hierarchy":[
         {
@@ -271,7 +274,7 @@
         }
     ],
     "wof:id":890437189,
-    "wof:lastmodified":1566643137,
+    "wof:lastmodified":1582343192,
     "wof:name":"Paso de los Toros",
     "wof:parent_id":85680311,
     "wof:placetype":"locality",

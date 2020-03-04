@@ -651,6 +651,10 @@
     ],
     "wof:country":"UY",
     "wof:created":1469052161,
+    "wof:geom_alt":[
+        "unknown",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"75f09cdca2716bc9fecd3c9ad91d3224",
     "wof:hierarchy":[
         {
@@ -662,7 +666,7 @@
         }
     ],
     "wof:id":890437681,
-    "wof:lastmodified":1578092640,
+    "wof:lastmodified":1582343192,
     "wof:megacity":1,
     "wof:name":"Montevideo",
     "wof:parent_id":1092076411,

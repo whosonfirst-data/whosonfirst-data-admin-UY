@@ -90,6 +90,9 @@
         "qs_pg:id":1075809
     },
     "wof:country":"UY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"32329373489d007245e27f32677818ee",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566643028,
+    "wof:lastmodified":1582343188,
     "wof:name":"Aguada",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

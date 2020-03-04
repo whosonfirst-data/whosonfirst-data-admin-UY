@@ -86,6 +86,9 @@
         "wk:page":"Centro, Montevideo"
     },
     "wof:country":"UY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e976ea0120c815c3b81da0414bb5390e",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379804,
+    "wof:lastmodified":1582343188,
     "wof:name":"Centro",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

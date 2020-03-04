@@ -118,6 +118,9 @@
         "wk:page":"Villa Mu\u00f1oz"
     },
     "wof:country":"UY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0ada3ac9ccf5d1e0092ed318d9d21af4",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566643029,
+    "wof:lastmodified":1582343188,
     "wof:name":"Villa Mu\u00f1oz",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -79,6 +79,9 @@
         "qs:id":1174659
     },
     "wof:country":"UY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8072fa88a0dd127d4a48baed34957eb3",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379803,
+    "wof:lastmodified":1582343188,
     "wof:name":"La Floresta",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

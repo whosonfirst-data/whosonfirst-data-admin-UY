@@ -87,6 +87,9 @@
         "wk:page":"Belvedere, Montevideo"
     },
     "wof:country":"UY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"26d123c74d411a6d610aa606a92fefea",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379804,
+    "wof:lastmodified":1582343188,
     "wof:name":"Belveder",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

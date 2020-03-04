@@ -85,6 +85,9 @@
         "wk:page":"Paso del Molino"
     },
     "wof:country":"UY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"db4497d832c716d1d1442779312004de",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566643029,
+    "wof:lastmodified":1582343188,
     "wof:name":"Paso Molino",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

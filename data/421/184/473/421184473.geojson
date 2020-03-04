@@ -297,7 +297,8 @@
     "qs:woe_id":380894,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "wof:belongsto":[
         102191577,
@@ -316,6 +317,10 @@
     },
     "wof:country":"UY",
     "wof:created":1459009412,
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"217dda9825861cd9886f25b6b2c5ff29",
     "wof:hierarchy":[
         {
@@ -326,7 +331,7 @@
         }
     ],
     "wof:id":421184473,
-    "wof:lastmodified":1566643130,
+    "wof:lastmodified":1582343192,
     "wof:name":"Artigas",
     "wof:parent_id":85680355,
     "wof:placetype":"locality",

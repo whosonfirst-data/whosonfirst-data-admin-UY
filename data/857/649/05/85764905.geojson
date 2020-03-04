@@ -108,6 +108,9 @@
         "qs_pg:id":1082758
     },
     "wof:country":"UY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"72239927131cdd6969c15a9be75ee9e2",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566643028,
+    "wof:lastmodified":1582343188,
     "wof:name":"Arroyo Seco",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

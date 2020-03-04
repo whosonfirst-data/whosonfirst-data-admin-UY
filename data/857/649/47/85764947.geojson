@@ -114,6 +114,9 @@
         "wk:page":"Punta Carretas"
     },
     "wof:country":"UY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"378e148c1979d248224a7b169929a2c9",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566643029,
+    "wof:lastmodified":1582343188,
     "wof:name":"Punta Carretas",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

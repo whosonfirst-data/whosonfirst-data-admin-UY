@@ -87,6 +87,9 @@
         "wk:page":"Capurro"
     },
     "wof:country":"UY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5c6797b582e6f186653eded5fc3d807c",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379804,
+    "wof:lastmodified":1582343188,
     "wof:name":"Capurro",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
