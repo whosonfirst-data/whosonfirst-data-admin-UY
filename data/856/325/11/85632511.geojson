@@ -982,9 +982,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Uruguay",
-        "digitalenvoy:country_code":[
-            858
-        ],
+        "digitalenvoy:country_code":858,
         "fb:id":"en.uruguay",
         "fifa:id":"URU",
         "fips:code":"UY",
@@ -1027,7 +1025,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1583529240,
+    "wof:lastmodified":1583797449,
     "wof:name":"Uruguay",
     "wof:parent_id":102191577,
     "wof:placetype":"country",
