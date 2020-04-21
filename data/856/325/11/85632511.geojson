@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":17.112499,
-    "geom:area_square_m":177836677109.095215,
+    "geom:area_square_m":177836679438.616882,
     "geom:bbox":"-58.4393,-34.97625,-53.077756,-30.085215",
     "geom:latitude":-32.79565,
     "geom:longitude":-56.017681,
@@ -58,6 +58,9 @@
     ],
     "name:arg_x_preferred":[
         "Uruguai"
+    ],
+    "name:ary_x_preferred":[
+        "\u0624\u0631\u0648\u06ad\u0648\u0627\u064a"
     ],
     "name:arz_x_preferred":[
         "\u0627\u0648\u0631\u0648\u062c\u0648\u0627\u0649"
@@ -174,6 +177,12 @@
     "name:dan_x_preferred":[
         "Uruguay"
     ],
+    "name:deu_at_x_preferred":[
+        "Uruguay"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Uruguay"
+    ],
     "name:deu_x_preferred":[
         "Uruguay"
     ],
@@ -191,6 +200,12 @@
     ],
     "name:ell_x_preferred":[
         "\u039f\u03c5\u03c1\u03bf\u03c5\u03b3\u03bf\u03c5\u03ac\u03b7"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Uruguay"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Uruguay"
     ],
     "name:eng_x_preferred":[
         "Uruguay"
@@ -260,6 +275,9 @@
     "name:gag_x_preferred":[
         "Urugvay"
     ],
+    "name:gcr_x_preferred":[
+        "Lourougw\u00e9"
+    ],
     "name:ger_x_colloquial":[
         "Republik Oestlich des Uruguay",
         "Republik Ostlich des Uruguay"
@@ -288,6 +306,9 @@
     "name:gom_x_preferred":[
         "\u0909\u0930\u0941\u0917\u094d\u0935\u0947"
     ],
+    "name:got_x_preferred":[
+        "\ud800\udf3f\ud800\udf42\ud800\udf3f\ud800\udf30\ud800\udf37\ud800\udf45\ud800\udf30"
+    ],
     "name:grn_x_preferred":[
         "Urugu\u00e1i"
     ],
@@ -305,6 +326,9 @@
     ],
     "name:hau_x_preferred":[
         "Yurugai"
+    ],
+    "name:hau_x_variant":[
+        "Uruguay"
     ],
     "name:hbs_x_preferred":[
         "Urugvaj"
@@ -336,6 +360,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0548\u0582\u0580\u0578\u0582\u0563\u057e\u0561\u0575"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0548\u0582\u0580\u0578\u0582\u056f\u0578\u0582\u0567\u0575"
     ],
     "name:ibo_x_preferred":[
         "Uruguay"
@@ -518,6 +545,9 @@
     "name:mon_x_preferred":[
         "\u0423\u0440\u0443\u0433\u0432\u0430\u0439"
     ],
+    "name:mri_x_preferred":[
+        "Urukoi"
+    ],
     "name:mrj_x_preferred":[
         "\u0423\u0440\u0443\u0433\u0432\u0430\u0439"
     ],
@@ -623,6 +653,9 @@
     "name:pol_x_preferred":[
         "Urugwaj"
     ],
+    "name:por_br_x_preferred":[
+        "Uruguai"
+    ],
     "name:por_x_preferred":[
         "Uruguai"
     ],
@@ -640,6 +673,9 @@
     ],
     "name:ron_x_preferred":[
         "Uruguay"
+    ],
+    "name:rue_x_preferred":[
+        "\u0423\u0440\u0443\u0433\u0432\u0430\u0439"
     ],
     "name:run_x_preferred":[
         "Uruguay"
@@ -710,6 +746,12 @@
     "name:srd_x_preferred":[
         "Uruguay"
     ],
+    "name:srp_ec_x_preferred":[
+        "\u0423\u0440\u0443\u0433\u0432\u0430\u0458"
+    ],
+    "name:srp_el_x_preferred":[
+        "Urugvaj"
+    ],
     "name:srp_x_preferred":[
         "\u0423\u0440\u0443\u0433\u0432\u0430\u0458"
     ],
@@ -730,6 +772,9 @@
     ],
     "name:szl_x_preferred":[
         "Urugwaj"
+    ],
+    "name:szy_x_preferred":[
+        "Uruguay"
     ],
     "name:tam_x_preferred":[
         "\u0b89\u0bb0\u0bc1\u0b95\u0bc1\u0bb5\u0bc8"
@@ -804,6 +849,9 @@
     "name:vec_x_preferred":[
         "Uruguay"
     ],
+    "name:vec_x_variant":[
+        "Uruguai"
+    ],
     "name:vep_x_preferred":[
         "Urugvai"
     ],
@@ -862,8 +910,26 @@
     "name:zha_x_preferred":[
         "Uruguay"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u4e4c\u62c9\u572d"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u70cf\u62c9\u572d"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Uruguay"
+    ],
+    "name:zho_mo_x_preferred":[
+        "\u4e4c\u62c9\u572d"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u4e4c\u62c9\u572d"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u4e4c\u62c9\u572d"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u70cf\u62c9\u572d"
     ],
     "name:zho_x_preferred":[
         "\u4e4c\u62c9\u572d"
@@ -1025,7 +1091,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1583797449,
+    "wof:lastmodified":1587428685,
     "wof:name":"Uruguay",
     "wof:parent_id":102191577,
     "wof:placetype":"country",
