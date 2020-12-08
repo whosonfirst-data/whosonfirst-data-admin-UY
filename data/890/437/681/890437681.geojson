@@ -665,7 +665,9 @@
         85680339
     ],
     "wof:breaches":[],
-    "wof:capital_of":85632511,
+    "wof:capital_of":[
+        85632511
+    ],
     "wof:concordances":{
         "gn:id":3441575,
         "gp:id":468052,
@@ -696,7 +698,7 @@
         }
     ],
     "wof:id":890437681,
-    "wof:lastmodified":1587428687,
+    "wof:lastmodified":1607390890,
     "wof:megacity":1,
     "wof:name":"Montevideo",
     "wof:parent_id":1092076411,
