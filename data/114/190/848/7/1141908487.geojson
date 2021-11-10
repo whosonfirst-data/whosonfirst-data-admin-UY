@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-54.3330249447,-34.4829740206,-54.3330249447,-34.4829740206",
+    "geom:bbox":"-54.333025,-34.482974,-54.333025,-34.482974",
     "geom:latitude":-34.482974,
     "geom:longitude":-54.333025,
     "gn:country":"UY",
@@ -75,8 +75,14 @@
     "name:guj_x_preferred":[
         "\u0ab0\u0acb\u0a9a\u0abe"
     ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d5\u05e9\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0930\u094b\u091a\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Rocha"
     ],
     "name:hye_x_preferred":[
         "\u054c\u0578\u0579\u0561"
@@ -292,7 +298,7 @@
     },
     "wof:country":"UY",
     "wof:created":1499130913,
-    "wof:geomhash":"e7f30642372f2762336b7587bdf1aadd",
+    "wof:geomhash":"21a42f5ffa8f35c5cc456975376f2b51",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -302,7 +308,7 @@
         }
     ],
     "wof:id":1141908487,
-    "wof:lastmodified":1566643178,
+    "wof:lastmodified":1636500017,
     "wof:name":"Rocha",
     "wof:parent_id":85680343,
     "wof:placetype":"locality",
@@ -316,10 +322,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -54.33302494466579,
-    -34.48297402062934,
-    -54.33302494466579,
-    -34.48297402062934
+    -54.333025,
+    -34.482974,
+    -54.333025,
+    -34.482974
 ],
-  "geometry": {"coordinates":[-54.33302494466579,-34.48297402062934],"type":"Point"}
+  "geometry": {"coordinates":[-54.333025,-34.482974],"type":"Point"}
 }

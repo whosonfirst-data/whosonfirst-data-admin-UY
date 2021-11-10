@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0644\u0627\u0639"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09be\u09b8\u09cd\u09a4\u09bf\u09b2\u09cb\u09b8"
+    ],
     "name:cat_x_preferred":[
         "Castillos"
     ],
@@ -25,6 +31,9 @@
     ],
     "name:deu_x_preferred":[
         "Castillos"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c3\u03c4\u03af\u03b3\u03b9\u03bf\u03c2"
     ],
     "name:eng_x_preferred":[
         "Castillos"
@@ -38,8 +47,26 @@
     "name:fra_x_preferred":[
         "Castillos"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e1\u05d8\u05d9\u05dc\u05d5\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u0948\u0938\u094d\u091f\u093f\u0932\u094b\u0938"
+    ],
+    "name:hun_x_preferred":[
+        "Castillos"
+    ],
+    "name:ind_x_preferred":[
+        "Castillos"
+    ],
     "name:ita_x_preferred":[
         "Castillos"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30b9\u30c6\u30a3\u30fc\u30b8\u30e7\u30b9"
+    ],
+    "name:kor_x_preferred":[
+        "\uce74\uc2a4\ud2f0\uc694"
     ],
     "name:nld_x_preferred":[
         "Castillos"
@@ -62,6 +89,12 @@
     "name:spa_x_preferred":[
         "Castillos"
     ],
+    "name:swe_x_preferred":[
+        "Castillos"
+    ],
+    "name:tur_x_preferred":[
+        "Castillos"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0441\u0442\u0456\u043b\u044c\u0439\u043e\u0441"
     ],
@@ -70,6 +103,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06a9\u0627\u0633\u062a\u06cc\u0648\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Castillos"
     ],
     "name:zho_x_preferred":[
         "\u5361\u65af\u8482\u7d04\u65af"
@@ -215,7 +251,7 @@
         }
     ],
     "wof:id":421169065,
-    "wof:lastmodified":1566643122,
+    "wof:lastmodified":1636500009,
     "wof:name":"Castillos",
     "wof:parent_id":85680343,
     "wof:placetype":"locality",

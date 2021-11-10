@@ -102,6 +102,9 @@
     "name:heb_x_preferred":[
         "\u05d1\u05d9\u05d0\u05e8\u05d9\u05e5"
     ],
+    "name:hin_x_preferred":[
+        "\u092c\u093f\u092f\u093e\u0930\u093f\u091f\u094d\u091c\u093c"
+    ],
     "name:hun_x_preferred":[
         "Biarritz"
     ],
@@ -204,6 +207,9 @@
     "name:und_x_variant":[
         "Balneario Biarritz"
     ],
+    "name:urd_x_preferred":[
+        "\u0628\u0627\u0626\u06cc\u0627\u0631\u06cc\u0679\u0632"
+    ],
     "name:uzb_x_preferred":[
         "Biarritz"
     ],
@@ -231,7 +237,7 @@
         "gn:id":3443611
     },
     "wof:country":"UY",
-    "wof:geomhash":"02a3b87c5989065307d9843908c7a77b",
+    "wof:geomhash":"78dfdc76a081bb24eceb3f0cfc65fb59",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -242,7 +248,7 @@
         }
     ],
     "wof:id":1276556789,
-    "wof:lastmodified":1566643053,
+    "wof:lastmodified":1636500002,
     "wof:name":"Biarritz",
     "wof:parent_id":1092075715,
     "wof:placetype":"locality",
@@ -253,9 +259,9 @@
 },
   "bbox": [
     -55.51387,
-    -34.79190999999999,
+    -34.79191,
     -55.51387,
-    -34.79190999999999
+    -34.79191
 ],
-  "geometry": {"coordinates":[-55.51387,-34.79190999999999],"type":"Point"}
+  "geometry": {"coordinates":[-55.51387,-34.79191],"type":"Point"}
 }

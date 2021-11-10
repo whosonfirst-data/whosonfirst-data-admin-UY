@@ -73,10 +73,16 @@
     "name:guj_x_preferred":[
         "\u0a9f\u0acd\u0ab0\u0ac7\u0a87\u0aa8\u0acd\u0a9f\u0abe \u0aaf\u0ac7 \u0a9f\u0acd\u0ab0\u0ac7\u0ab8"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05e8\u05d9\u05d0\u05e0\u05d8\u05d4 \u05d0\u05d9 \u05d8\u05e8\u05e1"
+    ],
     "name:hin_x_preferred":[
         "\u0924\u0930\u0947\u0902\u091f\u093e\u0907\u091f\u093f\u0938"
     ],
     "name:hrv_x_preferred":[
+        "Treinta y Tres"
+    ],
+    "name:hun_x_preferred":[
         "Treinta y Tres"
     ],
     "name:hye_x_preferred":[
@@ -304,7 +310,7 @@
         }
     ],
     "wof:id":890444641,
-    "wof:lastmodified":1566643138,
+    "wof:lastmodified":1636500014,
     "wof:name":"Treinta y Tres",
     "wof:parent_id":85680317,
     "wof:placetype":"locality",

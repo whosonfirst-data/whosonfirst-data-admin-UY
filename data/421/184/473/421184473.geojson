@@ -83,6 +83,9 @@
     "name:hrv_x_preferred":[
         "Artigas"
     ],
+    "name:hun_x_preferred":[
+        "Artigas"
+    ],
     "name:hye_x_preferred":[
         "\u0531\u0580\u057f\u056b\u0563\u0561\u057d"
     ],
@@ -331,7 +334,7 @@
         }
     ],
     "wof:id":421184473,
-    "wof:lastmodified":1582343192,
+    "wof:lastmodified":1636500011,
     "wof:name":"Artigas",
     "wof:parent_id":85680355,
     "wof:placetype":"locality",

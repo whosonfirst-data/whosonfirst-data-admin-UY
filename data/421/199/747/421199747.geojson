@@ -68,6 +68,9 @@
     "name:hin_x_preferred":[
         "\u0915\u093e\u0930\u094d\u092e\u0947\u0932\u094b"
     ],
+    "name:hun_x_preferred":[
+        "Carmelo"
+    ],
     "name:hye_x_preferred":[
         "\u053f\u0561\u0580\u0574\u0565\u056c\u0578"
     ],
@@ -304,7 +307,7 @@
         }
     ],
     "wof:id":421199747,
-    "wof:lastmodified":1566643127,
+    "wof:lastmodified":1636500010,
     "wof:name":"Carmelo",
     "wof:parent_id":85680347,
     "wof:placetype":"locality",

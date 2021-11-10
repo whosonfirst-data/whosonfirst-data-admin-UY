@@ -31,6 +31,12 @@
     "name:fra_x_preferred":[
         "Paso de los Toros"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e1\u05d5 \u05d3\u05d4 \u05dc\u05d5\u05e1 \u05d8\u05d5\u05e8\u05d5\u05e1"
+    ],
+    "name:hun_x_preferred":[
+        "Paso de los Toros"
+    ],
     "name:hye_x_preferred":[
         "\u054a\u0561\u057d\u0578 \u0564\u0565 \u056c\u0578\u057d \u054f\u0578\u0580\u0578\u057d"
     ],
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1092075393,
-    "wof:lastmodified":1627522968,
+    "wof:lastmodified":1636500006,
     "wof:name":"Paso de los Toros",
     "wof:parent_id":85680311,
     "wof:placetype":"county",

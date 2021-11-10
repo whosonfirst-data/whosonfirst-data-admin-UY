@@ -74,6 +74,9 @@
     "name:heb_x_preferred":[
         "\u05e7\u05d5\u05dc\u05d5\u05e0\u05d9\u05d4 \u05d3\u05dc \u05e1\u05e7\u05e8\u05de\u05e0\u05d8\u05d5"
     ],
+    "name:hin_x_preferred":[
+        "\u0915\u094b\u0932\u094b\u0928\u093f\u092f\u093e \u0921\u0947\u0932 \u0938\u0948\u0915\u094d\u0930\u092e\u0947\u0902\u091f\u094b"
+    ],
     "name:hrv_x_preferred":[
         "Colonia del Sacramento"
     ],
@@ -82,6 +85,9 @@
     ],
     "name:hye_x_preferred":[
         "\u053f\u0578\u056c\u0578\u0576\u056b\u0561 \u0564\u0565\u056c \u054d\u0561\u056f\u0580\u0561\u0574\u0565\u0576\u057f\u0578"
+    ],
+    "name:ind_x_preferred":[
+        "Colonia del Sacramento"
     ],
     "name:ita_x_preferred":[
         "Colonia del Sacramento"
@@ -320,7 +326,7 @@
         }
     ],
     "wof:id":421199749,
-    "wof:lastmodified":1566643128,
+    "wof:lastmodified":1636500010,
     "wof:name":"Colonia del Sacramento",
     "wof:parent_id":85680347,
     "wof:placetype":"locality",

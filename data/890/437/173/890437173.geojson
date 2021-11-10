@@ -79,6 +79,9 @@
     "name:hin_x_preferred":[
         "\u092a\u093e\u0902\u0921\u094b"
     ],
+    "name:hun_x_preferred":[
+        "Pando"
+    ],
     "name:hye_x_preferred":[
         "\u054a\u0561\u0576\u0564\u0578"
     ],
@@ -203,7 +206,7 @@
         }
     ],
     "wof:id":890437173,
-    "wof:lastmodified":1566643137,
+    "wof:lastmodified":1636500013,
     "wof:name":"Pando",
     "wof:parent_id":85680321,
     "wof:placetype":"locality",

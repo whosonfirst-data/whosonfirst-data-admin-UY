@@ -20,11 +20,17 @@
     "name:ara_x_preferred":[
         "\u062a\u0631\u0627\u0646\u0643\u0648\u064a\u0631\u0627\u0633"
     ],
+    "name:ben_x_preferred":[
+        "\u099f\u09cd\u09b0\u09cd\u09af\u09be\u0999\u09cd\u0995\u0995\u09c1\u0987\u09b0\u09be\u09b8"
+    ],
     "name:cat_x_preferred":[
         "Tranqueras"
     ],
     "name:deu_x_preferred":[
         "Tranqueras"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c1\u03b1\u03bd\u03ba\u03ad\u03c1\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Tranqueras"
@@ -35,11 +41,29 @@
     "name:fra_x_preferred":[
         "Tranqueras"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05e8\u05e0\u05e7\u05d5\u05d5\u05e8\u05d0\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u091f\u094d\u0930\u093e\u0902\u0915\u094d\u0935\u0947\u0930\u093e\u0938"
+    ],
     "name:hrv_x_preferred":[
+        "Tranqueras"
+    ],
+    "name:hun_x_preferred":[
+        "Tranqueras"
+    ],
+    "name:ind_x_preferred":[
         "Tranqueras"
     ],
     "name:ita_x_preferred":[
         "Tranqueras"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30e9\u30f3\u30b1\u30e9\u30b9"
+    ],
+    "name:kor_x_preferred":[
+        "\ud2b8\ub79c\ud018\ub77c\uc2a4"
     ],
     "name:nld_x_preferred":[
         "Tranqueras"
@@ -59,11 +83,23 @@
     "name:spa_x_preferred":[
         "Tranqueras"
     ],
+    "name:swe_x_preferred":[
+        "Tranqueras"
+    ],
+    "name:tur_x_preferred":[
+        "Tranqueras"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0440\u0430\u043d\u043a\u0435\u0440\u0430\u0441"
+    ],
     "name:und_x_variant":[
         "Paso Tranqueras"
     ],
     "name:urd_x_preferred":[
         "\u062a\u0631\u0627\u0646\u06a9\u06cc\u0631\u0627\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Tranqueras"
     ],
     "name:zho_x_preferred":[
         "\u7279\u862d\u514b\u62c9\u65af"
@@ -208,7 +244,7 @@
         }
     ],
     "wof:id":421167931,
-    "wof:lastmodified":1566643121,
+    "wof:lastmodified":1636500009,
     "wof:name":"Tranqueras",
     "wof:parent_id":85680307,
     "wof:placetype":"locality",

@@ -34,6 +34,9 @@
     "name:fra_x_preferred":[
         "villa Soriano"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d5\u05e8\u05d9\u05d0\u05e0\u05d5"
+    ],
     "name:ita_x_preferred":[
         "Villa Soriano"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1125868249,
-    "wof:lastmodified":1566643142,
+    "wof:lastmodified":1636500014,
     "wof:name":"Soriano",
     "wof:parent_id":85680293,
     "wof:placetype":"locality",

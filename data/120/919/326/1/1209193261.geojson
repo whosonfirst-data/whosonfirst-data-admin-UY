@@ -43,7 +43,13 @@
         "La Esmeralda"
     ],
     "name:urd_x_preferred":[
+        "\u0644\u06cc \u0627\u06cc\u0633\u0645\u06cc\u0631\u0627\u0644\u0688\u0627"
+    ],
+    "name:urd_x_variant":[
         "\u0644\u0627 \u0627\u0633\u0645\u06cc\u0631\u0627\u0644\u0688\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "La Esmeralda"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +61,7 @@
         "wk:page":"La_Esmeralda%2C_Uruguay"
     },
     "wof:country":"UY",
-    "wof:geomhash":"fb5a0b532ce6ab55384a81a20d604d01",
+    "wof:geomhash":"3eec10ff18f8928065c1d52b35abf213",
     "wof:hierarchy":[
         {
             "country_id":85632511,
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1209193261,
-    "wof:lastmodified":1566643066,
+    "wof:lastmodified":1636500003,
     "wof:name":"La Esmeralda",
     "wof:parent_id":85632511,
     "wof:placetype":"locality",
@@ -73,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -53.69756999999999,
+    -53.69757,
     -34.15727,
-    -53.69756999999999,
+    -53.69757,
     -34.15727
 ],
-  "geometry": {"coordinates":[-53.69756999999999,-34.15727],"type":"Point"}
+  "geometry": {"coordinates":[-53.69757,-34.15727],"type":"Point"}
 }

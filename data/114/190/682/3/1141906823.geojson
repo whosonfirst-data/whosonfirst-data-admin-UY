@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-54.1799851904,-32.3594860649,-54.1799851904,-32.3594860649",
+    "geom:bbox":"-54.179985,-32.359486,-54.179985,-32.359486",
     "geom:latitude":-32.359486,
     "geom:longitude":-54.179985,
     "gn:country":"UY",
@@ -85,6 +85,9 @@
         "\u092e\u0947\u0932\u094b"
     ],
     "name:hrv_x_preferred":[
+        "Melo"
+    ],
+    "name:hun_x_preferred":[
         "Melo"
     ],
     "name:hye_x_preferred":[
@@ -307,7 +310,7 @@
     },
     "wof:country":"UY",
     "wof:created":1499130643,
-    "wof:geomhash":"9a44a9093b832d563691823551d751c9",
+    "wof:geomhash":"25c854efa6595e2b67051e402eb9a7fe",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -317,7 +320,7 @@
         }
     ],
     "wof:id":1141906823,
-    "wof:lastmodified":1566643178,
+    "wof:lastmodified":1636500017,
     "wof:name":"Melo",
     "wof:parent_id":85680299,
     "wof:placetype":"locality",
@@ -331,10 +334,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -54.17998519043346,
-    -32.35948606489171,
-    -54.17998519043346,
-    -32.35948606489171
+    -54.179985,
+    -32.359486,
+    -54.179985,
+    -32.359486
 ],
-  "geometry": {"coordinates":[-54.17998519043346,-32.35948606489171],"type":"Point"}
+  "geometry": {"coordinates":[-54.179985,-32.359486],"type":"Point"}
 }
