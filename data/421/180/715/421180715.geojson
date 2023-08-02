@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "San Jacinto"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09a8 \u09b9\u09be\u09b8\u09bf\u09a8\u09cd\u09a4\u09cb"
+    ],
     "name:cat_x_preferred":[
         "San Jacinto"
     ],
@@ -32,6 +38,12 @@
     "name:fra_x_preferred":[
         "San Jacinto"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05df \u05d2'\u05e1\u05d9\u05e0\u05d8\u05d5"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0576 \u053d\u0561\u057d\u056b\u0576\u057f\u0578"
+    ],
     "name:ita_x_preferred":[
         "San Jacinto"
     ],
@@ -42,6 +54,9 @@
         "San Jacinto"
     ],
     "name:nor_x_preferred":[
+        "San Jacinto"
+    ],
+    "name:pol_x_preferred":[
         "San Jacinto"
     ],
     "name:rus_x_preferred":[
@@ -105,7 +120,7 @@
         }
     ],
     "wof:id":421180715,
-    "wof:lastmodified":1566643123,
+    "wof:lastmodified":1690893302,
     "wof:name":"San Jacinto",
     "wof:parent_id":85680321,
     "wof:placetype":"locality",

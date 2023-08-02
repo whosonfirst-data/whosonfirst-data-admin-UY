@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u0648\u063a\u0631\u064a\u0633\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0631\u0648\u062c\u0631\u064a\u0633\u0648"
+    ],
     "name:ast_x_preferred":[
         "Progreso"
     ],
@@ -198,7 +201,7 @@
         }
     ],
     "wof:id":421168219,
-    "wof:lastmodified":1636500009,
+    "wof:lastmodified":1690893297,
     "wof:name":"Progreso",
     "wof:parent_id":85680321,
     "wof:placetype":"locality",

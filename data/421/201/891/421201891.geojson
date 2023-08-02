@@ -50,6 +50,9 @@
     "name:nor_x_preferred":[
         "Tom\u00e1s Gomensoro"
     ],
+    "name:pol_x_preferred":[
+        "Tom\u00e1s Gomensoro"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u043e\u043c\u0430\u0441-\u0413\u043e\u043c\u0435\u043d\u0441\u043e\u0440\u043e"
     ],
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":421201891,
-    "wof:lastmodified":1566643130,
+    "wof:lastmodified":1690893310,
     "wof:name":"Tom\u00e1s Gomensoro",
     "wof:parent_id":85680355,
     "wof:placetype":"locality",

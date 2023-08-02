@@ -50,6 +50,9 @@
     "name:nor_x_preferred":[
         "Palmitas"
     ],
+    "name:pol_x_preferred":[
+        "Palmitas"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0430\u043b\u044c\u043c\u0438\u0442\u0430\u0441"
     ],
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":421192967,
-    "wof:lastmodified":1566643120,
+    "wof:lastmodified":1690893299,
     "wof:name":"Palmitas",
     "wof:parent_id":85680293,
     "wof:placetype":"locality",

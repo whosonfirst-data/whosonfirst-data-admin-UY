@@ -59,6 +59,9 @@
     "name:ita_x_preferred":[
         "La Paloma"
     ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30fb\u30d1\u30ed\u30de"
+    ],
     "name:kor_x_preferred":[
         "\ub77c \ud314\ub85c\ub9c8"
     ],
@@ -69,6 +72,9 @@
         "La Paloma"
     ],
     "name:nor_x_preferred":[
+        "La Paloma"
+    ],
+    "name:pol_x_preferred":[
         "La Paloma"
     ],
     "name:rus_x_preferred":[
@@ -141,7 +147,7 @@
         }
     ],
     "wof:id":421176165,
-    "wof:lastmodified":1636500012,
+    "wof:lastmodified":1690893314,
     "wof:name":"La Paloma",
     "wof:parent_id":85680303,
     "wof:placetype":"locality",

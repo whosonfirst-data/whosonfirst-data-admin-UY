@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0644\u064a\u0628\u0631\u062a\u0627\u062f"
     ],
+    "name:arz_x_preferred":[
+        "\u0644\u064a\u0628\u0631\u062a\u0627\u062f"
+    ],
+    "name:ast_x_preferred":[
+        "Libertad"
+    ],
     "name:ben_x_preferred":[
         "\u09b2\u09bf\u09ac\u09be\u09b0\u09a4\u09be\u09a6"
     ],
@@ -58,6 +64,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0932\u093f\u092c\u0930\u094d\u091f\u093e\u0921"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u056b\u0562\u0565\u0580\u057f\u0561\u0564"
     ],
     "name:ind_x_preferred":[
         "Libertad"
@@ -192,7 +201,7 @@
         }
     ],
     "wof:id":421197029,
-    "wof:lastmodified":1566643127,
+    "wof:lastmodified":1690893306,
     "wof:name":"Libertad",
     "wof:parent_id":85680349,
     "wof:placetype":"locality",

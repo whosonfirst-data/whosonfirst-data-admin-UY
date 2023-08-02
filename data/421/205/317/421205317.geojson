@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Nuevo Berl\u00edn"
+    ],
     "name:cat_x_preferred":[
         "Nuevo Berl\u00edn"
     ],
@@ -38,6 +41,9 @@
     "name:fra_x_preferred":[
         "Nuevo Berl\u00edn"
     ],
+    "name:fra_x_variant":[
+        "Novo Berlim"
+    ],
     "name:heb_x_preferred":[
         "\u05e0\u05d5\u05d0\u05d1\u05d5 \u05d1\u05e8\u05dc\u05d9\u05df"
     ],
@@ -54,6 +60,9 @@
         "Nuevo Berl\u00edn"
     ],
     "name:nor_x_preferred":[
+        "Nuevo Berl\u00edn"
+    ],
+    "name:pol_x_preferred":[
         "Nuevo Berl\u00edn"
     ],
     "name:rus_x_preferred":[
@@ -114,7 +123,7 @@
         }
     ],
     "wof:id":421205317,
-    "wof:lastmodified":1566643123,
+    "wof:lastmodified":1690893302,
     "wof:name":"Nuevo Berl\u00edn",
     "wof:parent_id":85680367,
     "wof:placetype":"locality",

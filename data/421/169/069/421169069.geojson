@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0644\u0627 \u064a\u0648\u0646\u064a\u0648\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u0644\u0627 \u064a\u0648\u0646\u064a\u0648\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Bella Uni\u00f3n"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09c7\u09b2\u09cd\u09b2\u09be \u0987\u0989\u09a8\u09bf\u09af\u09bc\u09a8"
     ],
@@ -42,6 +48,9 @@
         "\u039c\u03c0\u03ad\u03bb\u03b1 \u0393\u03b9\u03bf\u03c5\u03bd\u03b9\u03cc\u03bd"
     ],
     "name:eng_x_preferred":[
+        "Bella Uni\u00f3n"
+    ],
+    "name:epo_x_preferred":[
         "Bella Uni\u00f3n"
     ],
     "name:fas_x_preferred":[
@@ -283,7 +292,7 @@
         }
     ],
     "wof:id":421169069,
-    "wof:lastmodified":1566643122,
+    "wof:lastmodified":1690893301,
     "wof:name":"Bella Uni\u00f3n",
     "wof:parent_id":85680355,
     "wof:placetype":"locality",

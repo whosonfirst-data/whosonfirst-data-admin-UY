@@ -28,6 +28,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
+    "name:ast_x_preferred":[
+        "Piri\u00e1polis"
+    ],
     "name:cat_x_preferred":[
         "Piri\u00e1polis"
     ],
@@ -165,7 +168,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1582343188,
+    "wof:lastmodified":1690893289,
     "wof:name":"Piri\u00e1polis",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

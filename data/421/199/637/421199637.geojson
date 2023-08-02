@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Florencio S\u00e1nchez"
+    ],
     "name:cat_x_preferred":[
         "Florencio S\u00e1nchez"
     ],
@@ -32,6 +35,9 @@
     "name:fra_x_preferred":[
         "Florencio S\u00e1nchez"
     ],
+    "name:hye_x_preferred":[
+        "\u0556\u056c\u0578\u0580\u0565\u0576\u057d\u056b\u0578 \u054d\u0561\u0576\u0579\u0565\u057d"
+    ],
     "name:ita_x_preferred":[
         "Florencio S\u00e1nchez"
     ],
@@ -39,6 +45,9 @@
         "Florencio S\u00e1nchez"
     ],
     "name:nob_x_preferred":[
+        "Florencio S\u00e1nchez"
+    ],
+    "name:pol_x_preferred":[
         "Florencio S\u00e1nchez"
     ],
     "name:por_x_preferred":[
@@ -105,7 +114,7 @@
         }
     ],
     "wof:id":421199637,
-    "wof:lastmodified":1566643128,
+    "wof:lastmodified":1690893308,
     "wof:name":"Florencio S\u00e1nchez",
     "wof:parent_id":85680293,
     "wof:placetype":"locality",

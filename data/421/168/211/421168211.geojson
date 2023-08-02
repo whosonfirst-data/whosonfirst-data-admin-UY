@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Sauce"
+    ],
     "name:cat_x_preferred":[
         "Sauce"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:fra_x_preferred":[
         "Sauce"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0578\u0582\u057d\u0565"
     ],
     "name:ita_x_preferred":[
         "Sauce"
@@ -117,7 +123,7 @@
         }
     ],
     "wof:id":421168211,
-    "wof:lastmodified":1566643119,
+    "wof:lastmodified":1690893297,
     "wof:name":"Sauce",
     "wof:parent_id":85680321,
     "wof:placetype":"locality",

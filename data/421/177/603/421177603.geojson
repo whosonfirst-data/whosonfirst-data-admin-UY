@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "San Gregorio de Polanco"
     ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0576 \u0533\u0580\u0565\u0563\u0578\u0580\u056b\u0578 \u0564\u0565 \u054a\u0578\u056c\u0561\u0576\u056f\u0578"
+    ],
     "name:ita_x_preferred":[
         "San Gregorio de Polanco"
     ],
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":421177603,
-    "wof:lastmodified":1566643131,
+    "wof:lastmodified":1690893311,
     "wof:name":"San Gregorio de Polanco",
     "wof:parent_id":85680311,
     "wof:placetype":"locality",

@@ -50,6 +50,9 @@
     "name:nor_x_preferred":[
         "Bel\u00e9n"
     ],
+    "name:pol_x_preferred":[
+        "Bel\u00e9n"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u043b\u0435\u043d"
     ],
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421168577,
-    "wof:lastmodified":1566643120,
+    "wof:lastmodified":1690893298,
     "wof:name":"Bel\u00e9n",
     "wof:parent_id":85680289,
     "wof:placetype":"locality",

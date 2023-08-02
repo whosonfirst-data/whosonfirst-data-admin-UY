@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Jos\u00e9 Pedro Varela"
+    ],
     "name:cat_x_preferred":[
         "Jos\u00e9 Pedro Varela"
     ],
@@ -29,6 +32,9 @@
     "name:eng_x_preferred":[
         "Jos\u00e9 Pedro Varela"
     ],
+    "name:epo_x_preferred":[
+        "Jos\u00e9 Pedro Varela"
+    ],
     "name:fas_x_preferred":[
         "\u062e\u0648\u0632\u0647 \u067e\u062f\u0631\u0648 \u0648\u0627\u0631\u0644\u0627\u060c \u0627\u0631\u0648\u06af\u0648\u0626\u0647"
     ],
@@ -37,6 +43,9 @@
     ],
     "name:fra_x_preferred":[
         "Jos\u00e9 Pedro Varela"
+    ],
+    "name:hye_x_preferred":[
+        "\u053d\u0578\u057d\u0565 \u054a\u0565\u0564\u0580\u0578 \u054e\u0561\u0580\u0565\u056c\u0561"
     ],
     "name:ita_x_preferred":[
         "Jos\u00e9 Pedro Varela"
@@ -119,7 +128,7 @@
         }
     ],
     "wof:id":421168575,
-    "wof:lastmodified":1566643119,
+    "wof:lastmodified":1690893297,
     "wof:name":"Jos\u00e9 Pedro Varela",
     "wof:parent_id":85680329,
     "wof:placetype":"locality",

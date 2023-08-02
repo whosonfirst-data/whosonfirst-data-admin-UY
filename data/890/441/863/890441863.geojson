@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Blanquillo"
     ],
+    "name:epo_x_preferred":[
+        "Blanquillo"
+    ],
     "name:fra_x_preferred":[
         "Blanquillo"
     ],
@@ -38,6 +41,9 @@
         "Blanquillo"
     ],
     "name:nob_x_preferred":[
+        "Blanquillo"
+    ],
+    "name:pol_x_preferred":[
         "Blanquillo"
     ],
     "name:rus_x_preferred":[
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":890441863,
-    "wof:lastmodified":1566643136,
+    "wof:lastmodified":1690893317,
     "wof:name":"Blanquillo",
     "wof:parent_id":85680303,
     "wof:placetype":"locality",

@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Salinas"
+    ],
     "name:cat_x_preferred":[
         "Salinas"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:fra_x_preferred":[
         "Salinas"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u056c\u056b\u0576\u0561\u057d"
     ],
     "name:ita_x_preferred":[
         "Salinas"
@@ -127,7 +133,7 @@
         }
     ],
     "wof:id":421175147,
-    "wof:lastmodified":1636500010,
+    "wof:lastmodified":1690893305,
     "wof:name":"Salinas",
     "wof:parent_id":85680321,
     "wof:placetype":"locality",

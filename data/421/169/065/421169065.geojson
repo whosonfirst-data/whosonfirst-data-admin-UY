@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0644\u0627\u0639"
     ],
+    "name:ast_x_preferred":[
+        "Castillos"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u09b8\u09cd\u09a4\u09bf\u09b2\u09cb\u09b8"
     ],
@@ -55,6 +58,9 @@
     ],
     "name:hun_x_preferred":[
         "Castillos"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u057d\u057f\u056b\u056c\u056b\u0578\u057d"
     ],
     "name:ind_x_preferred":[
         "Castillos"
@@ -251,7 +257,7 @@
         }
     ],
     "wof:id":421169065,
-    "wof:lastmodified":1636500009,
+    "wof:lastmodified":1690893300,
     "wof:name":"Castillos",
     "wof:parent_id":85680343,
     "wof:placetype":"locality",

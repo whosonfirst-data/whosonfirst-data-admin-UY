@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Joaqu\u00edn Su\u00e1rez"
+    ],
     "name:cat_x_preferred":[
         "Joaqu\u00edn Su\u00e1rez"
     ],
@@ -45,6 +48,9 @@
         "Joaqu\u00edn Su\u00e1rez"
     ],
     "name:nor_x_preferred":[
+        "Joaqu\u00edn Su\u00e1rez"
+    ],
+    "name:pol_x_preferred":[
         "Joaqu\u00edn Su\u00e1rez"
     ],
     "name:rus_x_preferred":[
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":421197557,
-    "wof:lastmodified":1566643127,
+    "wof:lastmodified":1690893306,
     "wof:name":"Joaqu\u00edn Su\u00e1rez",
     "wof:parent_id":85680321,
     "wof:placetype":"locality",

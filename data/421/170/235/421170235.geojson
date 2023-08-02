@@ -17,8 +17,14 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0631\u0643 \u062f\u0644\u0628\u0644\u0627\u062a\u0627"
+    ],
     "name:ast_x_preferred":[
         "Parque del Plata"
+    ],
+    "name:ast_x_variant":[
+        "Marquisios"
     ],
     "name:cat_x_preferred":[
         "Parque del Plata"
@@ -32,8 +38,14 @@
     "name:eng_x_preferred":[
         "Parque del Plata"
     ],
+    "name:eng_x_variant":[
+        "Marcos Mart\u00ednez"
+    ],
     "name:fra_x_preferred":[
         "Parque del Plata"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0561\u0580\u056f \u0564\u0565\u056c \u054a\u056c\u0561\u057f\u0561"
     ],
     "name:ita_x_preferred":[
         "Parque del Plata"
@@ -47,7 +59,16 @@
     "name:nor_x_preferred":[
         "Parque del Plata"
     ],
+    "name:pol_x_preferred":[
+        "Parque del Plata"
+    ],
     "name:spa_x_preferred":[
+        "Parque del Plata"
+    ],
+    "name:spa_x_variant":[
+        "Marcos Mart\u00ednez"
+    ],
+    "name:szl_x_preferred":[
         "Parque del Plata"
     ],
     "name:urd_x_preferred":[
@@ -101,7 +122,7 @@
         }
     ],
     "wof:id":421170235,
-    "wof:lastmodified":1566643130,
+    "wof:lastmodified":1690893311,
     "wof:name":"Parque del Plata",
     "wof:parent_id":85680321,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:ast_x_preferred":[
         "Salto"
     ],
+    "name:aze_x_preferred":[
+        "Salto"
+    ],
     "name:bel_x_preferred":[
         "\u0421\u0430\u043b\u044c\u0442\u0430"
     ],
@@ -82,6 +85,9 @@
     "name:fra_x_preferred":[
         "Salto"
     ],
+    "name:gle_x_preferred":[
+        "Salto"
+    ],
     "name:glg_x_preferred":[
         "Salto"
     ],
@@ -98,6 +104,9 @@
         "\u0938\u093e\u0932\u094d\u091f"
     ],
     "name:hrv_x_preferred":[
+        "Salto"
+    ],
+    "name:hun_x_preferred":[
         "Salto"
     ],
     "name:hye_x_preferred":[
@@ -127,6 +136,9 @@
     "name:lit_x_preferred":[
         "Saltas"
     ],
+    "name:mal_x_preferred":[
+        "\u0d38\u0d3e\u0d7e\u0d1f\u0d4d\u0d1f\u0d4b"
+    ],
     "name:mar_x_preferred":[
         "\u0938\u093e\u0932\u094d\u0924\u094b"
     ],
@@ -142,6 +154,9 @@
     "name:nob_x_preferred":[
         "Salto"
     ],
+    "name:oss_x_preferred":[
+        "\u0421\u0430\u043b\u044c\u0442\u043e"
+    ],
     "name:pms_x_preferred":[
         "Salto"
     ],
@@ -150,6 +165,12 @@
     ],
     "name:por_x_preferred":[
         "Salto"
+    ],
+    "name:ron_x_preferred":[
+        "Salto"
+    ],
+    "name:rue_x_preferred":[
+        "\u0421\u0430\u043b\u0442\u043e"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u043b\u044c\u0442\u043e"
@@ -181,6 +202,9 @@
     "name:tam_x_preferred":[
         "\u0b9a\u0bbe\u0bb2\u0bcd\u0b9f\u0bcb"
     ],
+    "name:tat_x_preferred":[
+        "\u0421\u0430\u043b\u044c\u0442\u043e"
+    ],
     "name:tel_x_preferred":[
         "\u0c38\u0c3e\u0c32\u0c4d\u0c1f\u0c4b"
     ],
@@ -201,6 +225,9 @@
     ],
     "name:urd_x_variant":[
         "\u0633\u0627\u0644\u062a\u0648"
+    ],
+    "name:vec_x_preferred":[
+        "Salto"
     ],
     "name:vep_x_preferred":[
         "Sal'to"
@@ -254,7 +281,7 @@
         }
     ],
     "wof:id":1125868227,
-    "wof:lastmodified":1566643142,
+    "wof:lastmodified":1690893325,
     "wof:name":"Salto",
     "wof:parent_id":85680289,
     "wof:placetype":"locality",

@@ -20,11 +20,17 @@
     "name:afr_x_preferred":[
         "Sous"
     ],
+    "name:afr_x_variant":[
+        "sous"
+    ],
     "name:ara_x_preferred":[
         "\u0635\u0644\u0635\u0629"
     ],
     "name:arz_x_preferred":[
         "\u0635\u0644\u0635\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "salsa"
     ],
     "name:aze_x_preferred":[
         "sous"
@@ -53,6 +59,9 @@
     "name:ces_x_preferred":[
         "om\u00e1\u010dka"
     ],
+    "name:ckb_x_preferred":[
+        "\u0633\u06c6\u0633"
+    ],
     "name:cym_x_preferred":[
         "Saws"
     ],
@@ -61,6 +70,9 @@
     ],
     "name:deu_x_preferred":[
         "Sauce"
+    ],
+    "name:deu_x_variant":[
+        "So\u00dfe"
     ],
     "name:ell_x_preferred":[
         "\u03c3\u03ac\u03bb\u03c4\u03c3\u03b1"
@@ -98,8 +110,14 @@
     "name:gle_x_preferred":[
         "Anlann"
     ],
+    "name:gle_x_variant":[
+        "anlann"
+    ],
     "name:glg_x_preferred":[
         "Salsa"
+    ],
+    "name:glg_x_variant":[
+        "salsa"
     ],
     "name:hat_x_preferred":[
         "S\u00f2s"
@@ -125,6 +143,9 @@
     "name:ind_x_preferred":[
         "Saus"
     ],
+    "name:ind_x_variant":[
+        "saus"
+    ],
     "name:isl_x_preferred":[
         "S\u00f3sa"
     ],
@@ -133,6 +154,9 @@
     ],
     "name:jav_x_preferred":[
         "Saos"
+    ],
+    "name:jav_x_variant":[
+        "saos"
     ],
     "name:jbo_x_preferred":[
         "sanso"
@@ -163,6 +187,9 @@
     ],
     "name:lat_x_preferred":[
         "s\u016bcus"
+    ],
+    "name:lat_x_variant":[
+        "ius cibarius"
     ],
     "name:lav_x_preferred":[
         "m\u0113rce"
@@ -209,6 +236,9 @@
     "name:nob_x_preferred":[
         "saus"
     ],
+    "name:nrm_x_preferred":[
+        "sauce"
+    ],
     "name:ori_x_preferred":[
         "\u0b38\u0b38\u0b4d"
     ],
@@ -248,6 +278,9 @@
     "name:slv_x_preferred":[
         "Omaka"
     ],
+    "name:slv_x_variant":[
+        "omaka"
+    ],
     "name:som_x_preferred":[
         "Suugo"
     ],
@@ -265,6 +298,9 @@
     ],
     "name:swe_x_preferred":[
         "s\u00e5s"
+    ],
+    "name:szl_x_preferred":[
+        "Z\u014duza"
     ],
     "name:tgk_x_preferred":[
         "\u0441\u043e\u0443\u0441"
@@ -293,11 +329,17 @@
     "name:vie_x_preferred":[
         "x\u1ed1t"
     ],
+    "name:vie_x_variant":[
+        "s\u1ed1t"
+    ],
     "name:vol_x_preferred":[
         "sod"
     ],
     "name:vot_x_preferred":[
         "kas\u00f5"
+    ],
+    "name:war_x_preferred":[
+        "Sarsa"
     ],
     "name:wuu_x_preferred":[
         "\u9171\u6c41"
@@ -351,7 +393,7 @@
         }
     ],
     "wof:id":421186037,
-    "wof:lastmodified":1566643125,
+    "wof:lastmodified":1690893304,
     "wof:name":"Sauce",
     "wof:parent_id":85680343,
     "wof:placetype":"locality",
