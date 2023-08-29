@@ -35,6 +35,9 @@
     "name:fra_x_preferred":[
         "Montes"
     ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30f3\u30c6\u30b9"
+    ],
     "name:nld_x_preferred":[
         "Montes"
     ],
@@ -42,6 +45,9 @@
         "Montes"
     ],
     "name:nor_x_preferred":[
+        "Montes"
+    ],
+    "name:pol_x_preferred":[
         "Montes"
     ],
     "name:por_x_preferred":[
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":421198957,
-    "wof:lastmodified":1566643126,
+    "wof:lastmodified":1690893305,
     "wof:name":"Montes",
     "wof:parent_id":85680321,
     "wof:placetype":"locality",

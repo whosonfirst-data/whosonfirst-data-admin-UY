@@ -44,6 +44,9 @@
     "name:nor_x_preferred":[
         "La Coronilla"
     ],
+    "name:pol_x_preferred":[
+        "La Coronilla"
+    ],
     "name:por_x_preferred":[
         "La Coronilla"
     ],
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":421181117,
-    "wof:lastmodified":1566643125,
+    "wof:lastmodified":1690893305,
     "wof:name":"La Coronilla",
     "wof:parent_id":85680343,
     "wof:placetype":"locality",

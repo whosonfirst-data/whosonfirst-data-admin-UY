@@ -25,11 +25,20 @@
     "name:ara_x_variant":[
         "\u0645\u0631\u0633\u064a\u062f\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0631\u0633\u064a\u062f\u0633"
+    ],
     "name:ast_x_preferred":[
         "Mercedes"
     ],
+    "name:bak_x_preferred":[
+        "\u041c\u0435\u0440\u0441\u0435\u0434\u0435\u0441 \u04a1\u0430\u043b\u0430\u04bb\u044b"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09c7\u09b0\u09cd\u09b8\u09c7\u09a6\u09c7\u09b8"
+    ],
+    "name:bre_x_preferred":[
+        "Mercedes"
     ],
     "name:bul_x_preferred":[
         "\u041c\u0435\u0440\u0441\u0435\u0434\u0435\u0441"
@@ -53,6 +62,12 @@
         "\u039c\u03b5\u03c1\u03c3\u03ad\u03b4\u03b5\u03c2"
     ],
     "name:eng_x_preferred":[
+        "Mercedes"
+    ],
+    "name:epo_x_preferred":[
+        "Mercedes"
+    ],
+    "name:eus_x_preferred":[
         "Mercedes"
     ],
     "name:fas_x_preferred":[
@@ -305,7 +320,7 @@
         }
     ],
     "wof:id":890437191,
-    "wof:lastmodified":1636500013,
+    "wof:lastmodified":1690893319,
     "wof:name":"Mercedes",
     "wof:parent_id":85680293,
     "wof:placetype":"locality",

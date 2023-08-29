@@ -20,6 +20,9 @@
     "name:ast_x_preferred":[
         "Los Cerrillos"
     ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09c7\u09b0\u09bf\u09b2\u09cb\u09b8"
+    ],
     "name:cat_x_preferred":[
         "Cerrillos"
     ],
@@ -41,6 +44,9 @@
     "name:fra_x_preferred":[
         "Cerrillos"
     ],
+    "name:hye_x_preferred":[
+        "\u054d\u0565\u057c\u056b\u056c\u0575\u0578\u057d"
+    ],
     "name:ita_x_preferred":[
         "Cerrillos"
     ],
@@ -53,11 +59,17 @@
     "name:nor_x_preferred":[
         "Los Cerrillos"
     ],
+    "name:pol_x_preferred":[
+        "Cerrillos"
+    ],
     "name:rus_x_preferred":[
         "\u041b\u043e\u0441-\u0421\u0435\u0440\u0440\u0438\u043b\u044c\u043e\u0441"
     ],
     "name:spa_x_preferred":[
         "Los Cerrillos"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u0441-\u0421\u0435\u0440\u0440\u0456\u043b\u044c\u0439\u043e\u0441"
     ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0631\u06cc\u0648\u0633\u060c \u06cc\u0648\u0631\u0627\u06af\u0648\u0626\u06d2"
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":421199741,
-    "wof:lastmodified":1566643128,
+    "wof:lastmodified":1690893308,
     "wof:name":"Los Cerrillos",
     "wof:parent_id":85680321,
     "wof:placetype":"locality",

@@ -46,6 +46,9 @@
     "name:nob_x_preferred":[
         "Cebollat\u00ed"
     ],
+    "name:pol_x_preferred":[
+        "Cebollat\u00ed"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0435\u0431\u043e\u043b\u044c\u044f\u0442\u0438"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":890435993,
-    "wof:lastmodified":1566643139,
+    "wof:lastmodified":1690893323,
     "wof:name":"Cebollat\u00ed",
     "wof:parent_id":85680343,
     "wof:placetype":"locality",

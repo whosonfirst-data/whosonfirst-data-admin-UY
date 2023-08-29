@@ -25,6 +25,9 @@
     "name:ara_x_variant":[
         "\u0641\u0644\u0648\u0631\u064a\u062f\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0641\u0644\u0648\u0631\u064a\u062f\u0627"
+    ],
     "name:ast_x_preferred":[
         "Florida"
     ],
@@ -59,6 +62,9 @@
         "\u03a6\u03bb\u03bf\u03c1\u03af\u03b4\u03b1"
     ],
     "name:eng_x_preferred":[
+        "Florida"
+    ],
+    "name:epo_x_preferred":[
         "Florida"
     ],
     "name:fas_x_preferred":[
@@ -319,7 +325,7 @@
         }
     ],
     "wof:id":890431207,
-    "wof:lastmodified":1636500014,
+    "wof:lastmodified":1690893320,
     "wof:name":"Florida",
     "wof:parent_id":85680325,
     "wof:placetype":"locality",

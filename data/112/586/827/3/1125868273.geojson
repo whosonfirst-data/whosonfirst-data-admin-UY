@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Sarand\u00ed del Y\u00ed"
+    ],
     "name:cat_x_preferred":[
         "Sarand\u00ed del Y\u00ed"
     ],
@@ -34,11 +37,17 @@
     "name:eng_x_preferred":[
         "Sarand\u00ed del Y\u00ed"
     ],
+    "name:epo_x_preferred":[
+        "Sarand\u00ed del Y\u00ed"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u0627\u0631\u0627\u0646\u062f\u06cc \u062f\u0644 \u06cc\u06cc"
     ],
     "name:fra_x_preferred":[
         "Sarand\u00ed del Y\u00ed"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0580\u0561\u0576\u0564\u056b \u0564\u0565\u056c \u0545\u056b"
     ],
     "name:ita_x_preferred":[
         "Sarand\u00ed del Y\u00ed"
@@ -104,7 +113,7 @@
         }
     ],
     "wof:id":1125868273,
-    "wof:lastmodified":1566643141,
+    "wof:lastmodified":1690893324,
     "wof:name":"Sarand\u00ed del Yi",
     "wof:parent_id":85680303,
     "wof:placetype":"locality",

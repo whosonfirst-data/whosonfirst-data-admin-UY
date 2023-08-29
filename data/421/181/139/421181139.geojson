@@ -35,6 +35,9 @@
     "name:eus_x_preferred":[
         "La Floresta"
     ],
+    "name:fra_x_preferred":[
+        "La Floresta"
+    ],
     "name:ita_x_preferred":[
         "La Floresta"
     ],
@@ -48,6 +51,9 @@
         "La Floresta"
     ],
     "name:nor_x_preferred":[
+        "La Floresta"
+    ],
+    "name:pol_x_preferred":[
         "La Floresta"
     ],
     "name:rus_x_preferred":[
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":421181139,
-    "wof:lastmodified":1566643126,
+    "wof:lastmodified":1690893305,
     "wof:name":"La Floresta",
     "wof:parent_id":85680321,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Quebracho"
     ],
+    "name:epo_x_preferred":[
+        "Quebracho"
+    ],
     "name:fra_x_preferred":[
         "Quebracho"
     ],
@@ -42,6 +45,12 @@
         "Quebracho"
     ],
     "name:nor_x_preferred":[
+        "Quebracho"
+    ],
+    "name:pol_x_preferred":[
+        "Quebracho"
+    ],
+    "name:por_x_preferred":[
         "Quebracho"
     ],
     "name:rus_x_preferred":[
@@ -99,7 +108,7 @@
         }
     ],
     "wof:id":421168217,
-    "wof:lastmodified":1566643119,
+    "wof:lastmodified":1690893297,
     "wof:name":"Quebracho",
     "wof:parent_id":85680363,
     "wof:placetype":"locality",

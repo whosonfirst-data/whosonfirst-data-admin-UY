@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Vichadero"
     ],
+    "name:epo_x_preferred":[
+        "Vichadero"
+    ],
     "name:fra_x_preferred":[
         "Vichadero"
     ],
@@ -48,6 +51,9 @@
         "Vichadero"
     ],
     "name:nor_x_preferred":[
+        "Vichadero"
+    ],
+    "name:pol_x_preferred":[
         "Vichadero"
     ],
     "name:por_x_preferred":[
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":421185763,
-    "wof:lastmodified":1566643133,
+    "wof:lastmodified":1690893315,
     "wof:name":"Vichadero",
     "wof:parent_id":85680307,
     "wof:placetype":"locality",

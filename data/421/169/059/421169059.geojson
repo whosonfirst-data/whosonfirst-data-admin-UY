@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u062a \u0644\u0648\u0633\u064a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0627\u0646\u062a \u0644\u0648\u0633\u064a\u0627"
+    ],
     "name:ast_x_preferred":[
         "Santa Luc\u00eda"
     ],
@@ -292,7 +295,7 @@
         }
     ],
     "wof:id":421169059,
-    "wof:lastmodified":1566643122,
+    "wof:lastmodified":1690893301,
     "wof:name":"Santa Luc\u00eda",
     "wof:parent_id":85680321,
     "wof:placetype":"locality",

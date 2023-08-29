@@ -39,6 +39,9 @@
     "name:spa_x_preferred":[
         "Cuchilla Alta"
     ],
+    "name:zho_x_preferred":[
+        "\u5e93\u5947\u4e9a\u963f\u5c14\u5854"
+    ],
     "qs:name":"Cuchilla Alta",
     "qs:name_adm0":"Uruguay",
     "qs:name_adm1":"Canelones",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":890441457,
-    "wof:lastmodified":1566643136,
+    "wof:lastmodified":1690893317,
     "wof:name":"Cuchilla Alta",
     "wof:parent_id":85680321,
     "wof:placetype":"locality",

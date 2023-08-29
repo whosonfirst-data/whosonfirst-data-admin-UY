@@ -31,6 +31,9 @@
     "name:eng_x_preferred":[
         "Carlos Reyles"
     ],
+    "name:epo_x_preferred":[
+        "Carlos Reyles"
+    ],
     "name:fra_x_preferred":[
         "Carlos Reyles"
     ],
@@ -41,6 +44,9 @@
         "Carlos Reyles"
     ],
     "name:nob_x_preferred":[
+        "Carlos Reyles"
+    ],
+    "name:pol_x_preferred":[
         "Carlos Reyles"
     ],
     "name:rus_x_preferred":[
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":890424199,
-    "wof:lastmodified":1566643136,
+    "wof:lastmodified":1690893318,
     "wof:name":"Carlos Reyles",
     "wof:parent_id":85680303,
     "wof:placetype":"locality",

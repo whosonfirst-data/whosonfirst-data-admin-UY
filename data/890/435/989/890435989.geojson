@@ -43,6 +43,9 @@
     "name:nob_x_preferred":[
         "Constituci\u00f3n"
     ],
+    "name:pol_x_preferred":[
+        "Constituci\u00f3n"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u043d\u0441\u0442\u0438\u0442\u0443\u0441\u044c\u043e\u043d"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":890435989,
-    "wof:lastmodified":1566643140,
+    "wof:lastmodified":1690893323,
     "wof:name":"Constituci\u00f3n",
     "wof:parent_id":85680289,
     "wof:placetype":"locality",

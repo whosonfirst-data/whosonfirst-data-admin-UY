@@ -36,10 +36,16 @@
     "name:eng_x_preferred":[
         "Pocitos"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0633\u06cc\u062a\u0648\u0633"
+    ],
     "name:fra_x_preferred":[
         "Pocitos"
     ],
     "name:glg_x_preferred":[
+        "Pocitos"
+    ],
+    "name:ita_x_preferred":[
         "Pocitos"
     ],
     "name:nld_x_preferred":[
@@ -112,7 +118,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1582343188,
+    "wof:lastmodified":1690893289,
     "wof:name":"Pocitos",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

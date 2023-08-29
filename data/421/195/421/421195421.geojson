@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "La Pedrera"
+    ],
     "name:ceb_x_preferred":[
         "La Pedrera"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":421195421,
-    "wof:lastmodified":1566643121,
+    "wof:lastmodified":1690893299,
     "wof:name":"La Pedrera",
     "wof:parent_id":85680343,
     "wof:placetype":"locality",

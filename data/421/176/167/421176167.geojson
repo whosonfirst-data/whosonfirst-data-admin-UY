@@ -23,6 +23,12 @@
     "name:ara_x_variant":[
         "\u062f\u0648\u0644\u0648\u0631\u064a\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u062f\u0648\u0644\u0648\u0631\u064a\u0633"
+    ],
+    "name:ast_x_preferred":[
+        "Dolores"
+    ],
     "name:ben_x_preferred":[
         "\u09a1\u09b2\u09cb\u09b0\u09c7\u09b8"
     ],
@@ -125,6 +131,9 @@
     "name:slk_x_preferred":[
         "Dolores"
     ],
+    "name:slv_x_preferred":[
+        "Dolores"
+    ],
     "name:spa_x_preferred":[
         "Dolores"
     ],
@@ -206,7 +215,7 @@
         }
     ],
     "wof:id":421176167,
-    "wof:lastmodified":1636500012,
+    "wof:lastmodified":1690893313,
     "wof:name":"Dolores",
     "wof:parent_id":85680293,
     "wof:placetype":"locality",

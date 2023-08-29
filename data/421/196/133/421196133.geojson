@@ -32,7 +32,13 @@
     "name:fra_x_preferred":[
         "Garz\u00f3n"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ac\u30eb\u30bd\u30f3"
+    ],
     "name:nld_x_preferred":[
+        "Garz\u00f3n"
+    ],
+    "name:pol_x_preferred":[
         "Garz\u00f3n"
     ],
     "name:spa_x_preferred":[
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":421196133,
-    "wof:lastmodified":1566643127,
+    "wof:lastmodified":1690893306,
     "wof:name":"Garz\u00f3n",
     "wof:parent_id":85680335,
     "wof:placetype":"locality",

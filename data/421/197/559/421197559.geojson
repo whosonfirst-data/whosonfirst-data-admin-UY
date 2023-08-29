@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Guich\u00f3n"
     ],
+    "name:epo_x_preferred":[
+        "Guich\u00f3n"
+    ],
     "name:fas_x_preferred":[
         "\u06af\u0648\u06cc\u0686\u0648\u0646"
     ],
@@ -51,6 +54,9 @@
         "Guich\u00f3n"
     ],
     "name:pol_x_preferred":[
+        "Guich\u00f3n"
+    ],
+    "name:por_x_preferred":[
         "Guich\u00f3n"
     ],
     "name:rus_x_preferred":[
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":421197559,
-    "wof:lastmodified":1566643127,
+    "wof:lastmodified":1690893306,
     "wof:name":"Guich\u00f3n",
     "wof:parent_id":85680363,
     "wof:placetype":"locality",

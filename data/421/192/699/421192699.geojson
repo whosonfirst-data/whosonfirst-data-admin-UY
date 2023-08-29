@@ -29,10 +29,19 @@
     "name:fra_x_preferred":[
         "Juanic\u00f3"
     ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05d5\u05d0\u05e0\u05d9\u05e1\u05d5"
+    ],
     "name:nld_x_preferred":[
         "Juanic\u00f3"
     ],
     "name:nob_x_preferred":[
+        "Juanic\u00f3"
+    ],
+    "name:pol_x_preferred":[
+        "Juanic\u00f3"
+    ],
+    "name:por_x_preferred":[
         "Juanic\u00f3"
     ],
     "name:rus_x_preferred":[
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":421192699,
-    "wof:lastmodified":1566643120,
+    "wof:lastmodified":1690893299,
     "wof:name":"Joanic\u00f3",
     "wof:parent_id":85680321,
     "wof:placetype":"locality",

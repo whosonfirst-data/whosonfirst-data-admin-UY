@@ -32,6 +32,9 @@
     "name:eng_x_preferred":[
         "Uni\u00f3n"
     ],
+    "name:eng_x_variant":[
+        "La Uni\u00f3n"
+    ],
     "name:ita_x_preferred":[
         "Uni\u00f3n"
     ],
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":1126103725,
-    "wof:lastmodified":1566643141,
+    "wof:lastmodified":1690893324,
     "wof:name":"Uni\u00f3n",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

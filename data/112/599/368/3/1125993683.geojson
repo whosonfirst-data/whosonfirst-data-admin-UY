@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Piri\u00e1polis"
+    ],
     "name:cat_x_preferred":[
         "Piri\u00e1polis"
     ],
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":1125993683,
-    "wof:lastmodified":1566643142,
+    "wof:lastmodified":1690893326,
     "wof:name":"Piri\u00e1polis",
     "wof:parent_id":1092075613,
     "wof:placetype":"locality",

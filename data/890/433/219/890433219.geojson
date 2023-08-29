@@ -49,6 +49,9 @@
     "name:nob_x_preferred":[
         "Aguas Corrientes"
     ],
+    "name:pol_x_preferred":[
+        "Aguas Corrientes"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0433\u0443\u0430\u0441-\u041a\u043e\u0440\u0440\u0438\u0435\u043d\u0442\u0435\u0441"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":890433219,
-    "wof:lastmodified":1566643139,
+    "wof:lastmodified":1690893322,
     "wof:name":"Aguas Corrientes",
     "wof:parent_id":85680321,
     "wof:placetype":"locality",

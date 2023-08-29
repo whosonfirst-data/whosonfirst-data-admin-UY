@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Isidoro Nobl\u00eda"
+    ],
     "name:cat_x_preferred":[
         "Isidoro Noblia"
     ],
@@ -45,6 +48,9 @@
         "Isidoro Nobl\u00eda"
     ],
     "name:nor_x_preferred":[
+        "Isidoro Nobl\u00eda"
+    ],
+    "name:pol_x_preferred":[
         "Isidoro Nobl\u00eda"
     ],
     "name:rus_x_preferred":[
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":421169599,
-    "wof:lastmodified":1566643122,
+    "wof:lastmodified":1690893300,
     "wof:name":"Isidoro Nobl\u00eda",
     "wof:parent_id":404562889,
     "wof:placetype":"locality",

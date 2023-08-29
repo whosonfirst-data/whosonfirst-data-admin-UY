@@ -65,6 +65,9 @@
     "name:nob_x_preferred":[
         "San Luis"
     ],
+    "name:pol_x_preferred":[
+        "San Luis"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u043d-\u041b\u0443\u0438\u0441"
     ],
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":421170961,
-    "wof:lastmodified":1636500011,
+    "wof:lastmodified":1690893311,
     "wof:name":"San Luis",
     "wof:parent_id":85680321,
     "wof:placetype":"locality",

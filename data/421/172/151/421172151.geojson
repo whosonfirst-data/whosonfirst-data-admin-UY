@@ -29,8 +29,14 @@
     "name:eng_x_preferred":[
         "Casup\u00e1"
     ],
+    "name:epo_x_preferred":[
+        "Casup\u00e1"
+    ],
     "name:fra_x_preferred":[
         "Casup\u00e1"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u057d\u057a\u0578\u0582\u0561"
     ],
     "name:ita_x_preferred":[
         "Casup\u00e1"
@@ -42,6 +48,9 @@
         "Casup\u00e1"
     ],
     "name:nor_x_preferred":[
+        "Casup\u00e1"
+    ],
+    "name:pol_x_preferred":[
         "Casup\u00e1"
     ],
     "name:rus_x_preferred":[
@@ -102,7 +111,7 @@
         }
     ],
     "wof:id":421172151,
-    "wof:lastmodified":1566643124,
+    "wof:lastmodified":1690893303,
     "wof:name":"Casup\u00e1",
     "wof:parent_id":85680325,
     "wof:placetype":"locality",

@@ -32,6 +32,9 @@
     "name:fra_x_preferred":[
         "Cardal"
     ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u0580\u0564\u0561\u056c"
+    ],
     "name:ita_x_preferred":[
         "Cardal"
     ],
@@ -42,6 +45,9 @@
         "Cardal"
     ],
     "name:nor_x_preferred":[
+        "Cardal"
+    ],
+    "name:pol_x_preferred":[
         "Cardal"
     ],
     "name:rus_x_preferred":[
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421172153,
-    "wof:lastmodified":1566643124,
+    "wof:lastmodified":1690893303,
     "wof:name":"Cardal",
     "wof:parent_id":85680325,
     "wof:placetype":"locality",

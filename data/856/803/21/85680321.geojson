@@ -38,6 +38,9 @@
     "name:ben_x_preferred":[
         "\u0995\u09be\u09a8\u09c7\u09b2\u09cb\u09a8\u09cd\u09b8 \u09ac\u09bf\u09ad\u09be\u0997"
     ],
+    "name:bre_x_preferred":[
+        "Departamant Canelones"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u0430\u043d\u0435\u043b\u043e\u043d\u0435\u0441"
     ],
@@ -64,6 +67,9 @@
     ],
     "name:epo_x_preferred":[
         "Canelones"
+    ],
+    "name:epo_x_variant":[
+        "departemento Canelones"
     ],
     "name:eus_x_preferred":[
         "Canelones departamendua"
@@ -140,6 +146,9 @@
     "name:msa_x_preferred":[
         "Canelones Department"
     ],
+    "name:nan_x_preferred":[
+        "Canelones S\u00e9ng"
+    ],
     "name:nld_x_preferred":[
         "Canelones"
     ],
@@ -154,6 +163,9 @@
     ],
     "name:que_x_preferred":[
         "Canelones suyu"
+    ],
+    "name:ron_x_preferred":[
+        "Departamentul Canelones"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u043d\u0435\u043b\u043e\u043d\u0435\u0441"
@@ -202,6 +214,9 @@
     ],
     "name:war_x_preferred":[
         "Canelones"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5361\u5185\u6d1b\u5185\u65af\u7701"
     ],
     "name:zho_x_preferred":[
         "\u5361\u5185\u6d1b\u5185\u65af\u7701"
@@ -324,7 +339,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1636500000,
+    "wof:lastmodified":1690893292,
     "wof:name":"Canelones",
     "wof:parent_id":85632511,
     "wof:placetype":"region",

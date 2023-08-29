@@ -32,6 +32,9 @@
     "name:eng_x_preferred":[
         "Capurro"
     ],
+    "name:ita_x_preferred":[
+        "Capurro"
+    ],
     "name:nld_x_preferred":[
         "Capurro"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1126090511,
-    "wof:lastmodified":1566643144,
+    "wof:lastmodified":1690893327,
     "wof:name":"Capurro",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

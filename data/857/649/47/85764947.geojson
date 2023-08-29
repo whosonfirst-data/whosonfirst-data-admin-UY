@@ -51,6 +51,9 @@
     "name:spa_x_variant":[
         "Pta Carretas"
     ],
+    "name:zho_x_preferred":[
+        "\u84ec\u5854\u5361\u96f7\u5854\u65af"
+    ],
     "qs:gn_adm0_cc":"US",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":5038018,
@@ -132,7 +135,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1582343188,
+    "wof:lastmodified":1690893289,
     "wof:name":"Punta Carretas",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

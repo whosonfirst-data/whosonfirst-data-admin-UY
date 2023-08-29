@@ -32,6 +32,9 @@
     "name:eng_x_preferred":[
         "Colonia Nicolich"
     ],
+    "name:eng_x_variant":[
+        "General L\u00edber Seregni"
+    ],
     "name:eus_x_preferred":[
         "General L\u00edber Seregni"
     ],
@@ -55,6 +58,9 @@
     ],
     "name:spa_x_preferred":[
         "Colonia Nicolich"
+    ],
+    "name:spa_x_variant":[
+        "General L\u00edber Seregni"
     ],
     "name:zho_x_preferred":[
         "\u5c3c\u79d1\u5229\u5947\u79fb\u6c11\u93ae"
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":421172947,
-    "wof:lastmodified":1566643124,
+    "wof:lastmodified":1690893303,
     "wof:name":"Colonia Nicolich",
     "wof:parent_id":85680321,
     "wof:placetype":"locality",

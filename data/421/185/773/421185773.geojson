@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Tupamba\u00e9"
+    ],
     "name:cat_x_preferred":[
         "Tupamba\u00e9"
     ],
@@ -45,6 +48,9 @@
         "Tupamba\u00e9"
     ],
     "name:nor_x_preferred":[
+        "Tupamba\u00e9"
+    ],
+    "name:pol_x_preferred":[
         "Tupamba\u00e9"
     ],
     "name:rus_x_preferred":[
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":421185773,
-    "wof:lastmodified":1566643135,
+    "wof:lastmodified":1690893317,
     "wof:name":"Tupamba\u00e9",
     "wof:parent_id":85680317,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0644\u0627 \u0628\u0627\u0644\u0648\u0645\u0627"
     ],
+    "name:ast_x_preferred":[
+        "La Paloma"
+    ],
     "name:ben_x_preferred":[
         "\u09b2\u09be \u09aa\u09be\u09b2\u09cb\u09ae\u09be"
     ],
@@ -53,11 +56,17 @@
     "name:hun_x_preferred":[
         "La Paloma"
     ],
+    "name:hye_x_preferred":[
+        "\u053c\u0561 \u054a\u0561\u056c\u0578\u0574\u0561"
+    ],
     "name:ind_x_preferred":[
         "La Paloma"
     ],
     "name:ita_x_preferred":[
         "La Paloma"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30fb\u30d1\u30ed\u30de"
     ],
     "name:kor_x_preferred":[
         "\ub77c \ud314\ub85c\ub9c8"
@@ -69,6 +78,9 @@
         "La Paloma"
     ],
     "name:nor_x_preferred":[
+        "La Paloma"
+    ],
+    "name:pol_x_preferred":[
         "La Paloma"
     ],
     "name:por_x_preferred":[
@@ -245,7 +257,7 @@
         }
     ],
     "wof:id":421201403,
-    "wof:lastmodified":1636500011,
+    "wof:lastmodified":1690893310,
     "wof:name":"La Paloma",
     "wof:parent_id":85680343,
     "wof:placetype":"locality",
