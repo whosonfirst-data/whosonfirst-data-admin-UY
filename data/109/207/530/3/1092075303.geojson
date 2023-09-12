@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.073803,
-    "geom:area_square_m":786292204.170258,
+    "geom:area_square_m":786292204.17043,
     "geom:bbox":"-57.5457748601,-30.6961047803,-57.2286559706,-30.300779301",
     "geom:latitude":-30.502392,
     "geom:longitude":-57.382191,
     "iso:country":"UY",
+    "label:eng_x_preferred_longname":[
+        "Tom\u00e1s Gomensoro Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-30.510667,
     "lbl:longitude":-57.382196,
     "lbl:max_zoom":10.0,
@@ -32,6 +38,9 @@
         "Tom\u00e1s Gomensoro"
     ],
     "name:deu_x_preferred":[
+        "Tom\u00e1s Gomensoro"
+    ],
+    "name:eng_x_preferred":[
         "Tom\u00e1s Gomensoro"
     ],
     "name:fra_x_preferred":[
@@ -69,7 +78,7 @@
     "wof:concordances":{},
     "wof:country":"UY",
     "wof:created":1473899524,
-    "wof:geomhash":"2423778e4776f26fe18102513550147c",
+    "wof:geomhash":"11fcc60ba2fadb10177e87f26d1e5cb0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":1092075303,
-    "wof:lastmodified":1566643103,
+    "wof:lastmodified":1694497840,
     "wof:name":"Tom\u00e1s Gomensoro",
     "wof:parent_id":85680355,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.071002,
-    "geom:area_square_m":754439128.343298,
+    "geom:area_square_m":754438965.001319,
     "geom:bbox":"-57.5665,-30.929279,-57.139985,-30.55289",
     "geom:latitude":-30.76044,
     "geom:longitude":-57.39951,
     "iso:country":"UY",
+    "label:eng_x_preferred_longname":[
+        "Baltasar Brum Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-30.771057,
     "lbl:longitude":-57.402689,
     "lbl:max_zoom":10.0,
@@ -42,6 +48,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03b1\u03bb\u03c4\u03b1\u03c3\u03ac\u03c1 \u039c\u03c0\u03c1\u03bf\u03c5\u03bc"
+    ],
+    "name:eng_x_preferred":[
+        "Baltasar Brum"
     ],
     "name:fas_x_preferred":[
         "\u0628\u0627\u0644\u062a\u0627\u0632\u0627\u0631 \u0628\u0631\u0627\u0645"
@@ -120,7 +129,7 @@
     "wof:concordances":{},
     "wof:country":"UY",
     "wof:created":1473899520,
-    "wof:geomhash":"ed55eeca47fdd394b7d3b3835fe35e06",
+    "wof:geomhash":"fde3da135bb300e686b25cd95eba07ce",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -130,7 +139,7 @@
         }
     ],
     "wof:id":1092075239,
-    "wof:lastmodified":1636500008,
+    "wof:lastmodified":1694498105,
     "wof:name":"Baltasar Brum",
     "wof:parent_id":85680355,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010322,
-    "geom:area_square_m":104743938.214976,
+    "geom:area_square_m":104743938.214919,
     "geom:bbox":"-55.2976903775,-34.9055152159,-55.0799426566,-34.7863303964",
     "geom:latitude":-34.852031,
     "geom:longitude":-55.225372,
     "iso:country":"UY",
+    "label:eng_x_preferred_longname":[
+        "Piri\u00e1polis Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-34.859361,
     "lbl:longitude":-55.236105,
     "lbl:max_zoom":10.0,
@@ -32,6 +38,9 @@
         "Piri\u00e1polis"
     ],
     "name:deu_x_preferred":[
+        "Piri\u00e1polis"
+    ],
+    "name:eng_x_preferred":[
         "Piri\u00e1polis"
     ],
     "name:fas_x_preferred":[
@@ -84,7 +93,7 @@
     "wof:concordances":{},
     "wof:country":"UY",
     "wof:created":1473899542,
-    "wof:geomhash":"18a0a8b5e3c5840073a5ff847f6e1cf9",
+    "wof:geomhash":"9a877c801fc603d3259af20289319129",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":1092075613,
-    "wof:lastmodified":1566643089,
+    "wof:lastmodified":1694497839,
     "wof:name":"Piri\u00e1polis",
     "wof:parent_id":85680335,
     "wof:placetype":"county",

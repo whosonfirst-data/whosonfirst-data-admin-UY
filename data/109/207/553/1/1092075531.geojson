@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049323,
-    "geom:area_square_m":521672360.54847,
+    "geom:area_square_m":521672546.658315,
     "geom:bbox":"-55.921182,-31.355272,-55.476967,-31.049969",
     "geom:latitude":-31.200403,
     "geom:longitude":-55.718558,
     "iso:country":"UY",
+    "label:eng_x_preferred_longname":[
+        "Tranqueras Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-31.163531,
     "lbl:longitude":-55.792432,
     "lbl:max_zoom":10.0,
@@ -36,6 +42,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a4\u03c1\u03b1\u03bd\u03ba\u03ad\u03c1\u03b1\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Tranqueras"
     ],
     "name:fas_x_preferred":[
         "\u062a\u0631\u0627\u0646\u06a9\u0648\u0626\u0631\u0627\u0633"
@@ -108,7 +117,7 @@
     "wof:concordances":{},
     "wof:country":"UY",
     "wof:created":1473899538,
-    "wof:geomhash":"0364556add892224f33640e2cf6aa579",
+    "wof:geomhash":"91e2e4f86ba39a0d6bc6144690ba674e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -118,7 +127,7 @@
         }
     ],
     "wof:id":1092075531,
-    "wof:lastmodified":1636500007,
+    "wof:lastmodified":1694498104,
     "wof:name":"Tranqueras",
     "wof:parent_id":85680307,
     "wof:placetype":"county",

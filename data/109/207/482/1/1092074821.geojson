@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025528,
-    "geom:area_square_m":259473311.02039,
+    "geom:area_square_m":259473319.389103,
     "geom:bbox":"-55.485113,-34.855387,-55.265791,-34.619124",
     "geom:latitude":-34.715105,
     "geom:longitude":-55.371255,
     "iso:country":"UY",
+    "label:eng_x_preferred_longname":[
+        "Sol\u00eds Grande Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-34.682862,
     "lbl:longitude":-55.39697,
     "lbl:max_zoom":10.0,
@@ -25,6 +31,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Sol\u00eds Grande"
+    ],
     "name:fra_x_preferred":[
         "Sol\u00eds Grande"
     ],
@@ -39,7 +48,7 @@
     "wof:concordances":{},
     "wof:country":"UY",
     "wof:created":1473899505,
-    "wof:geomhash":"5713a7022058df4e35ff9a6abbc2f442",
+    "wof:geomhash":"b5ce153d5ceb6e8bfc569b9b2e6fb209",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1092074821,
-    "wof:lastmodified":1627522969,
+    "wof:lastmodified":1694498069,
     "wof:name":"Sol\u00eds Grande",
     "wof:parent_id":85680335,
     "wof:placetype":"county",

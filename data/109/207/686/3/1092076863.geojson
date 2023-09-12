@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024571,
-    "geom:area_square_m":250194228.856061,
+    "geom:area_square_m":250194367.50374,
     "geom:bbox":"-54.263177,-34.669142,-54.05645,-34.46816",
     "geom:latitude":-34.565449,
     "geom:longitude":-54.178347,
     "iso:country":"UY",
+    "label:eng_x_preferred_longname":[
+        "La Paloma Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-34.549931,
     "lbl:longitude":-54.169975,
     "lbl:max_zoom":10.0,
@@ -32,6 +38,9 @@
         "La Paloma"
     ],
     "name:ell_x_preferred":[
+        "La Paloma"
+    ],
+    "name:eng_x_preferred":[
         "La Paloma"
     ],
     "name:fin_x_preferred":[
@@ -96,7 +105,7 @@
     "wof:concordances":{},
     "wof:country":"UY",
     "wof:created":1473899616,
-    "wof:geomhash":"6148a9d1dff05a23ff34a860df1fabc0",
+    "wof:geomhash":"5ef67f236624edffc18e6017681ad1f2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -106,7 +115,7 @@
         }
     ],
     "wof:id":1092076863,
-    "wof:lastmodified":1636500004,
+    "wof:lastmodified":1694498103,
     "wof:name":"La Paloma",
     "wof:parent_id":85680343,
     "wof:placetype":"county",

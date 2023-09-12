@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002145,
-    "geom:area_square_m":21768310.388398,
+    "geom:area_square_m":21768333.147459,
     "geom:bbox":"-56.060802,-34.879501,-56.001149,-34.815235",
     "geom:latitude":-34.848144,
     "geom:longitude":-56.033529,
     "iso:country":"UY",
+    "label:eng_x_preferred_longname":[
+        "Paso Carrasco Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-34.837459,
     "lbl:longitude":-56.040511,
     "lbl:max_zoom":10.0,
@@ -25,6 +31,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Paso Carrasco"
+    ],
     "name:fra_x_preferred":[
         "Paso Carrasco"
     ],
@@ -39,7 +48,7 @@
     "wof:concordances":{},
     "wof:country":"UY",
     "wof:created":1473899570,
-    "wof:geomhash":"5ee5ce23824be6a78d4d66430b4721f3",
+    "wof:geomhash":"c3dfba3c42681592c437c2823af5ee26",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1092076231,
-    "wof:lastmodified":1627522968,
+    "wof:lastmodified":1694498068,
     "wof:name":"Paso Carrasco",
     "wof:parent_id":85680321,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.272546,
-    "geom:area_square_m":2850736419.963952,
+    "geom:area_square_m":2850736419.963896,
     "geom:bbox":"-57.4708643688,-32.4900384365,-56.4656790192,-32.0138634627",
     "geom:latitude":-32.232094,
     "geom:longitude":-56.938973,
     "iso:country":"UY",
+    "label:eng_x_preferred_longname":[
+        "Guich\u00f3n Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-32.213111,
     "lbl:longitude":-56.889686,
     "lbl:max_zoom":10.0,
@@ -32,6 +38,9 @@
         "Guich\u00f3n"
     ],
     "name:deu_x_preferred":[
+        "Guich\u00f3n"
+    ],
+    "name:eng_x_preferred":[
         "Guich\u00f3n"
     ],
     "name:fas_x_preferred":[
@@ -72,7 +81,7 @@
     "wof:concordances":{},
     "wof:country":"UY",
     "wof:created":1473899608,
-    "wof:geomhash":"7498fa311718b2b2d2d01e8ecd876102",
+    "wof:geomhash":"52fb9ba30cfef51f90fb4123f6f0844a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":1092076725,
-    "wof:lastmodified":1566643091,
+    "wof:lastmodified":1694497839,
     "wof:name":"Guich\u00f3n",
     "wof:parent_id":85680363,
     "wof:placetype":"county",

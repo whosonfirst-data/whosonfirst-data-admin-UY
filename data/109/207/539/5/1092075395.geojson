@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042044,
-    "geom:area_square_m":430594327.713511,
+    "geom:area_square_m":430594617.89852,
     "geom:bbox":"-58.306371,-34.202787,-57.939385,-33.943117",
     "geom:latitude":-34.079937,
     "geom:longitude":-58.133217,
     "iso:country":"UY",
+    "label:eng_x_preferred_longname":[
+        "Carmelo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-34.100805,
     "lbl:longitude":-58.130477,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
         "Carmelo"
     ],
     "name:deu_x_preferred":[
+        "Carmelo"
+    ],
+    "name:eng_x_preferred":[
         "Carmelo"
     ],
     "name:fra_x_preferred":[
@@ -60,7 +69,7 @@
     "wof:concordances":{},
     "wof:country":"UY",
     "wof:created":1473899530,
-    "wof:geomhash":"c0cac23ace30652197035652ac503dde",
+    "wof:geomhash":"65c06d5ca8f0cedd4108893c10c71d04",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":1092075395,
-    "wof:lastmodified":1636500006,
+    "wof:lastmodified":1694498104,
     "wof:name":"Carmelo",
     "wof:parent_id":85680347,
     "wof:placetype":"county",

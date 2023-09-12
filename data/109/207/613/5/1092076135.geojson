@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000829,
-    "geom:area_square_m":8426766.69241,
+    "geom:area_square_m":8426784.577346,
     "geom:bbox":"-55.737713,-34.772269,-55.697949,-34.737713",
     "geom:latitude":-34.755148,
     "geom:longitude":-55.716826,
     "iso:country":"UY",
+    "label:eng_x_preferred_longname":[
+        "Parque del Plata Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-34.755101,
     "lbl:longitude":-55.716454,
     "lbl:max_zoom":10.0,
@@ -35,6 +41,9 @@
         "Parque del Plata"
     ],
     "name:deu_x_preferred":[
+        "Parque del Plata"
+    ],
+    "name:eng_x_preferred":[
         "Parque del Plata"
     ],
     "name:fra_x_preferred":[
@@ -66,7 +75,7 @@
     "wof:concordances":{},
     "wof:country":"UY",
     "wof:created":1473899566,
-    "wof:geomhash":"69cecc67c87a71b997cdc9eb5b5f76fc",
+    "wof:geomhash":"f235fba01931e349ede9a2d74f2c7e67",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -76,7 +85,7 @@
         }
     ],
     "wof:id":1092076135,
-    "wof:lastmodified":1627522968,
+    "wof:lastmodified":1694498068,
     "wof:name":"Parque del Plata",
     "wof:parent_id":85680321,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011611,
-    "geom:area_square_m":118027269.466819,
+    "geom:area_square_m":118027391.031653,
     "geom:bbox":"-56.026372,-34.792782,-55.878914,-34.611226",
     "geom:latitude":-34.709622,
     "geom:longitude":-55.953736,
     "iso:country":"UY",
+    "label:eng_x_preferred_longname":[
+        "Pando Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-34.684975,
     "lbl:longitude":-55.973263,
     "lbl:max_zoom":10.0,
@@ -35,6 +41,9 @@
         "Pando"
     ],
     "name:deu_x_preferred":[
+        "Pando"
+    ],
+    "name:eng_x_preferred":[
         "Pando"
     ],
     "name:epo_x_preferred":[
@@ -90,7 +99,7 @@
     "wof:concordances":{},
     "wof:country":"UY",
     "wof:created":1473899591,
-    "wof:geomhash":"78469851966386f063313b630edeca70",
+    "wof:geomhash":"fbd7b138176db3aeea85f195fd7d764d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":1092076481,
-    "wof:lastmodified":1642551773,
+    "wof:lastmodified":1694498181,
     "wof:name":"Pando",
     "wof:parent_id":85680321,
     "wof:placetype":"county",

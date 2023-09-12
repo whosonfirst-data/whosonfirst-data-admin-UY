@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.149546,
-    "geom:area_square_m":1583014536.066217,
+    "geom:area_square_m":1583014536.066929,
     "geom:bbox":"-57.8975230126,-31.3419521761,-57.2587101289,-30.9354386776",
     "geom:latitude":-31.121858,
     "geom:longitude":-57.567301,
     "iso:country":"UY",
+    "label:eng_x_preferred_longname":[
+        "Villa Constituci\u00f3n Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-31.122514,
     "lbl:longitude":-57.545404,
     "lbl:max_zoom":10.0,
@@ -27,6 +33,9 @@
     "mz:min_zoom":6.0,
     "name:azb_x_preferred":[
         "\u0648\u06cc\u0644\u0627 \u06a9\u0648\u0646\u0633\u062a\u06cc\u062a\u0648\u0633\u06cc\u0648\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Villa Constituci\u00f3n"
     ],
     "name:fas_x_preferred":[
         "\u0648\u06cc\u06cc\u0627 \u06a9\u0648\u0646\u0633\u062a\u06cc\u062a\u0648\u0633\u06cc\u0648\u0646"
@@ -69,7 +78,7 @@
     "wof:concordances":{},
     "wof:country":"UY",
     "wof:created":1473899526,
-    "wof:geomhash":"3543b7896f7d7cd0183732318568dfb5",
+    "wof:geomhash":"c72154bfd92f3f4588de92607077a2ec",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":1092075351,
-    "wof:lastmodified":1566643090,
+    "wof:lastmodified":1694497839,
     "wof:name":"Villa Constituci\u00f3n",
     "wof:parent_id":85680289,
     "wof:placetype":"county",

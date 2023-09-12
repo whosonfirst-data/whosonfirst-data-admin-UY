@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006394,
-    "geom:area_square_m":65753156.896513,
+    "geom:area_square_m":65752989.961767,
     "geom:bbox":"-53.612719,-33.773349,-53.485939,-33.69187",
     "geom:latitude":-33.731339,
     "geom:longitude":-53.540279,
     "iso:country":"UY",
+    "label:eng_x_preferred_longname":[
+        "Chuy Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-33.735716,
     "lbl:longitude":-53.532729,
     "lbl:max_zoom":10.0,
@@ -32,6 +38,9 @@
         "Chuy"
     ],
     "name:deu_x_preferred":[
+        "Chuy"
+    ],
+    "name:eng_x_preferred":[
         "Chuy"
     ],
     "name:fas_x_preferred":[
@@ -93,7 +102,7 @@
     "wof:concordances":{},
     "wof:country":"UY",
     "wof:created":1473899509,
-    "wof:geomhash":"d7c448eda655f2ee74bd69d48f655c45",
+    "wof:geomhash":"9d6a4dc9ea9a3a43eb4d0078daef0099",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -103,7 +112,7 @@
         }
     ],
     "wof:id":1092074951,
-    "wof:lastmodified":1636500008,
+    "wof:lastmodified":1694498105,
     "wof:name":"Chuy",
     "wof:parent_id":85680343,
     "wof:placetype":"county",

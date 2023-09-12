@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038866,
-    "geom:area_square_m":395378919.082361,
+    "geom:area_square_m":395378919.082373,
     "geom:bbox":"-56.8455664331,-34.7492600665,-56.4762568703,-34.5369876466",
     "geom:latitude":-34.644152,
     "geom:longitude":-56.651979,
     "iso:country":"UY",
+    "label:eng_x_preferred_longname":[
+        "Libertad Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-34.672116,
     "lbl:longitude":-56.603115,
     "lbl:max_zoom":10.0,
@@ -32,6 +38,9 @@
         "Libertad"
     ],
     "name:deu_x_preferred":[
+        "Libertad"
+    ],
+    "name:eng_x_preferred":[
         "Libertad"
     ],
     "name:epo_x_preferred":[
@@ -96,7 +105,7 @@
     "wof:concordances":{},
     "wof:country":"UY",
     "wof:created":1473899552,
-    "wof:geomhash":"0fed8ed35302205c6730e2bfcbdc3c43",
+    "wof:geomhash":"db7945d19e7752e8a287db2839096b76",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -106,7 +115,7 @@
         }
     ],
     "wof:id":1092075801,
-    "wof:lastmodified":1566643103,
+    "wof:lastmodified":1694497840,
     "wof:name":"Libertad",
     "wof:parent_id":85680349,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.157292,
-    "geom:area_square_m":1655206856.482245,
+    "geom:area_square_m":1655206856.482256,
     "geom:bbox":"-58.0347057268,-31.8677390053,-57.3602080744,-31.4523925765",
     "geom:latitude":-31.676117,
     "geom:longitude":-57.755825,
     "iso:country":"UY",
+    "label:eng_x_preferred_longname":[
+        "Chapicuy Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-31.657953,
     "lbl:longitude":-57.834936,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
         "Chapicuy"
     ],
     "name:deu_x_preferred":[
+        "Chapicuy"
+    ],
+    "name:eng_x_preferred":[
         "Chapicuy"
     ],
     "name:fra_x_preferred":[
@@ -57,7 +66,7 @@
     "wof:concordances":{},
     "wof:country":"UY",
     "wof:created":1473899601,
-    "wof:geomhash":"a3d8683e462309713b1a03c1b8eb45e6",
+    "wof:geomhash":"47f5ac4e654b73a73d9b98695e87bd68",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":1092076615,
-    "wof:lastmodified":1566643100,
+    "wof:lastmodified":1694497840,
     "wof:name":"Chapicuy",
     "wof:parent_id":85680363,
     "wof:placetype":"county",

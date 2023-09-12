@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.16016,
-    "geom:area_square_m":1629081815.889645,
+    "geom:area_square_m":1629081376.318393,
     "geom:bbox":"-55.197063,-34.918459,-54.665458,-34.400953",
     "geom:latitude":-34.653976,
     "geom:longitude":-54.910987,
     "iso:country":"UY",
+    "label:eng_x_preferred_longname":[
+        "San Carlos Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-34.628968,
     "lbl:longitude":-54.907062,
     "lbl:max_zoom":10.0,
@@ -38,6 +44,9 @@
         "San Carlos"
     ],
     "name:deu_x_preferred":[
+        "San Carlos"
+    ],
+    "name:eng_x_preferred":[
         "San Carlos"
     ],
     "name:epo_x_preferred":[
@@ -141,7 +150,7 @@
     "wof:concordances":{},
     "wof:country":"UY",
     "wof:created":1473899535,
-    "wof:geomhash":"380ffa89799ca69c23b544f5c5442f37",
+    "wof:geomhash":"18b7682e61ad4094ae2b98d6e05c84df",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -151,7 +160,7 @@
         }
     ],
     "wof:id":1092075463,
-    "wof:lastmodified":1642551714,
+    "wof:lastmodified":1694498178,
     "wof:name":"San Carlos",
     "wof:parent_id":85680335,
     "wof:placetype":"county",

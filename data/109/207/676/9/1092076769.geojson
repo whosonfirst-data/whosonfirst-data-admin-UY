@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.094081,
-    "geom:area_square_m":981825869.781568,
+    "geom:area_square_m":981825833.563781,
     "geom:bbox":"-58.053879,-32.59594,-57.584351,-32.269945",
     "geom:latitude":-32.437408,
     "geom:longitude":-57.84498,
     "iso:country":"UY",
+    "label:eng_x_preferred_longname":[
+        "Porvenir Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-32.433154,
     "lbl:longitude":-57.84945,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
         "Porvenir"
     ],
     "name:deu_x_preferred":[
+        "Porvenir"
+    ],
+    "name:eng_x_preferred":[
         "Porvenir"
     ],
     "name:fra_x_preferred":[
@@ -66,7 +75,7 @@
     "wof:concordances":{},
     "wof:country":"UY",
     "wof:created":1473899611,
-    "wof:geomhash":"92043573f0a77b792dac6833f7c3c254",
+    "wof:geomhash":"d102b5c185d55f2fb1ebc220f1e6540e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -76,7 +85,7 @@
         }
     ],
     "wof:id":1092076769,
-    "wof:lastmodified":1642551731,
+    "wof:lastmodified":1694498180,
     "wof:name":"Porvenir",
     "wof:parent_id":85680363,
     "wof:placetype":"county",

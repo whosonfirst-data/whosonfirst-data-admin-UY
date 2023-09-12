@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016257,
-    "geom:area_square_m":166418781.791785,
+    "geom:area_square_m":166418781.791777,
     "geom:bbox":"-55.7197922576,-34.2109420431,-55.5483884617,-34.0062775957",
     "geom:latitude":-34.117813,
     "geom:longitude":-55.629376,
     "iso:country":"UY",
+    "label:eng_x_preferred_longname":[
+        "Casup\u00e1 Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-34.116371,
     "lbl:longitude":-55.609279,
     "lbl:max_zoom":10.0,
@@ -32,6 +38,9 @@
         "Casup\u00e1"
     ],
     "name:deu_x_preferred":[
+        "Casup\u00e1"
+    ],
+    "name:eng_x_preferred":[
         "Casup\u00e1"
     ],
     "name:fra_x_preferred":[
@@ -63,7 +72,7 @@
     "wof:concordances":{},
     "wof:country":"UY",
     "wof:created":1473899539,
-    "wof:geomhash":"024d4dfe257b898f8bb8bfa78888abbd",
+    "wof:geomhash":"d6168740e5598053e9f197c07f68b387",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":1092075565,
-    "wof:lastmodified":1566643087,
+    "wof:lastmodified":1694497839,
     "wof:name":"Casup\u00e1",
     "wof:parent_id":85680325,
     "wof:placetype":"county",

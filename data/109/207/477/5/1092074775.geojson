@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.07874,
-    "geom:area_square_m":819705949.010371,
+    "geom:area_square_m":819705853.186186,
     "geom:bbox":"-58.191946,-32.844435,-57.743625,-32.457981",
     "geom:latitude":-32.658346,
     "geom:longitude":-58.020104,
     "iso:country":"UY",
+    "label:eng_x_preferred_longname":[
+        "San Javier Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-32.678157,
     "lbl:longitude":-58.023497,
     "lbl:max_zoom":10.0,
@@ -36,6 +42,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03bd \u03a7\u03b1\u03b2\u03b9\u03ad"
+    ],
+    "name:eng_x_preferred":[
+        "San Javier"
     ],
     "name:fas_x_preferred":[
         "\u0633\u0627\u0646 \u062e\u0627\u0648\u06cc\u0631"
@@ -111,7 +120,7 @@
     "wof:concordances":{},
     "wof:country":"UY",
     "wof:created":1473899503,
-    "wof:geomhash":"09b8c75f626c687a6f27caef214b47a6",
+    "wof:geomhash":"ef0759662f30ffb67c2b7a0f9014c61c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -121,7 +130,7 @@
         }
     ],
     "wof:id":1092074775,
-    "wof:lastmodified":1636500005,
+    "wof:lastmodified":1694498103,
     "wof:name":"San Javier",
     "wof:parent_id":85680367,
     "wof:placetype":"county",

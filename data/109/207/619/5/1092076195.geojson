@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007122,
-    "geom:area_square_m":72361630.083871,
+    "geom:area_square_m":72361639.450638,
     "geom:bbox":"-55.911871,-34.795133,-55.795589,-34.694473",
     "geom:latitude":-34.749722,
     "geom:longitude":-55.85489,
     "iso:country":"UY",
+    "label:eng_x_preferred_longname":[
+        "Salinas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-34.751615,
     "lbl:longitude":-55.853728,
     "lbl:max_zoom":10.0,
@@ -41,6 +47,9 @@
         "Salinas"
     ],
     "name:deu_x_preferred":[
+        "Salinas"
+    ],
+    "name:eng_x_preferred":[
         "Salinas"
     ],
     "name:epo_x_preferred":[
@@ -147,7 +156,7 @@
     "wof:concordances":{},
     "wof:country":"UY",
     "wof:created":1473899569,
-    "wof:geomhash":"e86411c5098343974885d4ff51d508d1",
+    "wof:geomhash":"e7d25903d58f6812c178db6725003886",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -157,7 +166,7 @@
         }
     ],
     "wof:id":1092076195,
-    "wof:lastmodified":1636500005,
+    "wof:lastmodified":1694498104,
     "wof:name":"Salinas",
     "wof:parent_id":85680321,
     "wof:placetype":"county",

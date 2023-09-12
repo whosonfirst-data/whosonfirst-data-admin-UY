@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050688,
-    "geom:area_square_m":517582403.916034,
+    "geom:area_square_m":517582403.915912,
     "geom:bbox":"-55.894543815,-34.4500229368,-55.5712651127,-34.2055266513",
     "geom:latitude":-34.329901,
     "geom:longitude":-55.731576,
     "iso:country":"UY",
+    "label:eng_x_preferred_longname":[
+        "Tala Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-34.320369,
     "lbl:longitude":-55.728526,
     "lbl:max_zoom":10.0,
@@ -36,6 +42,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a4\u03ac\u03bb\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Tala"
     ],
     "name:epo_x_preferred":[
         "Tala"
@@ -93,7 +102,7 @@
     "wof:concordances":{},
     "wof:country":"UY",
     "wof:created":1473899496,
-    "wof:geomhash":"5fef914cf5e18982d632d18cf5612d91",
+    "wof:geomhash":"6ee2c567bd00d3c55eb54632fab6fa11",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -103,7 +112,7 @@
         }
     ],
     "wof:id":1092074577,
-    "wof:lastmodified":1566643112,
+    "wof:lastmodified":1694497841,
     "wof:name":"Tala",
     "wof:parent_id":85680321,
     "wof:placetype":"county",

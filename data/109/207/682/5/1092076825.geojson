@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043623,
-    "geom:area_square_m":452461415.943224,
+    "geom:area_square_m":452461415.94338,
     "geom:bbox":"-58.1018347016,-33.1385289629,-57.8656230741,-32.8153942038",
     "geom:latitude":-32.985612,
     "geom:longitude":-57.991186,
     "iso:country":"UY",
+    "label:eng_x_preferred_longname":[
+        "Nuevo Berl\u00edn Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-32.992719,
     "lbl:longitude":-57.979623,
     "lbl:max_zoom":10.0,
@@ -32,6 +38,9 @@
         "Nuevo Berl\u00edn"
     ],
     "name:deu_x_preferred":[
+        "Nuevo Berl\u00edn"
+    ],
+    "name:eng_x_preferred":[
         "Nuevo Berl\u00edn"
     ],
     "name:fra_x_preferred":[
@@ -66,7 +75,7 @@
     "wof:concordances":{},
     "wof:country":"UY",
     "wof:created":1473899614,
-    "wof:geomhash":"caf71698db7362b693a1182c1831a6ce",
+    "wof:geomhash":"54c171d01b2d4cca9686a0c05eb68ce5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -76,7 +85,7 @@
         }
     ],
     "wof:id":1092076825,
-    "wof:lastmodified":1566643107,
+    "wof:lastmodified":1694497841,
     "wof:name":"Nuevo Berl\u00edn",
     "wof:parent_id":85680367,
     "wof:placetype":"county",

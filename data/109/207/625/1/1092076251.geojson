@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001183,
-    "geom:area_square_m":11998736.215201,
+    "geom:area_square_m":11998668.190831,
     "geom:bbox":"-56.165447,-34.937923,-56.119803,-34.879299",
     "geom:latitude":-34.902329,
     "geom:longitude":-56.148454,
     "iso:country":"UY",
+    "label:eng_x_preferred_longname":[
+        "Municipio CH"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-34.899374,
     "lbl:longitude":-56.15066,
     "lbl:max_zoom":10.0,
@@ -25,6 +31,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Municipio CH"
+    ],
     "name:fra_x_preferred":[
         "Munic\u00edpio CH"
     ],
@@ -39,7 +48,7 @@
     "wof:concordances":{},
     "wof:country":"UY",
     "wof:created":1473899572,
-    "wof:geomhash":"b46513e76fc29459907f7400d6da7ef2",
+    "wof:geomhash":"b92347686d08a3e60887cfb93e3125f7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1092076251,
-    "wof:lastmodified":1642551749,
+    "wof:lastmodified":1694498180,
     "wof:name":"Municipio CH",
     "wof:parent_id":85680339,
     "wof:placetype":"county",

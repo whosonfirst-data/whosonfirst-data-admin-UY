@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053308,
-    "geom:area_square_m":544814311.544878,
+    "geom:area_square_m":544814311.544893,
     "geom:bbox":"-57.8145280687,-34.3990324185,-57.4321177703,-34.1279536923",
     "geom:latitude":-34.257282,
     "geom:longitude":-57.605694,
     "iso:country":"UY",
+    "label:eng_x_preferred_longname":[
+        "Tarariras Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-34.268125,
     "lbl:longitude":-57.570967,
     "lbl:max_zoom":10.0,
@@ -32,6 +38,9 @@
         "Tarariras"
     ],
     "name:deu_x_preferred":[
+        "Tarariras"
+    ],
+    "name:eng_x_preferred":[
         "Tarariras"
     ],
     "name:fas_x_preferred":[
@@ -75,7 +84,7 @@
     "wof:concordances":{},
     "wof:country":"UY",
     "wof:created":1473899557,
-    "wof:geomhash":"d87d80f274b1acc5e891ec4419e72119",
+    "wof:geomhash":"b1ae65e2988eec2296895cf471fea3d9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":1092075901,
-    "wof:lastmodified":1566643104,
+    "wof:lastmodified":1694497841,
     "wof:name":"Tarariras",
     "wof:parent_id":85680347,
     "wof:placetype":"county",

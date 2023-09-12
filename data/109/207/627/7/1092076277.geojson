@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001192,
-    "geom:area_square_m":12084175.183266,
+    "geom:area_square_m":12084251.661462,
     "geom:bbox":"-56.222932,-34.938107,-56.159875,-34.886942",
     "geom:latitude":-34.904894,
     "geom:longitude":-56.183656,
     "iso:country":"UY",
+    "label:eng_x_preferred_longname":[
+        "Municipio B"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-34.902921,
     "lbl:longitude":-56.184125,
     "lbl:max_zoom":10.0,
@@ -25,6 +31,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Municipio B"
+    ],
     "name:fra_x_preferred":[
         "Munic\u00edpio B"
     ],
@@ -39,7 +48,7 @@
     "wof:concordances":{},
     "wof:country":"UY",
     "wof:created":1473899574,
-    "wof:geomhash":"84a02269e5a0e77a4816677106920789",
+    "wof:geomhash":"d0f54cdfe29e38f49771621c7695a82b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1092076277,
-    "wof:lastmodified":1627522967,
+    "wof:lastmodified":1694498068,
     "wof:name":"Municipio B",
     "wof:parent_id":85680339,
     "wof:placetype":"county",

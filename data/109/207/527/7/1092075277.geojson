@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051037,
-    "geom:area_square_m":544442690.705336,
+    "geom:area_square_m":544442690.705252,
     "geom:bbox":"-57.7902476141,-30.5520079522,-57.4109950607,-30.1769335622",
     "geom:latitude":-30.376685,
     "geom:longitude":-57.578224,
     "iso:country":"UY",
+    "label:eng_x_preferred_longname":[
+        "Bella Uni\u00f3n Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-30.41078,
     "lbl:longitude":-57.59681,
     "lbl:max_zoom":10.0,
@@ -35,6 +41,9 @@
         "Bella Uni\u00f3n"
     ],
     "name:deu_x_preferred":[
+        "Bella Uni\u00f3n"
+    ],
+    "name:eng_x_preferred":[
         "Bella Uni\u00f3n"
     ],
     "name:fas_x_preferred":[
@@ -90,7 +99,7 @@
     "wof:concordances":{},
     "wof:country":"UY",
     "wof:created":1473899522,
-    "wof:geomhash":"216b6d0bc3fb66eac3ab102ee38ef8b8",
+    "wof:geomhash":"b4df19a6cfd9ccab9390e14dfb29d0e9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":1092075277,
-    "wof:lastmodified":1566643102,
+    "wof:lastmodified":1694497840,
     "wof:name":"Bella Uni\u00f3n",
     "wof:parent_id":85680355,
     "wof:placetype":"county",

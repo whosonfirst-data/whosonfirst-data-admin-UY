@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.237304,
-    "geom:area_square_m":2488998502.01654,
+    "geom:area_square_m":2488998502.017123,
     "geom:bbox":"-57.0833394744,-32.302659719,-56.2334159919,-31.7395382642",
     "geom:latitude":-31.979242,
     "geom:longitude":-56.594919,
     "iso:country":"UY",
+    "label:eng_x_preferred_longname":[
+        "Tambores Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-32.025214,
     "lbl:longitude":-56.483696,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
         "Tambores"
     ],
     "name:deu_x_preferred":[
+        "Tambores"
+    ],
+    "name:eng_x_preferred":[
         "Tambores"
     ],
     "name:fra_x_preferred":[
@@ -60,7 +69,7 @@
     "wof:concordances":{},
     "wof:country":"UY",
     "wof:created":1473899606,
-    "wof:geomhash":"ecd90d38a2511a0f3f951c39aec74daf",
+    "wof:geomhash":"63cdf77bf7b5466e5d8d664c50fe2a6b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":1092076703,
-    "wof:lastmodified":1566643109,
+    "wof:lastmodified":1694497841,
     "wof:name":"Tambores",
     "wof:parent_id":85680363,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051815,
-    "geom:area_square_m":526923812.381892,
+    "geom:area_square_m":526923711.824404,
     "geom:bbox":"-55.762795,-34.78765,-55.402394,-34.545339",
     "geom:latitude":-34.6724,
     "geom:longitude":-55.593416,
     "iso:country":"UY",
+    "label:eng_x_preferred_longname":[
+        "Soca Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-34.671394,
     "lbl:longitude":-55.590011,
     "lbl:max_zoom":10.0,
@@ -34,6 +40,9 @@
     "name:deu_x_preferred":[
         "Soca"
     ],
+    "name:eng_x_preferred":[
+        "Soca"
+    ],
     "name:fra_x_preferred":[
         "Soca"
     ],
@@ -54,7 +63,7 @@
     "wof:concordances":{},
     "wof:country":"UY",
     "wof:created":1473899547,
-    "wof:geomhash":"ccdf6499fae8eae3bdf7a50483ea7f35",
+    "wof:geomhash":"15c748c5bc98595d68f046349e5529ca",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":1092075681,
-    "wof:lastmodified":1627522969,
+    "wof:lastmodified":1694498069,
     "wof:name":"Soca",
     "wof:parent_id":85680321,
     "wof:placetype":"county",
