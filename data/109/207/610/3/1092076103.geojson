@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012107,
-    "geom:area_square_m":123077359.125374,
+    "geom:area_square_m":123077359.125364,
     "geom:bbox":"-55.8464185351,-34.781923666,-55.7042236334,-34.6069092491",
     "geom:latitude":-34.701348,
     "geom:longitude":-55.775178,
     "iso:country":"UY",
+    "label:eng_x_preferred_longname":[
+        "Atl\u00e1ntida Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-34.715623,
     "lbl:longitude":-55.775202,
     "lbl:max_zoom":10.0,
@@ -32,6 +38,9 @@
         "Atl\u00e1ntida"
     ],
     "name:deu_x_preferred":[
+        "Atl\u00e1ntida"
+    ],
+    "name:eng_x_preferred":[
         "Atl\u00e1ntida"
     ],
     "name:fra_x_preferred":[
@@ -75,7 +84,7 @@
     "wof:concordances":{},
     "wof:country":"UY",
     "wof:created":1473899564,
-    "wof:geomhash":"802c91f0f61d7a898dd7b743a2924d83",
+    "wof:geomhash":"97b5537a3600e76feaa0980f6ee3d5f3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":1092076103,
-    "wof:lastmodified":1566643093,
+    "wof:lastmodified":1694497839,
     "wof:name":"Atl\u00e1ntida",
     "wof:parent_id":85680321,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0078,
-    "geom:area_square_m":79338197.798211,
+    "geom:area_square_m":79338228.138144,
     "geom:bbox":"-56.322117,-34.693178,-56.172054,-34.610244",
     "geom:latitude":-34.653607,
     "geom:longitude":-56.242247,
     "iso:country":"UY",
+    "label:eng_x_preferred_longname":[
+        "Progreso Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-34.657694,
     "lbl:longitude":-56.243655,
     "lbl:max_zoom":10.0,
@@ -32,6 +38,9 @@
         "Progreso"
     ],
     "name:deu_x_preferred":[
+        "Progreso"
+    ],
+    "name:eng_x_preferred":[
         "Progreso"
     ],
     "name:epo_x_preferred":[
@@ -87,7 +96,7 @@
     "wof:concordances":{},
     "wof:country":"UY",
     "wof:created":1473899600,
-    "wof:geomhash":"19fc61f336431b2abf1724e89989cd82",
+    "wof:geomhash":"ce1c33a72162419ffbef4a3013329f60",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":1092076595,
-    "wof:lastmodified":1636500005,
+    "wof:lastmodified":1694498104,
     "wof:name":"Progreso",
     "wof:parent_id":85680321,
     "wof:placetype":"county",

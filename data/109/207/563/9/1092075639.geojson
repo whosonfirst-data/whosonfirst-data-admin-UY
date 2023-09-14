@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031654,
-    "geom:area_square_m":322648264.192278,
+    "geom:area_square_m":322648264.192344,
     "geom:bbox":"-55.7765095947,-34.5976771545,-55.5290424071,-34.3552480377",
     "geom:latitude":-34.47972,
     "geom:longitude":-55.634808,
     "iso:country":"UY",
+    "label:eng_x_preferred_longname":[
+        "Migues Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-34.454343,
     "lbl:longitude":-55.657197,
     "lbl:max_zoom":10.0,
@@ -35,6 +41,9 @@
         "Migues"
     ],
     "name:deu_x_preferred":[
+        "Migues"
+    ],
+    "name:eng_x_preferred":[
         "Migues"
     ],
     "name:fra_x_preferred":[
@@ -69,7 +78,7 @@
     "wof:concordances":{},
     "wof:country":"UY",
     "wof:created":1473899544,
-    "wof:geomhash":"ed3b1ba480e1435d3fc4fe7d79c0de5d",
+    "wof:geomhash":"a1aae5101e783a13832bfdd834c05726",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":1092075639,
-    "wof:lastmodified":1566643105,
+    "wof:lastmodified":1694497841,
     "wof:name":"Migues",
     "wof:parent_id":85680321,
     "wof:placetype":"county",

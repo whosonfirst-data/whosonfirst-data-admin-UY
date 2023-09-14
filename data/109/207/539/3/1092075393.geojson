@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.066733,
-    "geom:area_square_m":694408194.40151,
+    "geom:area_square_m":694408194.620489,
     "geom:bbox":"-56.683573,-32.866619,-56.330371,-32.537315",
     "geom:latitude":-32.697775,
     "geom:longitude":-56.501929,
     "iso:country":"UY",
+    "label:eng_x_preferred_longname":[
+        "Paso de los Toros Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-32.690655,
     "lbl:longitude":-56.489904,
     "lbl:max_zoom":10.0,
@@ -25,6 +31,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Paso de los Toros"
+    ],
     "name:fas_x_preferred":[
         "\u067e\u0627\u0633\u0648 \u062f \u0644\u0648\u0633\u200c\u062a\u0631\u0648\u0633"
     ],
@@ -54,7 +63,7 @@
     "wof:concordances":{},
     "wof:country":"UY",
     "wof:created":1473899529,
-    "wof:geomhash":"d3e4461bf50588459edcaa03701873c7",
+    "wof:geomhash":"46040f945000be68e3a3340438a860ee",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":1092075393,
-    "wof:lastmodified":1636500006,
+    "wof:lastmodified":1694498104,
     "wof:name":"Paso de los Toros",
     "wof:parent_id":85680311,
     "wof:placetype":"county",

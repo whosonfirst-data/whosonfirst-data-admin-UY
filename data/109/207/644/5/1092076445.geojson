@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002989,
-    "geom:area_square_m":30375436.085545,
+    "geom:area_square_m":30375371.536043,
     "geom:bbox":"-56.158779,-34.763957,-56.055791,-34.691245",
     "geom:latitude":-34.726198,
     "geom:longitude":-56.093716,
     "iso:country":"UY",
+    "label:eng_x_preferred_longname":[
+        "Toledo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-34.731873,
     "lbl:longitude":-56.105791,
     "lbl:max_zoom":10.0,
@@ -50,6 +56,9 @@
         "Toledo"
     ],
     "name:deu_x_preferred":[
+        "Toledo"
+    ],
+    "name:eng_x_preferred":[
         "Toledo"
     ],
     "name:epo_x_preferred":[
@@ -177,7 +186,7 @@
     "wof:concordances":{},
     "wof:country":"UY",
     "wof:created":1473899588,
-    "wof:geomhash":"c9b8f90231d4e25542f0c543e1b66bad",
+    "wof:geomhash":"c4ff7639bdf326e0281687fcc2c27590",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -187,7 +196,7 @@
         }
     ],
     "wof:id":1092076445,
-    "wof:lastmodified":1636500004,
+    "wof:lastmodified":1694498103,
     "wof:name":"Toledo",
     "wof:parent_id":85680321,
     "wof:placetype":"county",

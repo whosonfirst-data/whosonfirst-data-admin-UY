@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014388,
-    "geom:area_square_m":146228964.699072,
+    "geom:area_square_m":146228964.699184,
     "geom:bbox":"-56.5645144522,-34.7844773868,-56.3417255503,-34.6467421271",
     "geom:latitude":-34.725544,
     "geom:longitude":-56.446245,
     "iso:country":"UY",
+    "label:eng_x_preferred_longname":[
+        "Ciudad del Plata Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-34.722075,
     "lbl:longitude":-56.444231,
     "lbl:max_zoom":10.0,
@@ -32,6 +38,9 @@
         "Ciudad del Plata"
     ],
     "name:deu_x_preferred":[
+        "Ciudad del Plata"
+    ],
+    "name:eng_x_preferred":[
         "Ciudad del Plata"
     ],
     "name:fas_x_preferred":[
@@ -84,7 +93,7 @@
     "wof:concordances":{},
     "wof:country":"UY",
     "wof:created":1473899555,
-    "wof:geomhash":"fe669cc9d7a61cb98592dcbec56bdc02",
+    "wof:geomhash":"9b98ce7aeb6c01f5cf2cd7714bbbd3ae",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":1092075877,
-    "wof:lastmodified":1566643103,
+    "wof:lastmodified":1694497840,
     "wof:name":"Ciudad del Plata",
     "wof:parent_id":85680349,
     "wof:placetype":"county",

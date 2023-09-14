@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":17.112499,
-    "geom:area_square_m":177836679438.616882,
+    "geom:area_square_m":177836679438.614014,
     "geom:bbox":"-58.4393,-34.97625,-53.077756,-30.085215",
     "geom:latitude":-32.79565,
     "geom:longitude":-56.017681,
@@ -14,6 +14,9 @@
     "iso:country":"UY",
     "itu:country_code":[
         "598"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "UY"
@@ -1162,7 +1165,8 @@
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"598",
     "statoids:ds":"ROU",
     "statoids:fifa":"URU",
@@ -1220,7 +1224,7 @@
         "naturalearth",
         "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"a48d30d20ec77ac93d342bb7f49c31f2",
+    "wof:geomhash":"2a083db0f4d984e40716fb2a100aa56c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -1234,12 +1238,12 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690893295,
+    "wof:lastmodified":1694639523,
     "wof:name":"Uruguay",
     "wof:parent_id":102191577,
     "wof:placetype":"country",
-    "wof:population":3407062,
-    "wof:population_rank":12,
+    "wof:population":3461734,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-uy",
     "wof:shortcode":"UY",
     "wof:superseded_by":[],

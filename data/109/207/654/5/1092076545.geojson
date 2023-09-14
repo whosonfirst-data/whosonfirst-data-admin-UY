@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004989,
-    "geom:area_square_m":50717879.763216,
+    "geom:area_square_m":50717855.327609,
     "geom:bbox":"-56.300661,-34.748591,-56.130409,-34.670234",
     "geom:latitude":-34.703727,
     "geom:longitude":-56.200801,
     "iso:country":"UY",
+    "label:eng_x_preferred_longname":[
+        "Las Piedras Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-34.698127,
     "lbl:longitude":-56.16422,
     "lbl:max_zoom":10.0,
@@ -35,6 +41,9 @@
         "Las Piedras"
     ],
     "name:deu_x_preferred":[
+        "Las Piedras"
+    ],
+    "name:eng_x_preferred":[
         "Las Piedras"
     ],
     "name:fra_x_preferred":[
@@ -84,7 +93,7 @@
     "wof:concordances":{},
     "wof:country":"UY",
     "wof:created":1473899596,
-    "wof:geomhash":"3e9ddfef506e4d9ca473f3fc60632835",
+    "wof:geomhash":"d74acec3c8ad6632cac16f1748612cb8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":1092076545,
-    "wof:lastmodified":1627522966,
+    "wof:lastmodified":1694498068,
     "wof:name":"Las Piedras",
     "wof:parent_id":85680321,
     "wof:placetype":"county",

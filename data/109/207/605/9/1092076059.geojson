@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01091,
-    "geom:area_square_m":110967803.533476,
+    "geom:area_square_m":110967803.533465,
     "geom:bbox":"-55.9490764341,-34.7127158147,-55.8008256186,-34.5946292564",
     "geom:latitude":-34.65565,
     "geom:longitude":-55.877287,
     "iso:country":"UY",
+    "label:eng_x_preferred_longname":[
+        "Empalme Olmos Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-34.659548,
     "lbl:longitude":-55.87868,
     "lbl:max_zoom":10.0,
@@ -35,6 +41,9 @@
         "Empalme Olmos"
     ],
     "name:deu_x_preferred":[
+        "Empalme Olmos"
+    ],
+    "name:eng_x_preferred":[
         "Empalme Olmos"
     ],
     "name:fra_x_preferred":[
@@ -69,7 +78,7 @@
     "wof:concordances":{},
     "wof:country":"UY",
     "wof:created":1473899563,
-    "wof:geomhash":"618e11eba56e8cf4d74e6420df0d9511",
+    "wof:geomhash":"a5ed9d0e63a94009c3a21ae49957cebf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":1092076059,
-    "wof:lastmodified":1566643095,
+    "wof:lastmodified":1694497839,
     "wof:name":"Empalme Olmos",
     "wof:parent_id":85680321,
     "wof:placetype":"county",

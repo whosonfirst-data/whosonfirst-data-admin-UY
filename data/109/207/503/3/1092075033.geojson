@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049319,
-    "geom:area_square_m":518326389.190542,
+    "geom:area_square_m":518326389.190562,
     "geom:bbox":"-54.7582315918,-31.9116872761,-54.4548741999,-31.6581980059",
     "geom:latitude":-31.795106,
     "geom:longitude":-54.603158,
     "iso:country":"UY",
+    "label:eng_x_preferred_longname":[
+        "Vichadero Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-31.793743,
     "lbl:longitude":-54.603155,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
         "Vichadero"
     ],
     "name:deu_x_preferred":[
+        "Vichadero"
+    ],
+    "name:eng_x_preferred":[
         "Vichadero"
     ],
     "name:fra_x_preferred":[
@@ -66,7 +75,7 @@
     "wof:concordances":{},
     "wof:country":"UY",
     "wof:created":1473899512,
-    "wof:geomhash":"c8d1dd736354bae8253a92be4557f77d",
+    "wof:geomhash":"c1920496f9ad80c27c309c079ed5486e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -76,7 +85,7 @@
         }
     ],
     "wof:id":1092075033,
-    "wof:lastmodified":1566643090,
+    "wof:lastmodified":1694497839,
     "wof:name":"Vichadero",
     "wof:parent_id":85680307,
     "wof:placetype":"county",

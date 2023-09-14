@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.098621,
-    "geom:area_square_m":1035260176.710505,
+    "geom:area_square_m":1035260520.348409,
     "geom:bbox":"-58.19465,-32.060261,-57.543092,-31.755004",
     "geom:latitude":-31.902828,
     "geom:longitude":-57.910381,
     "iso:country":"UY",
+    "label:eng_x_preferred_longname":[
+        "Quebracho Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-31.914696,
     "lbl:longitude":-58.023804,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
         "Quebracho"
     ],
     "name:deu_x_preferred":[
+        "Quebracho"
+    ],
+    "name:eng_x_preferred":[
         "Quebracho"
     ],
     "name:fra_x_preferred":[
@@ -60,7 +69,7 @@
     "wof:concordances":{},
     "wof:country":"UY",
     "wof:created":1473899603,
-    "wof:geomhash":"de6684e250f70d7a0753bc03fb7c65b6",
+    "wof:geomhash":"5944fadf28ed51ade4bd90d3e1ca1ff3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":1092076637,
-    "wof:lastmodified":1642551777,
+    "wof:lastmodified":1694498181,
     "wof:name":"Quebracho",
     "wof:parent_id":85680363,
     "wof:placetype":"county",

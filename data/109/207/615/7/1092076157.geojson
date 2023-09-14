@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019839,
-    "geom:area_square_m":202121797.975284,
+    "geom:area_square_m":202122029.971396,
     "geom:bbox":"-56.18919,-34.595294,-55.922184,-34.450494",
     "geom:latitude":-34.517131,
     "geom:longitude":-56.058885,
     "iso:country":"UY",
+    "label:eng_x_preferred_longname":[
+        "Santa Rosa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-34.520941,
     "lbl:longitude":-56.058964,
     "lbl:max_zoom":10.0,
@@ -35,6 +41,9 @@
         "Santa Rosa"
     ],
     "name:deu_x_preferred":[
+        "Santa Rosa"
+    ],
+    "name:eng_x_preferred":[
         "Santa Rosa"
     ],
     "name:epo_x_preferred":[
@@ -141,7 +150,7 @@
     "wof:concordances":{},
     "wof:country":"UY",
     "wof:created":1473899567,
-    "wof:geomhash":"bf33d0dc7cdfb01c3f29715217de73fc",
+    "wof:geomhash":"d98337e91c825cbb90dd00b37cd4ed19",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -151,7 +160,7 @@
         }
     ],
     "wof:id":1092076157,
-    "wof:lastmodified":1636500007,
+    "wof:lastmodified":1694498104,
     "wof:name":"Santa Rosa",
     "wof:parent_id":85680321,
     "wof:placetype":"county",

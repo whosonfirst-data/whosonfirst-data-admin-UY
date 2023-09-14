@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003535,
-    "geom:area_square_m":35923222.284495,
+    "geom:area_square_m":35923184.113938,
     "geom:bbox":"-56.324292,-34.770088,-56.214408,-34.681279",
     "geom:latitude":-34.724575,
     "geom:longitude":-56.265156,
     "iso:country":"UY",
+    "label:eng_x_preferred_longname":[
+        "La Paz Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-34.722973,
     "lbl:longitude":-56.264325,
     "lbl:max_zoom":10.0,
@@ -90,6 +96,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039b\u03b1 \u03a0\u03b1\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "La Paz"
     ],
     "name:epo_x_preferred":[
         "La-Pazo"
@@ -387,7 +396,7 @@
     "wof:concordances":{},
     "wof:country":"UY",
     "wof:created":1473899617,
-    "wof:geomhash":"a45ece1468fef8f32d3b41ff7cdc396f",
+    "wof:geomhash":"18aa8e6f98d2e3d87722493ae9ae7e0c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -397,7 +406,7 @@
         }
     ],
     "wof:id":1092076891,
-    "wof:lastmodified":1636500005,
+    "wof:lastmodified":1694498104,
     "wof:name":"La Paz",
     "wof:parent_id":85680321,
     "wof:placetype":"county",

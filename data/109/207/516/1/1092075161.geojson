@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.229256,
-    "geom:area_square_m":2425087494.592151,
+    "geom:area_square_m":2425087494.591897,
     "geom:bbox":"-56.680866927,-31.5734809175,-56.0098885718,-30.8771704097",
     "geom:latitude":-31.187865,
     "geom:longitude":-56.331074,
     "iso:country":"UY",
+    "label:eng_x_preferred_longname":[
+        "Mataojo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-31.175234,
     "lbl:longitude":-56.353858,
     "lbl:max_zoom":10.0,
@@ -28,6 +34,9 @@
     "name:cat_x_preferred":[
         "Mataojo"
     ],
+    "name:eng_x_preferred":[
+        "Mataojo"
+    ],
     "name:fra_x_preferred":[
         "Mataojo"
     ],
@@ -42,7 +51,7 @@
     "wof:concordances":{},
     "wof:country":"UY",
     "wof:created":1473899517,
-    "wof:geomhash":"c5029c1de58eae0b8af464d19b0bafb2",
+    "wof:geomhash":"1a9809c1275a9be2e05f1f21caadcb0b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1092075161,
-    "wof:lastmodified":1566643102,
+    "wof:lastmodified":1694497840,
     "wof:name":"Mataojo",
     "wof:parent_id":85680289,
     "wof:placetype":"county",

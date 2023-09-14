@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017946,
-    "geom:area_square_m":182136407.365676,
+    "geom:area_square_m":182136442.851854,
     "geom:bbox":"-55.109512,-34.918897,-54.875098,-34.730028",
     "geom:latitude":-34.83743,
     "geom:longitude":-54.981903,
     "iso:country":"UY",
+    "label:eng_x_preferred_longname":[
+        "Maldonado Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-34.838557,
     "lbl:longitude":-54.980121,
     "lbl:max_zoom":10.0,
@@ -35,6 +41,9 @@
         "Maldonado"
     ],
     "name:deu_x_preferred":[
+        "Maldonado"
+    ],
+    "name:eng_x_preferred":[
         "Maldonado"
     ],
     "name:fra_x_preferred":[
@@ -81,7 +90,7 @@
     "wof:concordances":{},
     "wof:country":"UY",
     "wof:created":1473899550,
-    "wof:geomhash":"c1775a7096c1d95004af623e7ae5105e",
+    "wof:geomhash":"363c076579b485a4fec1a78d5302b6be",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":1092075757,
-    "wof:lastmodified":1636500006,
+    "wof:lastmodified":1694498104,
     "wof:name":"Maldonado",
     "wof:parent_id":85680335,
     "wof:placetype":"county",

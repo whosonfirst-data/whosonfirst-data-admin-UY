@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002456,
-    "geom:area_square_m":24939549.140009,
+    "geom:area_square_m":24939635.677426,
     "geom:bbox":"-56.052976,-34.832232,-55.976266,-34.778287",
     "geom:latitude":-34.804592,
     "geom:longitude":-56.013227,
     "iso:country":"UY",
+    "label:eng_x_preferred_longname":[
+        "Colonia Nicolich Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-34.80474,
     "lbl:longitude":-56.012491,
     "lbl:max_zoom":10.0,
@@ -35,6 +41,9 @@
         "Colonia Nicolich"
     ],
     "name:deu_x_preferred":[
+        "Colonia Nicolich"
+    ],
+    "name:eng_x_preferred":[
         "Colonia Nicolich"
     ],
     "name:fra_x_preferred":[
@@ -66,7 +75,7 @@
     "wof:concordances":{},
     "wof:country":"UY",
     "wof:created":1473899581,
-    "wof:geomhash":"cda5c96601d25204b8c7ad14f22de088",
+    "wof:geomhash":"53d3250bcd5ec85660c30c5880d1be2b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -76,7 +85,7 @@
         }
     ],
     "wof:id":1092076359,
-    "wof:lastmodified":1627522966,
+    "wof:lastmodified":1694498068,
     "wof:name":"Colonia Nicolich",
     "wof:parent_id":85680321,
     "wof:placetype":"county",

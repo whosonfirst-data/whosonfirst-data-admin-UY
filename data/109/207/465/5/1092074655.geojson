@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018254,
-    "geom:area_square_m":186218292.772094,
+    "geom:area_square_m":186218292.772095,
     "geom:bbox":"-56.0903710377,-34.5185572256,-55.8594680356,-34.3188391166",
     "geom:latitude":-34.408608,
     "geom:longitude":-55.950734,
     "iso:country":"UY",
+    "label:eng_x_preferred_longname":[
+        "San Bautista Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-34.421487,
     "lbl:longitude":-55.933277,
     "lbl:max_zoom":10.0,
@@ -32,6 +38,9 @@
         "San Bautista"
     ],
     "name:deu_x_preferred":[
+        "San Bautista"
+    ],
+    "name:eng_x_preferred":[
         "San Bautista"
     ],
     "name:fra_x_preferred":[
@@ -63,7 +72,7 @@
     "wof:concordances":{},
     "wof:country":"UY",
     "wof:created":1473899499,
-    "wof:geomhash":"9c31e37d1806a0ae8ecbe125c1f0aa10",
+    "wof:geomhash":"6a2aa1f4999c44718687b975e8448d4f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":1092074655,
-    "wof:lastmodified":1566643100,
+    "wof:lastmodified":1694497840,
     "wof:name":"San Bautista",
     "wof:parent_id":85680321,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025212,
-    "geom:area_square_m":256531084.466636,
+    "geom:area_square_m":256531103.42867,
     "geom:bbox":"-56.4942,-34.727659,-56.275601,-34.530717",
     "geom:latitude":-34.626275,
     "geom:longitude":-56.388891,
     "iso:country":"UY",
+    "label:eng_x_preferred_longname":[
+        "Los Cerrillos Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-34.640111,
     "lbl:longitude":-56.386813,
     "lbl:max_zoom":10.0,
@@ -26,6 +32,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
+        "Los Cerrillos"
+    ],
+    "name:eng_x_preferred":[
         "Los Cerrillos"
     ],
     "name:fra_x_preferred":[
@@ -48,7 +57,7 @@
     "wof:concordances":{},
     "wof:country":"UY",
     "wof:created":1473899593,
-    "wof:geomhash":"c14ef5a4f3b97b1f08815db936cd40bc",
+    "wof:geomhash":"e115c013882ad2e9d45cc0ff059345cb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1092076505,
-    "wof:lastmodified":1627522965,
+    "wof:lastmodified":1694498067,
     "wof:name":"Los Cerrillos",
     "wof:parent_id":85680321,
     "wof:placetype":"county",

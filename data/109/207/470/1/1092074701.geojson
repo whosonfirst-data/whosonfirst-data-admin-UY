@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019064,
-    "geom:area_square_m":194452475.202799,
+    "geom:area_square_m":194452475.202801,
     "geom:bbox":"-56.1879664016,-34.4935055265,-55.9778234033,-34.3537569688",
     "geom:latitude":-34.421454,
     "geom:longitude":-56.079081,
     "iso:country":"UY",
+    "label:eng_x_preferred_longname":[
+        "San Antonio Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-34.422291,
     "lbl:longitude":-56.070595,
     "lbl:max_zoom":10.0,
@@ -93,6 +99,9 @@
     ],
     "name:eml_x_preferred":[
         "Sant Ant\u00f3ni"
+    ],
+    "name:eng_x_preferred":[
+        "San Antonio"
     ],
     "name:epo_x_preferred":[
         "San Antonio"
@@ -366,7 +375,7 @@
     "wof:concordances":{},
     "wof:country":"UY",
     "wof:created":1473899500,
-    "wof:geomhash":"6316ded64b5f7d3ebcf2aae3b3012b9b",
+    "wof:geomhash":"0697485aee0a62dfc1627d8541dbf533",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -376,7 +385,7 @@
         }
     ],
     "wof:id":1092074701,
-    "wof:lastmodified":1566643094,
+    "wof:lastmodified":1694497839,
     "wof:name":"San Antonio",
     "wof:parent_id":85680321,
     "wof:placetype":"county",

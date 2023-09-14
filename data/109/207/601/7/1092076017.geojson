@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03106,
-    "geom:area_square_m":316394035.343955,
+    "geom:area_square_m":316394035.344012,
     "geom:bbox":"-55.9347154755,-34.6264640559,-55.7001898555,-34.4482878245",
     "geom:latitude":-34.53189,
     "geom:longitude":-55.821265,
     "iso:country":"UY",
+    "label:eng_x_preferred_longname":[
+        "San Jacinto Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-34.533398,
     "lbl:longitude":-55.823544,
     "lbl:max_zoom":10.0,
@@ -32,6 +38,9 @@
         "San Jacinto"
     ],
     "name:deu_x_preferred":[
+        "San Jacinto"
+    ],
+    "name:eng_x_preferred":[
         "San Jacinto"
     ],
     "name:fas_x_preferred":[
@@ -87,7 +96,7 @@
     "wof:concordances":{},
     "wof:country":"UY",
     "wof:created":1473899561,
-    "wof:geomhash":"8371c929b87ff640001e352e929a272f",
+    "wof:geomhash":"9bbfbb63c77031c0f4117350fba6981d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":1092076017,
-    "wof:lastmodified":1566643111,
+    "wof:lastmodified":1694497841,
     "wof:name":"San Jacinto",
     "wof:parent_id":85680321,
     "wof:placetype":"county",

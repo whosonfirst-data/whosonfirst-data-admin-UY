@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006566,
-    "geom:area_square_m":66891858.35768,
+    "geom:area_square_m":66891858.357684,
     "geom:bbox":"-56.4270515976,-34.5775842088,-56.3038131465,-34.4842566865",
     "geom:latitude":-34.529229,
     "geom:longitude":-56.362489,
     "iso:country":"UY",
+    "label:eng_x_preferred_longname":[
+        "Aguas Corrientes Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-34.527797,
     "lbl:longitude":-56.363408,
     "lbl:max_zoom":10.0,
@@ -35,6 +41,9 @@
         "Aguas Corrientes"
     ],
     "name:deu_x_preferred":[
+        "Aguas Corrientes"
+    ],
+    "name:eng_x_preferred":[
         "Aguas Corrientes"
     ],
     "name:fas_x_preferred":[
@@ -72,7 +81,7 @@
     "wof:concordances":{},
     "wof:country":"UY",
     "wof:created":1473899554,
-    "wof:geomhash":"7762b90d5dab93e013ebe0fd770e8e73",
+    "wof:geomhash":"36046d9149a8793680080294d6d3dab8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":1092075837,
-    "wof:lastmodified":1566643114,
+    "wof:lastmodified":1694497842,
     "wof:name":"Aguas Corrientes",
     "wof:parent_id":85680321,
     "wof:placetype":"county",

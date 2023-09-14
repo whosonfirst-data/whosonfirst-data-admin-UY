@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023393,
-    "geom:area_square_m":239058783.0187,
+    "geom:area_square_m":239058783.018901,
     "geom:bbox":"-57.4155908102,-34.355654813,-57.0906432161,-34.1679469194",
     "geom:latitude":-34.263257,
     "geom:longitude":-57.249511,
     "iso:country":"UY",
+    "label:eng_x_preferred_longname":[
+        "Nueva Helvecia Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-34.259709,
     "lbl:longitude":-57.233423,
     "lbl:max_zoom":10.0,
@@ -32,6 +38,9 @@
         "Nueva Helvecia"
     ],
     "name:deu_x_preferred":[
+        "Nueva Helvecia"
+    ],
+    "name:eng_x_preferred":[
         "Nueva Helvecia"
     ],
     "name:fas_x_preferred":[
@@ -84,7 +93,7 @@
     "wof:concordances":{},
     "wof:country":"UY",
     "wof:created":1473899533,
-    "wof:geomhash":"dc7308f7a0442a91aa672b6b87e577ec",
+    "wof:geomhash":"7cd730f68f14500e501578485578330e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":1092075419,
-    "wof:lastmodified":1566643114,
+    "wof:lastmodified":1694497842,
     "wof:name":"Nueva Helvecia",
     "wof:parent_id":85680347,
     "wof:placetype":"county",

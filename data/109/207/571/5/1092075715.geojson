@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00561,
-    "geom:area_square_m":56985744.084422,
+    "geom:area_square_m":56985846.436295,
     "geom:bbox":"-55.709403,-34.79908,-55.393317,-34.727309",
     "geom:latitude":-34.770754,
     "geom:longitude":-55.564898,
     "iso:country":"UY",
+    "label:eng_x_preferred_longname":[
+        "La Floresta Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-34.763693,
     "lbl:longitude":-55.633024,
     "lbl:max_zoom":10.0,
@@ -32,6 +38,9 @@
         "La Floresta"
     ],
     "name:deu_x_preferred":[
+        "La Floresta"
+    ],
+    "name:eng_x_preferred":[
         "La Floresta"
     ],
     "name:eus_x_preferred":[
@@ -63,7 +72,7 @@
     "wof:concordances":{},
     "wof:country":"UY",
     "wof:created":1473899549,
-    "wof:geomhash":"54a10436ea8b5f9d3012bf76f868be0f",
+    "wof:geomhash":"b17d81e2a287508088ede27855ab3341",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":1092075715,
-    "wof:lastmodified":1642551802,
+    "wof:lastmodified":1694498182,
     "wof:name":"La Floresta",
     "wof:parent_id":85680321,
     "wof:placetype":"county",

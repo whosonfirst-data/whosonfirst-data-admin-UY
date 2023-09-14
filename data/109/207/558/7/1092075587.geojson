@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00368,
-    "geom:area_square_m":37312734.868891,
+    "geom:area_square_m":37312684.930384,
     "geom:bbox":"-55.006769,-34.974054,-54.864983,-34.886993",
     "geom:latitude":-34.921634,
     "geom:longitude":-54.939998,
     "iso:country":"UY",
+    "label:eng_x_preferred_longname":[
+        "Punta del Este Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-34.933128,
     "lbl:longitude":-54.93298,
     "lbl:max_zoom":10.0,
@@ -51,6 +57,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a0\u03bf\u03cd\u03bd\u03c4\u03b1 \u03bd\u03c4\u03b5\u03bb \u0388\u03c3\u03c4\u03b5"
+    ],
+    "name:eng_x_preferred":[
+        "Punta del Este"
     ],
     "name:epo_x_preferred":[
         "Punta del Este"
@@ -165,7 +174,7 @@
     "wof:concordances":{},
     "wof:country":"UY",
     "wof:created":1473899541,
-    "wof:geomhash":"443bed79ded8e8680f9a28813e7f0e6e",
+    "wof:geomhash":"8cd406193d74aecba02b8da8f0eb3fe9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -175,7 +184,7 @@
         }
     ],
     "wof:id":1092075587,
-    "wof:lastmodified":1636500004,
+    "wof:lastmodified":1694498103,
     "wof:name":"Punta del Este",
     "wof:parent_id":85680335,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036448,
-    "geom:area_square_m":384228366.878798,
+    "geom:area_square_m":384228230.615198,
     "geom:bbox":"-55.607001,-31.661028,-55.369191,-31.391515",
     "geom:latitude":-31.5119,
     "geom:longitude":-55.499002,
     "iso:country":"UY",
+    "label:eng_x_preferred_longname":[
+        "Minas de Corrales Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-31.504295,
     "lbl:longitude":-55.49892,
     "lbl:max_zoom":10.0,
@@ -25,6 +31,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Minas de Corrales"
+    ],
     "name:fra_x_preferred":[
         "Minas de Corrales"
     ],
@@ -45,7 +54,7 @@
     "wof:concordances":{},
     "wof:country":"UY",
     "wof:created":1473899514,
-    "wof:geomhash":"de864b166535e8d2e897bd59a716a2e0",
+    "wof:geomhash":"0c078a6e9afb13cad98c707eb5a791b7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1092075069,
-    "wof:lastmodified":1642551729,
+    "wof:lastmodified":1694498180,
     "wof:name":"Minas de Corrales",
     "wof:parent_id":85680307,
     "wof:placetype":"county",

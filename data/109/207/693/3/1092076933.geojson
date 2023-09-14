@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029736,
-    "geom:area_square_m":302587722.164015,
+    "geom:area_square_m":302587722.163989,
     "geom:bbox":"-56.1946757652,-34.7206965016,-55.9238577992,-34.528815773",
     "geom:latitude":-34.618904,
     "geom:longitude":-56.065127,
     "iso:country":"UY",
+    "label:eng_x_preferred_longname":[
+        "Sauce Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-34.624399,
     "lbl:longitude":-56.065116,
     "lbl:max_zoom":10.0,
@@ -59,6 +65,9 @@
         "Sovs"
     ],
     "name:deu_x_preferred":[
+        "Sauce"
+    ],
+    "name:eng_x_preferred":[
         "Sauce"
     ],
     "name:epo_x_preferred":[
@@ -225,7 +234,7 @@
     "wof:concordances":{},
     "wof:country":"UY",
     "wof:created":1473899619,
-    "wof:geomhash":"6c65cfdb3e59579c87c6f9d4a11b0e7d",
+    "wof:geomhash":"37d74779ddf23e81283976c3c05b12d4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -235,7 +244,7 @@
         }
     ],
     "wof:id":1092076933,
-    "wof:lastmodified":1566643096,
+    "wof:lastmodified":1694497840,
     "wof:name":"Sauce",
     "wof:parent_id":85680321,
     "wof:placetype":"county",

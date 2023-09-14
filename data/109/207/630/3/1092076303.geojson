@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001758,
-    "geom:area_square_m":17832359.887744,
+    "geom:area_square_m":17832341.534663,
     "geom:bbox":"-56.225449,-34.890649,-56.151219,-34.846423",
     "geom:latitude":-34.870694,
     "geom:longitude":-56.187215,
     "iso:country":"UY",
+    "label:eng_x_preferred_longname":[
+        "Municipio C"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-34.869951,
     "lbl:longitude":-56.18777,
     "lbl:max_zoom":10.0,
@@ -25,6 +31,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Municipio C"
+    ],
     "name:fra_x_preferred":[
         "Munic\u00edpio C"
     ],
@@ -39,7 +48,7 @@
     "wof:concordances":{},
     "wof:country":"UY",
     "wof:created":1473899575,
-    "wof:geomhash":"e44b08bc92c8147c3287522ac9eac737",
+    "wof:geomhash":"dcc00a6d89e9eaf5a56f49235b7766da",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1092076303,
-    "wof:lastmodified":1627522967,
+    "wof:lastmodified":1694498068,
     "wof:name":"Municipio C",
     "wof:parent_id":85680339,
     "wof:placetype":"county",

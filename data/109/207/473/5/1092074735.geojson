@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016681,
-    "geom:area_square_m":171242335.763799,
+    "geom:area_square_m":171242335.763811,
     "geom:bbox":"-58.4220588766,-33.9493429885,-58.227610299,-33.7999309348",
     "geom:latitude":-33.88058,
     "geom:longitude":-58.322833,
     "iso:country":"UY",
+    "label:eng_x_preferred_longname":[
+        "Nueva Palmira Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-33.880725,
     "lbl:longitude":-58.313298,
     "lbl:max_zoom":10.0,
@@ -32,6 +38,9 @@
         "Nueva Palmira"
     ],
     "name:deu_x_preferred":[
+        "Nueva Palmira"
+    ],
+    "name:eng_x_preferred":[
         "Nueva Palmira"
     ],
     "name:fas_x_preferred":[
@@ -81,7 +90,7 @@
     "wof:concordances":{},
     "wof:country":"UY",
     "wof:created":1473899502,
-    "wof:geomhash":"98e986e80b763c766a3693e7b077a32f",
+    "wof:geomhash":"9cca768e08ac5006b9eb3d2cb55b9f00",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":1092074735,
-    "wof:lastmodified":1566643108,
+    "wof:lastmodified":1694497841,
     "wof:name":"Nueva Palmira",
     "wof:parent_id":85680347,
     "wof:placetype":"county",
