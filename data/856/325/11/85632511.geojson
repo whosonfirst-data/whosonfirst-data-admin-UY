@@ -1204,6 +1204,7 @@
         "hasc:id":"UY",
         "icao:code":"CX",
         "ioc:id":"URU",
+        "iso:code":"UY",
         "itu:id":"URG",
         "loc:id":"n50000647",
         "m49:code":"858",
@@ -1218,6 +1219,7 @@
         "wk:page":"Uruguay",
         "wmo:id":"UY"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UY",
     "wof:country_alpha3":"URY",
     "wof:geom_alt":[
@@ -1238,7 +1240,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1694639523,
+    "wof:lastmodified":1695881179,
     "wof:name":"Uruguay",
     "wof:parent_id":102191577,
     "wof:placetype":"country",
