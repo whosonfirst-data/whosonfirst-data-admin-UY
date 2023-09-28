@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.523868,
-    "geom:area_square_m":15957995967.486538,
+    "geom:area_square_m":15957997993.947502,
     "geom:bbox":"-56.666794,-32.861095,-54.654514,-31.256076",
     "geom:latitude":-32.122801,
     "geom:longitude":-55.777651,
@@ -321,14 +321,16 @@
         "gn:id":3440033,
         "gp:id":2347657,
         "hasc:id":"UY.TA",
+        "iso:code":"UY-TA",
         "iso:id":"UY-TA",
         "qs_pg:id":1285583,
         "unlc:id":"UY-TA",
         "wd:id":"Q16587",
         "wk:page":"Tacuaremb\u00f3 Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UY",
-    "wof:geomhash":"a75b39cdbea23303464c88d113221dbc",
+    "wof:geomhash":"5d59bef801ab92234675db3b6cd6fa01",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -343,7 +345,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690893291,
+    "wof:lastmodified":1695884326,
     "wof:name":"Tacuaremb\u00f3",
     "wof:parent_id":85632511,
     "wof:placetype":"region",

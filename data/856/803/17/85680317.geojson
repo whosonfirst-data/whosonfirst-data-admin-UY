@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.926003,
-    "geom:area_square_m":9596258500.470236,
+    "geom:area_square_m":9596258257.315407,
     "geom:bbox":"-55.148385,-33.465347,-53.182836,-32.705084",
     "geom:latitude":-33.060936,
     "geom:longitude":-54.250471,
@@ -312,14 +312,16 @@
         "gn:id":3439780,
         "gp:id":2347658,
         "hasc:id":"UY.TT",
+        "iso:code":"UY-TT",
         "iso:id":"UY-TT",
         "qs_pg:id":895012,
         "unlc:id":"UY-TT",
         "wd:id":"Q16610",
         "wk:page":"Treinta y Tres Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UY",
-    "wof:geomhash":"a3ca01664930754016468f3262a6de96",
+    "wof:geomhash":"21992f8cb23c39e93af3e4dfd4891afd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -334,7 +336,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690893291,
+    "wof:lastmodified":1695884857,
     "wof:name":"Treinta y Tres",
     "wof:parent_id":85632511,
     "wof:placetype":"region",

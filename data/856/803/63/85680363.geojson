@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.342656,
-    "geom:area_square_m":14066555519.89341,
+    "geom:area_square_m":14066553462.838837,
     "geom:bbox":"-58.202618,-32.614288,-56.244856,-31.47043",
     "geom:latitude":-32.083262,
     "geom:longitude":-57.345083,
@@ -316,14 +316,16 @@
         "gn:id":3441242,
         "gp:id":2347650,
         "hasc:id":"UY.PA",
+        "iso:code":"UY-PA",
         "iso:id":"UY-PA",
         "qs_pg:id":235653,
         "unlc:id":"UY-PA",
         "wd:id":"Q16576",
         "wk:page":"Paysand\u00fa Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UY",
-    "wof:geomhash":"a6ed3581545b2fcfc83a154cc32ee3bf",
+    "wof:geomhash":"abf62cd9dea15ee1250a0a1b8e64fce1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -338,7 +340,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690893293,
+    "wof:lastmodified":1695884327,
     "wof:name":"Paysand\u00fa",
     "wof:parent_id":85632511,
     "wof:placetype":"region",

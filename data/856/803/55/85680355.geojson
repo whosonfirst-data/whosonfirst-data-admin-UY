@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.146372,
-    "geom:area_square_m":12198265859.072678,
+    "geom:area_square_m":12198264999.924007,
     "geom:bbox":"-57.889769,-31.078723,-55.988955,-30.09687",
     "geom:latitude":-30.62219,
     "geom:longitude":-56.968816,
@@ -327,14 +327,16 @@
         "gn:id":3443756,
         "gp:id":2347640,
         "hasc:id":"UY.AR",
+        "iso:code":"UY-AR",
         "iso:id":"UY-AR",
         "qs_pg:id":9281,
         "unlc:id":"UY-AR",
         "wd:id":"Q16603",
         "wk:page":"Artigas Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UY",
-    "wof:geomhash":"f6644355ed46848effd561b3f1b98f9a",
+    "wof:geomhash":"1c2d048f8280e2960f8df463a494c039",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -349,7 +351,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690893293,
+    "wof:lastmodified":1695884857,
     "wof:name":"Artigas",
     "wof:parent_id":85632511,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.605119,
-    "geom:area_square_m":6193401162.192667,
+    "geom:area_square_m":6193401196.885736,
     "geom:bbox":"-58.415617,-34.475109,-56.94179,-33.77799",
     "geom:latitude":-34.13356,
     "geom:longitude":-57.649022,
@@ -332,14 +332,16 @@
         "gn:id":3443025,
         "gp:id":2347643,
         "hasc:id":"UY.CO",
+        "iso:code":"UY-CO",
         "iso:id":"UY-CO",
         "qs_pg:id":221189,
         "unlc:id":"UY-CO",
         "wd:id":"Q16580",
         "wk:page":"Colonia Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UY",
-    "wof:geomhash":"32373911adf20e539559b1a85631e7a5",
+    "wof:geomhash":"3a583c956d8b597198d6240d1ef1b2f0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -354,7 +356,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690893293,
+    "wof:lastmodified":1695884327,
     "wof:name":"Colonia",
     "wof:parent_id":85632511,
     "wof:placetype":"region",

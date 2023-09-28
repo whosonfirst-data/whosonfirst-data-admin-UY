@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.014791,
-    "geom:area_square_m":10429624139.656784,
+    "geom:area_square_m":10429622704.235718,
     "geom:bbox":"-56.532978,-34.432988,-55.091076,-33.118237",
     "geom:latitude":-33.779524,
     "geom:longitude":-55.857539,
@@ -312,14 +312,16 @@
         "gn:id":3442584,
         "gp:id":2347646,
         "hasc:id":"UY.FD",
+        "iso:code":"UY-FD",
         "iso:id":"UY-FD",
         "qs_pg:id":424135,
         "unlc:id":"UY-FD",
         "wd:id":"Q16593",
         "wk:page":"Florida Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UY",
-    "wof:geomhash":"4af0b338077cc79507c7266f06daebc6",
+    "wof:geomhash":"83a2ee381befed51805f50c342335ead",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -334,7 +336,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690893294,
+    "wof:lastmodified":1695884857,
     "wof:name":"Florida",
     "wof:parent_id":85632511,
     "wof:placetype":"region",

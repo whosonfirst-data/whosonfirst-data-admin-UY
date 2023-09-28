@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.356067,
-    "geom:area_square_m":14322468087.518755,
+    "geom:area_square_m":14322467181.248188,
     "geom:bbox":"-58.075236,-31.871336,-56.009874,-30.752231",
     "geom:latitude":-31.332916,
     "geom:longitude":-57.027904,
@@ -311,14 +311,16 @@
         "gn:id":3440711,
         "gp:id":2347654,
         "hasc:id":"UY.SA",
+        "iso:code":"UY-SA",
         "iso:id":"UY-SA",
         "qs_pg:id":235654,
         "unlc:id":"UY-SA",
         "wd:id":"Q16595",
         "wk:page":"Salto Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UY",
-    "wof:geomhash":"046dbaecd5075cc84ce738bbe0882f47",
+    "wof:geomhash":"84f8c547bdf6ffd7056907c04b3c25a8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -333,7 +335,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690893294,
+    "wof:lastmodified":1695884327,
     "wof:name":"Salto",
     "wof:parent_id":85632511,
     "wof:placetype":"region",

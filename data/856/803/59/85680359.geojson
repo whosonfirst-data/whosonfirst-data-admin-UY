@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.497981,
-    "geom:area_square_m":5130194665.261138,
+    "geom:area_square_m":5130193394.812341,
     "geom:bbox":"-57.347993,-33.988364,-56.42177,-33.123094",
     "geom:latitude":-33.576976,
     "geom:longitude":-56.887499,
@@ -311,14 +311,16 @@
         "gn:id":3442587,
         "gp:id":2347645,
         "hasc:id":"UY.FS",
+        "iso:code":"UY-FS",
         "iso:id":"UY-FS",
         "qs_pg:id":479628,
         "unlc:id":"UY-FS",
         "wd:id":"Q16578",
         "wk:page":"Flores Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UY",
-    "wof:geomhash":"5b7131f906695d3042fc58646d1cde74",
+    "wof:geomhash":"717ec0b25ffd0b5f68c3c72e128eb9e6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -333,7 +335,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690893290,
+    "wof:lastmodified":1695884857,
     "wof:name":"Flores",
     "wof:parent_id":85632511,
     "wof:placetype":"region",
