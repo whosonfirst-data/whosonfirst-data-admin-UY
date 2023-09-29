@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.158666,
-    "geom:area_square_m":12011362548.254562,
+    "geom:area_square_m":12011363044.713459,
     "geom:bbox":"-57.179037,-33.497077,-55.00997,-32.427323",
     "geom:latitude":-33.031356,
     "geom:longitude":-56.016523,
@@ -311,14 +311,16 @@
         "gn:id":3442720,
         "gp:id":2347644,
         "hasc:id":"UY.DU",
+        "iso:code":"UY-DU",
         "iso:id":"UY-DU",
         "qs_pg:id":319195,
         "unlc:id":"UY-DU",
         "wd:id":"Q16591",
         "wk:page":"Durazno Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UY",
-    "wof:geomhash":"69961d22966830f7e04508b77971fb18",
+    "wof:geomhash":"bd8339e3173d67df9b324108ee7be5f8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -333,7 +335,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690893290,
+    "wof:lastmodified":1695884857,
     "wof:name":"Durazno",
     "wof:parent_id":85632511,
     "wof:placetype":"region",

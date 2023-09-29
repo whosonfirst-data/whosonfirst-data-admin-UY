@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.47287,
-    "geom:area_square_m":4814880262.019632,
+    "geom:area_square_m":4814882267.329317,
     "geom:bbox":"-55.473275,-34.973403,-54.460882,-33.926043",
     "geom:latitude":-34.566689,
     "geom:longitude":-54.852985,
@@ -314,14 +314,16 @@
         "gn:id":3441890,
         "gp:id":2347648,
         "hasc:id":"UY.MA",
+        "iso:code":"UY-MA",
         "iso:id":"UY-MA",
         "qs_pg:id":424136,
         "unlc:id":"UY-MA",
         "wd:id":"Q331196",
         "wk:page":"Maldonado Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UY",
-    "wof:geomhash":"37cf3315a76a5892c3d172e308d3ed72",
+    "wof:geomhash":"1824cb5acc963ba2ed13a7cb7d06afd3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -336,7 +338,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690893290,
+    "wof:lastmodified":1695884857,
     "wof:name":"Maldonado",
     "wof:parent_id":85632511,
     "wof:placetype":"region",

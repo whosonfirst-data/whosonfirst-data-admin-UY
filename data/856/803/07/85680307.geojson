@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.889494,
-    "geom:area_square_m":9379551291.903786,
+    "geom:area_square_m":9379552897.489681,
     "geom:bbox":"-56.188219,-32.122845,-54.467221,-30.843388",
     "geom:latitude":-31.483485,
     "geom:longitude":-55.260218,
@@ -308,14 +308,16 @@
         "gn:id":3440780,
         "gp:id":2347652,
         "hasc:id":"UY.RV",
+        "iso:code":"UY-RV",
         "iso:id":"UY-RV",
         "qs_pg:id":1285581,
         "unlc:id":"UY-RV",
         "wd:id":"Q16609",
         "wk:page":"Rivera Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UY",
-    "wof:geomhash":"c65a774559e2e9f3f5219f42865a6dc4",
+    "wof:geomhash":"77ab27abf5cce30f71d7da5513065b00",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -330,7 +332,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690893292,
+    "wof:lastmodified":1695884326,
     "wof:name":"Rivera",
     "wof:parent_id":85632511,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.324336,
-    "geom:area_square_m":13819939894.842175,
+    "geom:area_square_m":13819940110.858807,
     "geom:bbox":"-55.344808,-33.024961,-53.110836,-31.664237",
     "geom:latitude":-32.441466,
     "geom:longitude":-54.336476,
@@ -320,14 +320,16 @@
         "gn:id":3443173,
         "gp:id":2347642,
         "hasc:id":"UY.CL",
+        "iso:code":"UY-CL",
         "iso:id":"UY-CL",
         "qs_pg:id":427344,
         "unlc:id":"UY-CL",
         "wd:id":"Q16575",
         "wk:page":"Cerro Largo Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UY",
-    "wof:geomhash":"66a6646a5e8c2a34db630de0a388f370",
+    "wof:geomhash":"22c9e67496c0ec957a3d383fcf2e0f08",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -342,7 +344,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690893294,
+    "wof:lastmodified":1695884857,
     "wof:name":"Cerro Largo",
     "wof:parent_id":85632511,
     "wof:placetype":"region",

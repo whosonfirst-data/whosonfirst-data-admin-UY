@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.98896,
-    "geom:area_square_m":10146851130.7444,
+    "geom:area_square_m":10146850617.258808,
     "geom:bbox":"-55.619106,-34.621917,-54.125709,-33.336983",
     "geom:latitude":-33.92458,
     "geom:longitude":-54.971614,
@@ -313,14 +313,16 @@
         "gn:id":3442007,
         "gp:id":2347647,
         "hasc:id":"UY.LA",
+        "iso:code":"UY-LA",
         "iso:id":"UY-LA",
         "qs_pg:id":235652,
         "unlc:id":"UY-LA",
         "wd:id":"Q460435",
         "wk:page":"Lavalleja Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UY",
-    "wof:geomhash":"2b79dc4492b91cffb199702c52bb3d81",
+    "wof:geomhash":"42627db245cbe6b33d9bd90bd71f6b67",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -335,7 +337,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690893291,
+    "wof:lastmodified":1695884857,
     "wof:name":"Lavalleja",
     "wof:parent_id":85632511,
     "wof:placetype":"region",

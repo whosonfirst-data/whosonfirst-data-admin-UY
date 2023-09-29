@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.448884,
-    "geom:area_square_m":4571925237.939023,
+    "geom:area_square_m":4571925818.490479,
     "geom:bbox":"-56.471922,-34.885804,-55.373764,-34.207731",
     "geom:latitude":-34.543853,
     "geom:longitude":-55.920984,
@@ -317,14 +317,16 @@
         "gn:id":3443411,
         "gp:id":2347641,
         "hasc:id":"UY.CA",
+        "iso:code":"UY-CA",
         "iso:id":"UY-CA",
         "qs_pg:id":1114957,
         "unlc:id":"UY-CA",
         "wd:id":"Q16577",
         "wk:page":"Canelones Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UY",
-    "wof:geomhash":"1dd9f9ed312d6fec09341e42ab28311a",
+    "wof:geomhash":"932fabd9ca6cd5ede62a2e38d3f361a4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -339,7 +341,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690893292,
+    "wof:lastmodified":1695884857,
     "wof:name":"Canelones",
     "wof:parent_id":85632511,
     "wof:placetype":"region",

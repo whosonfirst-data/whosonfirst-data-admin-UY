@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.481331,
-    "geom:area_square_m":4915662086.318113,
+    "geom:area_square_m":4915663988.170509,
     "geom:bbox":"-57.167478,-34.793535,-56.354229,-33.849716",
     "geom:latitude":-34.317727,
     "geom:longitude":-56.718176,
@@ -339,14 +339,16 @@
         "gn:id":3440645,
         "gp:id":2347655,
         "hasc:id":"UY.SJ",
+        "iso:code":"UY-SJ",
         "iso:id":"UY-SJ",
         "qs_pg:id":235655,
         "unlc:id":"UY-SJ",
         "wd:id":"Q16579",
         "wk:page":"San Jos\u00e9 Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UY",
-    "wof:geomhash":"36755fd8adf78702e2c5376c541b68a9",
+    "wof:geomhash":"8b340b4ff9506d13d5332e3dd77d3c3d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -361,7 +363,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690893293,
+    "wof:lastmodified":1695884327,
     "wof:name":"San Jos\u00e9",
     "wof:parent_id":85632511,
     "wof:placetype":"region",

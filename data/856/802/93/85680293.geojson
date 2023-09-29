@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.876216,
-    "geom:area_square_m":9032834448.133883,
+    "geom:area_square_m":9032836987.966518,
     "geom:bbox":"-58.439361,-33.962991,-57.077725,-33.021395",
     "geom:latitude":-33.517932,
     "geom:longitude":-57.747346,
@@ -311,14 +311,16 @@
         "gn:id":3440054,
         "gp:id":2347656,
         "hasc:id":"UY.SO",
+        "iso:code":"UY-SO",
         "iso:id":"UY-SO",
         "qs_pg:id":1285582,
         "unlc:id":"UY-SO",
         "wd:id":"Q16584",
         "wk:page":"Soriano Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UY",
-    "wof:geomhash":"35997e8b57527615b6cf68f91008986c",
+    "wof:geomhash":"e9240eacaad1fafe336dc92e7806b3b5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -333,7 +335,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690893294,
+    "wof:lastmodified":1695884857,
     "wof:name":"Soriano",
     "wof:parent_id":85632511,
     "wof:placetype":"region",

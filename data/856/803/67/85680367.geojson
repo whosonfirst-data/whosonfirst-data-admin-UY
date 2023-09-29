@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.913144,
-    "geom:area_square_m":9492705374.880537,
+    "geom:area_square_m":9492705659.135841,
     "geom:bbox":"-58.418935,-33.424446,-56.559359,-32.363399",
     "geom:latitude":-32.78338,
     "geom:longitude":-57.426951,
@@ -313,14 +313,16 @@
         "gn:id":3440789,
         "gp:id":2347651,
         "hasc:id":"UY.RN",
+        "iso:code":"UY-RN",
         "iso:id":"UY-RN",
         "qs_pg:id":424137,
         "unlc:id":"UY-RN",
         "wd:id":"Q16596",
         "wk:page":"R\u00edo Negro Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UY",
-    "wof:geomhash":"31c344e429249427c63ee70dbf5aa2dd",
+    "wof:geomhash":"8f15ea085426035b9a76fc42fd44fe84",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -335,7 +337,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690893291,
+    "wof:lastmodified":1695884326,
     "wof:name":"R\u00edo Negro",
     "wof:parent_id":85632511,
     "wof:placetype":"region",

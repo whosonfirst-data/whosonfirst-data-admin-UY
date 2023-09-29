@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.056292,
-    "geom:area_square_m":10834227172.1108,
+    "geom:area_square_m":10834225992.421623,
     "geom:bbox":"-54.538164,-34.806899,-53.379095,-33.124979",
     "geom:latitude":-33.950937,
     "geom:longitude":-54.003912,
@@ -305,14 +305,16 @@
         "gn:id":3440771,
         "gp:id":2347653,
         "hasc:id":"UY.RO",
+        "iso:code":"UY-RO",
         "iso:id":"UY-RO",
         "qs_pg:id":319250,
         "unlc:id":"UY-RO",
         "wd:id":"Q16582",
         "wk:page":"Rocha Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UY",
-    "wof:geomhash":"78f749634e5eae650a3a0a214486ae7c",
+    "wof:geomhash":"54e3e585b930c00523bdfb03312b9e0f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -327,7 +329,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690893292,
+    "wof:lastmodified":1695884857,
     "wof:name":"Rocha",
     "wof:parent_id":85632511,
     "wof:placetype":"region",

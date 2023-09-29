@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053184,
-    "geom:area_square_m":539863129.565016,
+    "geom:area_square_m":539863567.285262,
     "geom:bbox":"-56.420766,-34.941188,-56.035876,-34.713436",
     "geom:latitude":-34.82215,
     "geom:longitude":-56.218756,
@@ -318,17 +318,19 @@
         "gn:id":3441572,
         "gp:id":2347649,
         "hasc:id":"UY.MO",
+        "iso:code":"UY-MO",
         "iso:id":"UY-MO",
         "qs_pg:id":222853,
         "unlc:id":"UY-MO",
         "wd:id":"Q16594",
         "wk:page":"Montevideo Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         890437681
     ],
     "wof:country":"UY",
-    "wof:geomhash":"627a312f6829e231832629393a493a0b",
+    "wof:geomhash":"8b10297f0602dee8d4233fb2b379e379",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -343,7 +345,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690893292,
+    "wof:lastmodified":1695884327,
     "wof:name":"Montevideo",
     "wof:parent_id":85632511,
     "wof:placetype":"region",
