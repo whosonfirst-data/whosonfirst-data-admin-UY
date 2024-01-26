@@ -71,7 +71,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":3443766
+        "gn:id":3443766,
+        "wk:page":"Ismael_Cortinas"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10098303
+        ]
     },
     "wof:country":"UY",
     "wof:geomhash":"4213a583925d5cdb9125e03f2c23688d",
@@ -84,13 +90,15 @@
         }
     ],
     "wof:id":1193270671,
-    "wof:lastmodified":1566643070,
+    "wof:lastmodified":1706241110,
     "wof:name":"Ismael Cortinas",
     "wof:parent_id":85680293,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-uy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1225808849
+    ],
     "wof:tags":[]
 },
   "bbox": [

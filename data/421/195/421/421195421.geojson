@@ -9,6 +9,20 @@
     "geom:bbox":"-54.12234,-34.59344,-54.12234,-34.59344",
     "geom:latitude":-34.59344,
     "geom:longitude":-54.12234,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"03",
+    "gn:asciiname":"La Pedrera",
+    "gn:country_code":"UY",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3442094,
+    "gn:latitude":-34.59211,
+    "gn:longitude":-54.12352,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"La Pedrera",
+    "gn:population":0,
+    "gn:timezone":"America/Montevideo",
     "iso:country":"UY",
     "lbl:bbox":"-54.14234,-34.61344,-54.10234,-34.57344",
     "lbl:max_zoom":18.0,
@@ -42,6 +56,12 @@
         "La Pedrera"
     ],
     "name:spa_x_preferred":[
+        "La Pedrera"
+    ],
+    "name:und_x_variant":[
+        "Punta Rubia",
+        "Balneario La Pedrera",
+        "Playa La Pedrera",
         "La Pedrera"
     ],
     "name:urd_x_preferred":[
@@ -83,6 +103,11 @@
         "wd:id":"Q1799011",
         "wk:page":"La Pedrera, Rocha"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3442094
+        ]
+    },
     "wof:country":"UY",
     "wof:created":1459009848,
     "wof:geomhash":"f38706a897e3307e953b41d855c72d22",
@@ -95,13 +120,15 @@
         }
     ],
     "wof:id":421195421,
-    "wof:lastmodified":1690893299,
+    "wof:lastmodified":1706241109,
     "wof:name":"La Pedrera",
     "wof:parent_id":85680343,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-uy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209598901
+    ],
     "wof:tags":[]
 },
   "bbox": [

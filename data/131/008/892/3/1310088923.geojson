@@ -63,7 +63,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":3443927
+        "gn:id":3443927,
+        "wk:page":"Aguas_Dulces"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7669259
+        ]
     },
     "wof:country":"UY",
     "wof:geomhash":"b659d87d4f694ddd9fd66526645548b3",
@@ -76,13 +82,15 @@
         }
     ],
     "wof:id":1310088923,
-    "wof:lastmodified":1566643077,
+    "wof:lastmodified":1706241110,
     "wof:name":"Aguas Dulces",
     "wof:parent_id":85680343,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-uy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360056461
+    ],
     "wof:tags":[]
 },
   "bbox": [

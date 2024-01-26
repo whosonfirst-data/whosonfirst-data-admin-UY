@@ -50,10 +50,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":3439671
+        "gn:id":3439671,
+        "wk:page":"Barra_de_Valizas"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8642827
+        ]
     },
     "wof:country":"UY",
-    "wof:geomhash":"1012e5a4530d90ba0f2279e92caf8f27",
+    "wof:geomhash":"28970f5869a93013d275ed3aebc8312b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -63,20 +69,22 @@
         }
     ],
     "wof:id":1193262005,
-    "wof:lastmodified":1566643070,
+    "wof:lastmodified":1706241109,
     "wof:name":"Barra de Valizas",
     "wof:parent_id":85680343,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-uy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1225828633
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -53.79581999999999,
+    -53.79582,
     -34.33611,
-    -53.79581999999999,
+    -53.79582,
     -34.33611
 ],
-  "geometry": {"coordinates":[-53.79581999999999,-34.33611],"type":"Point"}
+  "geometry": {"coordinates":[-53.79582,-34.33611],"type":"Point"}
 }
