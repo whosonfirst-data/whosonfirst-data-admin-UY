@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-54.12352,-34.59211,-54.12352,-34.59211",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Punta Rubia",
@@ -45,7 +47,7 @@
         "gn:id":3442094
     },
     "wof:country":"UY",
-    "wof:geomhash":"40442a548bcc73e06e34ab4078a90489",
+    "wof:geomhash":"c7fdf2545432a618cfea590611068005",
     "wof:hierarchy":[
         {
             "country_id":85632511,
@@ -53,20 +55,22 @@
         }
     ],
     "wof:id":1209598901,
-    "wof:lastmodified":1566643063,
+    "wof:lastmodified":1706241109,
     "wof:name":"La Pedrera",
     "wof:parent_id":85632511,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-uy",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        421195421
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -54.12351999999999,
+    -54.12352,
     -34.59211,
-    -54.12351999999999,
+    -54.12352,
     -34.59211
 ],
-  "geometry": {"coordinates":[-54.12351999999999,-34.59211],"type":"Point"}
+  "geometry": {"coordinates":[-54.12352,-34.59211],"type":"Point"}
 }
